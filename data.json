@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 9 de outubro de 2026",
-  "atualizado_em": "2026-10-09T14:12-03:00",
+  "atualizado_em": "2026-10-09T19:22-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -413,15 +413,15 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "138/140",
-            "vistos": 138,
+            "texto": "139/140",
+            "vistos": 139,
             "total": 140
           },
           "proximo": {
-            "texto": "13x07 - The Baddest Witch of Them All / título em português não divulgado (13x08 \"Hell No\" no mesmo lote)",
-            "codigo": "13x07",
-            "titulo_en": "The Baddest Witch of Them All",
-            "titulo_pt": "título em português não divulgado (13x08 \"Hell No\" no mesmo lote)",
+            "texto": "13x08 - Hell No / título em português não divulgado",
+            "codigo": "13x08",
+            "titulo_en": "Hell No",
+            "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
           "brasil": "T1 a T13 no Disney+; 13x07 e 13x08 já no ar desde hoje, à 1h"
