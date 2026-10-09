@@ -1,2 +1,1 @@
-# murilopossamaitres.github.io
-Filmes e Séries
+Séries e filmes do Murilo — atualizado automaticamente

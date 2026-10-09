@@ -1,0 +1,890 @@
+{
+  "titulo": "📺 Séries — sexta-feira, 9 de outubro de 2026",
+  "atualizado_em": "2026-10-09T14:12-03:00",
+  "secoes": {
+    "lancamentos": {
+      "titulo": "Lançamentos de hoje",
+      "emoji": "🎬",
+      "itens": [
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "episodios": "13x07 e 13x08",
+          "progresso": {
+            "texto": "8/13",
+            "vistos": 8,
+            "total": 13
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"The Baddest Witch of Them All\" / \"Hell No\")",
+          "transmissao": "FX (EUA), quinta-feira, 8 de outubro de 2026, às 22h e às 22h33",
+          "brasil": "Mesmo dia (madrugada): Disney+, hoje, à 1h (já no ar)",
+          "notas": [
+            "O final da temporada, 13x13, sai no FX na quinta-feira, 29 de outubro de 2026, e no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+          ]
+        },
+        {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "episodios": "1x01 a 1x03",
+          "progresso": {
+            "texto": "3/13",
+            "vistos": 3,
+            "total": 13
+          },
+          "transmissao": "Paramount+ (estreia global), hoje",
+          "brasil": "Mesmo dia: Paramount+ (horário não divulgado; já no ar)",
+          "notas": [
+            "Livro 1 tem 13 episódios em lotes: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026. Livro 2 (mais 13) sem data"
+          ]
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x04",
+          "progresso": {
+            "texto": "4/10",
+            "vistos": 4,
+            "total": 10
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"Blank Curtain\")",
+          "transmissao": "Paramount+, hoje às 4h",
+          "brasil": "Mesmo dia: Paramount+, às 4h",
+          "notas": [
+            "Semanal às sextas; o 2x05 (\"Birdland\") sai na sexta-feira, 16 de outubro de 2026; final da temporada na sexta-feira, 20 de novembro de 2026"
+          ]
+        }
+      ]
+    },
+    "novidades": {
+      "titulo": "Novidades de streaming no Brasil",
+      "emoji": "🆕",
+      "itens": [
+        {
+          "selo": "",
+          "data": "09/10",
+          "dia_semana": "sex",
+          "nome": "Avatar: Os Sete Refúgios",
+          "temporada": "T1",
+          "info": "Paramount+, 13 episódios (1 a 3 hoje, depois semanal em lotes)",
+          "texto": "09/10 (sex) - Avatar: Os Sete Refúgios - T1 - Paramount+, 13 episódios (1 a 3 hoje, depois semanal em lotes)"
+        },
+        {
+          "selo": "",
+          "data": "14/10",
+          "dia_semana": "qua",
+          "nome": "VisionQuest",
+          "temporada": "T1",
+          "info": "Disney+, 8 episódios (1 e 2 na estreia, depois semanal)",
+          "texto": "14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 na estreia, depois semanal)"
+        },
+        {
+          "selo": "",
+          "data": "15/10",
+          "dia_semana": "qui",
+          "nome": "Kill Jackie",
+          "temporada": "T1",
+          "info": "Globoplay, 8 episódios (horário e formato não divulgados)",
+          "texto": "15/10 (qui) - Kill Jackie - T1 - Globoplay, 8 episódios (horário e formato não divulgados)"
+        },
+        {
+          "selo": "",
+          "data": "16/10",
+          "dia_semana": "sex",
+          "nome": "Crystal Lake",
+          "temporada": "T1",
+          "info": "Universal+, 8 episódios (todos de uma vez)",
+          "texto": "16/10 (sex) - Crystal Lake - T1 - Universal+, 8 episódios (todos de uma vez)"
+        },
+        {
+          "selo": "🧊",
+          "data": "16/10",
+          "dia_semana": "sex",
+          "nome": "Tulsa King",
+          "temporada": "T4",
+          "info": "Paramount+, 10 episódios, semanal",
+          "texto": "🧊 16/10 (sex) - Tulsa King - T4 - Paramount+, 10 episódios, semanal"
+        },
+        {
+          "selo": "✏️",
+          "data": "20/10",
+          "dia_semana": "ter",
+          "nome": "Cyberpunk: Mercenários 2",
+          "temporada": "T2",
+          "info": "Netflix, 10 episódios (todos de uma vez)",
+          "texto": "✏️ 20/10 (ter) - Cyberpunk: Mercenários 2 - T2 - Netflix, 10 episódios (todos de uma vez)"
+        },
+        {
+          "selo": "",
+          "data": "30/10",
+          "dia_semana": "sex",
+          "nome": "Delegado",
+          "temporada": "T1",
+          "info": "Canal Brasil às 22h (semanal, 7 episódios); Globoplay Premium +1 dia",
+          "texto": "30/10 (sex) - Delegado - T1 - Canal Brasil às 22h (semanal, 7 episódios); Globoplay Premium +1 dia"
+        },
+        {
+          "selo": "",
+          "data": "04/11",
+          "dia_semana": "qua",
+          "nome": "Tudo É Justo",
+          "temporada": "T2",
+          "info": "Disney+, quantidade do 1º dia no Brasil não divulgada",
+          "texto": "04/11 (qua) - Tudo É Justo - T2 - Disney+, quantidade do 1º dia no Brasil não divulgada"
+        },
+        {
+          "selo": "🆕",
+          "data": "08/11",
+          "dia_semana": "dom",
+          "nome": "O Instituto",
+          "temporada": "T2",
+          "info": "MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira",
+          "texto": "🆕 08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira"
+        },
+        {
+          "selo": "",
+          "data": "11/11",
+          "dia_semana": "qua",
+          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+          "temporada": "T3",
+          "info": "Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)",
+          "texto": "11/11 (qua) - O Senhor dos Anéis: Os Anéis de Poder - T3 - Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)"
+        },
+        {
+          "selo": "",
+          "data": "20/11",
+          "dia_semana": "sex",
+          "nome": "Percy Jackson e os Olimpianos",
+          "temporada": "T3",
+          "info": "Disney+, 8 episódios (1 e 2 na estreia, depois semanal até 01/01/2027)",
+          "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (1 e 2 na estreia, depois semanal até 01/01/2027)"
+        },
+        {
+          "selo": "🆕",
+          "data": "13/01/2027",
+          "dia_semana": "qua",
+          "nome": "Seu Amigão da Vizinhança: Homem-Aranha",
+          "temporada": "T2",
+          "info": "Disney+, nº de episódios não divulgado (formato não divulgado; horário no Brasil n/d)",
+          "texto": "🆕 13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, nº de episódios não divulgado (formato não divulgado; horário no Brasil n/d)"
+        },
+        {
+          "selo": "",
+          "data": "20/01/2027",
+          "dia_semana": "qua",
+          "nome": "Ahsoka",
+          "temporada": "T2",
+          "info": "Disney+, horário e formato não divulgados",
+          "texto": "20/01/2027 (qua) - Ahsoka - T2 - Disney+, horário e formato não divulgados"
+        },
+        {
+          "selo": "",
+          "data": "22/01/2027",
+          "dia_semana": "sex",
+          "nome": "Neuromancer",
+          "temporada": "T1",
+          "info": "Apple TV, 10 episódios (2 na estreia, depois semanal)",
+          "texto": "22/01/2027 (sex) - Neuromancer - T1 - Apple TV, 10 episódios (2 na estreia, depois semanal)"
+        },
+        {
+          "selo": "🧊",
+          "data": "09/07/2027",
+          "dia_semana": "sex",
+          "nome": "Silo",
+          "temporada": "T4",
+          "info": "Apple TV, temporada final",
+          "texto": "🧊 09/07/2027 (sex) - Silo - T4 - Apple TV, temporada final"
+        }
+      ],
+      "sem_data": {
+        "titulo": "Ainda sem data no Brasil",
+        "itens": [
+          {
+            "nome": "9-1-1",
+            "info": "T10 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 21h (ABC)",
+            "texto": "9-1-1 - T10 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 21h (ABC)"
+          },
+          {
+            "nome": "9-1-1: Nashville",
+            "info": "T2 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 22h (ABC)",
+            "texto": "9-1-1: Nashville - T2 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 22h (ABC)"
+          },
+          {
+            "nome": "A Especialista (The Savant)",
+            "info": "T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)",
+            "texto": "A Especialista (The Savant) - T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)"
+          },
+          {
+            "nome": "A Série Pokémon: Horizontes",
+            "info": "fase nova, no ar no Japão desde sexta-feira, 22 de maio de 2026 (TV Tokyo); Netflix BR sem data (EUA: Parte 1 da 4ª temporada em sábado, 27 de fevereiro de 2027, só referência)",
+            "texto": "A Série Pokémon: Horizontes - fase nova, no ar no Japão desde sexta-feira, 22 de maio de 2026 (TV Tokyo); Netflix BR sem data (EUA: Parte 1 da 4ª temporada em sábado, 27 de fevereiro de 2027, só referência)"
+          },
+          {
+            "nome": "Doc",
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai na terça-feira, 13 de outubro de 2026, às 22h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai na terça-feira, 13 de outubro de 2026, às 22h"
+          },
+          {
+            "nome": "Fire Country",
+            "info": "T5, no ar nos EUA desde hoje, sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde hoje, sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil"
+          },
+          {
+            "nome": "Grey's Anatomy",
+            "info": "T23 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 23h (ABC); no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23 🔜 EUA: quinta-feira, 15 de outubro de 2026, às 23h (ABC); no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+          },
+          {
+            "nome": "Line of Fire",
+            "info": "T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x04 sai na segunda-feira, 12 de outubro de 2026, às 23h; sem plataforma no Brasil",
+            "texto": "Line of Fire - T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x04 sai na segunda-feira, 12 de outubro de 2026, às 23h; sem plataforma no Brasil"
+          },
+          {
+            "nome": "Only Murders in the Building",
+            "info": "T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local",
+            "texto": "Only Murders in the Building - T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local"
+          },
+          {
+            "nome": "St. Denis Medical",
+            "info": "T3 🔜 EUA: segunda-feira, 2 de novembro de 2026 (NBC); a T2 está no Universal+",
+            "texto": "St. Denis Medical - T3 🔜 EUA: segunda-feira, 2 de novembro de 2026 (NBC); a T2 está no Universal+"
+          }
+        ]
+      }
+    },
+    "ativas_atrasadas": {
+      "titulo": "Ativas atrasadas",
+      "emoji": "⏳",
+      "itens": [
+        {
+          "nome": "9-1-1",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "64/142",
+            "vistos": 64,
+            "total": 142
+          },
+          "proximo": {
+            "texto": "5x05 - Peer Pressure / título em português não divulgado",
+            "codigo": "5x05",
+            "titulo_en": "Peer Pressure",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
+        },
+        {
+          "nome": "9-1-1: Nashville",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/18",
+            "vistos": 0,
+            "total": 18
+          },
+          "proximo": {
+            "texto": "1x01 - Pilot / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 no Disney+ (T2 estreia nos EUA na quinta-feira, 15 de outubro de 2026)"
+        },
+        {
+          "nome": "A Série Pokémon: Horizontes",
+          "nome_original": "Pokémon Horizons: The Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/152",
+            "vistos": 0,
+            "total": 152
+          },
+          "proximo": {
+            "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
+            "codigo": "1x01",
+            "titulo_en": "The Pendant That Starts It All (Part One)",
+            "titulo_pt": "O pingente que iniciou tudo – Parte 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco sem streaming no Brasil"
+        },
+        {
+          "nome": "Coven Academy",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/21",
+            "vistos": 9,
+            "total": 21
+          },
+          "proximo": {
+            "texto": "1x10 - Time Warp / Distorção Temporal",
+            "codigo": "1x10",
+            "titulo_en": "Time Warp",
+            "titulo_pt": "Distorção Temporal",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 completa no Disney+",
+          "notas": [
+            "2ª temporada não anunciada (nem renovada, nem cancelada)"
+          ]
+        },
+        {
+          "nome": "Doc",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "32/35",
+            "vistos": 32,
+            "total": 35
+          },
+          "proximo": {
+            "texto": "3x01 - Wherefore Art Thou / título em português não divulgado",
+            "codigo": "3x01",
+            "titulo_en": "Wherefore Art Thou",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil"
+        },
+        {
+          "nome": "Grey's Anatomy",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "448/466",
+            "vistos": 448,
+            "total": 466
+          },
+          "proximo": {
+            "texto": "22x01 - Only the Strong Survive / Só os fortes sobrevivem",
+            "codigo": "22x01",
+            "titulo_en": "Only the Strong Survive",
+            "titulo_pt": "Só os fortes sobrevivem",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 a T22 no Disney+ (T23 estreia nos EUA na quinta-feira, 15 de outubro de 2026)"
+        },
+        {
+          "nome": "Kill Jackie",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Burning Down the House / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Burning Down the House",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Globoplay na quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie"
+        },
+        {
+          "nome": "Line of Fire",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/3",
+            "vistos": 0,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x01 - Pilot / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil; o 1x04 sai nos EUA na segunda-feira, 12 de outubro de 2026, às 23h (NBC)"
+        }
+      ]
+    },
+    "episodio_recente": {
+      "titulo": "Episódio recente",
+      "emoji": "📺",
+      "itens": [
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "138/140",
+            "vistos": 138,
+            "total": 140
+          },
+          "proximo": {
+            "texto": "13x07 - The Baddest Witch of Them All / título em português não divulgado (13x08 \"Hell No\" no mesmo lote)",
+            "codigo": "13x07",
+            "titulo_en": "The Baddest Witch of Them All",
+            "titulo_pt": "título em português não divulgado (13x08 \"Hell No\" no mesmo lote)",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 a T13 no Disney+; 13x07 e 13x08 já no ar desde hoje, à 1h"
+        },
+        {
+          "nome": "Carrie, a Estranha",
+          "nome_original": "Carrie",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - First Period / Primeiro Período",
+            "codigo": "1x01",
+            "titulo_en": "First Period",
+            "titulo_pt": "Primeiro Período",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 completa no Prime Video",
+          "notas": [
+            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
+          ]
+        },
+        {
+          "nome": "Vampirina: Uma Vampirinha Adolescente",
+          "nome_original": "Vampirina: Teenage Vampire",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/22",
+            "vistos": 16,
+            "total": 22
+          },
+          "proximo": {
+            "texto": "2x01 - On Second Thought, Bro / título em português não divulgado",
+            "codigo": "2x01",
+            "titulo_en": "On Second Thought, Bro",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
+          "notas": [
+            "No Banco a ordem da T2 diverge da oficial do Disney+; o primeiro a ver no app é \"Second to Breathe\" (Banco 2x04)"
+          ]
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/3",
+            "vistos": 0,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x01 a 1x03",
+            "codigo": "1x01 a 1x03",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "rotulo": "hoje"
+          },
+          "transmissao": "Paramount+ (estreia global)",
+          "brasil": "Paramount+, hoje (horário não divulgado; já no ar)"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "status": "🟢",
+          "progresso": {
+            "texto": "13/14",
+            "vistos": 13,
+            "total": 14
+          },
+          "proximo": {
+            "texto": "2x04 - Blank Curtain / título em português não divulgado",
+            "codigo": "2x04",
+            "titulo_en": "Blank Curtain",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje"
+          },
+          "transmissao": "Paramount+, às 4h",
+          "brasil": "Paramount+, às 4h"
+        }
+      ]
+    },
+    "finalizadas_atrasadas": {
+      "titulo": "Finalizadas atrasadas",
+      "emoji": "⏳",
+      "itens": [
+        {
+          "nome": "9-1-1: Lone Star",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "28/72",
+            "vistos": 28,
+            "total": 72
+          },
+          "proximo": {
+            "texto": "3x05 - Child Care / Paternidade",
+            "codigo": "3x05",
+            "titulo_en": "Child Care",
+            "titulo_pt": "Paternidade",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 a T5 no Disney+"
+        },
+        {
+          "nome": "A Lenda de Korra",
+          "nome_original": "The Legend of Korra",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/52",
+            "vistos": 0,
+            "total": 52
+          },
+          "proximo": {
+            "texto": "1x01 - Welcome to Republic City / Bem-vinda à Cidade República",
+            "codigo": "1x01",
+            "titulo_en": "Welcome to Republic City",
+            "titulo_pt": "Bem-vinda à Cidade República",
+            "rotulo": "próximo"
+          },
+          "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)"
+        },
+        {
+          "nome": "Coldwater",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/6",
+            "vistos": 0,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x01 - Episode 1 / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil"
+        },
+        {
+          "nome": "Mila no Multiverso",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/16",
+            "vistos": 8,
+            "total": 16
+          },
+          "proximo": {
+            "texto": "2x01 - título em inglês não divulgado / Em que Universo Você Tá Agora?",
+            "codigo": "2x01",
+            "titulo_en": "título em inglês não divulgado",
+            "titulo_pt": "Em que Universo Você Tá Agora?",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 no Disney+; T2 sem streaming no Brasil"
+        },
+        {
+          "nome": "Pokémon",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "939/1231",
+            "vistos": 939,
+            "total": 1231
+          },
+          "proximo": {
+            "texto": "20x03 - Loading the Dex! / Carregando o Dex!",
+            "codigo": "20x03",
+            "titulo_en": "Loading the Dex!",
+            "titulo_pt": "Carregando o Dex!",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)"
+        },
+        {
+          "nome": "Ponies",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Second Hand News / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Second Hand News",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
+        },
+        {
+          "nome": "The Copenhagen Test",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Copenhagen / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Copenhagen",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming por assinatura no Brasil · cancelada após 1 temporada"
+        }
+      ]
+    },
+    "filmes": {
+      "titulo": "Filmes",
+      "emoji": "🎞️",
+      "itens": [
+        {
+          "titulo": "Verity",
+          "titulo_original": "Verity",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema, depois aluguel/compra e streaming",
+            "notas": []
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 1 de outubro de 2026 (oficial no Brasil; em cartaz)",
+            "notas": []
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [
+              "O TMDB mostra terça-feira, 27 de outubro de 2026, sem fonte oficial (não confirmado)"
+            ],
+            "linhas": [
+              {
+                "loja": "Prime Video (loja)",
+                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
+              },
+              {
+                "loja": "Apple TV",
+                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
+              },
+              {
+                "loja": "Claro tv+",
+                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "Prime Video",
+                "texto": "sem data (estimativa no Brasil, não anunciada: entre dezembro de 2026 e janeiro de 2027; pode passar antes pelo MGM+)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Jogos Vorazes: Amanhecer na Colheita",
+          "titulo_original": "The Hunger Games: Sunrise on the Reaping",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema, depois aluguel/compra e streaming",
+            "notas": []
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 19 de novembro de 2026 (oficial no Brasil, Paris Filmes)",
+            "notas": [
+              "Pré-venda a partir de quinta-feira, 15 de outubro de 2026; pré-estreia na quarta-feira, 18 de novembro de 2026 (Ingresso.com)"
+            ]
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "Apple TV",
+                "texto": "sem data (estimativa no Brasil, não anunciada: janeiro de 2027)"
+              },
+              {
+                "loja": "Prime Video (loja)",
+                "texto": "sem data (estimativa no Brasil, não anunciada: janeiro de 2027)"
+              },
+              {
+                "loja": "Claro tv+",
+                "texto": "sem data (estimativa no Brasil, não anunciada: janeiro de 2027)"
+              },
+              {
+                "loja": "Google Play",
+                "texto": "sem data (estimativa no Brasil, não anunciada: janeiro de 2027)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": null,
+                "texto": "Plataforma e data não anunciadas (pelos filmes anteriores da Lionsgate no Brasil, o mais provável é o Prime Video, meses depois do cinema)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Batman: A Queda do Morcego - Parte 2",
+          "titulo_original": "Batman: Knightfall Part 2: Knightquest",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "direto no digital (aluguel/compra), depois streaming",
+            "notas": [
+              "Título em português ainda não oficial (vem do TMDB pt-BR)"
+            ]
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "não terá",
+            "notas": []
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [
+              "EUA: terça-feira, 8 de dezembro de 2026 (data de fora, só referência; só em agregadores, a Warner fala em \"fim de 2026\")"
+            ],
+            "linhas": [
+              {
+                "loja": "Apple TV",
+                "texto": "sem data (estimativa no Brasil, não anunciada: junto com os EUA ou poucas semanas depois)"
+              },
+              {
+                "loja": "Prime Video (loja)",
+                "texto": "sem data (estimativa no Brasil, não anunciada: junto com os EUA ou poucas semanas depois)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "HBO Max",
+                "texto": "sem data (provável, não anunciado; a Parte 1 ainda não está no HBO Max Brasil)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Batman: A Queda do Morcego - Parte 3",
+          "titulo_original": "Batman: Knightfall Part 3: KnightsEnd",
+          "ano": "2027",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "direto no digital (aluguel/compra), depois streaming",
+            "notas": [
+              "Título em português ainda não oficial (vem do TMDB pt-BR); o subtítulo original também é provisório"
+            ]
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "não terá",
+            "notas": []
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "Lojas brasileiras",
+                "texto": "sem data (EUA: início de 2027, data de fora, só referência)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "HBO Max",
+                "texto": "sem data (provável, não anunciado)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Nárnia: O Sobrinho do Mago",
+          "titulo_original": "Narnia: The Magician's Nephew",
+          "ano": "2027",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "original da Netflix, primeiro no cinema",
+            "notas": []
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 11 de fevereiro de 2027 (oficial no Brasil; Sony Pictures, inclusive IMAX)",
+            "notas": []
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": "não se aplica",
+            "notas": [],
+            "linhas": []
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "Netflix",
+                "texto": "sexta-feira, 2 de abril de 2027 (oficial; horário não divulgado)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
