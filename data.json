@@ -1,81 +1,24 @@
 {
-  "titulo": "📺 Séries — sexta-feira, 9 de outubro de 2026",
-  "atualizado_em": "2026-10-09T19:35-03:00",
+  "titulo": "📺 Séries — sábado, 10 de outubro de 2026",
+  "atualizado_em": "2026-10-10T07:36-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "episodios": "13x07 e 13x08",
-          "progresso": {
-            "texto": "8/13",
-            "vistos": 8,
-            "total": 13
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"The Baddest Witch of Them All\" / \"Hell No\")",
-          "transmissao": "FX (EUA), quinta-feira, 8 de outubro de 2026, às 22h e às 22h33",
-          "brasil": "Mesmo dia (madrugada): Disney+, hoje, à 1h (já no ar)",
-          "notas": [
-            "O final da temporada, 13x13, sai no FX na quinta-feira, 29 de outubro de 2026, e no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
-          ]
-        },
-        {
-          "nome": "Avatar: Os Sete Refúgios",
-          "nome_original": "Avatar: Seven Havens",
-          "episodios": "1x01 a 1x03",
-          "progresso": {
-            "texto": "3/13",
-            "vistos": 3,
-            "total": 13
-          },
-          "transmissao": "Paramount+ (estreia global), hoje",
-          "brasil": "Mesmo dia: Paramount+ (horário não divulgado; já no ar)",
-          "notas": [
-            "Livro 1 tem 13 episódios em lotes: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026. Livro 2 (mais 13) sem data"
-          ]
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "episodios": "2x04",
-          "progresso": {
-            "texto": "4/10",
-            "vistos": 4,
-            "total": 10
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"Blank Curtain\")",
-          "transmissao": "Paramount+, hoje às 4h",
-          "brasil": "Mesmo dia: Paramount+, às 4h",
-          "notas": [
-            "Semanal às sextas; o 2x05 (\"Birdland\") sai na sexta-feira, 16 de outubro de 2026; final da temporada na sexta-feira, 20 de novembro de 2026"
-          ]
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
         {
-          "selo": "",
-          "data": "09/10",
-          "dia_semana": "sex",
-          "nome": "Avatar: Os Sete Refúgios",
-          "temporada": "T1",
-          "info": "Paramount+, 13 episódios (1 a 3 hoje, depois semanal em lotes)",
-          "texto": "09/10 (sex) - Avatar: Os Sete Refúgios - T1 - Paramount+, 13 episódios (1 a 3 hoje, depois semanal em lotes)"
-        },
-        {
-          "selo": "",
+          "selo": "✏️",
           "data": "14/10",
           "dia_semana": "qua",
           "nome": "VisionQuest",
           "temporada": "T1",
-          "info": "Disney+, 8 episódios (1 e 2 na estreia, depois semanal)",
-          "texto": "14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 na estreia, depois semanal)"
+          "info": "Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)",
+          "texto": "✏️ 14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)"
         },
         {
           "selo": "",
@@ -105,13 +48,13 @@
           "texto": "🧊 16/10 (sex) - Tulsa King - T4 - Paramount+, 10 episódios, semanal"
         },
         {
-          "selo": "✏️",
+          "selo": "",
           "data": "20/10",
           "dia_semana": "ter",
           "nome": "Cyberpunk: Mercenários 2",
           "temporada": "T2",
           "info": "Netflix, 10 episódios (todos de uma vez)",
-          "texto": "✏️ 20/10 (ter) - Cyberpunk: Mercenários 2 - T2 - Netflix, 10 episódios (todos de uma vez)"
+          "texto": "20/10 (ter) - Cyberpunk: Mercenários 2 - T2 - Netflix, 10 episódios (todos de uma vez)"
         },
         {
           "selo": "",
@@ -132,13 +75,13 @@
           "texto": "04/11 (qua) - Tudo É Justo - T2 - Disney+, quantidade do 1º dia no Brasil não divulgada"
         },
         {
-          "selo": "🆕",
+          "selo": "",
           "data": "08/11",
           "dia_semana": "dom",
           "nome": "O Instituto",
           "temporada": "T2",
           "info": "MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira",
-          "texto": "🆕 08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira"
+          "texto": "08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira"
         },
         {
           "selo": "",
@@ -164,8 +107,8 @@
           "dia_semana": "qua",
           "nome": "Seu Amigão da Vizinhança: Homem-Aranha",
           "temporada": "T2",
-          "info": "Disney+, nº de episódios não divulgado (formato não divulgado; horário no Brasil n/d)",
-          "texto": "🆕 13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, nº de episódios não divulgado (formato não divulgado; horário no Brasil n/d)"
+          "info": "Disney+, número de episódios e formato não divulgados",
+          "texto": "🆕 13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, número de episódios e formato não divulgados"
         },
         {
           "selo": "",
@@ -225,8 +168,8 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde hoje, sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde hoje, sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
@@ -409,22 +352,25 @@
       "emoji": "📺",
       "itens": [
         {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "status": "🟢",
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "status": "🔴",
           "progresso": {
-            "texto": "139/140",
-            "vistos": 139,
-            "total": 140
+            "texto": "0/3",
+            "vistos": 0,
+            "total": 3
           },
           "proximo": {
-            "texto": "13x08 - Hell No / título em português não divulgado",
-            "codigo": "13x08",
-            "titulo_en": "Hell No",
-            "titulo_pt": "título em português não divulgado",
+            "texto": "1x01 - On the Horizon / No horizonte",
+            "codigo": "1x01",
+            "titulo_en": "On the Horizon",
+            "titulo_pt": "No horizonte",
             "rotulo": "próximo"
           },
-          "brasil": "T1 a T13 no Disney+; 13x07 e 13x08 já no ar desde hoje, à 1h"
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
+          "notas": [
+            "Títulos pt-BR dos eps 1 a 3 não confirmados no Paramount+ (JustWatch BR: \"No horizonte\", \"Na tempestade\", \"A ordem\"). Livro 1: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
+          ]
         },
         {
           "nome": "Carrie, a Estranha",
@@ -445,6 +391,27 @@
           "brasil": "T1 completa no Prime Video",
           "notas": [
             "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
+          ]
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "status": "🟢",
+          "progresso": {
+            "texto": "13/14",
+            "vistos": 13,
+            "total": 14
+          },
+          "proximo": {
+            "texto": "2x04 - Blank Curtain / título em português não divulgado",
+            "codigo": "2x04",
+            "titulo_en": "Blank Curtain",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Paramount+ (2x04 no ar desde sexta-feira, 9 de outubro de 2026, às 4h)",
+          "notas": [
+            "Semanal às sextas; o 2x05 (\"Birdland\") sai na sexta-feira, 16 de outubro de 2026"
           ]
         },
         {
@@ -473,46 +440,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Avatar: Os Sete Refúgios",
-          "nome_original": "Avatar: Seven Havens",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/3",
-            "vistos": 0,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x01 a 1x03",
-            "codigo": "1x01 a 1x03",
-            "titulo_en": null,
-            "titulo_pt": null,
-            "rotulo": "hoje"
-          },
-          "transmissao": "Paramount+ (estreia global)",
-          "brasil": "Paramount+, hoje (horário não divulgado; já no ar)"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "13/14",
-            "vistos": 13,
-            "total": 14
-          },
-          "proximo": {
-            "texto": "2x04 - Blank Curtain / título em português não divulgado",
-            "codigo": "2x04",
-            "titulo_en": "Blank Curtain",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "hoje"
-          },
-          "transmissao": "Paramount+, às 4h",
-          "brasil": "Paramount+, às 4h"
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
