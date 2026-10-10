@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 10 de outubro de 2026",
-  "atualizado_em": "2026-10-10T07:36-03:00",
+  "atualizado_em": "2026-10-10T13:38-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -11,6 +11,15 @@
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
+        {
+          "selo": "🆕",
+          "data": "11/10",
+          "dia_semana": "dom",
+          "nome": "Dragon Ball Super: Beerus",
+          "temporada": "T1",
+          "info": "Crunchyroll, nº de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)",
+          "texto": "🆕 11/10 (dom) - Dragon Ball Super: Beerus - T1 - Crunchyroll, nº de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)"
+        },
         {
           "selo": "✏️",
           "data": "14/10",
