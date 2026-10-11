@@ -1,33 +1,82 @@
 {
-  "titulo": "📺 Séries — sábado, 10 de outubro de 2026",
-  "atualizado_em": "2026-10-10T13:38-03:00",
+  "titulo": "📺 Séries — domingo, 11 de outubro de 2026",
+  "atualizado_em": "2026-10-11T07:40-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "episodios": "1x01",
+          "progresso": {
+            "texto": "1/?",
+            "vistos": null,
+            "total": null
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"TBA\" no TVmaze)",
+          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
+          "brasil": "Mesmo dia: Crunchyroll (simulcast legendado; horário no Brasil não divulgado)",
+          "notas": [
+            "Refação ENHANCED de Dragon Ball Super; número de episódios não divulgado oficialmente; semanal aos domingos; Netflix BR a partir de sábado, 17 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "Overgeared",
+          "nome_original": null,
+          "episodios": "1x03",
+          "progresso": {
+            "texto": "3/12",
+            "vistos": 3,
+            "total": 12
+          },
+          "titulo_pt_nota": "Episódio 3 / Episódio 3",
+          "transmissao": "Crunchyroll, hoje às 11h30",
+          "brasil": "Mesmo dia: Crunchyroll, às 11h30 (legendado e dublado)",
+          "notas": [
+            "No Banco de Séries ainda aparece 2/2 em dia (o 1x03 ainda não entrou na contagem); o Banco marca as datas às sextas"
+          ]
+        },
+        {
+          "nome": "Youth",
+          "nome_original": null,
+          "episodios": "1x05",
+          "progresso": {
+            "texto": "5/8",
+            "vistos": 5,
+            "total": 8
+          },
+          "titulo_pt_nota": "The Holiday / título em português não divulgado",
+          "transmissao": "HBO (EUA), hoje às 23h",
+          "brasil": "Mesmo dia: HBO Max, hoje às 23h",
+          "notas": [
+            "Semanal aos domingos; o 1x06 (\"Desperate Measures\") sai no domingo, 18 de outubro de 2026; final da temporada no domingo, 1º de novembro de 2026"
+          ]
+        }
+      ]
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
         {
-          "selo": "🆕",
+          "selo": "",
           "data": "11/10",
           "dia_semana": "dom",
           "nome": "Dragon Ball Super: Beerus",
           "temporada": "T1",
-          "info": "Crunchyroll, nº de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)",
-          "texto": "🆕 11/10 (dom) - Dragon Ball Super: Beerus - T1 - Crunchyroll, nº de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)"
+          "info": "Crunchyroll, número de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)",
+          "texto": "11/10 (dom) - Dragon Ball Super: Beerus - T1 - Crunchyroll, número de episódios não divulgado (semanal aos domingos; Netflix BR a partir de 17/10)"
         },
         {
-          "selo": "✏️",
+          "selo": "",
           "data": "14/10",
           "dia_semana": "qua",
           "nome": "VisionQuest",
           "temporada": "T1",
           "info": "Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)",
-          "texto": "✏️ 14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)"
+          "texto": "14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)"
         },
         {
           "selo": "",
@@ -111,13 +160,13 @@
           "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (1 e 2 na estreia, depois semanal até 01/01/2027)"
         },
         {
-          "selo": "🆕",
+          "selo": "",
           "data": "13/01/2027",
           "dia_semana": "qua",
           "nome": "Seu Amigão da Vizinhança: Homem-Aranha",
           "temporada": "T2",
           "info": "Disney+, número de episódios e formato não divulgados",
-          "texto": "🆕 13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, número de episódios e formato não divulgados"
+          "texto": "13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, número de episódios e formato não divulgados"
         },
         {
           "selo": "",
@@ -353,6 +402,27 @@
             "rotulo": "próximo"
           },
           "brasil": "Sem streaming no Brasil; o 1x04 sai nos EUA na segunda-feira, 12 de outubro de 2026, às 23h (NBC)"
+        },
+        {
+          "nome": "Vampirina: Uma Vampirinha Adolescente",
+          "nome_original": "Vampirina: Teenage Vampire",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/22",
+            "vistos": 16,
+            "total": 22
+          },
+          "proximo": {
+            "texto": "2x01 - On Second Thought, Bro / título em português não divulgado",
+            "codigo": "2x01",
+            "titulo_en": "On Second Thought, Bro",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
+          "notas": [
+            "No Banco a ordem da T2 diverge da oficial do Disney+; o primeiro a ver no app é \"Second to Breathe\" (Banco 2x04)"
+          ]
         }
       ]
     },
@@ -422,34 +492,58 @@
           "notas": [
             "Semanal às sextas; o 2x05 (\"Birdland\") sai na sexta-feira, 16 de outubro de 2026"
           ]
-        },
-        {
-          "nome": "Vampirina: Uma Vampirinha Adolescente",
-          "nome_original": "Vampirina: Teenage Vampire",
-          "status": "🟢",
-          "progresso": {
-            "texto": "16/22",
-            "vistos": 16,
-            "total": 22
-          },
-          "proximo": {
-            "texto": "2x01 - On Second Thought, Bro / título em português não divulgado",
-            "codigo": "2x01",
-            "titulo_en": "On Second Thought, Bro",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo"
-          },
-          "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
-          "notas": [
-            "No Banco a ordem da T2 diverge da oficial do Disney+; o primeiro a ver no app é \"Second to Breathe\" (Banco 2x04)"
-          ]
         }
       ]
     },
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1",
+            "vistos": 0,
+            "total": 1
+          },
+          "proximo": {
+            "texto": "1x01 - TBA / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "TBA",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje"
+          },
+          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
+          "brasil": "Crunchyroll (horário no Brasil não divulgado)",
+          "notas": [
+            "Netflix BR a partir de sábado, 17 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "Youth",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "4/5",
+            "vistos": 4,
+            "total": 5
+          },
+          "proximo": {
+            "texto": "1x05 - The Holiday / título em português não divulgado",
+            "codigo": "1x05",
+            "titulo_en": "The Holiday",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje"
+          },
+          "transmissao": "HBO (EUA), às 23h",
+          "brasil": "HBO Max, às 23h",
+          "notas": [
+            "Semanal aos domingos; o 1x06 sai no domingo, 18 de outubro de 2026"
+          ]
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
