@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — segunda-feira, 12 de outubro de 2026",
-  "atualizado_em": "2026-10-12T08:02-03:00",
+  "atualizado_em": "2026-10-12T08:08-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -286,6 +286,27 @@
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco sem streaming no Brasil"
         },
         {
+          "nome": "Carrie, a Estranha",
+          "nome_original": "Carrie",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - First Period / Primeiro Período",
+            "codigo": "1x01",
+            "titulo_en": "First Period",
+            "titulo_pt": "Primeiro Período",
+            "rotulo": "próximo"
+          },
+          "brasil": "T1 completa no Prime Video",
+          "notas": [
+            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
+          ]
+        },
+        {
           "nome": "Coven Academy",
           "nome_original": null,
           "status": "🟢",
@@ -365,9 +386,9 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/3",
+            "texto": "0/4",
             "vistos": 0,
-            "total": 3
+            "total": 4
           },
           "proximo": {
             "texto": "1x01 - Pilot / título em português não divulgado",
@@ -424,27 +445,6 @@
           "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
           "notas": [
             "Títulos pt-BR dos eps 1 a 3 não confirmados no Paramount+ (JustWatch BR: \"No horizonte\", \"Na tempestade\", \"A ordem\"). Livro 1: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Carrie, a Estranha",
-          "nome_original": "Carrie",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x01 - First Period / Primeiro Período",
-            "codigo": "1x01",
-            "titulo_en": "First Period",
-            "titulo_pt": "Primeiro Período",
-            "rotulo": "próximo"
-          },
-          "brasil": "T1 completa no Prime Video",
-          "notas": [
-            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
           ]
         },
         {
@@ -535,7 +535,7 @@
           "transmissao": "Canal+ (França)",
           "brasil": "Universal+, +1 dia: terça-feira, 13 de outubro de 2026 (horário não divulgado)",
           "notas": [
-            "No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR). Contagem 13/14 estimada (13/13 em dia ontem + 2x06 hoje)"
+            "No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR)."
           ]
         }
       ]
