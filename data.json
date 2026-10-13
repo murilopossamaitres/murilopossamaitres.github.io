@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 13 de outubro de 2026",
-  "atualizado_em": "2026-10-13T07:39-03:00",
+  "atualizado_em": "2026-10-13T14:28-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -498,27 +498,6 @@
           "brasil": "Crunchyroll (1x01 no ar desde domingo, 11 de outubro de 2026; legendado)",
           "notas": [
             "Título em português do TMDB pt-BR (não conferido na Crunchyroll). Semanal aos domingos; o 1x02 (\"The God of Destruction Heads to the Planet of the Kai\") sai no domingo, 18 de outubro de 2026; Netflix BR a partir de sábado, 17 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Invasão: Código Apollo",
-          "nome_original": "Has Fallen",
-          "status": "🟢",
-          "progresso": {
-            "texto": "13/14",
-            "vistos": 13,
-            "total": 14
-          },
-          "proximo": {
-            "texto": "2x06 - Episode 6 / título em português não divulgado",
-            "codigo": "2x06",
-            "titulo_en": "Episode 6",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo"
-          },
-          "brasil": "Universal+ (2x06 hoje, terça-feira, 13 de outubro de 2026; horário não divulgado)",
-          "notas": [
-            "Semanal às terças; o 2x07 sai na terça-feira, 20 de outubro de 2026, e o final da temporada (2x08) na terça-feira, 27 de outubro de 2026. No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR)"
           ]
         },
         {
