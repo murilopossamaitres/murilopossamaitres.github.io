@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 13 de outubro de 2026",
-  "atualizado_em": "2026-10-13T14:28-03:00",
+  "atualizado_em": "2026-10-13T17:31-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -527,28 +527,6 @@
       "titulo": "Episódio de hoje",
       "emoji": "📅",
       "itens": [
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "14/15",
-            "vistos": 14,
-            "total": 15
-          },
-          "proximo": {
-            "texto": "1x15 - The False Ishtar / título em português não divulgado",
-            "codigo": "1x15",
-            "titulo_en": "The False Ishtar",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "hoje"
-          },
-          "transmissao": "NTV (Japão), às 13h29",
-          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x14 saiu às 14h35 no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "No TVmaze este episódio aparece como 2x03; no Banco e na Crunchyroll é a sequência da 1ª temporada. O 1x16 sai na terça-feira, 20 de outubro de 2026"
-          ]
-        },
         {
           "nome": "VisionQuest",
           "nome_original": null,
