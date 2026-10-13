@@ -1,11 +1,27 @@
 {
-  "titulo": "📺 Séries — segunda-feira, 12 de outubro de 2026",
-  "atualizado_em": "2026-10-12T08:08-03:00",
+  "titulo": "📺 Séries — terça-feira, 13 de outubro de 2026",
+  "atualizado_em": "2026-10-13T07:39-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
+        {
+          "nome": "Doc",
+          "nome_original": null,
+          "episodios": "3x04",
+          "progresso": {
+            "texto": "4/22",
+            "vistos": 4,
+            "total": 22
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"Great Expectations\")",
+          "transmissao": "FOX (EUA), hoje às 22h",
+          "brasil": "Sem streaming no Brasil (T3 sem data no Disney+)",
+          "notas": [
+            "Semanal às terças; o 3x05 (\"S.O.S\") sai na terça-feira, 20 de outubro de 2026"
+          ]
+        },
         {
           "nome": "Invasão: Código Apollo",
           "nome_original": "Has Fallen",
@@ -16,26 +32,42 @@
             "total": 8
           },
           "titulo_pt_nota": "Título em português não divulgado (\"Episode 6\")",
-          "transmissao": "Canal+ (França), hoje",
-          "brasil": "+1 dia: Universal+, terça-feira, 13 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "Canal+ (França), segunda-feira, 12 de outubro de 2026",
+          "brasil": "+1 dia: Universal+, hoje (horário não divulgado)",
           "notas": [
             "Semanal; no Universal+ às terças. O 2x07 sai na terça-feira, 20 de outubro de 2026, e o final da temporada (2x08) na terça-feira, 27 de outubro de 2026"
           ]
         },
         {
-          "nome": "Line of Fire",
+          "nome": "Red River",
           "nome_original": null,
-          "episodios": "1x04",
+          "episodios": "1x15",
           "progresso": {
-            "texto": "4/10",
-            "vistos": 4,
-            "total": 10
+            "texto": "15/24",
+            "vistos": 15,
+            "total": 24
           },
-          "titulo_pt_nota": "Título em português não divulgado (\"Paper Trails\")",
-          "transmissao": "NBC (EUA), hoje às 23h",
-          "brasil": "Sem streaming no Brasil",
+          "titulo_pt_nota": "Título em português não divulgado (\"The False Ishtar\")",
+          "transmissao": "NTV (Japão), hoje às 13h29",
+          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x14 saiu às 14h35 no calendário da Crunchyroll Brasil)",
           "notas": [
-            "Semanal às segundas"
+            "Semanal às terças; o 1x16 sai na terça-feira, 20 de outubro de 2026. No TVmaze este episódio aparece como 2x03"
+          ]
+        },
+        {
+          "nome": "VisionQuest",
+          "nome_original": null,
+          "episodios": "1x01 e 1x02",
+          "progresso": {
+            "texto": "2/8",
+            "vistos": 2,
+            "total": 8
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"No Strings\" / \"Theseus\")",
+          "transmissao": "Disney+ (EUA), hoje às 18h PT (22h de Brasília)",
+          "brasil": "Mesmo dia: Disney+, hoje às 22h (os dois episódios juntos)",
+          "notas": [
+            "A estreia foi antecipada (antes era quarta-feira, 14 de outubro de 2026). Semanal às terças: 1x03 e 1x04 na terça-feira, 20 de outubro de 2026, e 1x05 e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; 1x07 na terça-feira, 3 de novembro de 2026, e o final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
           ]
         }
       ]
@@ -45,13 +77,13 @@
       "emoji": "🆕",
       "itens": [
         {
-          "selo": "",
-          "data": "14/10",
-          "dia_semana": "qua",
+          "selo": "✏️",
+          "data": "13/10",
+          "dia_semana": "ter",
           "nome": "VisionQuest",
           "temporada": "T1",
-          "info": "Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)",
-          "texto": "14/10 (qua) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 em 14/10; 3 e 4 em 21/10; 5 e 6 em 28/10; 7 em 04/11; 8 em 11/11)"
+          "info": "Disney+, 8 episódios (1 e 2 hoje às 22h, depois semanal às terças até 10/11)",
+          "texto": "✏️ 13/10 (ter) - VisionQuest - T1 - Disney+, 8 episódios (1 e 2 hoje às 22h, depois semanal às terças até 10/11)"
         },
         {
           "selo": "",
@@ -196,8 +228,8 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai amanhã, terça-feira, 13 de outubro de 2026, às 22h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai amanhã, terça-feira, 13 de outubro de 2026, às 22h"
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai hoje, terça-feira, 13 de outubro de 2026, às 22h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x04 sai hoje, terça-feira, 13 de outubro de 2026, às 22h"
           },
           {
             "nome": "Fire Country",
@@ -211,8 +243,8 @@
           },
           {
             "nome": "Line of Fire",
-            "info": "T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x04 sai hoje, segunda-feira, 12 de outubro de 2026, às 23h; sem plataforma no Brasil",
-            "texto": "Line of Fire - T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x04 sai hoje, segunda-feira, 12 de outubro de 2026, às 23h; sem plataforma no Brasil"
+            "info": "T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x05 sai na segunda-feira, 19 de outubro de 2026, às 23h; sem plataforma no Brasil",
+            "texto": "Line of Fire - T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x05 sai na segunda-feira, 19 de outubro de 2026, às 23h; sem plataforma no Brasil"
           },
           {
             "nome": "Only Murders in the Building",
@@ -332,9 +364,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "32/35",
+            "texto": "32/36",
             "vistos": 32,
-            "total": 35
+            "total": 36
           },
           "proximo": {
             "texto": "3x01 - Wherefore Art Thou / título em português não divulgado",
@@ -397,7 +429,7 @@
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
-          "brasil": "Sem streaming no Brasil; o 1x04 sai nos EUA hoje, às 23h (NBC)"
+          "brasil": "Sem streaming no Brasil; o 1x05 sai nos EUA na segunda-feira, 19 de outubro de 2026, às 23h (NBC)"
         },
         {
           "nome": "Vampirina: Uma Vampirinha Adolescente",
@@ -469,8 +501,8 @@
           ]
         },
         {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
+          "nome": "Invasão: Código Apollo",
+          "nome_original": "Has Fallen",
           "status": "🟢",
           "progresso": {
             "texto": "13/14",
@@ -478,15 +510,15 @@
             "total": 14
           },
           "proximo": {
-            "texto": "2x04 - Blank Curtain / título em português não divulgado",
-            "codigo": "2x04",
-            "titulo_en": "Blank Curtain",
+            "texto": "2x06 - Episode 6 / título em português não divulgado",
+            "codigo": "2x06",
+            "titulo_en": "Episode 6",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
-          "brasil": "Paramount+ (2x04 no ar desde sexta-feira, 9 de outubro de 2026, às 4h)",
+          "brasil": "Universal+ (2x06 hoje, terça-feira, 13 de outubro de 2026; horário não divulgado)",
           "notas": [
-            "Semanal às sextas; o 2x05 (\"Birdland\") sai na sexta-feira, 16 de outubro de 2026"
+            "Semanal às terças; o 2x07 sai na terça-feira, 20 de outubro de 2026, e o final da temporada (2x08) na terça-feira, 27 de outubro de 2026. No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR)"
           ]
         },
         {
@@ -517,25 +549,47 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "Invasão: Código Apollo",
-          "nome_original": "Has Fallen",
+          "nome": "Red River",
+          "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "13/14",
-            "vistos": 13,
-            "total": 14
+            "texto": "14/15",
+            "vistos": 14,
+            "total": 15
           },
           "proximo": {
-            "texto": "2x06 - Episode 6 / título em português não divulgado",
-            "codigo": "2x06",
-            "titulo_en": "Episode 6",
+            "texto": "1x15 - The False Ishtar / título em português não divulgado",
+            "codigo": "1x15",
+            "titulo_en": "The False Ishtar",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "hoje"
           },
-          "transmissao": "Canal+ (França)",
-          "brasil": "Universal+, +1 dia: terça-feira, 13 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "NTV (Japão), às 13h29",
+          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x14 saiu às 14h35 no calendário da Crunchyroll Brasil)",
           "notas": [
-            "No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR)."
+            "No TVmaze este episódio aparece como 2x03; no Banco e na Crunchyroll é a sequência da 1ª temporada. O 1x16 sai na terça-feira, 20 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "VisionQuest",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/2",
+            "vistos": 0,
+            "total": 2
+          },
+          "proximo": {
+            "texto": "1x01 - No Strings / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "No Strings",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje"
+          },
+          "transmissao": "Disney+ (EUA), às 18h PT (22h de Brasília)",
+          "brasil": "Disney+, hoje às 22h (1x01 e 1x02 juntos)",
+          "notas": [
+            "O 1x02 (\"Theseus\") sai junto. Estreia antecipada (antes era quarta-feira, 14 de outubro de 2026); semanal às terças até o final, na terça-feira, 10 de novembro de 2026"
           ]
         }
       ]
