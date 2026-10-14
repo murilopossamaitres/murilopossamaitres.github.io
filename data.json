@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 14 de outubro de 2026",
-  "atualizado_em": "2026-10-14T19:17-03:00",
+  "atualizado_em": "2026-10-14T20:30-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -410,14 +410,14 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/2",
-            "vistos": 0,
+            "texto": "1/2",
+            "vistos": 1,
             "total": 2
           },
           "proximo": {
-            "texto": "1x01 - No Strings / título em português não divulgado",
-            "codigo": "1x01",
-            "titulo_en": "No Strings",
+            "texto": "1x02 - Theseus / título em português não divulgado",
+            "codigo": "1x02",
+            "titulo_en": "Theseus",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
