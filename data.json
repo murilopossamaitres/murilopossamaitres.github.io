@@ -480,27 +480,6 @@
           ]
         },
         {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/1",
-            "vistos": 0,
-            "total": 1
-          },
-          "proximo": {
-            "texto": "1x01 - The God Who Destroys / O Deus que Destrói",
-            "codigo": "1x01",
-            "titulo_en": "The God Who Destroys",
-            "titulo_pt": "O Deus que Destrói",
-            "rotulo": "próximo"
-          },
-          "brasil": "Crunchyroll (1x01 no ar desde domingo, 11 de outubro de 2026; legendado)",
-          "notas": [
-            "Título em português do TMDB pt-BR (não conferido na Crunchyroll). Semanal aos domingos; o 1x02 (\"The God of Destruction Heads to the Planet of the Kai\") sai no domingo, 18 de outubro de 2026; Netflix BR a partir de sábado, 17 de outubro de 2026"
-          ]
-        },
-        {
           "nome": "Youth",
           "nome_original": null,
           "status": "🟢",
