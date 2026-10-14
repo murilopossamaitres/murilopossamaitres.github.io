@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 14 de outubro de 2026",
-  "atualizado_em": "2026-10-14T07:56-03:00",
+  "atualizado_em": "2026-10-14T08:03-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -244,6 +244,27 @@
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco sem streaming no Brasil"
         },
         {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/3",
+            "vistos": 0,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x01 - On the Horizon / No horizonte",
+            "codigo": "1x01",
+            "titulo_en": "On the Horizon",
+            "titulo_pt": "No horizonte",
+            "rotulo": "próximo"
+          },
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
+          "notas": [
+            "Títulos pt-BR dos eps 1 a 3 não confirmados no Paramount+ (JustWatch BR: \"No horizonte\", \"Na tempestade\", \"A ordem\"). Livro 1: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
+          ]
+        },
+        {
           "nome": "Carrie, a Estranha",
           "nome_original": "Carrie",
           "status": "🔴",
@@ -384,69 +405,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "Avatar: Os Sete Refúgios",
-          "nome_original": "Avatar: Seven Havens",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/3",
-            "vistos": 0,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x01 - On the Horizon / No horizonte",
-            "codigo": "1x01",
-            "titulo_en": "On the Horizon",
-            "titulo_pt": "No horizonte",
-            "rotulo": "próximo"
-          },
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
-          "notas": [
-            "Títulos pt-BR dos eps 1 a 3 não confirmados no Paramount+ (JustWatch BR: \"No horizonte\", \"Na tempestade\", \"A ordem\"). Livro 1: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Invasão: Código Apollo",
-          "nome_original": "Has Fallen",
-          "status": "🟢",
-          "progresso": {
-            "texto": "13/14",
-            "vistos": 13,
-            "total": 14
-          },
-          "proximo": {
-            "texto": "2x06 - Episode 6 / título em português não divulgado",
-            "codigo": "2x06",
-            "titulo_en": "Episode 6",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo"
-          },
-          "brasil": "Universal+ (2x06 no ar desde terça-feira, 13 de outubro de 2026)",
-          "notas": [
-            "Semanal às terças; o 2x07 sai na terça-feira, 20 de outubro de 2026, e o final da temporada (2x08) na terça-feira, 27 de outubro de 2026. No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR)"
-          ]
-        },
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "14/15",
-            "vistos": 14,
-            "total": 15
-          },
-          "proximo": {
-            "texto": "1x15 - The False Ishtar / A Falsa Ishtar",
-            "codigo": "1x15",
-            "titulo_en": "The False Ishtar",
-            "titulo_pt": "A Falsa Ishtar",
-            "rotulo": "próximo"
-          },
-          "brasil": "Crunchyroll (1x15 no ar desde terça-feira, 13 de outubro de 2026; legendado)",
-          "notas": [
-            "Título em português da Crunchyroll Brasil. No TVmaze este episódio aparece como 2x03. Semanal às terças; o 1x16 sai na terça-feira, 20 de outubro de 2026"
-          ]
-        },
         {
           "nome": "VisionQuest",
           "nome_original": null,
