@@ -425,27 +425,6 @@
           "notas": [
             "Semanal às terças: 1x03 e 1x04 na terça-feira, 20 de outubro de 2026, e 1x05 e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; 1x07 na terça-feira, 3 de novembro de 2026, e o final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
           ]
-        },
-        {
-          "nome": "Youth",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "4/5",
-            "vistos": 4,
-            "total": 5
-          },
-          "proximo": {
-            "texto": "1x05 - The Holiday / As Férias",
-            "codigo": "1x05",
-            "titulo_en": "The Holiday",
-            "titulo_pt": "As Férias",
-            "rotulo": "próximo"
-          },
-          "brasil": "HBO Max (1x05 no ar desde domingo, 11 de outubro de 2026, às 23h)",
-          "notas": [
-            "Título em português do TMDB pt-BR (os dos eps 1 a 4 batem com os do HBO Max). Semanal aos domingos; o 1x06 (\"Desperate Measures\") sai no domingo, 18 de outubro de 2026; final da temporada no domingo, 1º de novembro de 2026"
-          ]
         }
       ]
     },
