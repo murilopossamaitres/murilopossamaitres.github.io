@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 14 de outubro de 2026",
-  "atualizado_em": "2026-10-14T20:30-03:00",
+  "atualizado_em": "2026-10-15T00:11-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -290,15 +290,15 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "9/21",
-            "vistos": 9,
+            "texto": "11/21",
+            "vistos": 11,
             "total": 21
           },
           "proximo": {
-            "texto": "1x10 - Time Warp / Distorção Temporal",
-            "codigo": "1x10",
-            "titulo_en": "Time Warp",
-            "titulo_pt": "Distorção Temporal",
+            "texto": "1x12 - Between Worlds / Entre Mundos",
+            "codigo": "1x12",
+            "titulo_en": "Between Worlds",
+            "titulo_pt": "Entre Mundos",
             "rotulo": "próximo"
           },
           "brasil": "T1 completa no Disney+",
