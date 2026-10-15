@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 15 de outubro de 2026",
-  "atualizado_em": "2026-10-15T05:45-03:00",
+  "atualizado_em": "2026-10-15T13:12-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -528,14 +528,14 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "1/2",
-            "vistos": 1,
+            "texto": "2/2",
+            "vistos": 2,
             "total": 2
           },
           "proximo": {
-            "texto": "1x02 - Theseus / título em português não divulgado",
-            "codigo": "1x02",
-            "titulo_en": "Theseus",
+            "texto": "1x03 - Reboot / título em português não divulgado",
+            "codigo": "1x03",
+            "titulo_en": "Reboot",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
