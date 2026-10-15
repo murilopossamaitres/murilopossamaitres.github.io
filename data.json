@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 15 de outubro de 2026",
-  "atualizado_em": "2026-10-15T13:12-03:00",
+  "atualizado_em": "2026-10-15T18:52-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -594,23 +594,23 @@
         {
           "nome": "The Exiled Heavy Knight Knows How to Game the System",
           "nome_original": null,
-          "status": "🟢",
+          "status": "🔴",
           "progresso": {
-            "texto": "15/16",
-            "vistos": 15,
-            "total": 16
+            "texto": "16/26",
+            "vistos": 16,
+            "total": 26
           },
           "proximo": {
-            "texto": "1x16 - No Defense Spared / Nenhuma Defesa Será Poupada",
-            "codigo": "1x16",
-            "titulo_en": "No Defense Spared",
-            "titulo_pt": "Nenhuma Defesa Será Poupada",
-            "rotulo": "hoje"
+            "texto": "1x17 - título não divulgado",
+            "codigo": "1x17",
+            "titulo_en": "título não divulgado",
+            "titulo_pt": "título não divulgado",
+            "rotulo": "próximo"
           },
           "transmissao": "MBS (Japão), às 12h26",
           "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
           "notas": [
-            "Título em português do TMDB pt-BR (a conferir na Crunchyroll). O 1x17 sai na quinta-feira, 22 de outubro de 2026"
+            "1x17 sai na quinta-feira, 22 de outubro de 2026 (título ainda não divulgado). Semanal às quintas"
           ]
         }
       ]
