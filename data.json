@@ -1,43 +1,11 @@
 {
-  "titulo": "📺 Séries — quinta-feira, 15 de outubro de 2026",
-  "atualizado_em": "2026-10-15T23:21-03:00",
+  "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
+  "atualizado_em": "2026-10-16T05:39-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "9-1-1",
-          "nome_original": null,
-          "episodios": "10x01",
-          "progresso": {
-            "texto": "1/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"That Sinking Feeling\")",
-          "transmissao": "ABC (EUA), hoje às 21h",
-          "brasil": "Sem data no Brasil (T1 a T9 no Disney+)",
-          "notas": [
-            "Estreia da 10ª temporada; semanal às quintas; o 10x02 sai na quinta-feira, 22 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "9-1-1: Nashville",
-          "nome_original": null,
-          "episodios": "2x01",
-          "progresso": {
-            "texto": "1/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"Going Rogue\")",
-          "transmissao": "ABC (EUA), hoje às 22h",
-          "brasil": "Sem data no Brasil (T1 no Disney+)",
-          "notas": [
-            "Estreia da 2ª temporada; o 2x02 sai na quinta-feira, 22 de outubro de 2026"
-          ]
-        },
         {
           "nome": "American Horror Story",
           "nome_original": null,
@@ -48,10 +16,26 @@
             "total": 13
           },
           "titulo_pt_nota": "Título em português não divulgado (\"The Devil Is in the Details\" / \"The Prodigal Son\")",
-          "transmissao": "FX (EUA), hoje às 22h (13x09) e às 22h45 (13x10)",
-          "brasil": "+1 dia: Disney+, sexta-feira, 16 de outubro de 2026, à 1h",
+          "transmissao": "FX (EUA), quinta-feira, 15 de outubro de 2026, às 22h e às 22h45",
+          "brasil": "+1 dia: Disney+, hoje à 1h",
           "notas": [
             "13x11 e 13x12 no Disney+ na sexta-feira, 23 de outubro de 2026, à 1h; final 13x13 na sexta-feira, 30 de outubro de 2026, à 1h"
+          ]
+        },
+        {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "episodios": "1x04, 1x05 e 1x06",
+          "progresso": {
+            "texto": "4–6/13",
+            "vistos": null,
+            "total": null
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"The Faceless\" / \"The One Left Behind\" / \"Night of the Afflicted\")",
+          "transmissao": "Paramount+, hoje (lote do Livro 1)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
+          "notas": [
+            "TMDB pt-BR ainda traz os títulos em inglês nos eps 4 a 6 (Séries em Cena: versões oficiais em português podem chegar depois). Livro 1: 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ]
         },
         {
@@ -64,72 +48,42 @@
             "total": 8
           },
           "titulo_pt_nota": "Título em português não divulgado (\"Camp Crystal\" e demais)",
-          "transmissao": "Peacock (EUA), hoje às 13h, os 8 episódios de uma vez",
-          "brasil": "+1 dia: Universal+, sexta-feira, 16 de outubro de 2026, todos de uma vez (horário não divulgado)"
+          "transmissao": "Peacock (EUA), quinta-feira, 15 de outubro de 2026, às 13h, os 8 episódios de uma vez",
+          "brasil": "Universal+, hoje, todos de uma vez (horário não divulgado)"
         },
         {
-          "nome": "Grey's Anatomy",
-          "nome_original": null,
-          "episodios": "23x01",
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x05",
           "progresso": {
-            "texto": "1/13",
+            "texto": "5/10",
+            "vistos": 5,
+            "total": 10
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"Birdland\")",
+          "transmissao": "Paramount+, hoje às 4h",
+          "brasil": "Paramount+",
+          "notas": [
+            "Semanal às sextas; o 2x06 (\"A Different Corner\") sai na sexta-feira, 23 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "Tulsa King",
+          "nome_original": null,
+          "episodios": "4x01",
+          "progresso": {
+            "texto": "1/10",
             "vistos": 1,
-            "total": 13
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"Collide\")",
-          "transmissao": "ABC (EUA), hoje às 23h",
-          "brasil": "Sem data no Brasil (Sony Channel / UOL Play não confirmados)",
-          "notas": [
-            "Estreia da 23ª temporada; o 23x02 sai na quinta-feira, 22 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Kill Jackie",
-          "nome_original": null,
-          "episodios": "T1 (8 episódios)",
-          "progresso": {
-            "texto": "?/8",
-            "vistos": null,
-            "total": null
-          },
-          "brasil": "Globoplay, hoje (exclusivo); quantidade de episódios no 1º dia e horário não divulgados",
-          "notas": [
-            "Minissérie. A imprensa também usa \"Kill Jackie: Acerto de Contas\". Fora do Brasil saiu completa no Prime Video em 2 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Scrubs",
-          "nome_original": null,
-          "episodios": "2x04",
-          "progresso": {
-            "texto": "4/10",
-            "vistos": 4,
             "total": 10
           },
           "outras_linhas": [
             "🧊 Está na sua Geladeira"
           ],
-          "titulo_pt_nota": "Título em português não divulgado (\"My Chief\")",
-          "transmissao": "ABC (EUA), quarta-feira, 14 de outubro de 2026, às 21h",
-          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
+          "titulo_pt_nota": "Título em português não divulgado (\"W.W.D.D.\")",
+          "transmissao": "Paramount+, hoje",
+          "brasil": "Paramount+, hoje (semanal, 10 episódios)",
           "notas": [
-            "No Banco de Séries aparece como 11x04. Próximo: 2x05 - My Best Friend's Birthday / título em português não divulgado — ABC (EUA) na quarta-feira, 21 de outubro de 2026, às 21h; chega ao Disney+ na quinta-feira, 22 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x16",
-          "progresso": {
-            "texto": "16/26",
-            "vistos": 16,
-            "total": 26
-          },
-          "titulo_pt_nota": "Nenhuma Defesa Será Poupada (\"No Defense Spared\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "Título em português do TMDB pt-BR (a conferir na Crunchyroll depois do lançamento). Semanal às quintas; o 1x17 sai na quinta-feira, 22 de outubro de 2026"
+            "Estreia da 4ª temporada; o 4x02 (\"Blind Rooster\") sai na sexta-feira, 23 de outubro de 2026. Renovada para a 5ª temporada"
           ]
         }
       ]
@@ -138,24 +92,6 @@
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
-        {
-          "selo": "",
-          "data": "16/10",
-          "dia_semana": "sex",
-          "nome": "Crystal Lake",
-          "temporada": "T1",
-          "info": "Universal+, 8 episódios (todos de uma vez)",
-          "texto": "16/10 (sex) - Crystal Lake - T1 - Universal+, 8 episódios (todos de uma vez)"
-        },
-        {
-          "selo": "🧊",
-          "data": "16/10",
-          "dia_semana": "sex",
-          "nome": "Tulsa King",
-          "temporada": "T4",
-          "info": "Paramount+, 10 episódios, semanal",
-          "texto": "🧊 16/10 (sex) - Tulsa King - T4 - Paramount+, 10 episódios, semanal"
-        },
         {
           "selo": "",
           "data": "20/10",
@@ -252,13 +188,13 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, estreia nos EUA hoje, às 21h (ABC)",
-            "texto": "9-1-1 - T10, estreia nos EUA hoje, às 21h (ABC)"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai na quinta-feira, 22 de outubro de 2026, às 21h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai na quinta-feira, 22 de outubro de 2026, às 21h"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, estreia nos EUA hoje, às 22h (ABC)",
-            "texto": "9-1-1: Nashville - T2, estreia nos EUA hoje, às 22h (ABC)"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai na quinta-feira, 22 de outubro de 2026, às 22h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai na quinta-feira, 22 de outubro de 2026, às 22h"
           },
           {
             "nome": "A Especialista (The Savant)",
@@ -277,13 +213,13 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x02 (\"Fire Under Fire\") sai hoje às 22h nos EUA; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x02 (\"Fire Under Fire\") sai hoje às 22h nos EUA; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, estreia nos EUA hoje, às 23h (ABC); no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, estreia nos EUA hoje, às 23h (ABC); no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai na quinta-feira, 22 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai na quinta-feira, 22 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Line of Fire",
@@ -341,16 +277,16 @@
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
-          "brasil": "T1 no Disney+ (T2 estreia nos EUA hoje, quinta-feira, 15 de outubro de 2026)"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
           "nome_original": "Avatar: Seven Havens",
           "status": "🔴",
           "progresso": {
-            "texto": "0/3",
+            "texto": "0/6",
             "vistos": 0,
-            "total": 3
+            "total": 6
           },
           "proximo": {
             "texto": "1x01 - On the Horizon / No horizonte",
@@ -359,9 +295,9 @@
             "titulo_pt": "No horizonte",
             "rotulo": "próximo"
           },
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; lotes seguintes às sextas)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde hoje, sexta-feira, 16 de outubro de 2026)",
           "notas": [
-            "Títulos pt-BR dos eps 1 a 3 não confirmados no Paramount+ (JustWatch BR: \"No horizonte\", \"Na tempestade\", \"A ordem\"). Livro 1: 4 a 6 na sexta-feira, 16 de outubro de 2026; 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
+            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 ainda em inglês no TMDB pt-BR. Livro 1: 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ]
         },
         {
@@ -395,15 +331,15 @@
             "total": 21
           },
           "proximo": {
-            "texto": "1x14 - Witchgiving / título em português não divulgado",
+            "texto": "1x14 - Witchgiving / Dia de Graças",
             "codigo": "1x14",
             "titulo_en": "Witchgiving",
-            "titulo_pt": "título em português não divulgado",
+            "titulo_pt": "Dia de Graças",
             "rotulo": "próximo"
           },
           "brasil": "T1 completa no Disney+",
           "notas": [
-            "2ª temporada não anunciada (nem renovada, nem cancelada)."
+            "2ª temporada não anunciada (nem renovada, nem cancelada). Título em português do 1x14 do TMDB pt-BR (cartão junta \"Dia de Graças / Peru Frio\" com o 1x15; não conferido no Disney+)"
           ]
         },
         {
@@ -440,7 +376,7 @@
             "titulo_pt": "Só os fortes sobrevivem",
             "rotulo": "próximo"
           },
-          "brasil": "T1 a T22 no Disney+ (T23 estreia nos EUA hoje, quinta-feira, 15 de outubro de 2026)"
+          "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
         },
         {
           "nome": "Kill Jackie",
@@ -458,7 +394,10 @@
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
-          "brasil": "Globoplay desde hoje, quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie"
+          "brasil": "Globoplay desde quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie",
+          "notas": [
+            "A imprensa também usa \"Kill Jackie: Acerto de Contas\""
+          ]
         },
         {
           "nome": "Line of Fire",
@@ -483,9 +422,9 @@
           "nome_original": "Pokémon Horizons: The Series",
           "status": "🔴",
           "progresso": {
-            "texto": "0/152",
+            "texto": "0/153",
             "vistos": 0,
-            "total": 152
+            "total": 153
           },
           "proximo": {
             "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
@@ -524,33 +463,6 @@
       "emoji": "📺",
       "itens": [
         {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "2/2",
-            "vistos": 2,
-            "total": 2
-          },
-          "proximo": {
-            "texto": "1x03 - Reboot / título em português não divulgado",
-            "codigo": "1x03",
-            "titulo_en": "Reboot",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo"
-          },
-          "brasil": "Disney+ (1x01 e 1x02 no ar desde terça-feira, 13 de outubro de 2026, às 22h)",
-          "notas": [
-            "Semanal às terças: 1x03 e 1x04 na terça-feira, 20 de outubro de 2026, e 1x05 e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; 1x07 na terça-feira, 3 de novembro de 2026, e o final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
-          ]
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
-        {
           "nome": "American Horror Story",
           "nome_original": null,
           "status": "🟢",
@@ -564,12 +476,11 @@
             "codigo": "13x09 e 13x10",
             "titulo_en": "The Devil Is in the Details e The Prodigal Son",
             "titulo_pt": "títulos em português não divulgados",
-            "rotulo": "hoje"
+            "rotulo": "próximo"
           },
-          "transmissao": "FX (EUA), às 22h e às 22h45",
-          "brasil": "+1 dia: Disney+, sexta-feira, 16 de outubro de 2026, à 1h",
+          "brasil": "Disney+ (13x09 e 13x10 no ar desde hoje, sexta-feira, 16 de outubro de 2026, à 1h)",
           "notas": [
-            "13x11 e 13x12 no Disney+ na sexta-feira, 23 de outubro de 2026, à 1h; final 13x13 na sexta-feira, 30 de outubro de 2026, à 1h"
+            "13x11 e 13x12 na sexta-feira, 23 de outubro de 2026, à 1h; final 13x13 na sexta-feira, 30 de outubro de 2026, à 1h"
           ]
         },
         {
@@ -586,31 +497,36 @@
             "codigo": "1x01",
             "titulo_en": "Camp Crystal",
             "titulo_pt": "título em português não divulgado",
-            "rotulo": "hoje"
-          },
-          "transmissao": "Peacock (EUA), às 13h, os 8 episódios de uma vez",
-          "brasil": "+1 dia: Universal+, sexta-feira, 16 de outubro de 2026, todos de uma vez (horário não divulgado)"
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "16/26",
-            "vistos": 16,
-            "total": 26
-          },
-          "proximo": {
-            "texto": "1x17 - título não divulgado",
-            "codigo": "1x17",
-            "titulo_en": "título não divulgado",
-            "titulo_pt": "título não divulgado",
             "rotulo": "próximo"
           },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "brasil": "Universal+ (T1 completa no ar desde hoje, sexta-feira, 16 de outubro de 2026, todos de uma vez)"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "status": "🟢",
+          "progresso": {
+            "texto": "14/15",
+            "vistos": 14,
+            "total": 15
+          },
+          "proximo": {
+            "texto": "2x05 - Birdland / título em português não divulgado",
+            "codigo": "2x05",
+            "titulo_en": "Birdland",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje"
+          },
+          "transmissao": "Paramount+, às 4h",
+          "brasil": "Paramount+",
           "notas": [
-            "1x17 sai na quinta-feira, 22 de outubro de 2026 (título ainda não divulgado). Semanal às quintas"
+            "Semanal às sextas; o 2x06 sai na sexta-feira, 23 de outubro de 2026"
           ]
         }
       ]
@@ -817,7 +733,7 @@
             "rotulo": "Cinema no Brasil",
             "valor": "quinta-feira, 19 de novembro de 2026 (oficial no Brasil, Paris Filmes)",
             "notas": [
-              "Pré-venda a partir de hoje, quinta-feira, 15 de outubro de 2026 (Ingresso.com); pré-estreia na quarta-feira, 18 de novembro de 2026 (Ingresso.com)"
+              "Pré-venda aberta desde quinta-feira, 15 de outubro de 2026 (Ingresso.com); pré-estreia na quarta-feira, 18 de novembro de 2026 (Ingresso.com)"
             ]
           },
           "aluguel_compra": {
