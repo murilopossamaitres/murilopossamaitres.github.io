@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
-  "atualizado_em": "2026-10-16T13:56-03:00",
+  "atualizado_em": "2026-10-16T14:17-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -883,6 +883,44 @@
                 "loja": "Netflix",
                 "texto": "sexta-feira, 2 de abril de 2027 (oficial; horário não divulgado)"
               }
+            ]
+          }
+        },
+        {
+          "titulo": "Godzilla Minus Zero",
+          "titulo_original": "Godzilla Minus Zero",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema, depois aluguel/compra e streaming",
+            "notas": [
+              "Sequência de Godzilla Minus One (Toho, dir. Takashi Yamazaki); no Brasil, distribuição da Sato Company, exclusivamente nos cinemas"
+            ]
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 5 de novembro de 2026 (oficial no Brasil, Sato Company)",
+            "notas": [
+              "Pré-venda aberta na Ingresso.com (noticiada na sexta-feira, 16 de outubro de 2026, pelo Onde Ver)",
+              "Japão: terça-feira, 3 de novembro de 2026; EUA: sexta-feira, 6 de novembro de 2026 (Toho / godzilla.com)"
+            ]
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": "sem data no Brasil",
+            "notas": [
+              "Nenhum país tem data anunciada (o filme ainda não estreou em nenhum lugar)"
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": "sem data no Brasil",
+            "notas": [
+              "Plataforma não anunciada (Godzilla Minus One, da mesma distribuidora, está na Netflix Brasil, segundo o JBox)"
             ]
           }
         }
