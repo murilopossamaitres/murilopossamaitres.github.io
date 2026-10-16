@@ -1,28 +1,11 @@
 {
   "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
-  "atualizado_em": "2026-10-16T18:53-03:00",
+  "atualizado_em": "2026-10-16T20:10-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "episodios": "13x09 e 13x10",
-          "progresso": {
-            "texto": "11/13",
-            "vistos": 11,
-            "total": 13
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"The Devil Is in the Details\" / \"The Prodigal Son\")",
-          "transmissao": "FX (EUA), quinta-feira, 15 de outubro de 2026, às 22h e às 22h45",
-          "brasil": "+1 dia: Disney+, hoje à 1h",
-          "notas": [
-            "13x11 e 13x12 no Disney+ na sexta-feira, 23 de outubro de 2026, à 1h; final 13x13 na sexta-feira, 30 de outubro de 2026, à 1h"
-          ],
-          "duracao": "45 min + 35 min"
-        },
         {
           "nome": "Avatar: Os Sete Refúgios",
           "nome_original": "Avatar: Seven Havens",
@@ -461,28 +444,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "141/142",
-            "vistos": 141,
-            "total": 142
-          },
-          "proximo": {
-            "texto": "13x10 - The Prodigal Son / título em português não divulgado",
-            "codigo": "13x10",
-            "titulo_en": "The Prodigal Son",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo",
-            "duracao": "35 min"
-          },
-          "brasil": "Disney+ (13x09 e 13x10 no ar desde hoje, sexta-feira, 16 de outubro de 2026, à 1h)",
-          "notas": [
-            "13x11 e 13x12 na sexta-feira, 23 de outubro de 2026, à 1h; final 13x13 na sexta-feira, 30 de outubro de 2026, à 1h"
-          ]
-        },
         {
           "nome": "Crystal Lake",
           "nome_original": null,
