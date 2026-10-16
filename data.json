@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
-  "atualizado_em": "2026-10-16T13:46-03:00",
+  "atualizado_em": "2026-10-16T13:56-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -53,23 +53,6 @@
           "transmissao": "Peacock (EUA), quinta-feira, 15 de outubro de 2026, às 13h, os 8 episódios de uma vez",
           "brasil": "Universal+, hoje, todos de uma vez (horário não divulgado)",
           "duracao": "56 + 53 + 48 + 53 + 49 + 44 + 51 + 43 min (total 397 min)"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "episodios": "2x05",
-          "progresso": {
-            "texto": "5/10",
-            "vistos": 5,
-            "total": 10
-          },
-          "titulo_pt_nota": "Título em português não divulgado (\"Birdland\")",
-          "transmissao": "Paramount+, hoje às 4h",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x06 (\"A Different Corner\") sai na sexta-feira, 23 de outubro de 2026"
-          ],
-          "duracao": "38 min"
         },
         {
           "nome": "Tulsa King",
