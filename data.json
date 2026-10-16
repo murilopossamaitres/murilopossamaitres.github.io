@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
-  "atualizado_em": "2026-10-16T14:17-03:00",
+  "atualizado_em": "2026-10-16T18:53-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -11,8 +11,8 @@
           "nome_original": null,
           "episodios": "13x09 e 13x10",
           "progresso": {
-            "texto": "10/13",
-            "vistos": 10,
+            "texto": "11/13",
+            "vistos": 11,
             "total": 13
           },
           "titulo_pt_nota": "Título em português não divulgado (\"The Devil Is in the Details\" / \"The Prodigal Son\")",
@@ -466,17 +466,17 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "140/142",
-            "vistos": 140,
+            "texto": "141/142",
+            "vistos": 141,
             "total": 142
           },
           "proximo": {
-            "texto": "13x09 e 13x10 - The Devil Is in the Details e The Prodigal Son / títulos em português não divulgados",
-            "codigo": "13x09 e 13x10",
-            "titulo_en": "The Devil Is in the Details e The Prodigal Son",
-            "titulo_pt": "títulos em português não divulgados",
+            "texto": "13x10 - The Prodigal Son / título em português não divulgado",
+            "codigo": "13x10",
+            "titulo_en": "The Prodigal Son",
+            "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo",
-            "duracao": "45 min + 35 min"
+            "duracao": "35 min"
           },
           "brasil": "Disney+ (13x09 e 13x10 no ar desde hoje, sexta-feira, 16 de outubro de 2026, à 1h)",
           "notas": [
