@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 15 de outubro de 2026",
-  "atualizado_em": "2026-10-15T21:23-03:00",
+  "atualizado_em": "2026-10-15T23:21-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -390,20 +390,20 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "11/21",
-            "vistos": 11,
+            "texto": "13/21",
+            "vistos": 13,
             "total": 21
           },
           "proximo": {
-            "texto": "1x12 - Between Worlds / Entre Mundos",
-            "codigo": "1x12",
-            "titulo_en": "Between Worlds",
-            "titulo_pt": "Entre Mundos",
+            "texto": "1x14 - Witchgiving / título em português não divulgado",
+            "codigo": "1x14",
+            "titulo_en": "Witchgiving",
+            "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo"
           },
           "brasil": "T1 completa no Disney+",
           "notas": [
-            "2ª temporada não anunciada (nem renovada, nem cancelada). Título em português do 1x12 do TMDB pt-BR (não conferido no Disney+)"
+            "2ª temporada não anunciada (nem renovada, nem cancelada)."
           ]
         },
         {
