@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 16 de outubro de 2026",
-  "atualizado_em": "2026-10-16T08:20-03:00",
+  "atualizado_em": "2026-10-16T13:46-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -524,31 +524,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "14/15",
-            "vistos": 14,
-            "total": 15
-          },
-          "proximo": {
-            "texto": "2x05 - Birdland / título em português não divulgado",
-            "codigo": "2x05",
-            "titulo_en": "Birdland",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "hoje",
-            "duracao": "38 min"
-          },
-          "transmissao": "Paramount+, às 4h",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x06 sai na sexta-feira, 23 de outubro de 2026"
-          ]
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
