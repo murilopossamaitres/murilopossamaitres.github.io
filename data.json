@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — domingo, 18 de outubro de 2026",
-  "atualizado_em": "2026-10-18T05:57-03:00",
+  "atualizado_em": "2026-10-18T13:47-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -305,21 +305,22 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "13/21",
-            "vistos": 13,
+            "texto": "15/21",
+            "vistos": 15,
             "total": 21
           },
           "proximo": {
-            "texto": "1x14 - Witchgiving / Dia de Graças",
-            "codigo": "1x14",
-            "titulo_en": "Witchgiving",
-            "titulo_pt": "Dia de Graças",
+            "texto": "1x16 - 1998 / 1998",
+            "codigo": "1x16",
+            "titulo_en": "1998",
+            "titulo_pt": "1998",
             "rotulo": "próximo",
-            "duracao": "23 min"
+            "duracao": "18 min"
           },
           "brasil": "T1 completa no Disney+",
           "notas": [
-            "2ª temporada não anunciada (nem renovada, nem cancelada). Título em português do 1x14 do TMDB pt-BR (cartão junta \"Dia de Graças / Peru Frio\" com o 1x15; não conferido no Disney+)"
+            "2ª temporada não anunciada (nem renovada, nem cancelada). Título em português do 1x16 do TMDB pt-BR (cartão junta \"1998 / Mais Denso Que Água\" com o 1x17; não conferido no Disney+)",
+            "1x14 \"Witchgiving\" e 1x15 \"Cold Turkey\" vistos em 18/10/2026"
           ]
         },
         {
