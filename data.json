@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — domingo, 18 de outubro de 2026",
-  "atualizado_em": "2026-10-18T20:18-03:00",
+  "atualizado_em": "2026-10-18T22:22-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -298,29 +298,6 @@
           "brasil": "T1 completa no Prime Video",
           "notas": [
             "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
-          ]
-        },
-        {
-          "nome": "Coven Academy",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "18/21",
-            "vistos": 18,
-            "total": 21
-          },
-          "proximo": {
-            "texto": "1x19 - The Covening / A Irmandade",
-            "codigo": "1x19",
-            "titulo_en": "The Covening",
-            "titulo_pt": "A Irmandade",
-            "rotulo": "próximo",
-            "duracao": "15 min"
-          },
-          "brasil": "T1 completa no Disney+",
-          "notas": [
-            "2ª temporada não anunciada (nem renovada, nem cancelada). Título em português do 1x19 do TMDB pt-BR (cartão junta \"Solstício de Inverno / A Irmandade\" com o 1x18; não conferido no Disney+)",
-            "1x16 \"1998\", 1x17 \"Thicker Than Water\" e 1x18 \"Winter Solstice\" vistos em 18/10/2026"
           ]
         },
         {
