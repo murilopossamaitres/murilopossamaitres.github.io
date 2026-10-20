@@ -1,11 +1,45 @@
 {
-  "titulo": "📺 Séries — segunda-feira, 19 de outubro de 2026",
-  "atualizado_em": "2026-10-19T13:29-03:00",
+  "titulo": "📺 Séries — terça-feira, 20 de outubro de 2026",
+  "atualizado_em": "2026-10-20T05:40-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
+        {
+          "nome": "Cyberpunk: Mercenários 2",
+          "nome_original": "Cyberpunk: Edgerunners 2",
+          "episodios": "T2 (10 episódios)",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "titulo_pt_nota": "2x01 \"Última chance para uma dança\" (\"Last Chance for a Slow Dance\") e demais (títulos da Netflix Brasil)",
+          "transmissao": "Netflix (mundial), hoje às 0h PT (4h de Brasília), os 10 episódios de uma vez",
+          "brasil": "Mesmo dia: Netflix, hoje às 4h, todos de uma vez",
+          "notas": [
+            "História nova em Night City, com outros protagonistas. No Banco é a 2ª temporada de \"Cyberpunk Edgerunners\" (2x01 a 2x10)"
+          ],
+          "duracao": "28 + 27 + 28 + 28 + 26 + 28 + 28 + 27 + 29 + 30 min (total 279 min)"
+        },
+        {
+          "nome": "Doc",
+          "nome_original": null,
+          "episodios": "3x05",
+          "progresso": {
+            "texto": "5/22",
+            "vistos": 5,
+            "total": 22
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"S.O.S.\")",
+          "transmissao": "FOX (EUA), hoje às 22h",
+          "brasil": "Sem streaming no Brasil (T3 sem data no Disney+)",
+          "notas": [
+            "Depois há pausa; o 3x06 (\"Facade\") sai na terça-feira, 3 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
+          ],
+          "duracao": "60 min"
+        },
         {
           "nome": "Invasão: Código Apollo",
           "nome_original": "Has Fallen",
@@ -16,29 +50,46 @@
             "total": 8
           },
           "titulo_pt_nota": "Título em português não divulgado (\"Episode 7\")",
-          "transmissao": "Canal+ (França), hoje",
-          "brasil": "+1 dia: Universal+, terça-feira, 20 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "Canal+ (França), segunda-feira, 19 de outubro de 2026",
+          "brasil": "+1 dia: Universal+, hoje (horário não divulgado)",
           "notas": [
             "Semanal; no Universal+ às terças. O final da temporada (2x08) sai na terça-feira, 27 de outubro de 2026 (no Canal+, na segunda-feira, 26 de outubro de 2026, segundo Bingers e Banco)"
           ],
           "duracao": "44 min"
         },
         {
-          "nome": "Line of Fire",
+          "nome": "Red River",
           "nome_original": null,
-          "episodios": "1x05",
+          "episodios": "1x16",
           "progresso": {
-            "texto": "5/10",
-            "vistos": 5,
-            "total": 10
+            "texto": "16/24",
+            "vistos": 16,
+            "total": 24
           },
-          "titulo_pt_nota": "Título em português não divulgado (\"Cul-de-sac\")",
-          "transmissao": "NBC (EUA), hoje às 23h",
-          "brasil": "Sem streaming no Brasil",
+          "titulo_pt_nota": "Título em português não divulgado (\"The Oath at the Grave\")",
+          "transmissao": "NTV (Japão), hoje às 13h29",
+          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x15 saiu às 14h35 no calendário da Crunchyroll Brasil)",
           "notas": [
-            "Semanal às segundas; o 1x06 (\"Cabin Pressure\") sai na segunda-feira, 26 de outubro de 2026, às 23h; depois há pausa e o 1x07 sai na terça-feira, 10 de novembro de 2026, à 0h (fim do horário de verão nos EUA). Do 1x08 ao 1x10 (episódios sem nome): segundas-feiras 16, 23 e 30 de novembro de 2026 nos EUA (datas do Bingers; o Banco ainda não tem); final da temporada no 1x10"
+            "Semanal às terças; o 1x17 sai na terça-feira, 27 de outubro de 2026. Nome em inglês do TMDB (o TVmaze e o Banco ainda não têm nome)"
           ],
-          "duracao": "60 min"
+          "duracao": "30 min"
+        },
+        {
+          "nome": "VisionQuest",
+          "nome_original": null,
+          "episodios": "1x03 e 1x04",
+          "progresso": {
+            "texto": "4/8",
+            "vistos": 4,
+            "total": 8
+          },
+          "titulo_pt_nota": "Título em português não divulgado (\"Reboot\" / \"Malware\")",
+          "transmissao": "Disney+ (EUA), hoje às 18h PT (22h de Brasília)",
+          "brasil": "Mesmo dia: Disney+, hoje às 22h (os dois episódios juntos)",
+          "notas": [
+            "Semanal às terças: 1x05 e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; 1x07 na terça-feira, 3 de novembro de 2026, e o final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
+          ],
+          "duracao": "duração não divulgada"
         }
       ]
     },
@@ -46,15 +97,6 @@
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
-        {
-          "selo": "",
-          "data": "20/10",
-          "dia_semana": "ter",
-          "nome": "Cyberpunk: Mercenários 2",
-          "temporada": "T2",
-          "info": "Netflix, 10 episódios (todos de uma vez)",
-          "texto": "20/10 (ter) - Cyberpunk: Mercenários 2 - T2 - Netflix, 10 episódios (todos de uma vez)"
-        },
         {
           "selo": "",
           "data": "30/10",
@@ -92,13 +134,13 @@
           "texto": "11/11 (qua) - O Senhor dos Anéis: Os Anéis de Poder - T3 - Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)"
         },
         {
-          "selo": "✏️",
+          "selo": "",
           "data": "20/11",
           "dia_semana": "sex",
           "nome": "Percy Jackson e os Olimpianos",
           "temporada": "T3",
           "info": "Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
-          "texto": "✏️ 20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
+          "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
         },
         {
           "selo": "",
@@ -166,8 +208,8 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 sai amanhã, terça-feira, 20 de outubro de 2026, às 22h; depois há pausa e o 3x06 sai na terça-feira, 3 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 sai amanhã, terça-feira, 20 de outubro de 2026, às 22h; depois há pausa e o 3x06 sai na terça-feira, 3 de novembro de 2026, às 23h"
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 sai hoje, terça-feira, 20 de outubro de 2026, às 22h; depois há pausa e o 3x06 sai na terça-feira, 3 de novembro de 2026, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 sai hoje, terça-feira, 20 de outubro de 2026, às 22h; depois há pausa e o 3x06 sai na terça-feira, 3 de novembro de 2026, às 23h"
           },
           {
             "nome": "Fire Country",
@@ -181,8 +223,8 @@
           },
           {
             "nome": "Line of Fire",
-            "info": "T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x05 sai hoje, segunda-feira, 19 de outubro de 2026, às 23h; sem plataforma no Brasil",
-            "texto": "Line of Fire - T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x05 sai hoje, segunda-feira, 19 de outubro de 2026, às 23h; sem plataforma no Brasil"
+            "info": "T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x06 sai na segunda-feira, 26 de outubro de 2026, às 23h; sem plataforma no Brasil",
+            "texto": "Line of Fire - T1, no ar nos EUA desde segunda-feira, 21 de setembro de 2026 (NBC); o 1x06 sai na segunda-feira, 26 de outubro de 2026, às 23h; sem plataforma no Brasil"
           },
           {
             "nome": "Only Murders in the Building",
@@ -284,13 +326,32 @@
           ]
         },
         {
+          "nome": "Crystal Lake",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Camp Crystal / título em português não divulgado",
+            "codigo": "1x01",
+            "titulo_en": "Camp Crystal",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo",
+            "duracao": "56 min"
+          },
+          "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)"
+        },
+        {
           "nome": "Doc",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "32/36",
+            "texto": "32/37",
             "vistos": 32,
-            "total": 36
+            "total": 37
           },
           "proximo": {
             "texto": "3x01 - Wherefore Art Thou / título em português não divulgado",
@@ -360,7 +421,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "Sem streaming no Brasil; o 1x05 sai nos EUA hoje, às 23h (NBC)"
+          "brasil": "Sem streaming no Brasil; o 1x06 sai nos EUA na segunda-feira, 26 de outubro de 2026, às 23h (NBC)"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -386,21 +447,21 @@
           "nome_original": "Vampirina: Teenage Vampire",
           "status": "🟢",
           "progresso": {
-            "texto": "16/22",
-            "vistos": 16,
+            "texto": "18/22",
+            "vistos": 18,
             "total": 22
           },
           "proximo": {
-            "texto": "2x01 - Second To Breathe / título em português não divulgado",
-            "codigo": "2x01",
-            "titulo_en": "Second To Breathe",
+            "texto": "2x03 - Second Verse / título em português não divulgado",
+            "codigo": "2x03",
+            "titulo_en": "Second Verse",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "próximo",
             "duracao": "26 min"
           },
           "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
           "notas": [
-            "Um promo do Disney Channel Espanha chama a T2 de \"últimos episódios\" (The Direct, quinta-feira, 8 de outubro de 2026), mas a Disney não anunciou oficialmente o fim da série"
+            "Um promo do Disney Channel Espanha chama a T2 de \"últimos episódios\" (The Direct, quinta-feira, 8 de outubro de 2026), mas a Disney não anunciou oficialmente o fim da série. O Bingers já marca a série como encerrada; o Banco e o TVmaze, como ativa"
           ]
         }
       ]
@@ -409,25 +470,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "Crystal Lake",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x01 - Camp Crystal / título em português não divulgado",
-            "codigo": "1x01",
-            "titulo_en": "Camp Crystal",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo",
-            "duracao": "56 min"
-          },
-          "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)"
-        },
         {
           "nome": "Dragon Ball Super: Beerus",
           "nome_original": null,
@@ -448,6 +490,29 @@
           "brasil": "Crunchyroll (1x02 no ar desde domingo, 18 de outubro de 2026, às 13h; legendado)",
           "notas": [
             "Título em português do TMDB pt-BR (a Crunchyroll BR mostra o título em inglês). Disney+ na quarta-feira, 21 de outubro de 2026; HBO Max na sexta-feira, 23 de outubro de 2026; Netflix no sábado, 24 de outubro de 2026, à 0h. Semanal aos domingos; o 1x03 sai no domingo, 25 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "Invasão: Código Apollo",
+          "nome_original": "Has Fallen",
+          "status": "🟢",
+          "progresso": {
+            "texto": "14/15",
+            "vistos": 14,
+            "total": 15
+          },
+          "proximo": {
+            "texto": "2x07 - Episode 7 / título em português não divulgado",
+            "codigo": "2x07",
+            "titulo_en": "Episode 7",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "próximo",
+            "duracao": "44 min",
+            "lancamento": "2026-10-20"
+          },
+          "brasil": "Universal+, hoje, terça-feira, 20 de outubro de 2026 (horário não divulgado)",
+          "notas": [
+            "No Canal+ (França) o 2x07 saiu na segunda-feira, 19 de outubro de 2026. Final da temporada (2x08) na terça-feira, 27 de outubro de 2026 no Universal+ (no Canal+, na segunda-feira, 26 de outubro de 2026)"
           ]
         },
         {
@@ -480,27 +545,74 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "Invasão: Código Apollo",
-          "nome_original": "Has Fallen",
+          "nome": "Cyberpunk: Mercenários",
+          "nome_original": "Cyberpunk: Edgerunners",
           "status": "🟢",
           "progresso": {
-            "texto": "14/15",
-            "vistos": 14,
-            "total": 15
+            "texto": "10/20",
+            "vistos": 10,
+            "total": 20
           },
           "proximo": {
-            "texto": "2x07 - Episode 7 / título em português não divulgado",
-            "codigo": "2x07",
-            "titulo_en": "Episode 7",
+            "texto": "2x01 - Last Chance for a Slow Dance / Última chance para uma dança",
+            "codigo": "2x01",
+            "titulo_en": "Last Chance for a Slow Dance",
+            "titulo_pt": "Última chance para uma dança",
+            "rotulo": "hoje",
+            "duracao": "28 min"
+          },
+          "transmissao": "Netflix (mundial), às 0h PT (4h de Brasília)",
+          "brasil": "Netflix, hoje às 4h (2ª temporada completa, 10 episódios de uma vez)",
+          "notas": [
+            "Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
+          ]
+        },
+        {
+          "nome": "Red River",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "15/16",
+            "vistos": 15,
+            "total": 16
+          },
+          "proximo": {
+            "texto": "1x16 - The Oath at the Grave / título em português não divulgado",
+            "codigo": "1x16",
+            "titulo_en": "The Oath at the Grave",
             "titulo_pt": "título em português não divulgado",
             "rotulo": "hoje",
-            "duracao": "44 min",
+            "duracao": "30 min",
             "lancamento": "2026-10-20"
           },
-          "transmissao": "Canal+ (França)",
-          "brasil": "Universal+, +1 dia: terça-feira, 20 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "NTV (Japão), às 13h29",
+          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x15 saiu às 14h35 no calendário da Crunchyroll Brasil)",
           "notas": [
-            "No Universal+ a 2ª temporada se chama \"Invasão: Código Apollo\" (a 1ª, \"Assalto a Paris\", no JustWatch BR). Final da temporada (2x08) na terça-feira, 27 de outubro de 2026 (no Canal+, na segunda-feira, 26 de outubro de 2026, segundo Bingers e Banco)"
+            "Nome em inglês do TMDB (o TVmaze e o Banco ainda não têm nome). O 1x17 sai na terça-feira, 27 de outubro de 2026"
+          ]
+        },
+        {
+          "nome": "VisionQuest",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/4",
+            "vistos": 2,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x03 - Reboot / título em português não divulgado",
+            "codigo": "1x03",
+            "titulo_en": "Reboot",
+            "titulo_pt": "título em português não divulgado",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada",
+            "lancamento": "2026-10-20T22:00-03:00"
+          },
+          "transmissao": "Disney+ (EUA), às 18h PT (22h de Brasília)",
+          "brasil": "Disney+, hoje às 22h (1x03 e 1x04 juntos)",
+          "notas": [
+            "O 1x04 (\"Malware\") sai junto. 1x05 e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
           ]
         }
       ]
