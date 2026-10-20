@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 20 de outubro de 2026",
-  "atualizado_em": "2026-10-20T17:31-03:00",
+  "atualizado_em": "2026-10-20T18:52-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -56,23 +56,6 @@
             "Semanal; no Universal+ às terças. O final da temporada (2x08) sai no Universal+ na terça-feira, 27 de outubro de 2026"
           ],
           "duracao": "44 min"
-        },
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "episodios": "1x16",
-          "progresso": {
-            "texto": "16/24",
-            "vistos": 16,
-            "total": 24
-          },
-          "titulo_pt_nota": "\"O Juramento no Túmulo\"",
-          "transmissao": "NTV (Japão), hoje às 13h29",
-          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x15 saiu às 14h35 no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "Semanal às terças; o 1x17 sai na terça-feira, 27 de outubro de 2026. Nome em inglês do TMDB (o TVmaze e o Banco ainda não têm nome)"
-          ],
-          "duracao": "30 min"
         },
         {
           "nome": "VisionQuest",
@@ -530,30 +513,6 @@
           "brasil": "Netflix, hoje às 4h (2ª temporada completa, 10 episódios de uma vez)",
           "notas": [
             "Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
-          ]
-        },
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "15/16",
-            "vistos": 15,
-            "total": 16
-          },
-          "proximo": {
-            "texto": "1x16 - The Oath at the Grave / O Juramento no Túmulo",
-            "codigo": "1x16",
-            "titulo_en": "The Oath at the Grave",
-            "titulo_pt": "O Juramento no Túmulo",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-10-20"
-          },
-          "transmissao": "NTV (Japão), às 13h29",
-          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x15 saiu às 14h35 no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "Nome em inglês do TMDB (o TVmaze e o Banco ainda não têm nome). O 1x17 sai na terça-feira, 27 de outubro de 2026"
           ]
         },
         {
