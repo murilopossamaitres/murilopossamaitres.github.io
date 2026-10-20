@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 20 de outubro de 2026",
-  "atualizado_em": "2026-10-20T05:40-03:00",
+  "atualizado_em": "2026-10-20T08:30-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -97,6 +97,15 @@
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
+        {
+          "selo": "",
+          "data": "20/10",
+          "dia_semana": "ter",
+          "nome": "Cyberpunk: Mercenários 2",
+          "temporada": "T2",
+          "info": "Netflix, 10 episódios (todos de uma vez)",
+          "texto": "20/10 (ter) - Cyberpunk: Mercenários 2 - T2 - Netflix, 10 episódios (todos de uma vez)"
+        },
         {
           "selo": "",
           "data": "30/10",
