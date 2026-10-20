@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 20 de outubro de 2026",
-  "atualizado_em": "2026-10-20T08:30-03:00",
+  "atualizado_em": "2026-10-20T17:27-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -53,7 +53,7 @@
           "transmissao": "Canal+ (França), segunda-feira, 19 de outubro de 2026",
           "brasil": "+1 dia: Universal+, hoje (horário não divulgado)",
           "notas": [
-            "Semanal; no Universal+ às terças. O final da temporada (2x08) sai na terça-feira, 27 de outubro de 2026 (no Canal+, na segunda-feira, 26 de outubro de 2026, segundo Bingers e Banco)"
+            "Semanal; no Universal+ às terças. O final da temporada (2x08) sai no Universal+ na terça-feira, 27 de outubro de 2026"
           ],
           "duracao": "44 min"
         },
@@ -461,15 +461,16 @@
             "total": 22
           },
           "proximo": {
-            "texto": "2x03 - Second Verse / título em português não divulgado",
+            "texto": "2x03 - Second Verse / Segundo Verso",
             "codigo": "2x03",
             "titulo_en": "Second Verse",
-            "titulo_pt": "título em português não divulgado",
+            "titulo_pt": "Segundo Verso",
             "rotulo": "próximo",
             "duracao": "26 min"
           },
           "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
           "notas": [
+            "Faltam 4 episódios da T2, todos lançados na terça-feira, 6 de outubro de 2026: 2x03 \"Segundo Verso\" (Second Verse), 2x04 \"Em Segundo Plano\" (Second Banana), 2x05 \"Pensando Duas Vezes\" (Second Guessing) e 2x06 \"O Último Segundo\" (The Last Second). Títulos em português com tradução própria",
             "Um promo do Disney Channel Espanha chama a T2 de \"últimos episódios\" (The Direct, quinta-feira, 8 de outubro de 2026), mas a Disney não anunciou oficialmente o fim da série. O Bingers já marca a série como encerrada; o Banco e o TVmaze, como ativa"
           ]
         }
@@ -479,51 +480,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "1/2",
-            "vistos": 1,
-            "total": 2
-          },
-          "proximo": {
-            "texto": "1x02 - The God of Destruction Heads to the Planet of the Kai / O Deus da Destruição Parte Para o Planeta Kaioh",
-            "codigo": "1x02",
-            "titulo_en": "The God of Destruction Heads to the Planet of the Kai",
-            "titulo_pt": "O Deus da Destruição Parte Para o Planeta Kaioh",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Crunchyroll (1x02 no ar desde domingo, 18 de outubro de 2026, às 13h; legendado)",
-          "notas": [
-            "Título em português do TMDB pt-BR (a Crunchyroll BR mostra o título em inglês). Disney+ na quarta-feira, 21 de outubro de 2026; HBO Max na sexta-feira, 23 de outubro de 2026; Netflix no sábado, 24 de outubro de 2026, à 0h. Semanal aos domingos; o 1x03 sai no domingo, 25 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Invasão: Código Apollo",
-          "nome_original": "Has Fallen",
-          "status": "🟢",
-          "progresso": {
-            "texto": "14/15",
-            "vistos": 14,
-            "total": 15
-          },
-          "proximo": {
-            "texto": "2x07 - Episode 7 / título em português não divulgado",
-            "codigo": "2x07",
-            "titulo_en": "Episode 7",
-            "titulo_pt": "título em português não divulgado",
-            "rotulo": "próximo",
-            "duracao": "44 min",
-            "lancamento": "2026-10-20"
-          },
-          "brasil": "Universal+, hoje, terça-feira, 20 de outubro de 2026 (horário não divulgado)",
-          "notas": [
-            "No Canal+ (França) o 2x07 saiu na segunda-feira, 19 de outubro de 2026. Final da temporada (2x08) na terça-feira, 27 de outubro de 2026 no Universal+ (no Canal+, na segunda-feira, 26 de outubro de 2026)"
-          ]
-        },
         {
           "nome": "Locker Diaries: Coven Academy",
           "nome_original": null,
