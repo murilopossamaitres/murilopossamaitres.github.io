@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 20 de outubro de 2026",
-  "atualizado_em": "2026-10-20T18:52-03:00",
+  "atualizado_em": "2026-10-20T19:00-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -439,21 +439,21 @@
           "nome_original": "Vampirina: Teenage Vampire",
           "status": "🟢",
           "progresso": {
-            "texto": "18/22",
-            "vistos": 18,
+            "texto": "19/22",
+            "vistos": 19,
             "total": 22
           },
           "proximo": {
-            "texto": "2x03 - Second Verse / Segundo Verso",
-            "codigo": "2x03",
-            "titulo_en": "Second Verse",
-            "titulo_pt": "Segundo Verso",
+            "texto": "2x04 - Second Banana / Em Segundo Plano",
+            "codigo": "2x04",
+            "titulo_en": "Second Banana",
+            "titulo_pt": "Em Segundo Plano",
             "rotulo": "próximo",
             "duracao": "26 min"
           },
           "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
           "notas": [
-            "Faltam 4 episódios da T2, todos lançados na terça-feira, 6 de outubro de 2026: 2x03 \"Segundo Verso\", 2x04 \"Em Segundo Plano\", 2x05 \"Pensando Duas Vezes\" e 2x06 \"O Último Segundo\"",
+            "Faltam 3 episódios da T2, todos lançados na terça-feira, 6 de outubro de 2026: 2x04 \"Em Segundo Plano\", 2x05 \"Pensando Duas Vezes\" e 2x06 \"O Último Segundo\"",
             "Um promo do Disney Channel Espanha chama a T2 de \"últimos episódios\" (The Direct, quinta-feira, 8 de outubro de 2026), mas a Disney não anunciou oficialmente o fim da série. O Bingers já marca a série como encerrada; o Banco e o TVmaze, como ativa"
           ]
         }
