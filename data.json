@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 21 de outubro de 2026",
-  "atualizado_em": "2026-10-21T11:44-03:00",
+  "atualizado_em": "2026-10-21T13:08-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -376,29 +376,6 @@
             "duracao": "30 min"
           },
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
-        },
-        {
-          "nome": "Vampirina: Uma Vampirinha Adolescente",
-          "nome_original": "Vampirina: Teenage Vampire",
-          "status": "🟢",
-          "progresso": {
-            "texto": "20/22",
-            "vistos": 20,
-            "total": 22
-          },
-          "proximo": {
-            "texto": "2x05 - Second Guessing / Um Segundo para Duvidar",
-            "codigo": "2x05",
-            "titulo_en": "Second Guessing",
-            "titulo_pt": "Um Segundo para Duvidar",
-            "rotulo": "próximo",
-            "duracao": "26 min"
-          },
-          "brasil": "T1 e T2 no Disney+ (o 2x06 é o final da temporada; 3ª temporada não anunciada)",
-          "notas": [
-            "Faltam 2 episódios da T2, ambos lançados no Disney+ na quarta-feira, 7 de outubro de 2026: 2x05 \"Um Segundo para Duvidar\" e 2x06 \"O Último Segundo\"",
-            "Um promo do Disney Channel Espanha chama a T2 de \"últimos episódios\" (The Direct, quinta-feira, 8 de outubro de 2026), mas a Disney não anunciou oficialmente o fim da série. O Bingers já marca a série como encerrada; o Banco e o TVmaze, como ativa"
-          ]
         }
       ]
     },
