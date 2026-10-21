@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 21 de outubro de 2026",
-  "atualizado_em": "2026-10-21T07:40-03:00",
+  "atualizado_em": "2026-10-21T11:22-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -725,6 +725,49 @@
               {
                 "loja": null,
                 "texto": "Plataforma e data não anunciadas (pelos filmes anteriores da Lionsgate no Brasil, o mais provável é o Prime Video, meses depois do cinema)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
+          "titulo_original": "Hexed",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema (exclusivo), depois aluguel/compra e streaming",
+            "notas": []
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 26 de novembro de 2026 (oficial no Brasil, Disney; exclusivamente nos cinemas)",
+            "notas": [
+              "A página de ingressos da Disney Brasil mostra quarta-feira, 25 de novembro de 2026 (data dos EUA)"
+            ]
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": null,
+                "texto": "sem data (não anunciada)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "Disney+",
+                "texto": "sem data (estimativa no Brasil, não anunciada: alguns meses depois do cinema)"
               }
             ]
           }
