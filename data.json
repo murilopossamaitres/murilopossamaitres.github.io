@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 21 de outubro de 2026",
-  "atualizado_em": "2026-10-21T11:37-03:00",
+  "atualizado_em": "2026-10-21T11:44-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -670,6 +670,49 @@
               {
                 "loja": "Prime Video",
                 "texto": "sem data (estimativa no Brasil, não anunciada: entre dezembro de 2026 e janeiro de 2027; pode passar antes pelo MGM+)"
+              }
+            ]
+          }
+        },
+        {
+          "titulo": "Cara-de-Barro",
+          "titulo_original": "Clayface",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema, depois aluguel/compra e streaming (DC Studios; distribuição Warner Bros. Pictures; direção de James Watkins)",
+            "notas": []
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 22 de outubro de 2026 (oficial no Brasil, Warner Bros.; em pré-venda, inclusive IMAX)",
+            "notas": [
+              "Sessões antecipadas na quarta-feira, 21 de outubro de 2026, em salas selecionadas (JWave); classificação 18 anos; EUA: sexta-feira, 23 de outubro de 2026"
+            ]
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": null,
+                "texto": "sem data (não anunciada)"
+              }
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": null,
+            "notas": [],
+            "linhas": [
+              {
+                "loja": "HBO Max",
+                "texto": "sem data (estimativa no Brasil, não anunciada: alguns meses depois do cinema)"
               }
             ]
           }
