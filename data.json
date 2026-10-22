@@ -1,11 +1,79 @@
 {
-  "titulo": "📺 Séries — quarta-feira, 21 de outubro de 2026",
-  "atualizado_em": "2026-10-21T20:45-03:00",
+  "titulo": "📺 Séries — quinta-feira, 22 de outubro de 2026",
+  "atualizado_em": "2026-10-22T05:43-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
+        {
+          "nome": "9-1-1",
+          "nome_original": null,
+          "episodios": "10x02",
+          "progresso": {
+            "texto": "2/?",
+            "vistos": null,
+            "total": null
+          },
+          "titulo_pt_nota": "\"Fogo no Buraco\" (\"Fire in the Hole\")",
+          "transmissao": "ABC (EUA), hoje às 21h",
+          "brasil": "Sem data no Brasil (T1 a T9 no Disney+)",
+          "notas": [
+            "Semanal às quintas; o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h"
+          ],
+          "duracao": "43 min"
+        },
+        {
+          "nome": "9-1-1: Nashville",
+          "nome_original": null,
+          "episodios": "2x02",
+          "progresso": {
+            "texto": "2/?",
+            "vistos": null,
+            "total": null
+          },
+          "titulo_pt_nota": "\"Garotos e Furúnculos\" (\"Boys and Boils\")",
+          "transmissao": "ABC (EUA), hoje às 22h",
+          "brasil": "Sem data no Brasil (T1 no Disney+)",
+          "notas": [
+            "Semanal às quintas; o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h"
+          ],
+          "duracao": "60 min"
+        },
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "episodios": "13x11 e 13x12",
+          "progresso": {
+            "texto": "12/13",
+            "vistos": 12,
+            "total": 13
+          },
+          "titulo_pt_nota": "\"O Final Feliz de Madison\" / \"Irmãs de Armas\" (\"Madison's Happy Ending\" / \"Sisters in Arms\")",
+          "transmissao": "FX (EUA), hoje às 22h (13x11) e às 22h44 (13x12)",
+          "brasil": "+1 dia: Disney+, sexta-feira, 23 de outubro de 2026, à 1h",
+          "notas": [
+            "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+          ],
+          "duracao": "44 min + 54 min"
+        },
+        {
+          "nome": "Grey's Anatomy",
+          "nome_original": null,
+          "episodios": "23x02",
+          "progresso": {
+            "texto": "2/13",
+            "vistos": 2,
+            "total": 13
+          },
+          "titulo_pt_nota": "\"Escorregando e Deslizando\" (\"Slippin' and Slidin'\")",
+          "transmissao": "ABC (EUA), hoje às 23h",
+          "brasil": "Sem data no Brasil (Sony Channel / UOL Play não confirmados)",
+          "notas": [
+            "Semanal às quintas; o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") sai na quinta-feira, 29 de outubro de 2026, às 23h"
+          ],
+          "duracao": "60 min"
+        },
         {
           "nome": "Scrubs",
           "nome_original": null,
@@ -19,12 +87,29 @@
             "🧊 Está na sua Geladeira"
           ],
           "titulo_pt_nota": "\"O Aniversário do Meu Melhor Amigo\" (\"My Best Friend's Birthday\")",
-          "transmissao": "ABC (EUA), hoje às 21h",
-          "brasil": "+1 dia: Disney+, quinta-feira, 22 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "ABC (EUA), quarta-feira, 21 de outubro de 2026, às 21h",
+          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
           "notas": [
             "No Banco de Séries aparece como 11x05. O 2x06 (\"Meu Halloween\") sai na ABC na quarta-feira, 28 de outubro de 2026, e no Disney+ na quinta-feira, 29 de outubro de 2026"
           ],
           "duracao": "30 min"
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "episodios": "1x17",
+          "progresso": {
+            "texto": "17/26",
+            "vistos": 17,
+            "total": 26
+          },
+          "titulo_pt_nota": "\"Mestre da Guilda Hailenn\" (\"Guildmaster Hailenn\")",
+          "transmissao": "MBS (Japão), hoje às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
+          "notas": [
+            "Semanal às quintas; o 1x18 sai na quinta-feira, 29 de outubro de 2026"
+          ],
+          "duracao": "24 min"
         }
       ]
     },
@@ -128,13 +213,13 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai na quinta-feira, 22 de outubro de 2026, às 21h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai na quinta-feira, 22 de outubro de 2026, às 21h"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai hoje, às 21h, e o 10x03 na quinta-feira, 29 de outubro de 2026",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai hoje, às 21h, e o 10x03 na quinta-feira, 29 de outubro de 2026"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai na quinta-feira, 22 de outubro de 2026, às 22h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai na quinta-feira, 22 de outubro de 2026, às 22h"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai hoje, às 22h, e o 2x03 na quinta-feira, 29 de outubro de 2026",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai hoje, às 22h, e o 2x03 na quinta-feira, 29 de outubro de 2026"
           },
           {
             "nome": "A Especialista (The Savant)",
@@ -153,8 +238,8 @@
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai na quinta-feira, 22 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai na quinta-feira, 22 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai hoje, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai hoje, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Linha de Fogo",
@@ -183,9 +268,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "64/143",
+            "texto": "64/144",
             "vistos": 64,
-            "total": 143
+            "total": 144
           },
           "proximo": {
             "texto": "5x05 - Peer Pressure / Pressão do Grupo",
@@ -202,9 +287,9 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/19",
+            "texto": "0/20",
             "vistos": 0,
-            "total": 19
+            "total": 20
           },
           "proximo": {
             "texto": "1x01 - Pilot / Piloto",
@@ -303,9 +388,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "448/467",
+            "texto": "448/468",
             "vistos": 448,
-            "total": 467
+            "total": 468
           },
           "proximo": {
             "texto": "22x01 - Only the Strong Survive / Só os fortes sobrevivem",
@@ -455,7 +540,56 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "142/144",
+            "vistos": 142,
+            "total": 144
+          },
+          "proximo": {
+            "texto": "13x11 e 13x12 - Madison's Happy Ending e Sisters in Arms / O Final Feliz de Madison e Irmãs de Armas",
+            "codigo": "13x11 e 13x12",
+            "titulo_en": "Madison's Happy Ending e Sisters in Arms",
+            "titulo_pt": "O Final Feliz de Madison e Irmãs de Armas",
+            "rotulo": "hoje",
+            "duracao": "44 min + 54 min",
+            "lancamento": "2026-10-23T01:00-03:00"
+          },
+          "transmissao": "FX (EUA), às 22h e às 22h44",
+          "brasil": "+1 dia: Disney+, sexta-feira, 23 de outubro de 2026, à 1h",
+          "notas": [
+            "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+          ]
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/17",
+            "vistos": 16,
+            "total": 17
+          },
+          "proximo": {
+            "texto": "1x17 - Guildmaster Hailenn / Mestre da Guilda Hailenn",
+            "codigo": "1x17",
+            "titulo_en": "Guildmaster Hailenn",
+            "titulo_pt": "Mestre da Guilda Hailenn",
+            "rotulo": "hoje",
+            "duracao": "24 min",
+            "lancamento": "2026-10-22"
+          },
+          "transmissao": "MBS (Japão), às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "notas": [
+            "O 1x18 sai na quinta-feira, 29 de outubro de 2026"
+          ]
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -664,7 +798,7 @@
           "cinema_brasil": {
             "emoji": "🎟️",
             "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 22 de outubro de 2026 (oficial no Brasil, Warner Bros.; em pré-venda, inclusive IMAX)",
+            "valor": "quinta-feira, 22 de outubro de 2026 (oficial no Brasil, Warner Bros.; estreia hoje, inclusive IMAX)",
             "notas": [
               "Sessões antecipadas na quarta-feira, 21 de outubro de 2026, em salas selecionadas (JWave); classificação 18 anos; EUA: sexta-feira, 23 de outubro de 2026"
             ]
@@ -722,7 +856,8 @@
             "valor": "sem data no Brasil",
             "notas": [
               "Nenhum país tem data anunciada (o filme ainda não estreou em nenhum lugar)"
-            ]
+            ],
+            "linhas": []
           },
           "streaming": {
             "emoji": "📺",
@@ -730,7 +865,8 @@
             "valor": "sem data no Brasil",
             "notas": [
               "Plataforma não anunciada (Godzilla Minus One, da mesma distribuidora, está na Netflix Brasil, segundo o JBox)"
-            ]
+            ],
+            "linhas": []
           }
         },
         {
