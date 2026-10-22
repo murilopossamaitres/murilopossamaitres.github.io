@@ -1,0 +1,53 @@
+{
+  "_leia": "Séries em que o Murilo está em dia. O parse_resumo.py tira dos cards (lançamentos, atrasadas, recente, hoje) a série com este nome exato enquanto o episódio do card for <= em_dia_ate. Episódio novo (ex.: T2) volta a aparecer sozinho. Novidades não são filtradas.",
+  "itens": [
+    {
+      "nome": "Coven Academy",
+      "em_dia_ate": "1x21",
+      "em_dia_em": "2026-10-18",
+      "obs": "T1 completa (21/21); 2ª temporada não anunciada"
+    },
+    {
+      "nome": "Youth",
+      "em_dia_ate": "1x06",
+      "em_dia_em": "2026-10-19",
+      "obs": "1x06 visto em 19/10 (Bingers); 1x07 sai dom 25/10/2026, aí volta sozinha"
+    },
+    {
+      "nome": "Red River",
+      "em_dia_ate": "1x16",
+      "em_dia_em": "2026-10-20",
+      "obs": "1x16 \"O Juramento no Túmulo\" visto em 20/10 (Banco pendente, Bingers ok); 1x17 sai ter 27/10/2026 na Crunchyroll, aí volta sozinha"
+    },
+    {
+      "nome": "Dragon Ball Super: Beerus",
+      "em_dia_ate": "1x02",
+      "em_dia_em": "2026-10-20",
+      "obs": "1x02 visto em 20/10 (Bingers; Banco ainda 1/2); 1x03 sai dom 25/10/2026 na Crunchyroll, aí volta sozinha"
+    },
+    {
+      "nome": "Invasão: Código Apollo",
+      "em_dia_ate": "2x07",
+      "em_dia_em": "2026-10-20",
+      "obs": "2x07 visto em 20/10 (Bingers; Banco ainda 14/15); final 2x08 sai ter 27/10/2026 no Universal+, aí volta sozinha"
+    },
+    {
+      "nome": "Vampirina: Uma Vampirinha Adolescente",
+      "em_dia_ate": "2x06",
+      "em_dia_em": "2026-10-21",
+      "obs": "2x05 e 2x06 vistos em 21/10; T2 completa (6/6), 0 pendentes; 3ª temporada não anunciada"
+    },
+    {
+      "nome": "VisionQuest",
+      "em_dia_ate": "1x04",
+      "em_dia_em": "2026-10-22",
+      "obs": "1x04 \"Malware\" visto em 22/10 (Bingers, nota 5); 4/4 lançados. 1x05 \"Firewall\" (pt-BR: \"Firewall\") e 1x06 saem ter 27/10/2026 às 22h no Disney+, aí volta sozinha"
+    },
+    {
+      "nome": "Scrubs",
+      "em_dia_ate": "2x05",
+      "em_dia_em": "2026-10-22",
+      "obs": "2x05 \"My Best Friend's Birthday\" (\"O Aniversário do Meu Melhor Amigo\") visto em 22/10 (Bingers, nota 5); 5/10. 2x06 \"My Halloween\" (\"Meu Halloween\") sai qua 28/10/2026 na ABC e qui 29/10/2026 no Disney+, aí volta sozinha"
+    }
+  ]
+}
