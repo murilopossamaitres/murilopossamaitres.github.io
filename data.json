@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 22 de outubro de 2026",
-  "atualizado_em": "2026-10-22T05:43-03:00",
+  "atualizado_em": "2026-10-22T13:07-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -488,28 +488,6 @@
           "brasil": "Netflix (2ª temporada completa, 10 episódios, no ar desde terça-feira, 20 de outubro de 2026, às 4h)",
           "notas": [
             "Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
-          ]
-        },
-        {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "3/4",
-            "vistos": 3,
-            "total": 4
-          },
-          "proximo": {
-            "texto": "1x04 - Malware / Malware",
-            "codigo": "1x04",
-            "titulo_en": "Malware",
-            "titulo_pt": "Malware",
-            "rotulo": "próximo",
-            "duracao": "48 min"
-          },
-          "brasil": "Disney+ (1x04 no ar desde terça-feira, 20 de outubro de 2026, às 22h)",
-          "notas": [
-            "1x05 (\"Firewall\") e 1x06 na terça-feira, 27 de outubro de 2026, às 22h; 1x07 na terça-feira, 3 de novembro de 2026, e o final (1x08) na terça-feira, 10 de novembro de 2026, às 23h"
           ]
         },
         {
