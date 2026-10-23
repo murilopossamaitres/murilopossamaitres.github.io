@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
-  "atualizado_em": "2026-10-23T05:42-03:00",
+  "atualizado_em": "2026-10-23T13:31-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -506,32 +506,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "15/16",
-            "vistos": 15,
-            "total": 16
-          },
-          "proximo": {
-            "texto": "2x06 - A Different Corner / Uma Esquina Diferente",
-            "codigo": "2x06",
-            "titulo_en": "A Different Corner",
-            "titulo_pt": "Uma Esquina Diferente",
-            "rotulo": "hoje",
-            "duracao": "42 min",
-            "lancamento": "2026-10-23"
-          },
-          "transmissao": "Paramount+ (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x07 (\"Ás de Espadas\") sai na sexta-feira, 30 de outubro de 2026"
-          ]
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
