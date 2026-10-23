@@ -1,6 +1,5 @@
 {
   "titulo": "📺 Séries — quinta-feira, 22 de outubro de 2026",
-  "atualizado_em": "2026-10-22T18:50-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -73,23 +72,6 @@
             "Semanal às quintas; o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") sai na quinta-feira, 29 de outubro de 2026, às 23h"
           ],
           "duracao": "60 min"
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x17",
-          "progresso": {
-            "texto": "17/26",
-            "vistos": 17,
-            "total": 26
-          },
-          "titulo_pt_nota": "\"Mestre da Guilda Hailenn\" (\"Guildmaster Hailenn\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
-          "notas": [
-            "Semanal às quintas; o 1x18 sai na quinta-feira, 29 de outubro de 2026"
-          ],
-          "duracao": "24 min"
         }
       ]
     },
@@ -368,15 +350,15 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "448/468",
-            "vistos": 448,
+            "texto": "449/468",
+            "vistos": 449,
             "total": 468
           },
           "proximo": {
-            "texto": "22x01 - Only the Strong Survive / Só os fortes sobrevivem",
-            "codigo": "22x01",
-            "titulo_en": "Only the Strong Survive",
-            "titulo_pt": "Só os fortes sobrevivem",
+            "texto": "22x02 - We Built This City / Nós Construímos Esta Cidade",
+            "codigo": "22x02",
+            "titulo_en": "We Built This City",
+            "titulo_pt": "Nós Construímos Esta Cidade",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
@@ -521,30 +503,6 @@
           "brasil": "+1 dia: Disney+, sexta-feira, 23 de outubro de 2026, à 1h",
           "notas": [
             "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
-          ]
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "16/17",
-            "vistos": 16,
-            "total": 17
-          },
-          "proximo": {
-            "texto": "1x17 - Guildmaster Hailenn / Mestre da Guilda Hailenn",
-            "codigo": "1x17",
-            "titulo_en": "Guildmaster Hailenn",
-            "titulo_pt": "Mestre da Guilda Hailenn",
-            "rotulo": "hoje",
-            "duracao": "24 min",
-            "lancamento": "2026-10-22"
-          },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
-          "notas": [
-            "O 1x18 sai na quinta-feira, 29 de outubro de 2026"
           ]
         }
       ]
@@ -1055,5 +1013,6 @@
         }
       ]
     }
-  }
+  },
+  "atualizado_em": "2026-10-22T23:26-03:00"
 }
