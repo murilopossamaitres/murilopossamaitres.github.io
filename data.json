@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
-  "atualizado_em": "2026-10-23T13:31-03:00",
+  "atualizado_em": "2026-10-23T16:39-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -700,6 +700,12 @@
                 "texto": "sem data (estimativa no Brasil, não anunciada: entre dezembro de 2026 e janeiro de 2027; pode passar antes pelo MGM+)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": "https://www.justwatch.com/br/filme/verity",
+            "fonte_nome": "JustWatch Brasil",
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -743,6 +749,13 @@
                 "texto": "sem data (estimativa no Brasil, não anunciada: alguns meses depois do cinema)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": "https://tv.apple.com/br/movie/clayface/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
+            "fonte_nome": "Apple TV Brasil",
+            "obs": "Página na Apple TV Brasil existe, mas sem botão de pré-venda, compra ou aluguel; JustWatch Brasil (22/10) sem oferta digital",
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -784,6 +797,12 @@
               "Plataforma não anunciada (Godzilla Minus One, da mesma distribuidora, está na Netflix Brasil, segundo o JBox)"
             ],
             "linhas": []
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
+            "fonte_nome": "JustWatch Brasil",
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -839,6 +858,12 @@
                 "texto": "Plataforma e data não anunciadas (pelos filmes anteriores da Lionsgate no Brasil, o mais provável é o Prime Video, meses depois do cinema)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": null,
+            "fonte_nome": null,
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -882,6 +907,12 @@
                 "texto": "sem data (estimativa no Brasil, não anunciada: alguns meses depois do cinema)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": null,
+            "fonte_nome": null,
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -918,6 +949,12 @@
                 "texto": "sexta-feira, 2 de abril de 2027 (oficial; horário não divulgado)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": null,
+            "fonte_nome": null,
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -967,6 +1004,13 @@
                 "texto": "sem data (provável, não anunciado; a Parte 1 ainda não está no HBO Max Brasil)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
+            "fonte_nome": "Apple TV Brasil",
+            "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
+            "verificado_em": "2026-10-23"
           }
         },
         {
@@ -1010,6 +1054,12 @@
                 "texto": "sem data (provável, não anunciado)"
               }
             ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": null,
+            "fonte_nome": null,
+            "verificado_em": "2026-10-23"
           }
         }
       ]
