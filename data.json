@@ -1,44 +1,11 @@
 {
-  "titulo": "📺 Séries — quinta-feira, 22 de outubro de 2026",
+  "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
+  "atualizado_em": "2026-10-23T05:42-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "9-1-1",
-          "nome_original": null,
-          "episodios": "10x02",
-          "progresso": {
-            "texto": "2/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "\"Fogo no Buraco\" (\"Fire in the Hole\")",
-          "transmissao": "ABC (EUA), hoje às 21h",
-          "brasil": "Sem data no Brasil (T1 a T9 no Disney+)",
-          "notas": [
-            "Semanal às quintas; o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h"
-          ],
-          "duracao": "43 min"
-        },
-        {
-          "nome": "9-1-1: Nashville",
-          "nome_original": null,
-          "episodios": "2x02",
-          "progresso": {
-            "texto": "2/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "\"Garotos e Furúnculos\" (\"Boys and Boils\")",
-          "transmissao": "ABC (EUA), hoje às 22h",
-          "brasil": "Sem data no Brasil (T1 no Disney+)",
-          "notas": [
-            "Semanal às quintas; o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h"
-          ],
-          "duracao": "60 min"
-        },
         {
           "nome": "American Horror Story",
           "nome_original": null,
@@ -49,29 +16,66 @@
             "total": 13
           },
           "titulo_pt_nota": "\"O Final Feliz de Madison\" / \"Irmãs de Armas\" (\"Madison's Happy Ending\" / \"Sisters in Arms\")",
-          "transmissao": "FX (EUA), hoje às 22h (13x11) e às 22h44 (13x12)",
-          "brasil": "+1 dia: Disney+, sexta-feira, 23 de outubro de 2026, à 1h",
+          "transmissao": "FX (EUA), quinta-feira, 22 de outubro de 2026, às 22h (13x11) e às 22h44 (13x12)",
+          "brasil": "+1 dia: Disney+, hoje à 1h",
           "notas": [
             "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
           ],
-          "duracao": "44 min + 54 min"
+          "duracao": "44 min + 44 min"
         },
         {
-          "nome": "Grey's Anatomy",
-          "nome_original": null,
-          "episodios": "23x02",
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "episodios": "1x07, 1x08 e 1x09",
           "progresso": {
-            "texto": "2/13",
-            "vistos": 2,
-            "total": 13
+            "texto": "7–9/13",
+            "vistos": null,
+            "total": null
           },
-          "titulo_pt_nota": "\"Escorregando e Deslizando\" (\"Slippin' and Slidin'\")",
-          "transmissao": "ABC (EUA), hoje às 23h",
-          "brasil": "Sem data no Brasil (Sony Channel / UOL Play não confirmados)",
+          "titulo_pt_nota": "\"O que se esconde abaixo\" / \"Os enviados (Parte 1)\" / \"Os enviados (Parte 2)\" (\"What Lies Beneath\" / \"The Envoys (1)\" / \"The Envoys (2)\")",
+          "transmissao": "Paramount+, hoje (lote do Livro 1)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; lotes seguintes às sextas)",
           "notas": [
-            "Semanal às quintas; o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") sai na quinta-feira, 29 de outubro de 2026, às 23h"
+            "Títulos dos eps 7 a 9 ainda em inglês no TMDB pt-BR (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ],
-          "duracao": "60 min"
+          "duracao": "22 min + 22 min + 22 min"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x06",
+          "progresso": {
+            "texto": "6/10",
+            "vistos": 6,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"Uma Esquina Diferente\" (\"A Different Corner\")",
+          "transmissao": "Paramount+, hoje (horário não divulgado)",
+          "brasil": "Paramount+",
+          "notas": [
+            "Semanal às sextas; o 2x07 (\"Ás de Espadas\") sai na sexta-feira, 30 de outubro de 2026"
+          ],
+          "duracao": "42 min"
+        },
+        {
+          "nome": "Tulsa King",
+          "nome_original": null,
+          "episodios": "4x02",
+          "progresso": {
+            "texto": "2/10",
+            "vistos": 2,
+            "total": 10
+          },
+          "outras_linhas": [
+            "🧊 Está na sua Geladeira"
+          ],
+          "titulo_pt_nota": "\"Galo Cego\" (\"Blind Rooster\")",
+          "transmissao": "Paramount+, hoje",
+          "brasil": "Paramount+, hoje (semanal, 10 episódios)",
+          "notas": [
+            "O 4x03 (\"Cessar e Desistir\") sai na sexta-feira, 30 de outubro de 2026. Renovada para a 5ª temporada"
+          ],
+          "duracao": "41 min"
         }
       ]
     },
@@ -175,13 +179,13 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai hoje, às 21h, e o 10x03 na quinta-feira, 29 de outubro de 2026",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 sai hoje, às 21h, e o 10x03 na quinta-feira, 29 de outubro de 2026"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, e o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, e o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai hoje, às 22h, e o 2x03 na quinta-feira, 29 de outubro de 2026",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 sai hoje, às 22h, e o 2x03 na quinta-feira, 29 de outubro de 2026"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, e o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, e o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h"
           },
           {
             "nome": "A Especialista (The Savant)",
@@ -195,13 +199,13 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai na sexta-feira, 23 de outubro de 2026, às 22h nos EUA; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai na sexta-feira, 23 de outubro de 2026, às 22h nos EUA; sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai hoje, às 22h nos EUA, e o 5x04 (\"Vencedores e Perdedores\") na sexta-feira, 30 de outubro de 2026; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai hoje, às 22h nos EUA, e o 5x04 (\"Vencedores e Perdedores\") na sexta-feira, 30 de outubro de 2026; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai hoje, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 sai hoje, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, e o 23x03 sai na quinta-feira, 29 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, e o 23x03 sai na quinta-feira, 29 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Linha de Fogo",
@@ -268,9 +272,9 @@
           "nome_original": "Avatar: Seven Havens",
           "status": "🔴",
           "progresso": {
-            "texto": "0/6",
+            "texto": "0/9",
             "vistos": 0,
-            "total": 6
+            "total": 9
           },
           "proximo": {
             "texto": "1x01 - On the Horizon / No horizonte",
@@ -280,9 +284,9 @@
             "rotulo": "próximo",
             "duracao": "22 min"
           },
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde hoje, sexta-feira, 23 de outubro de 2026)",
           "notas": [
-            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Livro 1: 7 a 9 na sexta-feira, 23 de outubro de 2026; 10 a 13 na sexta-feira, 30 de outubro de 2026"
+            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ]
         },
         {
@@ -410,9 +414,9 @@
           "nome_original": "Pokémon Horizons: The Series",
           "status": "🔴",
           "progresso": {
-            "texto": "0/153",
+            "texto": "0/154",
             "vistos": 0,
-            "total": 153
+            "total": 154
           },
           "proximo": {
             "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
@@ -430,6 +434,28 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "142/144",
+            "vistos": 142,
+            "total": 144
+          },
+          "proximo": {
+            "texto": "13x11 e 13x12 - Madison's Happy Ending e Sisters in Arms / O Final Feliz de Madison e Irmãs de Armas",
+            "codigo": "13x11 e 13x12",
+            "titulo_en": "Madison's Happy Ending e Sisters in Arms",
+            "titulo_pt": "O Final Feliz de Madison e Irmãs de Armas",
+            "rotulo": "próximo",
+            "duracao": "44 min + 44 min"
+          },
+          "brasil": "Disney+ (13x11 e 13x12 no ar desde hoje, sexta-feira, 23 de outubro de 2026, à 1h)",
+          "notas": [
+            "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+          ]
+        },
         {
           "nome": "Cyberpunk: Mercenários",
           "nome_original": "Cyberpunk: Edgerunners",
@@ -482,27 +508,27 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "American Horror Story",
-          "nome_original": null,
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
           "status": "🟢",
           "progresso": {
-            "texto": "142/144",
-            "vistos": 142,
-            "total": 144
+            "texto": "15/16",
+            "vistos": 15,
+            "total": 16
           },
           "proximo": {
-            "texto": "13x11 e 13x12 - Madison's Happy Ending e Sisters in Arms / O Final Feliz de Madison e Irmãs de Armas",
-            "codigo": "13x11 e 13x12",
-            "titulo_en": "Madison's Happy Ending e Sisters in Arms",
-            "titulo_pt": "O Final Feliz de Madison e Irmãs de Armas",
+            "texto": "2x06 - A Different Corner / Uma Esquina Diferente",
+            "codigo": "2x06",
+            "titulo_en": "A Different Corner",
+            "titulo_pt": "Uma Esquina Diferente",
             "rotulo": "hoje",
-            "duracao": "44 min + 54 min",
-            "lancamento": "2026-10-23T01:00-03:00"
+            "duracao": "42 min",
+            "lancamento": "2026-10-23"
           },
-          "transmissao": "FX (EUA), às 22h e às 22h44",
-          "brasil": "+1 dia: Disney+, sexta-feira, 23 de outubro de 2026, à 1h",
+          "transmissao": "Paramount+ (horário não divulgado)",
+          "brasil": "Paramount+",
           "notas": [
-            "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+            "Semanal às sextas; o 2x07 (\"Ás de Espadas\") sai na sexta-feira, 30 de outubro de 2026"
           ]
         }
       ]
@@ -714,7 +740,7 @@
           "cinema_brasil": {
             "emoji": "🎟️",
             "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 22 de outubro de 2026 (oficial no Brasil, Warner Bros.; estreia hoje, inclusive IMAX)",
+            "valor": "quinta-feira, 22 de outubro de 2026 (oficial no Brasil, Warner Bros.; em cartaz, inclusive IMAX)",
             "notas": [
               "Sessões antecipadas na quarta-feira, 21 de outubro de 2026, em salas selecionadas (JWave); classificação 18 anos; EUA: sexta-feira, 23 de outubro de 2026"
             ]
@@ -1013,6 +1039,5 @@
         }
       ]
     }
-  },
-  "atualizado_em": "2026-10-22T23:26-03:00"
+  }
 }
