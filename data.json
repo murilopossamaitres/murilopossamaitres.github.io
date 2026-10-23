@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
-  "atualizado_em": "2026-10-23T16:54-03:00",
+  "atualizado_em": "2026-10-23T16:58-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -23,7 +23,12 @@
           ],
           "duracao": "44 min + 44 min",
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "transmissao",
+            "brasil",
+            "duracao"
+          ]
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -42,7 +47,18 @@
           ],
           "duracao": "22 min + 22 min + 22 min",
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Títulos dos eps 7 a 9 ainda em inglês no TMDB pt-BR (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
+          ]
         },
         {
           "nome": "Tulsa King",
@@ -64,7 +80,19 @@
           ],
           "duracao": "41 min",
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "outras_linhas",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:O 4x03 (\"Cessar e Desistir\") sai na sexta-feira, 30 de outubro de 2026. Renovada para a 5ª temporada"
+          ]
         }
       ]
     },
@@ -278,7 +306,12 @@
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "progresso",
+            "brasil",
+            "notas:Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
+          ]
         },
         {
           "nome": "Carrie, a Estranha",
@@ -419,7 +452,10 @@
           },
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "progresso"
+          ]
         }
       ]
     },
@@ -449,7 +485,16 @@
             "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
           ],
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
+          ]
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -703,7 +748,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Cara-de-Barro",
@@ -763,7 +811,11 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "cinema_brasil",
+            "encomenda"
+          ]
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -812,7 +864,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -875,7 +930,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -926,7 +984,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -970,7 +1031,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 2",
@@ -1028,7 +1092,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 3",
@@ -1079,7 +1146,10 @@
             "verificado_em": "2026-10-23"
           },
           "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "novo_ate": "2026-10-24T16:53-03:00",
+          "campos_novos": [
+            "encomenda"
+          ]
         }
       ]
     }
