@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
-  "atualizado_em": "2026-10-23T16:48-03:00",
+  "atualizado_em": "2026-10-23T16:54-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -21,7 +21,9 @@
           "notas": [
             "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
           ],
-          "duracao": "44 min + 44 min"
+          "duracao": "44 min + 44 min",
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -38,7 +40,9 @@
           "notas": [
             "Títulos dos eps 7 a 9 ainda em inglês no TMDB pt-BR (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ],
-          "duracao": "22 min + 22 min + 22 min"
+          "duracao": "22 min + 22 min + 22 min",
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "nome": "Tulsa King",
@@ -58,7 +62,9 @@
           "notas": [
             "O 4x03 (\"Cessar e Desistir\") sai na sexta-feira, 30 de outubro de 2026. Renovada para a 5ª temporada"
           ],
-          "duracao": "41 min"
+          "duracao": "41 min",
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         }
       ]
     },
@@ -270,7 +276,9 @@
           "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde hoje, sexta-feira, 23 de outubro de 2026)",
           "notas": [
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "nome": "Carrie, a Estranha",
@@ -409,7 +417,9 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         }
       ]
     },
@@ -437,7 +447,9 @@
           "brasil": "Disney+ (13x11 e 13x12 no ar desde hoje, sexta-feira, 23 de outubro de 2026, à 1h)",
           "notas": [
             "Final 13x13 (\"Uma Diversão Infernal\") no Disney+ na sexta-feira, 30 de outubro de 2026, à 1h"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -689,7 +701,9 @@
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Cara-de-Barro",
@@ -747,7 +761,9 @@
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda vista pelo Murilo na conta Apple logada (Brasil). Data digital no Brasil não divulgada (Apple deslogada, iTunes BR, Prime Video BR e notícias sem data). Prime Video BR não pôde ser conferido daqui (site bloqueia/redireciona para a loja dos EUA).",
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -794,7 +810,9 @@
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -855,7 +873,9 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -904,7 +924,9 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -946,7 +968,9 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 2",
@@ -1002,7 +1026,9 @@
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 3",
@@ -1051,7 +1077,9 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-23"
-          }
+          },
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         }
       ]
     }
