@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 24 de outubro de 2026",
-  "atualizado_em": "2026-10-24T05:44-03:00",
+  "atualizado_em": "2026-10-24T17:23-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -395,12 +395,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
         }
       ]
     },
@@ -616,6 +611,62 @@
       "emoji": "🎞️",
       "itens": [
         {
+          "titulo": "Resident Evil",
+          "titulo_original": "Resident Evil",
+          "ano": "2026",
+          "tipo_lancamento": {
+            "emoji": "🏷️",
+            "rotulo": "Tipo de lançamento",
+            "valor": "cinema, depois aluguel/compra e streaming",
+            "notas": [
+              "Reinvenção da franquia, escrita e dirigida por Zach Cregger (A Hora do Mal); no Brasil, distribuição da Sony Pictures"
+            ]
+          },
+          "cinema_brasil": {
+            "emoji": "🎟️",
+            "rotulo": "Cinema no Brasil",
+            "valor": "quinta-feira, 17 de setembro de 2026 (oficial no Brasil, Sony Pictures; em cartaz)",
+            "notas": [
+              "EUA: sexta-feira, 18 de setembro de 2026 (Sony Pictures)"
+            ]
+          },
+          "aluguel_compra": {
+            "emoji": "🛒",
+            "rotulo": "Aluguel e compra",
+            "valor": "sem data no Brasil",
+            "notas": [
+              "EUA: terça-feira, 3 de novembro de 2026 (compra e aluguel digital; Máquina Nerd, O Vício). No Brasil, deve ser em data próxima, mas não foi anunciada"
+            ]
+          },
+          "streaming": {
+            "emoji": "📺",
+            "rotulo": "Streaming",
+            "valor": "sem data no Brasil",
+            "notas": [
+              "Plataforma não anunciada (lançamentos recentes da Sony no Brasil foram para a HBO Max, segundo o Estadão)"
+            ]
+          },
+          "encomenda": {
+            "ofertas": [],
+            "fonte_url": "https://www.justwatch.com/br/filme/resident-evil-2026",
+            "fonte_nome": "JustWatch Brasil",
+            "obs": "Apple TV Brasil: título não encontrado na loja iTunes BR (24/10/2026). Prime Video BR não conferível daqui; nos EUA o Prime Video já tem pré-venda (sem valor para o Brasil). Digital nos EUA: 03/11/2026.",
+            "verificado_em": "2026-10-24"
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-25T17:23-03:00"
+        },
+        {
           "titulo": "Verity",
           "titulo_original": "Verity",
           "ano": "2026",
@@ -670,12 +721,7 @@
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Cara-de-Barro",
@@ -792,12 +838,7 @@
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -858,12 +899,7 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -912,12 +948,7 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -959,12 +990,7 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 2",
@@ -1020,12 +1046,7 @@
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 3",
@@ -1074,12 +1095,7 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-10-24"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00"
+          }
         }
       ]
     }
