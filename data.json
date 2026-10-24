@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 24 de outubro de 2026",
-  "atualizado_em": "2026-10-24T17:23-03:00",
+  "atualizado_em": "2026-10-24T18:26-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -55,26 +55,6 @@
           "temporada": "T3",
           "info": "Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
           "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
-        },
-        {
-          "selo": "🆕",
-          "data": "20/11",
-          "dia_semana": "sex",
-          "nome": "Terra da Máfia",
-          "temporada": "T2",
-          "info": "Paramount+, episódio final da temporada (2x10; semanal às sextas até lá)",
-          "texto": "🆕 20/11 (sex) - Terra da Máfia - T2 - Paramount+, episódio final da temporada (2x10; semanal às sextas até lá)",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-25T05:40-03:00"
         },
         {
           "selo": "",
