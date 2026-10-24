@@ -1,76 +1,11 @@
 {
-  "titulo": "📺 Séries — sexta-feira, 23 de outubro de 2026",
-  "atualizado_em": "2026-10-23T20:42-03:00",
+  "titulo": "📺 Séries — sábado, 24 de outubro de 2026",
+  "atualizado_em": "2026-10-24T05:44-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "Avatar: Os Sete Refúgios",
-          "nome_original": "Avatar: Seven Havens",
-          "episodios": "1x07, 1x08 e 1x09",
-          "progresso": {
-            "texto": "7–9/13",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "\"O que se esconde abaixo\" / \"Os enviados (Parte 1)\" / \"Os enviados (Parte 2)\" (\"What Lies Beneath\" / \"The Envoys (1)\" / \"The Envoys (2)\")",
-          "transmissao": "Paramount+, hoje (lote do Livro 1)",
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; lotes seguintes às sextas)",
-          "notas": [
-            "Títulos dos eps 7 a 9 ainda em inglês no TMDB pt-BR (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ],
-          "duracao": "22 min + 22 min + 22 min",
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Títulos dos eps 7 a 9 ainda em inglês no TMDB pt-BR (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
-        },
-        {
-          "nome": "Tulsa King",
-          "nome_original": null,
-          "episodios": "4x02",
-          "progresso": {
-            "texto": "2/10",
-            "vistos": 2,
-            "total": 10
-          },
-          "outras_linhas": [
-            "🧊 Está na sua Geladeira"
-          ],
-          "titulo_pt_nota": "\"Galo Cego\" (\"Blind Rooster\")",
-          "transmissao": "Paramount+, hoje",
-          "brasil": "Paramount+, hoje (semanal, 10 episódios)",
-          "notas": [
-            "O 4x03 (\"Cessar e Desistir\") sai na sexta-feira, 30 de outubro de 2026. Renovada para a 5ª temporada"
-          ],
-          "duracao": "41 min",
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "outras_linhas",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:O 4x03 (\"Cessar e Desistir\") sai na sexta-feira, 30 de outubro de 2026. Renovada para a 5ª temporada"
-          ]
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -120,6 +55,26 @@
           "temporada": "T3",
           "info": "Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
           "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
+        },
+        {
+          "selo": "🆕",
+          "data": "20/11",
+          "dia_semana": "sex",
+          "nome": "Terra da Máfia",
+          "temporada": "T2",
+          "info": "Paramount+, episódio final da temporada (2x10; semanal às sextas até lá)",
+          "texto": "🆕 20/11 (sex) - Terra da Máfia - T2 - Paramount+, episódio final da temporada (2x10; semanal às sextas até lá)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-25T05:40-03:00"
         },
         {
           "selo": "",
@@ -181,9 +136,19 @@
             "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, e o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h"
           },
           {
+            "nome": "A Assassina (The Assassin)",
+            "info": "T2 🔜 Reino Unido e Irlanda: sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
+            "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data"
+          },
+          {
             "nome": "A Especialista (The Savant)",
             "info": "T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)",
             "texto": "A Especialista (The Savant) - T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)"
+          },
+          {
+            "nome": "As Bruxas Mayfair",
+            "info": "T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil",
+            "texto": "As Bruxas Mayfair - T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil"
           },
           {
             "nome": "Doc",
@@ -192,8 +157,8 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai hoje, às 22h nos EUA, e o 5x04 (\"Vencedores e Perdedores\") na sexta-feira, 30 de outubro de 2026; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") sai hoje, às 22h nos EUA, e o 5x04 (\"Vencedores e Perdedores\") na sexta-feira, 30 de outubro de 2026; sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") saiu na sexta-feira, 23 de outubro de 2026, e o 5x04 (\"Vencedores e Perdedores\") sai na sexta-feira, 30 de outubro de 2026, às 22h; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") saiu na sexta-feira, 23 de outubro de 2026, e o 5x04 (\"Vencedores e Perdedores\") sai na sexta-feira, 30 de outubro de 2026, às 22h; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
@@ -277,17 +242,21 @@
             "rotulo": "próximo",
             "duracao": "22 min"
           },
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde hoje, sexta-feira, 23 de outubro de 2026)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026)",
           "notas": [
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
           ],
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
+            "proximo",
             "brasil",
             "notas:Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-25T05:40-03:00"
         },
         {
           "nome": "Carrie, a Estranha",
@@ -427,11 +396,11 @@
             "duracao": "30 min"
           },
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "progresso"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         }
       ]
     },
@@ -481,8 +450,20 @@
           "brasil": "Sem data no Brasil (os Locker Diaries anteriores chegaram ao Disney+ Brasil meses depois dos EUA)",
           "notas": [
             "Spin-off em curtas verticais de Coven Academy (série separada; formato Locker Diaries, 6 episódios de cerca de 3 minutos, segundo o Diário da Mídia).",
-            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 no sábado, 24 de outubro de 2026; 1x05 e 1x06 no sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
-          ]
+            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 hoje, sábado, 24 de outubro de 2026; 1x05 e 1x06 no sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Spin-off em curtas verticais de Coven Academy (série separada; formato Locker Diaries, 6 episódios de cerca de 3 minutos, segundo o Diário da Mídia).",
+            "notas:Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 hoje, sábado, 24 de outubro de 2026; 1x05 e 1x06 no sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-25T05:40-03:00"
         }
       ]
     },
@@ -688,13 +669,13 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Cara-de-Barro",
@@ -750,15 +731,21 @@
             ],
             "fonte_url": "https://tv.apple.com/br/movie/clayface/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil",
-            "obs": "Pré-venda vista pelo Murilo na conta Apple logada (Brasil). Data digital no Brasil não divulgada (Apple deslogada, iTunes BR, Prime Video BR e notícias sem data). Prime Video BR não pôde ser conferido daqui (site bloqueia/redireciona para a loja dos EUA).",
-            "verificado_em": "2026-10-23"
+            "obs": "Pré-venda vista pelo Murilo na conta Apple logada (Brasil, 23/10/2026). Data digital no Brasil não divulgada (Apple deslogada, JustWatch Brasil e notícias sem data em 24/10/2026). Prime Video BR não pôde ser conferido daqui (amazon.com.br/primevideo.com bloqueiam o acesso automático).",
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
             "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-25T05:40-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -804,13 +791,13 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -870,13 +857,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -924,13 +911,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -971,13 +958,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 2",
@@ -1032,13 +1019,13 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 3",
@@ -1086,13 +1073,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-23"
+            "verificado_em": "2026-10-24"
           },
-          "novo": true,
-          "novo_ate": "2026-10-24T16:53-03:00",
           "campos_novos": [
             "encomenda"
-          ]
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-24T16:53-03:00"
         }
       ]
     }
