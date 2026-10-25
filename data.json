@@ -1,41 +1,11 @@
 {
   "titulo": "📺 Séries — domingo, 25 de outubro de 2026",
-  "atualizado_em": "2026-10-25T05:41-03:00",
+  "atualizado_em": "2026-10-25T15:16-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "episodios": "1x03",
-          "progresso": {
-            "texto": "3/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "\"O Deus da Destruição Parte para a Terra\" (\"The God of Destruction Heads to Earth\")",
-          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
-          "brasil": "Mesmo dia: Crunchyroll, por volta das 13h (legendado; o 1x02 saiu às 13h)",
-          "notas": [
-            "Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x03 nessas plataformas não divulgadas); o 1x04 sai no domingo, 1 de novembro de 2026"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x03 nessas plataformas não divulgadas); o 1x04 sai no domingo, 1 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-26T05:41-03:00"
-        },
         {
           "nome": "Overgeared",
           "nome_original": null,
@@ -514,42 +484,6 @@
       "titulo": "Episódio de hoje",
       "emoji": "📅",
       "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "2/3",
-            "vistos": 2,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x03 - The God of Destruction Heads to Earth / O Deus da Destruição Parte para a Terra",
-            "codigo": "1x03",
-            "titulo_en": "The God of Destruction Heads to Earth",
-            "titulo_pt": "O Deus da Destruição Parte para a Terra",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-10-25"
-          },
-          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
-          "brasil": "Crunchyroll, por volta das 13h (legendado)",
-          "notas": [
-            "Progresso do Bingers (1x02 visto em 20/10); no Banco de Séries o 1x02 ainda não aparece marcado"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Progresso do Bingers (1x02 visto em 20/10); no Banco de Séries o 1x02 ainda não aparece marcado"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-26T05:41-03:00"
-        },
         {
           "nome": "Youth",
           "nome_original": null,
