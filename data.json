@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — domingo, 25 de outubro de 2026",
-  "atualizado_em": "2026-10-25T15:16-03:00",
+  "atualizado_em": "2026-10-25T21:05-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -707,19 +707,7 @@
             "fonte_nome": "JustWatch Brasil",
             "obs": "Apple TV Brasil: título não encontrado na loja iTunes BR (24/10/2026). Prime Video BR não conferível daqui; nos EUA o Prime Video já tem pré-venda (sem valor para o Brasil). Digital nos EUA: 03/11/2026.",
             "verificado_em": "2026-10-25"
-          },
-          "campos_novos": [
-            "titulo",
-            "titulo_original",
-            "ano",
-            "tipo_lancamento",
-            "cinema_brasil",
-            "aluguel_compra",
-            "streaming",
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-25T17:23-03:00"
+          }
         },
         {
           "titulo": "Verity",
