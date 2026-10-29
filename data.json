@@ -1,6 +1,6 @@
 {
-  "titulo": "📺 Séries — quarta-feira, 28 de outubro de 2026",
-  "atualizado_em": "2026-10-28T05:41-03:00",
+  "titulo": "📺 Séries — quinta-feira, 29 de outubro de 2026",
+  "atualizado_em": "2026-10-29T05:38-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -19,8 +19,8 @@
             "🧊 Está na sua Geladeira"
           ],
           "titulo_pt_nota": "\"Meu Halloween\" (\"My Halloween\")",
-          "transmissao": "ABC (EUA), hoje às 21h",
-          "brasil": "+1 dia: Disney+, quinta-feira, 29 de outubro de 2026 (horário não divulgado)",
+          "transmissao": "ABC (EUA), quarta-feira, 28 de outubro de 2026, às 21h",
+          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
           "notas": [
             "No Banco de Séries aparece como 11x06. O 2x07 (\"Minha História\") sai na ABC na quarta-feira, 4 de novembro de 2026, e no Disney+ na quinta-feira, 5 de novembro de 2026"
           ],
@@ -38,7 +38,37 @@
             "notas:No Banco de Séries aparece como 11x06. O 2x07 (\"Minha História\") sai na ABC na quarta-feira, 4 de novembro de 2026, e no Disney+ na quinta-feira, 5 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-10-29T05:41-03:00"
+          "novo_ate": "2026-10-30T05:38-03:00"
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "episodios": "1x18",
+          "progresso": {
+            "texto": "18/26",
+            "vistos": 18,
+            "total": 26
+          },
+          "titulo_pt_nota": "\"O Ferreiro Veruga\" (\"Blacksmith Veruga\")",
+          "transmissao": "MBS (Japão), hoje às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
+          "notas": [
+            "Semanal às quintas; o 1x19 sai na quinta-feira, 5 de novembro de 2026"
+          ],
+          "duracao": "30 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Semanal às quintas; o 1x19 sai na quinta-feira, 5 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-30T05:38-03:00"
         }
       ]
     },
@@ -142,13 +172,13 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, e o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, e o 10x03 (\"Ruas de Fogo\") sai na quinta-feira, 29 de outubro de 2026, às 21h"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, o 10x03 (\"Ruas de Fogo\") sai hoje, quinta-feira, 29 de outubro de 2026, às 21h, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, o 10x03 (\"Ruas de Fogo\") sai hoje, quinta-feira, 29 de outubro de 2026, às 21h, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, e o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, e o 2x03 (\"Que Haja Escuridão\") sai na quinta-feira, 29 de outubro de 2026, às 22h"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, o 2x03 (\"Que Haja Escuridão\") sai hoje, quinta-feira, 29 de outubro de 2026, às 22h, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, o 2x03 (\"Que Haja Escuridão\") sai hoje, quinta-feira, 29 de outubro de 2026, às 22h, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -177,8 +207,8 @@
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, e o 23x03 sai na quinta-feira, 29 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, e o 23x03 sai na quinta-feira, 29 de outubro de 2026, às 23h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, o 23x03 sai hoje, quinta-feira, 29 de outubro de 2026, às 23h, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, o 23x03 sai hoje, quinta-feira, 29 de outubro de 2026, às 23h, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Linha de Fogo",
@@ -493,21 +523,21 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "4/6",
-            "vistos": 4,
+            "texto": "5/6",
+            "vistos": 5,
             "total": 6
           },
           "proximo": {
-            "texto": "1x05 - Firewall / Firewall",
-            "codigo": "1x05",
-            "titulo_en": "Firewall",
-            "titulo_pt": "Firewall",
+            "texto": "1x06 - Deadlock / Impasse",
+            "codigo": "1x06",
+            "titulo_en": "Deadlock",
+            "titulo_pt": "Impasse",
             "rotulo": "próximo",
-            "duracao": "46 min + 54 min"
+            "duracao": "54 min"
           },
           "brasil": "Disney+ (1x05 e 1x06 no ar desde terça-feira, 27 de outubro de 2026, às 22h)",
           "notas": [
-            "1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
+            "1x05 visto em 28/10 (Bingers). Nome do 1x06 em português não divulgado (tradução própria). O 1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
           ],
           "campos_novos": [
             "nome",
@@ -516,10 +546,52 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
+            "notas:1x05 visto em 28/10 (Bingers). Nome do 1x06 em português não divulgado (tradução própria). O 1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
           ],
           "novo": true,
-          "novo_ate": "2026-10-29T05:41-03:00"
+          "novo_ate": "2026-10-30T05:38-03:00"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "17/18",
+            "vistos": 17,
+            "total": 18
+          },
+          "proximo": {
+            "texto": "1x18 - Blacksmith Veruga / O Ferreiro Veruga",
+            "codigo": "1x18",
+            "titulo_en": "Blacksmith Veruga",
+            "titulo_pt": "O Ferreiro Veruga",
+            "rotulo": "hoje",
+            "duracao": "30 min",
+            "lancamento": "2026-10-29"
+          },
+          "transmissao": "MBS (Japão), às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "notas": [
+            "O 1x19 sai na quinta-feira, 5 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:O 1x19 sai na quinta-feira, 5 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-30T05:38-03:00"
         }
       ]
     },
