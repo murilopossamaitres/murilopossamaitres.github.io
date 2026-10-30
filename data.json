@@ -36,36 +36,6 @@
           "novo_ate": "2026-10-31T05:35-03:00"
         },
         {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "episodios": "2x07",
-          "progresso": {
-            "texto": "7/10",
-            "vistos": 7,
-            "total": 10
-          },
-          "titulo_pt_nota": "\"Ás de Espadas\" (\"Ace of Spades\")",
-          "transmissao": "Paramount+, hoje (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026"
-          ],
-          "duracao": "53 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T05:35-03:00"
-        },
-        {
           "nome": "Tulsa King",
           "nome_original": null,
           "episodios": "4x03",
@@ -613,43 +583,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "16/17",
-            "vistos": 16,
-            "total": 17
-          },
-          "proximo": {
-            "texto": "2x07 - Ace of Spades / Ás de Espadas",
-            "codigo": "2x07",
-            "titulo_en": "Ace of Spades",
-            "titulo_pt": "Ás de Espadas",
-            "rotulo": "hoje",
-            "duracao": "53 min"
-          },
-          "transmissao": "Paramount+ (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T05:35-03:00"
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1289,5 +1223,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T17:25-03:00"
+  "atualizado_em": "2026-10-30T20:29-03:00"
 }
