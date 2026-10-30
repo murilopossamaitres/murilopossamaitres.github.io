@@ -144,6 +144,26 @@
           "novo_ate": "2026-10-31T16:42-03:00"
         },
         {
+          "selo": "🆕",
+          "data": "06/11",
+          "dia_semana": "sex",
+          "nome": "Awkwafina - A Cozinheira Improvável",
+          "temporada": "T1",
+          "info": "Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
+          "texto": "🆕 06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T17:12-03:00"
+        },
+        {
           "selo": "",
           "data": "08/11",
           "dia_semana": "dom",
@@ -160,6 +180,26 @@
           "temporada": "T3",
           "info": "Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)",
           "texto": "11/11 (qua) - O Senhor dos Anéis: Os Anéis de Poder - T3 - Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)"
+        },
+        {
+          "selo": "🆕",
+          "data": "13/11",
+          "dia_semana": "sex",
+          "nome": "12 12 12",
+          "temporada": "T1",
+          "info": "Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
+          "texto": "🆕 13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T17:12-03:00"
         },
         {
           "selo": "",
@@ -1249,5 +1289,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T16:42-03:00"
+  "atualizado_em": "2026-10-30T17:25-03:00"
 }
