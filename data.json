@@ -124,6 +124,26 @@
           "texto": "04/11 (qua) - Tudo É Justo - T2 - Disney+, quantidade do 1º dia no Brasil não divulgada"
         },
         {
+          "selo": "🆕",
+          "data": "06/11",
+          "dia_semana": "sex",
+          "nome": "De Mal a Pior",
+          "temporada": "T1",
+          "info": "Paramount+, temporada completa (6 episódios de uma vez)",
+          "texto": "🆕 06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T16:42-03:00"
+        },
+        {
           "selo": "",
           "data": "08/11",
           "dia_semana": "dom",
@@ -1229,5 +1249,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T14:31-03:00"
+  "atualizado_em": "2026-10-30T16:42-03:00"
 }
