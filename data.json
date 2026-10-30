@@ -1,30 +1,120 @@
 {
-  "titulo": "📺 Séries — quinta-feira, 29 de outubro de 2026",
-  "atualizado_em": "2026-10-29T05:38-03:00",
+  "titulo": "📺 Séries — sexta-feira, 30 de outubro de 2026",
+  "atualizado_em": "2026-10-30T05:35-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Scrubs",
+          "nome": "American Horror Story",
           "nome_original": null,
-          "episodios": "2x06",
+          "episodios": "13x13",
           "progresso": {
-            "texto": "6/10",
-            "vistos": 6,
+            "texto": "13/13",
+            "vistos": 13,
+            "total": 13
+          },
+          "titulo_pt_nota": "\"Uma Diversão Infernal\" (\"Devil of a Good Time\")",
+          "transmissao": "FX (EUA), quinta-feira, 29 de outubro de 2026, às 22h",
+          "brasil": "+1 dia: Disney+, hoje à 1h",
+          "notas": [
+            "Episódio final da 13ª temporada"
+          ],
+          "duracao": "51 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Episódio final da 13ª temporada"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T05:35-03:00"
+        },
+        {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "episodios": "1x10, 1x11, 1x12 e 1x13",
+          "progresso": {
+            "texto": "10–13/13",
+            "vistos": null,
+            "total": null
+          },
+          "titulo_pt_nota": "\"Fantasmas e Espíritos\" / \"A Batalha das Ruínas\" / \"A Cúpula\" / \"O Chakra da Raiz\" (\"Ghosts and Spirits\" / \"Battle of the Ruins\" / \"The Dome\" / \"The Root Chakra\")",
+          "transmissao": "Paramount+, hoje (último lote do Livro 1)",
+          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026)",
+          "notas": [
+            "Títulos dos eps 10 a 13 ainda sem nome em português (tradução própria). Fecha o Livro 1 (13 episódios)"
+          ],
+          "duracao": "duração não divulgada",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Títulos dos eps 10 a 13 ainda sem nome em português (tradução própria). Fecha o Livro 1 (13 episódios)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T05:35-03:00"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x07",
+          "progresso": {
+            "texto": "7/10",
+            "vistos": 7,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"Ás de Espadas\" (\"Ace of Spades\")",
+          "transmissao": "Paramount+, hoje (horário não divulgado)",
+          "brasil": "Paramount+",
+          "notas": [
+            "Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026"
+          ],
+          "duracao": "53 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T05:35-03:00"
+        },
+        {
+          "nome": "Tulsa King",
+          "nome_original": null,
+          "episodios": "4x03",
+          "progresso": {
+            "texto": "3/10",
+            "vistos": 3,
             "total": 10
           },
           "outras_linhas": [
             "🧊 Está na sua Geladeira"
           ],
-          "titulo_pt_nota": "\"Meu Halloween\" (\"My Halloween\")",
-          "transmissao": "ABC (EUA), quarta-feira, 28 de outubro de 2026, às 21h",
-          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
+          "titulo_pt_nota": "\"Cessar e Desistir\" (\"Cease & Desist\")",
+          "transmissao": "Paramount+, hoje",
+          "brasil": "Paramount+, hoje (semanal, 10 episódios)",
           "notas": [
-            "No Banco de Séries aparece como 11x06. O 2x07 (\"Minha História\") sai na ABC na quarta-feira, 4 de novembro de 2026, e no Disney+ na quinta-feira, 5 de novembro de 2026"
+            "O 4x04 (\"Estaca Zero\") sai na sexta-feira, 6 de novembro de 2026. Renovada para a 5ª temporada"
           ],
-          "duracao": "30 min",
+          "duracao": "42 min",
           "campos_novos": [
             "nome",
             "nome_original",
@@ -35,40 +125,10 @@
             "transmissao",
             "brasil",
             "duracao",
-            "notas:No Banco de Séries aparece como 11x06. O 2x07 (\"Minha História\") sai na ABC na quarta-feira, 4 de novembro de 2026, e no Disney+ na quinta-feira, 5 de novembro de 2026"
+            "notas:O 4x04 (\"Estaca Zero\") sai na sexta-feira, 6 de novembro de 2026. Renovada para a 5ª temporada"
           ],
           "novo": true,
-          "novo_ate": "2026-10-30T05:38-03:00"
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x18",
-          "progresso": {
-            "texto": "18/26",
-            "vistos": 18,
-            "total": 26
-          },
-          "titulo_pt_nota": "\"O Ferreiro Veruga\" (\"Blacksmith Veruga\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
-          "notas": [
-            "Semanal às quintas; o 1x19 sai na quinta-feira, 5 de novembro de 2026"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Semanal às quintas; o 1x19 sai na quinta-feira, 5 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-30T05:38-03:00"
+          "novo_ate": "2026-10-31T05:35-03:00"
         }
       ]
     },
@@ -172,13 +232,13 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, o 10x03 (\"Ruas de Fogo\") sai hoje, quinta-feira, 29 de outubro de 2026, às 21h, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x02 saiu na quinta-feira, 22 de outubro de 2026, o 10x03 (\"Ruas de Fogo\") sai hoje, quinta-feira, 29 de outubro de 2026, às 21h, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x03 (\"Ruas de Fogo\") saiu na quinta-feira, 29 de outubro de 2026, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x03 (\"Ruas de Fogo\") saiu na quinta-feira, 29 de outubro de 2026, e o 10x04 (\"Síndrome do Impostor\") na quinta-feira, 5 de novembro de 2026, às 22h"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, o 2x03 (\"Que Haja Escuridão\") sai hoje, quinta-feira, 29 de outubro de 2026, às 22h, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x02 saiu na quinta-feira, 22 de outubro de 2026, o 2x03 (\"Que Haja Escuridão\") sai hoje, quinta-feira, 29 de outubro de 2026, às 22h, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x03 (\"Que Haja Escuridão\") saiu na quinta-feira, 29 de outubro de 2026, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x03 (\"Que Haja Escuridão\") saiu na quinta-feira, 29 de outubro de 2026, e o 2x04 (\"A Sangue Frio\") na quinta-feira, 5 de novembro de 2026, às 23h"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -202,13 +262,13 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") saiu na sexta-feira, 23 de outubro de 2026, e o 5x04 (\"Vencedores e Perdedores\") sai na sexta-feira, 30 de outubro de 2026, às 22h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x03 (\"O Que Precisa Ser Feito\") saiu na sexta-feira, 23 de outubro de 2026, e o 5x04 (\"Vencedores e Perdedores\") sai na sexta-feira, 30 de outubro de 2026, às 22h; sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x04 (\"Vencedores e Perdedores\") sai hoje, sexta-feira, 30 de outubro de 2026, às 22h, e o 5x05 (\"Sem Saída\") na sexta-feira, 6 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x04 (\"Vencedores e Perdedores\") sai hoje, sexta-feira, 30 de outubro de 2026, às 22h, e o 5x05 (\"Sem Saída\") na sexta-feira, 6 de novembro de 2026, às 23h; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, o 23x03 sai hoje, quinta-feira, 29 de outubro de 2026, às 23h, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x02 saiu na quinta-feira, 22 de outubro de 2026, o 23x03 sai hoje, quinta-feira, 29 de outubro de 2026, às 23h, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, e o 23x04 (\"Amor na Cabeça\") na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Linha de Fogo",
@@ -275,9 +335,9 @@
           "nome_original": "Avatar: Seven Havens",
           "status": "🔴",
           "progresso": {
-            "texto": "0/9",
+            "texto": "0/13",
             "vistos": 0,
-            "total": 9
+            "total": 13
           },
           "proximo": {
             "texto": "1x01 - On the Horizon / No horizonte",
@@ -287,10 +347,21 @@
             "rotulo": "próximo",
             "duracao": "22 min"
           },
-          "brasil": "Paramount+ (1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026)",
+          "brasil": "Paramount+ (Livro 1 completo: 1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026; 10 a 13 desde hoje, sexta-feira, 30 de outubro de 2026)",
           "notas": [
-            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 9 ainda sem nome em português (tradução própria). Livro 1: 10 a 13 na sexta-feira, 30 de outubro de 2026"
-          ]
+            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T05:35-03:00"
         },
         {
           "nome": "Carrie, a Estranha",
@@ -357,21 +428,21 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "451/468",
-            "vistos": 451,
+            "texto": "452/468",
+            "vistos": 452,
             "total": 468
           },
           "proximo": {
-            "texto": "22x04 - Goodbye Horses / Adeus, Cavalos",
-            "codigo": "22x04",
-            "titulo_en": "Goodbye Horses",
-            "titulo_pt": "Adeus, Cavalos",
+            "texto": "22x05 - Sometimes I Feel Like a Motherless Child / Às Vezes Me Sinto Como uma Criança Sem Mãe",
+            "codigo": "22x05",
+            "titulo_en": "Sometimes I Feel Like a Motherless Child",
+            "titulo_pt": "Às Vezes Me Sinto Como uma Criança Sem Mãe",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
-            "Progresso do Bingers (22x02 e 22x03 vistos em 27/10). Nome do 22x04 em português não divulgado (tradução própria)"
+            "Progresso do Bingers (22x04 visto em 29/10). Nome do 22x05 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
             "nome",
@@ -380,10 +451,10 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:Progresso do Bingers (22x02 e 22x03 vistos em 27/10). Nome do 22x04 em português não divulgado (tradução própria)"
+            "notas:Progresso do Bingers (22x04 visto em 29/10). Nome do 22x05 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-10-29T05:41-03:00"
+          "novo_ate": "2026-10-31T05:35-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -452,6 +523,39 @@
       "emoji": "📺",
       "itens": [
         {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "144/145",
+            "vistos": 144,
+            "total": 145
+          },
+          "proximo": {
+            "texto": "13x13 - Devil of a Good Time / Uma Diversão Infernal",
+            "codigo": "13x13",
+            "titulo_en": "Devil of a Good Time",
+            "titulo_pt": "Uma Diversão Infernal",
+            "rotulo": "próximo",
+            "duracao": "51 min"
+          },
+          "brasil": "Disney+ (13x13, final da temporada, no ar desde hoje, sexta-feira, 30 de outubro de 2026, à 1h)",
+          "notas": [
+            "Episódio final da 13ª temporada"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Episódio final da 13ª temporada"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T05:35-03:00"
+        },
+        {
           "nome": "Cyberpunk: Mercenários",
           "nome_original": "Cyberpunk: Edgerunners",
           "status": "🟢",
@@ -517,39 +621,6 @@
           "notas": [
             "Semanal aos domingos; o 1x06 sai no domingo, 1 de novembro de 2026, às 11h30. O Bingers marca o 1x05 na sexta-feira, 23 de outubro de 2026 (vale a data da Crunchyroll Brasil)"
           ]
-        },
-        {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "5/6",
-            "vistos": 5,
-            "total": 6
-          },
-          "proximo": {
-            "texto": "1x06 - Deadlock / Impasse",
-            "codigo": "1x06",
-            "titulo_en": "Deadlock",
-            "titulo_pt": "Impasse",
-            "rotulo": "próximo",
-            "duracao": "54 min"
-          },
-          "brasil": "Disney+ (1x05 e 1x06 no ar desde terça-feira, 27 de outubro de 2026, às 22h)",
-          "notas": [
-            "1x05 visto em 28/10 (Bingers). Nome do 1x06 em português não divulgado (tradução própria). O 1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:1x05 visto em 28/10 (Bingers). Nome do 1x06 em português não divulgado (tradução própria). O 1x07 (\"Imolação\") na terça-feira, 3 de novembro de 2026, e o final (1x08, \"Para Sempre\") na terça-feira, 10 de novembro de 2026, às 23h (fim do horário de verão nos EUA)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-30T05:38-03:00"
         }
       ]
     },
@@ -558,27 +629,26 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
           "status": "🟢",
           "progresso": {
-            "texto": "17/18",
-            "vistos": 17,
-            "total": 18
+            "texto": "16/17",
+            "vistos": 16,
+            "total": 17
           },
           "proximo": {
-            "texto": "1x18 - Blacksmith Veruga / O Ferreiro Veruga",
-            "codigo": "1x18",
-            "titulo_en": "Blacksmith Veruga",
-            "titulo_pt": "O Ferreiro Veruga",
+            "texto": "2x07 - Ace of Spades / Ás de Espadas",
+            "codigo": "2x07",
+            "titulo_en": "Ace of Spades",
+            "titulo_pt": "Ás de Espadas",
             "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-10-29"
+            "duracao": "53 min"
           },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "transmissao": "Paramount+ (horário não divulgado)",
+          "brasil": "Paramount+",
           "notas": [
-            "O 1x19 sai na quinta-feira, 5 de novembro de 2026"
+            "Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026"
           ],
           "campos_novos": [
             "nome",
@@ -588,10 +658,10 @@
             "proximo",
             "transmissao",
             "brasil",
-            "notas:O 1x19 sai na quinta-feira, 5 de novembro de 2026"
+            "notas:Semanal às sextas; o 2x08 (\"Não Conversamos Mais\") sai na sexta-feira, 6 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-10-30T05:38-03:00"
+          "novo_ate": "2026-10-31T05:35-03:00"
         }
       ]
     },
