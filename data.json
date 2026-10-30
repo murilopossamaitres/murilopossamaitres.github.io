@@ -255,6 +255,18 @@
             "texto": "As Bruxas Mayfair - T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil"
           },
           {
+            "nome": "Baywatch",
+            "info": "T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
+            "texto": "Baywatch - T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-10-31T07:31-03:00"
+          },
+          {
             "nome": "Doc",
             "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 saiu na terça-feira, 20 de outubro de 2026; depois há pausa e o 3x06 (\"Fachada\") sai na terça-feira, 3 de novembro de 2026, às 23h",
             "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 saiu na terça-feira, 20 de outubro de 2026; depois há pausa e o 3x06 (\"Fachada\") sai na terça-feira, 3 de novembro de 2026, às 23h"
@@ -808,9 +820,9 @@
           "aluguel_compra": {
             "emoji": "🛒",
             "rotulo": "Aluguel e compra",
-            "valor": "sem data no Brasil",
+            "valor": "terça-feira, 3 de novembro de 2026 (Apple TV Brasil, pré-venda aberta; data prevista pela loja)",
             "notas": [
-              "EUA: terça-feira, 3 de novembro de 2026 (compra e aluguel digital; Máquina Nerd, O Vício). No Brasil, deve ser em data próxima, mas não foi anunciada"
+              "EUA: terça-feira, 3 de novembro de 2026 (compra e aluguel digital; Máquina Nerd, O Vício). Prime Video Brasil ainda sem pré-venda (30/10/2026)"
             ]
           },
           "streaming": {
@@ -822,12 +834,27 @@
             ]
           },
           "encomenda": {
-            "ofertas": [],
-            "fonte_url": "https://www.justwatch.com/br/filme/resident-evil-2026",
-            "fonte_nome": "JustWatch Brasil",
-            "obs": "Apple TV Brasil: título não encontrado na loja iTunes BR (24/10/2026). Prime Video BR não conferível daqui; nos EUA o Prime Video já tem pré-venda (sem valor para o Brasil). Digital nos EUA: 03/11/2026.",
-            "verificado_em": "2026-10-28"
-          }
+            "ofertas": [
+              {
+                "loja": "Apple TV",
+                "tipo": "pré-venda",
+                "preco": "R$ 29,90",
+                "data_brasil": "2026-11-03",
+                "url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
+                "fonte": "pré-venda vista na loja Apple TV Brasil (30/10/2026)"
+              }
+            ],
+            "fonte_url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
+            "fonte_nome": "Apple TV Brasil",
+            "obs": "30/10/2026: Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog 'Resident Evil (2026)'): oferta kind=preorder, R$ 29,90 SD/HD, expectedReleaseDate 2026-11-03. Prime Video BR: a página do filme (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, território BR) diz 'Este vídeo está indisponível no momento' e o filme não aparece na busca de vídeos da amazon.com.br — sem pré-venda no Prime Video BR por enquanto. JustWatch BR só mostra cinema (não lista pré-vendas).",
+            "verificado_em": "2026-10-30"
+          },
+          "campos_novos": [
+            "aluguel_compra",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T07:31-03:00"
         },
         {
           "titulo": "Verity",
@@ -933,16 +960,30 @@
               {
                 "loja": "Apple TV",
                 "tipo": "pré-venda",
+                "preco": "R$ 59,90",
                 "data_brasil": null,
-                "url": "https://tv.apple.com/br/movie/clayface/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
-                "fonte": "conferido pelo Murilo na conta Apple, 23/10/2026"
+                "url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
+                "fonte": "pré-venda vista pelo Murilo (23/10/2026) e na loja Apple TV Brasil (30/10/2026)"
+              },
+              {
+                "loja": "Prime Video",
+                "tipo": "pré-venda",
+                "preco": "R$ 59,90",
+                "data_brasil": null,
+                "url": "https://www.amazon.com.br/dp/B0H4CTFMYZ",
+                "fonte": "pré-venda vista na loja Prime Video Brasil (30/10/2026)"
               }
             ],
-            "fonte_url": "https://tv.apple.com/br/movie/clayface/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
-            "fonte_nome": "Apple TV Brasil",
-            "obs": "Pré-venda vista pelo Murilo na conta Apple logada (Brasil, 23/10/2026). Data digital no Brasil não divulgada (Apple deslogada, JustWatch Brasil e notícias sem data em 24/10/2026). Prime Video BR não pôde ser conferido daqui (amazon.com.br/primevideo.com bloqueiam o acesso automático).",
-            "verificado_em": "2026-10-28"
-          }
+            "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
+            "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
+            "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
+            "verificado_em": "2026-10-30"
+          },
+          "campos_novos": [
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T07:31-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -1251,5 +1292,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T07:05-03:00"
+  "atualizado_em": "2026-10-30T07:31-03:00"
 }
