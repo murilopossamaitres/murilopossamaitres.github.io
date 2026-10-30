@@ -6,36 +6,6 @@
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "episodios": "13x13",
-          "progresso": {
-            "texto": "13/13",
-            "vistos": 13,
-            "total": 13
-          },
-          "titulo_pt_nota": "\"Uma Diversão Infernal\" (\"Devil of a Good Time\")",
-          "transmissao": "FX (EUA), quinta-feira, 29 de outubro de 2026, às 22h",
-          "brasil": "+1 dia: Disney+, hoje à 1h",
-          "notas": [
-            "Episódio final da 13ª temporada"
-          ],
-          "duracao": "51 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Episódio final da 13ª temporada"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T05:35-03:00"
-        },
-        {
           "nome": "Avatar: Os Sete Refúgios",
           "nome_original": "Avatar: Seven Havens",
           "episodios": "1x10, 1x11, 1x12 e 1x13",
@@ -533,39 +503,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "American Horror Story",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "144/145",
-            "vistos": 144,
-            "total": 145
-          },
-          "proximo": {
-            "texto": "13x13 - Devil of a Good Time / Uma Diversão Infernal",
-            "codigo": "13x13",
-            "titulo_en": "Devil of a Good Time",
-            "titulo_pt": "Uma Diversão Infernal",
-            "rotulo": "próximo",
-            "duracao": "51 min"
-          },
-          "brasil": "Disney+ (13x13, final da temporada, no ar desde hoje, sexta-feira, 30 de outubro de 2026, à 1h)",
-          "notas": [
-            "Episódio final da 13ª temporada"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Episódio final da 13ª temporada"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T05:35-03:00"
-        },
         {
           "nome": "Cyberpunk: Mercenários",
           "nome_original": "Cyberpunk: Edgerunners",
@@ -1292,5 +1229,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T07:31-03:00"
+  "atualizado_em": "2026-10-30T14:31-03:00"
 }
