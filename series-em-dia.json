@@ -1,71 +1,77 @@
 {
- "_leia": "Séries em que o Murilo está em dia. O parse_resumo.py tira dos cards (lançamentos, atrasadas, recente, hoje) a série com este nome exato enquanto o episódio do card for <= em_dia_ate. Episódio novo (ex.: T2) volta a aparecer sozinho. Novidades não são filtradas.",
- "itens": [
-  {
-   "nome": "Coven Academy",
-   "em_dia_ate": "1x21",
-   "em_dia_em": "2026-10-18",
-   "obs": "T1 completa (21/21); 2ª temporada não anunciada"
-  },
-  {
-   "nome": "Youth",
-   "em_dia_ate": "1x07",
-   "em_dia_em": "2026-10-27",
-   "obs": "1x07 \"Last Night on Earth\" (\"Última Noite na Terra\") visto em 27/10 (Bingers); 7/7 lançados. Final 1x08 \"Agente do Ano\" sai seg 02/11/2026 à 0h no HBO Max, aí volta sozinha"
-  },
-  {
-   "nome": "Red River",
-   "em_dia_ate": "1x17",
-   "em_dia_em": "2026-10-27",
-   "obs": "1x17 \"Uma Nova Conspiração\" visto em 27/10 (Bingers; Banco não conferido); 17/17 lançados (17/24). 1x18 sai ter 03/11/2026 na Crunchyroll, aí volta sozinha"
-  },
-  {
-   "nome": "Dragon Ball Super: Beerus",
-   "em_dia_ate": "1x03",
-   "em_dia_em": "2026-10-25",
-   "obs": "1x03 \"O Deus da Destruição Parte para a Terra\" (\"The God of Destruction Heads to Earth\") visto em 25/10 (Bingers, nota 5; Banco marcado: 1x02 nota 9, 1x03 nota 9 pela média da temporada); 3/3 lançados. 1x04 sai dom 01/11/2026 na Crunchyroll, aí volta sozinha"
-  },
-  {
-   "nome": "Invasão: Código Apollo",
-   "em_dia_ate": "2x08",
-   "em_dia_em": "2026-10-27",
-   "obs": "2x08 (final da T2) visto em 27/10 (Bingers; Banco não conferido); T2 completa (16/16). 3ª temporada não anunciada"
-  },
-  {
-   "nome": "Vampirina: Uma Vampirinha Adolescente",
-   "em_dia_ate": "2x06",
-   "em_dia_em": "2026-10-21",
-   "obs": "2x05 e 2x06 vistos em 21/10; T2 completa (6/6), 0 pendentes; 3ª temporada não anunciada"
-  },
-  {
-   "nome": "VisionQuest",
-   "em_dia_ate": "1x06",
-   "em_dia_em": "2026-10-29",
-   "obs": "1x06 \"Deadlock\" (\"Impasse\") visto em 29/10 (Bingers; Banco não conferido); 6/6 lançados (6/8). 1x07 \"Imolação\" sai ter 03/11/2026 às 23h no Disney+, aí volta sozinha"
-  },
-  {
-   "nome": "Scrubs",
-   "em_dia_ate": "2x06",
-   "em_dia_em": "2026-10-29",
-   "obs": "2x06 \"My Halloween\" (\"Meu Halloween\") visto em 29/10 (Bingers; Banco não conferido); 6/10. 2x07 \"My Story\" (\"Minha História\") sai qua 04/11/2026 na ABC e qui 05/11/2026 no Disney+, aí volta sozinha"
-  },
-  {
-   "nome": "The Exiled Heavy Knight Knows How to Game the System",
-   "em_dia_ate": "1x18",
-   "em_dia_em": "2026-10-29",
-   "obs": "1x18 \"Blacksmith Veruga\" (\"O Ferreiro Veruga\") visto em 29/10 (Bingers; Banco não conferido); 18/18 lançados (18/26). 1x19 sai qui 05/11/2026 (MBS; Crunchyroll mesmo dia), aí volta sozinha"
-  },
-  {
-   "nome": "Terra da Máfia",
-   "em_dia_ate": "2x06",
-   "em_dia_em": "2026-10-23",
-   "obs": "2x06 \"A Different Corner\" (\"Uma Esquina Diferente\") visto em 23/10 (Bingers, nota 5; Banco pendente — anti-robô, precisa do navegador); 16/20. 2x07 \"Ace of Spades\" (\"Ás de Espadas\") sai sex 30/10/2026 no Paramount+, aí volta sozinha"
-  },
-  {
-   "nome": "American Horror Story",
-   "em_dia_ate": "13x12",
-   "em_dia_em": "2026-10-23",
-   "obs": "13x11 \"Madison's Happy Ending\" (\"O Final Feliz de Madison\") e 13x12 \"Sisters in Arms\" (\"Irmãs de Armas\") vistos em 23/10 (Bingers, nota 5; Banco marcado (7,5 cada)); 12/13. Final 13x13 \"Devil of a Good Time\" (\"Uma Diversão Infernal\") sai sex 30/10/2026 à 1h no Disney+, aí volta sozinha"
-  }
- ]
+  "_leia": "Séries em que o Murilo está em dia. O parse_resumo.py tira dos cards (lançamentos, atrasadas, recente, hoje) a série com este nome exato enquanto o episódio do card for <= em_dia_ate. Episódio novo (ex.: T2) volta a aparecer sozinho. Novidades não são filtradas.",
+  "itens": [
+    {
+      "nome": "Coven Academy",
+      "em_dia_ate": "1x21",
+      "em_dia_em": "2026-10-18",
+      "obs": "T1 completa (21/21); 2ª temporada não anunciada"
+    },
+    {
+      "nome": "Youth",
+      "em_dia_ate": "1x07",
+      "em_dia_em": "2026-10-27",
+      "obs": "1x07 \"Last Night on Earth\" (\"Última Noite na Terra\") visto em 27/10 (Bingers); 7/7 lançados. Final 1x08 \"Agente do Ano\" sai seg 02/11/2026 à 0h no HBO Max, aí volta sozinha"
+    },
+    {
+      "nome": "Red River",
+      "em_dia_ate": "1x17",
+      "em_dia_em": "2026-10-27",
+      "obs": "1x17 \"Uma Nova Conspiração\" visto em 27/10 (Bingers; Banco não conferido); 17/17 lançados (17/24). 1x18 sai ter 03/11/2026 na Crunchyroll, aí volta sozinha"
+    },
+    {
+      "nome": "Dragon Ball Super: Beerus",
+      "em_dia_ate": "1x03",
+      "em_dia_em": "2026-10-25",
+      "obs": "1x03 \"O Deus da Destruição Parte para a Terra\" (\"The God of Destruction Heads to Earth\") visto em 25/10 (Bingers, nota 5; Banco marcado: 1x02 nota 9, 1x03 nota 9 pela média da temporada); 3/3 lançados. 1x04 sai dom 01/11/2026 na Crunchyroll, aí volta sozinha"
+    },
+    {
+      "nome": "Invasão: Código Apollo",
+      "em_dia_ate": "2x08",
+      "em_dia_em": "2026-10-27",
+      "obs": "2x08 (final da T2) visto em 27/10 (Bingers; Banco não conferido); T2 completa (16/16). 3ª temporada não anunciada"
+    },
+    {
+      "nome": "Vampirina: Uma Vampirinha Adolescente",
+      "em_dia_ate": "2x06",
+      "em_dia_em": "2026-10-21",
+      "obs": "2x05 e 2x06 vistos em 21/10; T2 completa (6/6), 0 pendentes; 3ª temporada não anunciada"
+    },
+    {
+      "nome": "VisionQuest",
+      "em_dia_ate": "1x06",
+      "em_dia_em": "2026-10-29",
+      "obs": "1x06 \"Deadlock\" (\"Impasse\") visto em 29/10 (Bingers; Banco não conferido); 6/6 lançados (6/8). 1x07 \"Imolação\" sai ter 03/11/2026 às 23h no Disney+, aí volta sozinha"
+    },
+    {
+      "nome": "Scrubs",
+      "em_dia_ate": "2x06",
+      "em_dia_em": "2026-10-29",
+      "obs": "2x06 \"My Halloween\" (\"Meu Halloween\") visto em 29/10 (Bingers; Banco não conferido); 6/10. 2x07 \"My Story\" (\"Minha História\") sai qua 04/11/2026 na ABC e qui 05/11/2026 no Disney+, aí volta sozinha"
+    },
+    {
+      "nome": "The Exiled Heavy Knight Knows How to Game the System",
+      "em_dia_ate": "1x18",
+      "em_dia_em": "2026-10-29",
+      "obs": "1x18 \"Blacksmith Veruga\" (\"O Ferreiro Veruga\") visto em 29/10 (Bingers; Banco não conferido); 18/18 lançados (18/26). 1x19 sai qui 05/11/2026 (MBS; Crunchyroll mesmo dia), aí volta sozinha"
+    },
+    {
+      "nome": "Terra da Máfia",
+      "em_dia_ate": "2x06",
+      "em_dia_em": "2026-10-23",
+      "obs": "2x06 \"A Different Corner\" (\"Uma Esquina Diferente\") visto em 23/10 (Bingers, nota 5; Banco pendente — anti-robô, precisa do navegador); 16/20. 2x07 \"Ace of Spades\" (\"Ás de Espadas\") sai sex 30/10/2026 no Paramount+, aí volta sozinha"
+    },
+    {
+      "nome": "American Horror Story",
+      "em_dia_ate": "13x12",
+      "em_dia_em": "2026-10-23",
+      "obs": "13x11 \"Madison's Happy Ending\" (\"O Final Feliz de Madison\") e 13x12 \"Sisters in Arms\" (\"Irmãs de Armas\") vistos em 23/10 (Bingers, nota 5; Banco marcado (7,5 cada)); 12/13. Final 13x13 \"Devil of a Good Time\" (\"Uma Diversão Infernal\") sai sex 30/10/2026 à 1h no Disney+, aí volta sozinha"
+    },
+    {
+      "nome": "Overgeared",
+      "em_dia_ate": "1x05",
+      "em_dia_em": "2026-10-30",
+      "obs": "1x05 \"Family's Trust\" (\"A Confiança da Família\") visto em 30/10 (Bingers, nota 5); 5/5 lançados (5/12). 1x06 sai dom 01/11/2026 às 11h30 na Crunchyroll, aí volta sozinha"
+    }
+  ]
 }
