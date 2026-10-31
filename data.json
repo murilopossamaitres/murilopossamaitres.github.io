@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 31 de outubro de 2026",
-  "atualizado_em": "2026-10-31T05:49-03:00",
+  "atualizado_em": "2026-10-31T15:42-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -242,14 +242,7 @@
           {
             "nome": "Baywatch",
             "info": "T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
-            "texto": "Baywatch - T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
-            "campos_novos": [
-              "nome",
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-10-31T07:31-03:00"
+            "texto": "Baywatch - T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios"
           },
           {
             "nome": "Doc",
@@ -791,13 +784,7 @@
             "fonte_nome": "Apple TV Brasil",
             "obs": "30/10/2026: Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog 'Resident Evil (2026)'): oferta kind=preorder, R$ 29,90 SD/HD, expectedReleaseDate 2026-11-03. Prime Video BR: a página do filme (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, território BR) diz 'Este vídeo está indisponível no momento' e o filme não aparece na busca de vídeos da amazon.com.br — sem pré-venda no Prime Video BR por enquanto. JustWatch BR só mostra cinema (não lista pré-vendas).",
             "verificado_em": "2026-10-31"
-          },
-          "campos_novos": [
-            "aluguel_compra",
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T07:31-03:00"
+          }
         },
         {
           "titulo": "Verity",
@@ -921,12 +908,7 @@
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
             "verificado_em": "2026-10-31"
-          },
-          "campos_novos": [
-            "encomenda"
-          ],
-          "novo": true,
-          "novo_ate": "2026-10-31T07:31-03:00"
+          }
         },
         {
           "titulo": "Godzilla Minus Zero",
