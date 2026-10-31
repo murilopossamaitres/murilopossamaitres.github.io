@@ -583,7 +583,43 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Noturno",
+          "nome_original": "Nocturne",
+          "status": "🟢",
+          "progresso": {
+            "texto": "1/2",
+            "vistos": 1,
+            "total": 2
+          },
+          "proximo": {
+            "texto": "1x02 - For Such a Time as This / Para um Tempo Como Este",
+            "codigo": "1x02",
+            "titulo_en": "For Such a Time as This",
+            "titulo_pt": "Para um Tempo Como Este",
+            "rotulo": "hoje",
+            "duracao": "52 min"
+          },
+          "transmissao": "Apple TV (1x01 e 1x02 no ar desde hoje)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x03 (\"Olhos por Dentro\") sai na sexta-feira, 6 de novembro de 2026, e o final (1x10) na sexta-feira, 25 de dezembro de 2026"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:Semanal às sextas; o 1x03 (\"Olhos por Dentro\") sai na sexta-feira, 6 de novembro de 2026, e o final (1x10) na sexta-feira, 25 de dezembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-10-31T23:14-03:00"
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1223,5 +1259,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-10-30T20:29-03:00"
+  "atualizado_em": "2026-10-30T23:14-03:00"
 }
