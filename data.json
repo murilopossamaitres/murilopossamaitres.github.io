@@ -72,7 +72,6 @@
           "texto": "04/11 (qua) - Tudo É Justo - T2 - Disney+, 3 primeiros episódios na estreia, depois semanal",
           "campos_novos": [
             "selo",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -85,13 +84,7 @@
           "nome": "De Mal a Pior",
           "temporada": "T1",
           "info": "Paramount+, temporada completa (6 episódios de uma vez)",
-          "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)",
-          "campos_novos": [
-            "selo",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)"
         },
         {
           "selo": "",
@@ -138,13 +131,7 @@
           "nome": "12 12 12",
           "temporada": "T1",
           "info": "Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
-          "texto": "13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
-          "campos_novos": [
-            "selo",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "texto": "13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)"
         },
         {
           "selo": "",
@@ -165,11 +152,6 @@
           "texto": "23/12 (qua) - Disney Twisted-Wonderland: A Série - T2 - Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
           "campos_novos": [
             "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -262,13 +244,7 @@
           {
             "nome": "Fire Country",
             "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x04 (\"Vencedores e Perdedores\") saiu na sexta-feira, 30 de outubro de 2026, e o 5x05 (\"Sem Saída\") sai na sexta-feira, 6 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x04 (\"Vencedores e Perdedores\") saiu na sexta-feira, 30 de outubro de 2026, e o 5x05 (\"Sem Saída\") sai na sexta-feira, 6 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-01T05:49-03:00"
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x04 (\"Vencedores e Perdedores\") saiu na sexta-feira, 30 de outubro de 2026, e o 5x05 (\"Sem Saída\") sai na sexta-feira, 6 de novembro de 2026, às 23h; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
@@ -355,12 +331,7 @@
           "brasil": "Paramount+ (Livro 1 completo: 1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026; 10 a 13 desde sexta-feira, 30 de outubro de 2026)",
           "notas": [
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          ]
         },
         {
           "nome": "Carrie, a Estranha",
@@ -613,18 +584,7 @@
           "brasil": "Apple TV (1x01 e 1x02 no ar desde sexta-feira, 30 de outubro de 2026)",
           "notas": [
             "Semanal às sextas; o 1x03 (\"Olhos por Dentro\") sai na sexta-feira, 6 de novembro de 2026, e o final (1x10) na sexta-feira, 25 de dezembro de 2026"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Semanal às sextas; o 1x03 (\"Olhos por Dentro\") sai na sexta-feira, 6 de novembro de 2026, e o final (1x10) na sexta-feira, 25 de dezembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          ]
         }
       ]
     },
@@ -1304,5 +1264,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-11-01T05:43-03:00"
+  "atualizado_em": "2026-11-01T15:20-03:00"
 }
