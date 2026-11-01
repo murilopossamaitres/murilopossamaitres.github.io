@@ -1,40 +1,60 @@
 {
-  "titulo": "📺 Séries — sábado, 31 de outubro de 2026",
-  "atualizado_em": "2026-10-31T15:42-03:00",
+  "titulo": "📺 Séries — domingo, 1 de novembro de 2026",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Delegado",
+          "nome": "Dragon Ball Super: Beerus",
           "nome_original": null,
-          "episodios": "1x01",
+          "episodios": "1x04",
           "progresso": {
-            "texto": "1/7",
-            "vistos": 1,
-            "total": 7
+            "texto": "4/?",
+            "vistos": null,
+            "total": null
           },
-          "titulo_pt_nota": "\"A Arma de Biu Doidão\"",
-          "transmissao": "Canal Brasil, sexta-feira, 30 de outubro de 2026, às 22h",
-          "brasil": "+1 dia: Globoplay (plano Premium), hoje",
+          "titulo_pt_nota": "\"O Deus dos Saiyajins\" (\"The God of Saiyans\")",
+          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
+          "brasil": "Mesmo dia: Crunchyroll, por volta das 13h (legendado)",
           "notas": [
-            "Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x02 sai na sexta-feira, 6 de novembro de 2026"
+            "Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x04 nessas plataformas não divulgadas); o 1x05 sai no domingo, 8 de novembro de 2026. Nome do 1x04 em português não divulgado (tradução própria)"
           ],
-          "duracao": "35 min",
+          "duracao": "30 min",
           "campos_novos": [
-            "nome",
-            "nome_original",
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "transmissao",
             "brasil",
-            "duracao",
-            "notas:Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x02 sai na sexta-feira, 6 de novembro de 2026"
+            "notas:Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x04 nessas plataformas não divulgadas); o 1x05 sai no domingo, 8 de novembro de 2026. Nome do 1x04 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "novo_ate": "2026-11-02T05:43-03:00"
+        },
+        {
+          "nome": "Overgeared",
+          "nome_original": null,
+          "episodios": "1x06",
+          "progresso": {
+            "texto": "6/12",
+            "vistos": 6,
+            "total": 12
+          },
+          "titulo_pt_nota": "\"O Primeiro Ataque ao Chefe\" (título em inglês ainda não divulgado; a Crunchyroll costuma mostrar só \"Episódio 6\")",
+          "transmissao": "Crunchyroll, hoje às 11h30",
+          "brasil": "Mesmo dia: Crunchyroll, às 11h30 (legendado e dublado)",
+          "notas": [
+            "O Banco de Séries e o Bingers marcam as datas às sextas (1x06 na sexta-feira, 6 de novembro de 2026); o 1x07 sai no domingo, 8 de novembro de 2026, às 11h30. Nome do 1x06 em português não divulgado (tradução própria do japonês 初のボスレイド)"
+          ],
+          "duracao": "25 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "notas:O Banco de Séries e o Bingers marcam as datas às sextas (1x06 na sexta-feira, 6 de novembro de 2026); o 1x07 sai no domingo, 8 de novembro de 2026, às 11h30. Nome do 1x06 em português não divulgado (tradução própria do japonês 初のボスレイド)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-02T05:43-03:00"
         }
       ]
     },
@@ -43,20 +63,20 @@
       "emoji": "🆕",
       "itens": [
         {
-          "selo": "✏️",
+          "selo": "",
           "data": "04/11",
           "dia_semana": "qua",
           "nome": "Tudo É Justo",
           "temporada": "T2",
           "info": "Disney+, 3 primeiros episódios na estreia, depois semanal",
-          "texto": "✏️ 04/11 (qua) - Tudo É Justo - T2 - Disney+, 3 primeiros episódios na estreia, depois semanal",
+          "texto": "04/11 (qua) - Tudo É Justo - T2 - Disney+, 3 primeiros episódios na estreia, depois semanal",
           "campos_novos": [
             "selo",
             "info",
             "texto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "novo_ate": "2026-11-02T05:43-03:00"
         },
         {
           "selo": "",
@@ -68,11 +88,6 @@
           "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)",
           "campos_novos": [
             "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -82,9 +97,9 @@
           "selo": "",
           "data": "06/11",
           "dia_semana": "sex",
-          "nome": "Awkwafina - A Cozinheira Improvável",
-          "temporada": "T1",
-          "info": "Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
+          "nome": "Awkwafina",
+          "temporada": "A Cozinheira Improvável",
+          "info": "T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
           "texto": "06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
           "campos_novos": [
             "selo",
@@ -96,7 +111,7 @@
             "texto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "novo_ate": "2026-11-02T05:43-03:00"
         },
         {
           "selo": "",
@@ -126,11 +141,6 @@
           "texto": "13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
           "campos_novos": [
             "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -146,13 +156,13 @@
           "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
         },
         {
-          "selo": "🆕",
+          "selo": "",
           "data": "23/12",
           "dia_semana": "qua",
           "nome": "Disney Twisted-Wonderland: A Série",
           "temporada": "T2",
           "info": "Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
-          "texto": "🆕 23/12 (qua) - Disney Twisted-Wonderland: A Série - T2 - Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
+          "texto": "23/12 (qua) - Disney Twisted-Wonderland: A Série - T2 - Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
           "campos_novos": [
             "selo",
             "data",
@@ -163,7 +173,7 @@
             "texto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "novo_ate": "2026-11-02T05:43-03:00"
         },
         {
           "selo": "",
@@ -501,6 +511,39 @@
       "emoji": "📺",
       "itens": [
         {
+          "nome": "Delegado",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1",
+            "vistos": 0,
+            "total": 1
+          },
+          "proximo": {
+            "texto": "1x01 - A Arma de Biu Doidão / A Arma de Biu Doidão",
+            "codigo": "1x01",
+            "titulo_en": "A Arma de Biu Doidão",
+            "titulo_pt": "A Arma de Biu Doidão",
+            "rotulo": "próximo",
+            "duracao": "35 min"
+          },
+          "brasil": "Globoplay (plano Premium) desde sábado, 31 de outubro de 2026 (no Canal Brasil desde sexta-feira, 30 de outubro de 2026, às 22h)",
+          "notas": [
+            "Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal; o 1x02 sai na sexta-feira, 6 de novembro de 2026, às 22h no Canal Brasil e no sábado, 7 de novembro de 2026, no Globoplay"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal; o 1x02 sai na sexta-feira, 6 de novembro de 2026, às 22h no Canal Brasil e no sábado, 7 de novembro de 2026, no Globoplay"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-02T05:43-03:00"
+        },
+        {
           "nome": "Cyberpunk: Mercenários",
           "nome_original": "Cyberpunk: Edgerunners",
           "status": "🟢",
@@ -542,13 +585,13 @@
           "brasil": "Sem data no Brasil (os Locker Diaries anteriores chegaram ao Disney+ Brasil meses depois dos EUA)",
           "notas": [
             "Spin-off em curtas verticais de Coven Academy (série separada; formato Locker Diaries, 6 episódios de cerca de 3 minutos, segundo o Diário da Mídia).",
-            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde hoje, sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
           ],
           "campos_novos": [
-            "notas:Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde hoje, sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+            "notas:Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-01T05:49-03:00"
+          "novo_ate": "2026-11-02T05:43-03:00"
         },
         {
           "nome": "Noturno",
@@ -588,7 +631,38 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "3/4",
+            "vistos": 3,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x04 - The God of Saiyans / O Deus dos Saiyajins",
+            "codigo": "1x04",
+            "titulo_en": "The God of Saiyans",
+            "titulo_pt": "O Deus dos Saiyajins",
+            "rotulo": "hoje",
+            "duracao": "30 min"
+          },
+          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
+          "brasil": "Crunchyroll, por volta das 13h (legendado)",
+          "notas": [
+            "Progresso do Bingers (1x03 visto); nome em português não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Progresso do Bingers (1x03 visto); nome em português não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-02T05:43-03:00"
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -756,9 +830,9 @@
           "aluguel_compra": {
             "emoji": "🛒",
             "rotulo": "Aluguel e compra",
-            "valor": "terça-feira, 3 de novembro de 2026 (Apple TV Brasil, pré-venda aberta; data prevista pela loja)",
+            "valor": "terça-feira, 3 de novembro de 2026 (Apple TV Brasil, pré-venda aberta; Loja Prime Video, compra e aluguel)",
             "notas": [
-              "EUA: terça-feira, 3 de novembro de 2026 (compra e aluguel digital; Máquina Nerd, O Vício). Prime Video Brasil ainda sem pré-venda (30/10/2026)"
+              "EUA: terça-feira, 3 de novembro de 2026 (compra e aluguel digital; Máquina Nerd, O Vício). Loja Prime Video Brasil: compra e aluguel a partir de terça-feira, 3 de novembro de 2026 (Estadão e Flixlandia, lista de novembro do Prime Video)"
             ]
           },
           "streaming": {
@@ -778,13 +852,26 @@
                 "data_brasil": "2026-11-03",
                 "url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
                 "fonte": "pré-venda vista na loja Apple TV Brasil (30/10/2026)"
+              },
+              {
+                "loja": "Prime Video",
+                "tipo": "compra e aluguel",
+                "data_brasil": "2026-11-03",
+                "url": "https://www.estadao.com.br/minha-serie/play/prime-video-em-novembro-traz-campus-drivers-blade-runner-2099-e-3-temporada-de-os-aneis-do-poder/",
+                "fonte": "anunciado na lista de novembro da Loja Prime Video Brasil (Estadão, Flixlandia, 01/11/2026); a loja ainda não mostra a página no Brasil"
               }
             ],
             "fonte_url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
             "fonte_nome": "Apple TV Brasil",
-            "obs": "30/10/2026: Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog 'Resident Evil (2026)'): oferta kind=preorder, R$ 29,90 SD/HD, expectedReleaseDate 2026-11-03. Prime Video BR: a página do filme (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, território BR) diz 'Este vídeo está indisponível no momento' e o filme não aparece na busca de vídeos da amazon.com.br — sem pré-venda no Prime Video BR por enquanto. JustWatch BR só mostra cinema (não lista pré-vendas).",
-            "verificado_em": "2026-10-31"
-          }
+            "obs": "30/10/2026: Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog 'Resident Evil (2026)'): oferta kind=preorder, R$ 29,90 SD/HD, expectedReleaseDate 2026-11-03. Prime Video BR: a página do filme (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, território BR) diz 'Este vídeo está indisponível no momento' e o filme não aparece na busca de vídeos da amazon.com.br — sem pré-venda no Prime Video BR por enquanto. JustWatch BR só mostra cinema (não lista pré-vendas). 01/11/2026: Estadão e Flixlandia (lista de novembro do Prime Video Brasil) anunciam Resident Evil na Loja Prime Video em 03/11/2026, para compra e aluguel; busca da amazon.com.br bloqueada daqui (503/captcha).",
+            "verificado_em": "2026-11-01"
+          },
+          "campos_novos": [
+            "aluguel_compra",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-02T05:43-03:00"
         },
         {
           "titulo": "Verity",
@@ -840,7 +927,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -907,7 +994,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -954,7 +1041,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -1015,7 +1102,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -1064,7 +1151,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -1106,7 +1193,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -1162,7 +1249,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         },
         {
@@ -1211,10 +1298,11 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-10-31"
+            "verificado_em": "2026-11-01"
           }
         }
       ]
     }
-  }
+  },
+  "atualizado_em": "2026-11-01T05:43-03:00"
 }
