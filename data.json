@@ -6,32 +6,6 @@
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "episodios": "1x04",
-          "progresso": {
-            "texto": "4/?",
-            "vistos": null,
-            "total": null
-          },
-          "titulo_pt_nota": "\"O Deus dos Saiyajins\" (\"The God of Saiyans\")",
-          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
-          "brasil": "Mesmo dia: Crunchyroll, por volta das 13h (legendado)",
-          "notas": [
-            "Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x04 nessas plataformas não divulgadas); o 1x05 sai no domingo, 8 de novembro de 2026. Nome do 1x04 em português não divulgado (tradução própria)"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "brasil",
-            "notas:Semanal aos domingos; depois chega também ao Disney+, à HBO Max e à Netflix (datas do 1x04 nessas plataformas não divulgadas); o 1x05 sai no domingo, 8 de novembro de 2026. Nome do 1x04 em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-02T05:43-03:00"
-        },
-        {
           "nome": "Overgeared",
           "nome_original": null,
           "episodios": "1x06",
@@ -591,38 +565,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "3/4",
-            "vistos": 3,
-            "total": 4
-          },
-          "proximo": {
-            "texto": "1x04 - The God of Saiyans / O Deus dos Saiyajins",
-            "codigo": "1x04",
-            "titulo_en": "The God of Saiyans",
-            "titulo_pt": "O Deus dos Saiyajins",
-            "rotulo": "hoje",
-            "duracao": "30 min"
-          },
-          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
-          "brasil": "Crunchyroll, por volta das 13h (legendado)",
-          "notas": [
-            "Progresso do Bingers (1x03 visto); nome em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:Progresso do Bingers (1x03 visto); nome em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-02T05:43-03:00"
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1264,5 +1207,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-11-01T15:20-03:00"
+  "atualizado_em": "2026-11-01T20:31-03:00"
 }
