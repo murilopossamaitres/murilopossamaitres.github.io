@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — segunda-feira, 2 de novembro de 2026",
-  "atualizado_em": "2026-11-02T11:39-03:00",
+  "atualizado_em": "2026-11-02T14:03-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -338,17 +338,17 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
+            "texto": "1/8",
+            "vistos": 1,
             "total": 8
           },
           "proximo": {
-            "texto": "1x01 - Camp Crystal / Acampamento Crystal",
-            "codigo": "1x01",
-            "titulo_en": "Camp Crystal",
-            "titulo_pt": "Acampamento Crystal",
+            "texto": "1x02 - Part 2 / Parte 2",
+            "codigo": "1x02",
+            "titulo_en": "Part 2",
+            "titulo_pt": "Parte 2",
             "rotulo": "próximo",
-            "duracao": "56 min"
+            "duracao": "54 min"
           },
           "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)"
         },
