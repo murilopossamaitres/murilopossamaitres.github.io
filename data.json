@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 3 de novembro de 2026",
-  "atualizado_em": "2026-11-03T13:03-03:00",
+  "atualizado_em": "2026-11-03T20:30-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -409,30 +409,30 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "5/8",
-            "vistos": 5,
+            "texto": "6/8",
+            "vistos": 6,
             "total": 8
           },
           "proximo": {
-            "texto": "1x06 - Kill Them, Mommy / Matem Nós, Mamãe",
-            "codigo": "1x06",
-            "titulo_en": "Kill Them, Mommy",
-            "titulo_pt": "Matem Nós, Mamãe",
+            "texto": "1x07 - Friday... / Sexta-feira…",
+            "codigo": "1x07",
+            "titulo_en": "Friday...",
+            "titulo_pt": "Sexta-feira…",
             "rotulo": "próximo",
-            "duracao": "44 min"
+            "duracao": "51 min"
           },
           "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)",
           "notas": [
-            "1x01 a 1x04 vistos em 02/11/2026 e 1x05 \"The New Blood\" (\"Novo Sangue\") visto em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x06 do TMDB"
+            "1x01 a 1x04 vistos em 02/11/2026, 1x05 \"The New Blood\" (\"Novo Sangue\") e 1x06 \"Kill Them, Mommy\" (\"Matem Nós, Mamãe\") vistos em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x07 do TMDB"
           ],
           "campos_novos": [
             "status",
             "progresso",
             "proximo",
-            "notas:1x01 a 1x04 vistos em 02/11/2026 e 1x05 \"The New Blood\" (\"Novo Sangue\") visto em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x06 do TMDB"
+            "notas:1x01 a 1x04 vistos em 02/11/2026, 1x05 \"The New Blood\" (\"Novo Sangue\") e 1x06 \"Kill Them, Mommy\" (\"Matem Nós, Mamãe\") vistos em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x07 do TMDB"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T13:03-03:00"
+          "novo_ate": "2026-11-04T20:30-03:00"
         },
         {
           "nome": "Doc",
