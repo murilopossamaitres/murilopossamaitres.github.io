@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — segunda-feira, 2 de novembro de 2026",
-  "atualizado_em": "2026-11-02T14:03-03:00",
+  "atualizado_em": "2026-11-02T20:59-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -338,15 +338,15 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "1/8",
-            "vistos": 1,
+            "texto": "3/8",
+            "vistos": 3,
             "total": 8
           },
           "proximo": {
-            "texto": "1x02 - Part 2 / Parte 2",
-            "codigo": "1x02",
-            "titulo_en": "Part 2",
-            "titulo_pt": "Parte 2",
+            "texto": "1x04 - A New Beginning / Um Novo Começo",
+            "codigo": "1x04",
+            "titulo_en": "A New Beginning",
+            "titulo_pt": "Um Novo Começo",
             "rotulo": "próximo",
             "duracao": "54 min"
           },
