@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 3 de novembro de 2026",
-  "atualizado_em": "2026-11-03T05:47-03:00",
+  "atualizado_em": "2026-11-03T13:03-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -83,11 +83,6 @@
           "texto": "05/11 (qui) - Line of Fire - T1 - HBO Max, número de episódios e formato não divulgados",
           "campos_novos": [
             "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -414,30 +409,30 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "4/8",
-            "vistos": 4,
+            "texto": "5/8",
+            "vistos": 5,
             "total": 8
           },
           "proximo": {
-            "texto": "1x05 - The New Blood / Novo Sangue",
-            "codigo": "1x05",
-            "titulo_en": "The New Blood",
-            "titulo_pt": "Novo Sangue",
+            "texto": "1x06 - Kill Them, Mommy / Matem Nós, Mamãe",
+            "codigo": "1x06",
+            "titulo_en": "Kill Them, Mommy",
+            "titulo_pt": "Matem Nós, Mamãe",
             "rotulo": "próximo",
-            "duracao": "49 min"
+            "duracao": "44 min"
           },
           "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)",
           "notas": [
-            "1x01 a 1x04 vistos em 02/11/2026 (Bingers). Título pt-BR do 1x05 do TMDB"
+            "1x01 a 1x04 vistos em 02/11/2026 e 1x05 \"The New Blood\" (\"Novo Sangue\") visto em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x06 do TMDB"
           ],
           "campos_novos": [
             "status",
             "progresso",
             "proximo",
-            "notas:1x01 a 1x04 vistos em 02/11/2026 (Bingers). Título pt-BR do 1x05 do TMDB"
+            "notas:1x01 a 1x04 vistos em 02/11/2026 e 1x05 \"The New Blood\" (\"Novo Sangue\") visto em 03/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x06 do TMDB"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T05:47-03:00"
+          "novo_ate": "2026-11-04T13:03-03:00"
         },
         {
           "nome": "Doc",
