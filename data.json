@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
-  "atualizado_em": "2026-11-04T13:04-03:00",
+  "atualizado_em": "2026-11-04T20:14-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -358,35 +358,6 @@
           "notas": [
             "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
           ]
-        },
-        {
-          "nome": "Crystal Lake",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "7/8",
-            "vistos": 7,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x08 - The Final Chapter / O Capítulo Final",
-            "codigo": "1x08",
-            "titulo_en": "The Final Chapter",
-            "titulo_pt": "O Capítulo Final",
-            "rotulo": "próximo",
-            "duracao": "43 min"
-          },
-          "brasil": "Universal+ (T1 completa no ar desde sexta-feira, 16 de outubro de 2026, todos de uma vez)",
-          "notas": [
-            "1x01 a 1x04 vistos em 02/11/2026, 1x05 e 1x06 em 03/11/2026 e 1x07 \"Friday...\" (\"Sexta-feira…\") em 04/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x08 do TMDB"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:1x01 a 1x04 vistos em 02/11/2026, 1x05 e 1x06 em 03/11/2026 e 1x07 \"Friday...\" (\"Sexta-feira…\") em 04/11/2026 (Bingers, 4,5 estrelas cada). Título pt-BR do 1x08 do TMDB"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T13:04-03:00"
         },
         {
           "nome": "Doc",
