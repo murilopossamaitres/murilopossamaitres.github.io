@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
-  "atualizado_em": "2026-11-04T20:14-03:00",
+  "atualizado_em": "2026-11-04T20:28-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -282,9 +282,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "64/144",
+            "texto": "64/145",
             "vistos": 64,
-            "total": 144
+            "total": 145
           },
           "proximo": {
             "texto": "5x05 - Peer Pressure / Pressão do Grupo",
@@ -294,16 +294,21 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "9-1-1: Nashville",
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/20",
+            "texto": "0/21",
             "vistos": 0,
-            "total": 20
+            "total": 21
           },
           "proximo": {
             "texto": "1x01 - Pilot / Piloto",
@@ -313,7 +318,12 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -364,9 +374,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "32/37",
+            "texto": "32/38",
             "vistos": 32,
-            "total": 37
+            "total": 38
           },
           "proximo": {
             "texto": "3x01 - Wherefore Art Thou / Onde Estás Tu",
@@ -376,16 +386,21 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil"
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "Grey's Anatomy",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "452/468",
+            "texto": "452/469",
             "vistos": 452,
-            "total": 468
+            "total": 469
           },
           "proximo": {
             "texto": "22x05 - Sometimes I Feel Like a Motherless Child / Às Vezes Me Sinto Como uma Criança Sem Mãe",
@@ -398,7 +413,12 @@
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
             "Progresso do Bingers (22x04 visto em 29/10). Nome do 22x05 em português não divulgado (tradução própria)"
-          ]
+          ],
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -583,9 +603,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "5/6",
+            "texto": "5/5",
             "vistos": 5,
-            "total": 6
+            "total": 5
           },
           "proximo": {
             "texto": "1x06 - First Boss Raid / O Primeiro Ataque ao Chefe",
@@ -598,7 +618,12 @@
           "brasil": "Crunchyroll (1x06 no ar desde domingo, 1 de novembro de 2026, às 11h30; legendado e dublado)",
           "notas": [
             "Semanal aos domingos; o 1x07 sai no domingo, 8 de novembro de 2026, às 11h30. O Banco de Séries e o Bingers marcam o 1x06 na sexta-feira, 6 de novembro de 2026 (vale a data da Crunchyroll Brasil). Nome do 1x06 em português não divulgado (tradução própria)"
-          ]
+          ],
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "Delegado",
