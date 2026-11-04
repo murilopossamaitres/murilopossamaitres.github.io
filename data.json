@@ -1,62 +1,67 @@
 {
-  "titulo": "📺 Séries — terça-feira, 3 de novembro de 2026",
-  "atualizado_em": "2026-11-03T20:30-03:00",
+  "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
+  "atualizado_em": "2026-11-04T05:40-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Red River",
-          "nome_original": null,
-          "episodios": "1x18",
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "episodios": "2x01 a 2x03",
           "progresso": {
-            "texto": "18/24",
-            "vistos": 18,
-            "total": 24
+            "texto": "12/17",
+            "vistos": 12,
+            "total": 17
           },
-          "titulo_pt_nota": "\"Prova de Inocência\" (\"Proof of Innocence\")",
-          "transmissao": "NTV (Japão), hoje às 13h29",
-          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "titulo_pt_nota": "\"O Baile de Escorpião\", \"Ladeira Abaixo\" e \"Ação de Graças – Parte 1\" (\"The Scorpio Ball\", \"Going Down\" e \"Thanksgiving Part One\")",
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Mesmo dia: Disney+, hoje de madrugada (4h segundo a Rolling Stone Brasil, 5h segundo o Séries em Cena; horário não confirmado oficialmente)",
           "notas": [
-            "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze)"
+            "A 2ª temporada tem 8 episódios: 3 na estreia e depois 1 por semana às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final na quarta-feira, 2 de dezembro de 2026 (Disney+). Nomes dos episódios em português ainda não divulgados (tradução própria)"
           ],
-          "duracao": "duração não divulgada",
           "campos_novos": [
+            "nome",
+            "nome_original",
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "notas:Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze)"
+            "transmissao",
+            "brasil",
+            "notas:A 2ª temporada tem 8 episódios: 3 na estreia e depois 1 por semana às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final na quarta-feira, 2 de dezembro de 2026 (Disney+). Nomes dos episódios em português ainda não divulgados (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T05:47-03:00"
+          "novo_ate": "2026-11-05T05:40-03:00"
         },
         {
-          "nome": "VisionQuest",
+          "nome": "Scrubs",
           "nome_original": null,
-          "episodios": "1x07",
+          "episodios": "2x07",
           "progresso": {
-            "texto": "7/8",
+            "texto": "7/10",
             "vistos": 7,
-            "total": 8
+            "total": 10
           },
-          "titulo_pt_nota": "\"Imolação\" (\"Immolation\")",
-          "transmissao": "Disney+ (EUA), hoje às 18h PT (23h de Brasília)",
-          "brasil": "Mesmo dia: Disney+, hoje às 23h",
-          "notas": [
-            "O final (1x08, \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
+          "outras_linhas": [
+            "🧊 Está na sua Geladeira"
           ],
-          "duracao": "duração não divulgada",
+          "titulo_pt_nota": "\"Minha História\" (\"My Story\")",
+          "transmissao": "ABC (EUA), hoje às 22h",
+          "brasil": "+1 dia: Disney+, quinta-feira, 5 de novembro de 2026 (horário não divulgado)",
+          "notas": [
+            "No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai na ABC na quarta-feira, 11 de novembro de 2026, e no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
             "transmissao",
             "brasil",
-            "notas:O final (1x08, \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
+            "notas:No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai na ABC na quarta-feira, 11 de novembro de 2026, e no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T05:47-03:00"
+          "novo_ate": "2026-11-05T05:40-03:00"
         }
       ]
     },
@@ -256,14 +261,14 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 saiu na terça-feira, 20 de outubro de 2026; depois de uma pausa, o 3x06 (\"Fachada\") sai hoje, terça-feira, 3 de novembro de 2026, às 23h, e o 3x07 (\"Medidas Heroicas\") na terça-feira, 10 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); o 3x05 saiu na terça-feira, 20 de outubro de 2026; depois de uma pausa, o 3x06 (\"Fachada\") sai hoje, terça-feira, 3 de novembro de 2026, às 23h, e o 3x07 (\"Medidas Heroicas\") na terça-feira, 10 de novembro de 2026, às 23h",
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-04T05:47-03:00"
+            "novo_ate": "2026-11-05T05:40-03:00"
           },
           {
             "nome": "Fire Country",
@@ -589,6 +594,71 @@
       "emoji": "📺",
       "itens": [
         {
+          "nome": "Red River",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "17/18",
+            "vistos": 17,
+            "total": 18
+          },
+          "proximo": {
+            "texto": "1x18 - Proof of Innocence / Prova de Inocência",
+            "codigo": "1x18",
+            "titulo_en": "Proof of Innocence",
+            "titulo_pt": "Prova de Inocência",
+            "rotulo": "próximo",
+            "duracao": "30 min",
+            "lancamento": "2026-11-03T13:29-03:00"
+          },
+          "brasil": "Crunchyroll (1x18 no ar desde terça-feira, 3 de novembro de 2026; legendado)",
+          "notas": [
+            "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T05:40-03:00"
+        },
+        {
+          "nome": "VisionQuest",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
+          },
+          "proximo": {
+            "texto": "1x07 - Immolation / Imolação",
+            "codigo": "1x07",
+            "titulo_en": "Immolation",
+            "titulo_pt": "Imolação",
+            "rotulo": "próximo",
+            "duracao": "62 min",
+            "lancamento": "2026-11-03T23:00-03:00"
+          },
+          "brasil": "Disney+ (1x07 no ar desde terça-feira, 3 de novembro de 2026, às 23h)",
+          "notas": [
+            "O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T05:40-03:00"
+        },
+        {
           "nome": "Youth",
           "nome_original": null,
           "status": "🟢",
@@ -717,38 +787,43 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "Red River",
-          "nome_original": null,
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
           "status": "🟢",
           "progresso": {
-            "texto": "17/18",
-            "vistos": 17,
-            "total": 18
+            "texto": "9/12",
+            "vistos": 9,
+            "total": 12
           },
           "proximo": {
-            "texto": "1x18 - Proof of Innocence / Prova de Inocência",
-            "codigo": "1x18",
-            "titulo_en": "Proof of Innocence",
-            "titulo_pt": "Prova de Inocência",
+            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
+            "codigo": "2x01",
+            "titulo_en": "The Scorpio Ball",
+            "titulo_pt": "O Baile de Escorpião",
             "rotulo": "hoje",
-            "duracao": "duração não divulgada",
-            "lancamento": "2026-11-03T13:29-03:00"
+            "duracao": "47 min",
+            "lancamento": "2026-11-04T04:00-03:00"
           },
-          "transmissao": "NTV (Japão), às 13h29",
-          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Disney+, hoje de madrugada (2x01 a 2x03 de uma vez; horário não confirmado oficialmente)",
           "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 1x19 sai na terça-feira, 10 de novembro de 2026. Progresso do Bingers (1x17 visto)"
+            "Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 1x19 sai na terça-feira, 10 de novembro de 2026. Progresso do Bingers (1x17 visto)"
+            "transmissao",
+            "brasil",
+            "notas:Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T05:47-03:00"
+          "novo_ate": "2026-11-05T05:40-03:00"
         },
         {
-          "nome": "VisionQuest",
+          "nome": "Scrubs",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
@@ -757,28 +832,31 @@
             "total": 7
           },
           "proximo": {
-            "texto": "1x07 - Immolation / Imolação",
-            "codigo": "1x07",
-            "titulo_en": "Immolation",
-            "titulo_pt": "Imolação",
+            "texto": "2x07 - My Story / Minha História",
+            "codigo": "2x07",
+            "titulo_en": "My Story",
+            "titulo_pt": "Minha História",
             "rotulo": "hoje",
-            "duracao": "duração não divulgada",
-            "lancamento": "2026-11-03T23:00-03:00"
+            "duracao": "30 min",
+            "lancamento": "2026-11-04T22:00-03:00"
           },
-          "transmissao": "Disney+ (EUA), às 18h PT (23h de Brasília)",
-          "brasil": "Disney+, hoje às 23h",
+          "transmissao": "ABC (EUA), às 22h",
+          "brasil": "Disney+, quinta-feira, 5 de novembro de 2026",
           "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h"
+            "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
             "transmissao",
             "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h"
+            "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
           ],
           "novo": true,
-          "novo_ate": "2026-11-04T05:47-03:00"
+          "novo_ate": "2026-11-05T05:40-03:00"
         }
       ]
     },
@@ -983,7 +1061,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "03/11/2026: lançamento digital no Brasil. Apple TV BR (API do tv.apple.com, sf=143503): a pré-venda virou compra e aluguel, R$ 29,90 SD/HD (buy e rent). Prime Video BR (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, currentTerritory BR): 'Comprar ou alugar', compra UHD R$ 29,90. Antes: pré-venda Apple TV BR R$ 29,90 desde 30/10/2026.",
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           },
           "campos_novos": [
             "aluguel_compra",
@@ -1046,7 +1124,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1113,7 +1191,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1160,7 +1238,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1221,7 +1299,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1270,7 +1348,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1312,7 +1390,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1368,7 +1446,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         },
         {
@@ -1417,7 +1495,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-03"
+            "verificado_em": "2026-11-04"
           }
         }
       ]
