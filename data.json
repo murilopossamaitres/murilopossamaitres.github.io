@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
-  "atualizado_em": "2026-11-04T22:20-03:00",
+  "atualizado_em": "2026-11-04T22:35-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -555,28 +555,6 @@
           ],
           "novo": true,
           "novo_ate": "2026-11-05T05:40-03:00"
-        },
-        {
-          "nome": "Youth",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "7/8",
-            "vistos": 7,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x08 - Agent of the Year / Agente do Ano",
-            "codigo": "1x08",
-            "titulo_en": "Agent of the Year",
-            "titulo_pt": "Agente do Ano",
-            "rotulo": "próximo",
-            "duracao": "31 min"
-          },
-          "brasil": "HBO Max (1x08 no ar desde segunda-feira, 2 de novembro de 2026, à 0h)",
-          "notas": [
-            "Final da temporada. Renovada para a 2ª temporada (HBO, segunda-feira, 2 de novembro de 2026). Nome do 1x08 em português não divulgado (tradução própria)"
-          ]
         },
         {
           "nome": "Overgeared",
