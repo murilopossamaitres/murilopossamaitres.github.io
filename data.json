@@ -1,25 +1,25 @@
 {
-  "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
-  "atualizado_em": "2026-11-04T22:35-03:00",
+  "titulo": "📺 Séries — quinta-feira, 5 de novembro de 2026",
+  "atualizado_em": "2026-11-05T06:25-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "episodios": "2x01 a 2x03",
+          "nome": "Line of Fire",
+          "nome_original": null,
+          "episodios": "T1",
           "progresso": {
-            "texto": "12/17",
-            "vistos": 12,
-            "total": 17
+            "texto": "6/18",
+            "vistos": 6,
+            "total": 18
           },
-          "titulo_pt_nota": "\"O Baile de Escorpião\", \"Ladeira Abaixo\" e \"Ação de Graças – Parte 1\" (\"The Scorpio Ball\", \"Going Down\" e \"Thanksgiving Part One\")",
-          "transmissao": "Hulu (EUA), hoje",
-          "brasil": "Mesmo dia: Disney+, hoje de madrugada (4h segundo a Rolling Stone Brasil, 5h segundo o Séries em Cena; horário não confirmado oficialmente)",
+          "titulo_pt_nota": "\"Piloto\" (\"Pilot\") e demais",
+          "transmissao": "NBC (EUA), no ar desde segunda-feira, 21 de setembro de 2026",
+          "brasil": "HBO Max, hoje (número de episódios na estreia e horário não divulgados; por enquanto a página da HBO Max Brasil mostra só o 1x01, \"Pilot\")",
           "notas": [
-            "A 2ª temporada tem 8 episódios: 3 na estreia e depois 1 por semana às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final na quarta-feira, 2 de dezembro de 2026 (Disney+). Nomes dos episódios em português ainda não divulgados (tradução própria)"
+            "Título oficial no Brasil: \"Line of Fire\". A NBC encomendou 18 episódios (Deadline) e já exibiu 6; o 1x07 (\"Lista de Convidados\") sai na terça-feira, 10 de novembro de 2026, à 0h (NBC). Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
             "nome",
@@ -29,10 +29,10 @@
             "titulo_pt_nota",
             "transmissao",
             "brasil",
-            "notas:A 2ª temporada tem 8 episódios: 3 na estreia e depois 1 por semana às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final na quarta-feira, 2 de dezembro de 2026 (Disney+). Nomes dos episódios em português ainda não divulgados (tradução própria)"
+            "notas:Título oficial no Brasil: \"Line of Fire\". A NBC encomendou 18 episódios (Deadline) e já exibiu 6; o 1x07 (\"Lista de Convidados\") sai na terça-feira, 10 de novembro de 2026, à 0h (NBC). Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
+          "novo_ate": "2026-11-06T06:25-03:00"
         },
         {
           "nome": "Scrubs",
@@ -47,21 +47,41 @@
             "🧊 Está na sua Geladeira"
           ],
           "titulo_pt_nota": "\"Minha História\" (\"My Story\")",
-          "transmissao": "ABC (EUA), hoje às 22h",
-          "brasil": "+1 dia: Disney+, quinta-feira, 5 de novembro de 2026 (horário não divulgado)",
+          "transmissao": "ABC (EUA), quarta-feira, 4 de novembro de 2026, às 22h",
+          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
           "notas": [
             "No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai na ABC na quarta-feira, 11 de novembro de 2026, e no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "transmissao",
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-06T06:25-03:00"
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "episodios": "1x19",
+          "progresso": {
+            "texto": "19/26",
+            "vistos": 19,
+            "total": 26
+          },
+          "titulo_pt_nota": "\"A Imperatriz do Clã Pescador\" (\"Empress of the Angler Clan\")",
+          "transmissao": "MBS (Japão), hoje às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
+          "notas": [
+            "Semanal às quintas; o 1x20 sai na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "notas:No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai na ABC na quarta-feira, 11 de novembro de 2026, e no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "notas:Semanal às quintas; o 1x20 sai na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
+          "novo_ate": "2026-11-06T06:25-03:00"
         }
       ]
     },
@@ -201,18 +221,36 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x03 (\"Ruas de Fogo\") saiu na quinta-feira, 29 de outubro de 2026, e o 10x04 (\"Síndrome do Impostor\") sai na quinta-feira, 5 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x03 (\"Ruas de Fogo\") saiu na quinta-feira, 29 de outubro de 2026, e o 10x04 (\"Síndrome do Impostor\") sai na quinta-feira, 5 de novembro de 2026, às 22h"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") sai hoje, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") na quinta-feira, 12 de novembro de 2026, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") sai hoje, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") na quinta-feira, 12 de novembro de 2026, às 22h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-06T06:25-03:00"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x03 (\"Que Haja Escuridão\") saiu na quinta-feira, 29 de outubro de 2026, e o 2x04 (\"A Sangue Frio\") sai na quinta-feira, 5 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x03 (\"Que Haja Escuridão\") saiu na quinta-feira, 29 de outubro de 2026, e o 2x04 (\"A Sangue Frio\") sai na quinta-feira, 5 de novembro de 2026, às 23h"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") sai hoje, às 23h, e o 2x05 (\"Campainha e Fuga\") na quinta-feira, 12 de novembro de 2026, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") sai hoje, às 23h, e o 2x05 (\"Campainha e Fuga\") na quinta-feira, 12 de novembro de 2026, às 23h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-06T06:25-03:00"
           },
           {
             "nome": "A Assassina (The Assassin)",
-            "info": "T2 🔜 Reino Unido e Irlanda: sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
-            "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data"
+            "info": "T2 🔜 Reino Unido e Irlanda: amanhã, sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
+            "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: amanhã, sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-06T06:25-03:00"
           },
           {
             "nome": "A Especialista (The Savant)",
@@ -237,13 +275,7 @@
           {
             "nome": "Doc",
             "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-05T05:40-03:00"
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h"
           },
           {
             "nome": "Fire Country",
@@ -252,8 +284,14 @@
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, e o 23x04 (\"Amor na Cabeça\") sai na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, e o 23x04 (\"Amor na Cabeça\") sai na sexta-feira, 6 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, o 23x04 (\"Amor na Cabeça\") sai na sexta-feira, 6 de novembro de 2026, à 0h (virada de hoje para amanhã), e o 23x05 (\"Mais Forte (O Que Não Mata)\") na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x03 (\"Está Tudo Errado, mas Está Tudo Bem\") saiu na quinta-feira, 29 de outubro de 2026, o 23x04 (\"Amor na Cabeça\") sai na sexta-feira, 6 de novembro de 2026, à 0h (virada de hoje para amanhã), e o 23x05 (\"Mais Forte (O Que Não Mata)\") na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-06T06:25-03:00"
           },
           {
             "nome": "Only Murders in the Building",
@@ -439,10 +477,15 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max a partir de quinta-feira, 5 de novembro de 2026; o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
+          "brasil": "HBO Max desde hoje, quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado); o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
-          ]
+          ],
+          "campos_novos": [
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-06T06:25-03:00"
         },
         {
           "nome": "St. Denis Medical",
@@ -492,6 +535,72 @@
       "emoji": "📺",
       "itens": [
         {
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/12",
+            "vistos": 9,
+            "total": 12
+          },
+          "proximo": {
+            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
+            "codigo": "2x01",
+            "titulo_en": "The Scorpio Ball",
+            "titulo_pt": "O Baile de Escorpião",
+            "rotulo": "próximo",
+            "duracao": "47 min"
+          },
+          "brasil": "Disney+ (2x01 a 2x03 no ar desde quarta-feira, 4 de novembro de 2026, de madrugada; horário não confirmado oficialmente)",
+          "notas": [
+            "Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-06T06:25-03:00"
+        },
+        {
+          "nome": "Scrubs",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
+          },
+          "proximo": {
+            "texto": "2x07 - My Story / Minha História",
+            "codigo": "2x07",
+            "titulo_en": "My Story",
+            "titulo_pt": "Minha História",
+            "rotulo": "próximo",
+            "duracao": "30 min"
+          },
+          "brasil": "Disney+ (2x07 hoje, horário não divulgado; na ABC saiu na quarta-feira, 4 de novembro de 2026, às 22h)",
+          "notas": [
+            "No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-06T06:25-03:00"
+        },
+        {
           "nome": "Red River",
           "nome_original": null,
           "status": "🟢",
@@ -512,18 +621,7 @@
           "brasil": "Crunchyroll (1x18 no ar desde terça-feira, 3 de novembro de 2026; legendado)",
           "notas": [
             "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
+          ]
         },
         {
           "nome": "VisionQuest",
@@ -546,15 +644,7 @@
           "brasil": "Disney+ (1x07 no ar desde terça-feira, 3 de novembro de 2026, às 23h)",
           "notas": [
             "O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
+          ]
         },
         {
           "nome": "Overgeared",
@@ -630,76 +720,35 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "status": "🟢",
-          "progresso": {
-            "texto": "9/12",
-            "vistos": 9,
-            "total": 12
-          },
-          "proximo": {
-            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
-            "codigo": "2x01",
-            "titulo_en": "The Scorpio Ball",
-            "titulo_pt": "O Baile de Escorpião",
-            "rotulo": "hoje",
-            "duracao": "47 min",
-            "lancamento": "2026-11-04T04:00-03:00"
-          },
-          "transmissao": "Hulu (EUA), hoje",
-          "brasil": "Disney+, hoje de madrugada (2x01 a 2x03 de uma vez; horário não confirmado oficialmente)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
-        },
-        {
-          "nome": "Scrubs",
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
+            "texto": "18/19",
+            "vistos": 18,
+            "total": 19
           },
           "proximo": {
-            "texto": "2x07 - My Story / Minha História",
-            "codigo": "2x07",
-            "titulo_en": "My Story",
-            "titulo_pt": "Minha História",
+            "texto": "1x19 - Empress of the Angler Clan / A Imperatriz do Clã Pescador",
+            "codigo": "1x19",
+            "titulo_en": "Empress of the Angler Clan",
+            "titulo_pt": "A Imperatriz do Clã Pescador",
             "rotulo": "hoje",
             "duracao": "30 min",
-            "lancamento": "2026-11-04T22:00-03:00"
+            "lancamento": "2026-11-05T12:26-03:00"
           },
-          "transmissao": "ABC (EUA), às 22h",
-          "brasil": "Disney+, quinta-feira, 5 de novembro de 2026",
+          "transmissao": "MBS (Japão), às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
           "notas": [
-            "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
+            "Nome em português ainda não divulgado (tradução própria). O 1x20 sai na quinta-feira, 12 de novembro de 2026"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
             "progresso",
             "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
+            "notas:Nome em português ainda não divulgado (tradução própria). O 1x20 sai na quinta-feira, 12 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
+          "novo_ate": "2026-11-06T06:25-03:00"
         }
       ]
     },
@@ -904,7 +953,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "03/11/2026: lançamento digital no Brasil. Apple TV BR (API do tv.apple.com, sf=143503): a pré-venda virou compra e aluguel, R$ 29,90 SD/HD (buy e rent). Prime Video BR (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, currentTerritory BR): 'Comprar ou alugar', compra UHD R$ 29,90. Antes: pré-venda Apple TV BR R$ 29,90 desde 30/10/2026.",
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -961,7 +1010,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1028,7 +1077,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1046,7 +1095,7 @@
           "cinema_brasil": {
             "emoji": "🎟️",
             "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 5 de novembro de 2026 (oficial no Brasil, Sato Company)",
+            "valor": "quinta-feira, 5 de novembro de 2026 (oficial no Brasil, Sato Company; estreia hoje)",
             "notas": [
               "Pré-venda aberta na Ingresso.com (noticiada na sexta-feira, 16 de outubro de 2026, pelo Onde Ver)",
               "Sessões de pré-estreia na terça-feira, 3, e na quarta-feira, 4 de novembro de 2026 (Sato Company, via Arkade e Tokusatsu.com.br; as do dia 3 em salas IMAX)",
@@ -1058,7 +1107,7 @@
             "rotulo": "Aluguel e compra",
             "valor": "sem data no Brasil",
             "notas": [
-              "Nenhum país tem data anunciada (o filme ainda não estreou em nenhum lugar)"
+              "Nenhum país tem data anunciada"
             ],
             "linhas": []
           },
@@ -1075,8 +1124,14 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-04"
-          }
+            "verificado_em": "2026-11-05"
+          },
+          "campos_novos": [
+            "cinema_brasil",
+            "aluguel_compra"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-06T06:25-03:00"
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -1136,7 +1191,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1185,7 +1240,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1227,7 +1282,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1283,7 +1338,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         },
         {
@@ -1332,7 +1387,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-04"
+            "verificado_em": "2026-11-05"
           }
         }
       ]
