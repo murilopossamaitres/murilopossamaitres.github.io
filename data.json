@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 4 de novembro de 2026",
-  "atualizado_em": "2026-11-04T20:28-03:00",
+  "atualizado_em": "2026-11-04T20:41-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -273,126 +273,10 @@
         ]
       }
     },
-    "ativas_atrasadas": {
-      "titulo": "Ativas atrasadas",
-      "emoji": "⏳",
+    "bg_ver_a_seguir": {
+      "titulo": "Ver a seguir",
+      "emoji": "▶️",
       "itens": [
-        {
-          "nome": "9-1-1",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "64/145",
-            "vistos": 64,
-            "total": 145
-          },
-          "proximo": {
-            "texto": "5x05 - Peer Pressure / Pressão do Grupo",
-            "codigo": "5x05",
-            "titulo_en": "Peer Pressure",
-            "titulo_pt": "Pressão do Grupo",
-            "rotulo": "próximo",
-            "duracao": "60 min"
-          },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T20:28-03:00"
-        },
-        {
-          "nome": "9-1-1: Nashville",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/21",
-            "vistos": 0,
-            "total": 21
-          },
-          "proximo": {
-            "texto": "1x01 - Pilot / Piloto",
-            "codigo": "1x01",
-            "titulo_en": "Pilot",
-            "titulo_pt": "Piloto",
-            "rotulo": "próximo",
-            "duracao": "60 min"
-          },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T20:28-03:00"
-        },
-        {
-          "nome": "Avatar: Os Sete Refúgios",
-          "nome_original": "Avatar: Seven Havens",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/13",
-            "vistos": 0,
-            "total": 13
-          },
-          "proximo": {
-            "texto": "1x01 - On the Horizon / No horizonte",
-            "codigo": "1x01",
-            "titulo_en": "On the Horizon",
-            "titulo_pt": "No horizonte",
-            "rotulo": "próximo",
-            "duracao": "22 min"
-          },
-          "brasil": "Paramount+ (Livro 1 completo: 1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026; 10 a 13 desde sexta-feira, 30 de outubro de 2026)",
-          "notas": [
-            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
-          ]
-        },
-        {
-          "nome": "Carrie, a Estranha",
-          "nome_original": "Carrie",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x01 - First Period / Primeiro Período",
-            "codigo": "1x01",
-            "titulo_en": "First Period",
-            "titulo_pt": "Primeiro Período",
-            "rotulo": "próximo",
-            "duracao": "55 min"
-          },
-          "brasil": "T1 completa no Prime Video",
-          "notas": [
-            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
-          ]
-        },
-        {
-          "nome": "Doc",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "32/38",
-            "vistos": 32,
-            "total": 38
-          },
-          "proximo": {
-            "texto": "3x01 - Wherefore Art Thou / Onde Estás Tu",
-            "codigo": "3x01",
-            "titulo_en": "Wherefore Art Thou",
-            "titulo_pt": "Onde Estás Tu",
-            "rotulo": "próximo",
-            "duracao": "60 min"
-          },
-          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T20:28-03:00"
-        },
         {
           "nome": "Grey's Anatomy",
           "nome_original": null,
@@ -421,47 +305,71 @@
           "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
-          "nome": "Kill Jackie",
+          "nome": "VisionQuest",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
           },
           "proximo": {
-            "texto": "1x01 - Burning Down the House / Botando Fogo na Casa",
-            "codigo": "1x01",
-            "titulo_en": "Burning Down the House",
-            "titulo_pt": "Botando Fogo na Casa",
+            "texto": "1x07 - Immolation / Imolação",
+            "codigo": "1x07",
+            "titulo_en": "Immolation",
+            "titulo_pt": "Imolação",
             "rotulo": "próximo",
-            "duracao": "44 min"
+            "duracao": "62 min",
+            "lancamento": "2026-11-03T23:00-03:00"
           },
-          "brasil": "Globoplay desde quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie",
+          "brasil": "Disney+ (1x07 no ar desde terça-feira, 3 de novembro de 2026, às 23h)",
           "notas": [
-            "A imprensa também usa \"Kill Jackie: Acerto de Contas\""
+            "O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
           ]
         },
         {
-          "nome": "Line of Fire",
+          "nome": "Youth",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "0/6",
-            "vistos": 0,
-            "total": 6
+            "texto": "7/8",
+            "vistos": 7,
+            "total": 8
           },
           "proximo": {
-            "texto": "1x01 - Pilot / Piloto",
-            "codigo": "1x01",
-            "titulo_en": "Pilot",
-            "titulo_pt": "Piloto",
+            "texto": "1x08 - Agent of the Year / Agente do Ano",
+            "codigo": "1x08",
+            "titulo_en": "Agent of the Year",
+            "titulo_pt": "Agente do Ano",
             "rotulo": "próximo",
-            "duracao": "60 min"
+            "duracao": "31 min"
           },
-          "brasil": "HBO Max a partir de quinta-feira, 5 de novembro de 2026; o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
+          "brasil": "HBO Max (1x08 no ar desde segunda-feira, 2 de novembro de 2026, à 0h)",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
+            "Final da temporada. Renovada para a 2ª temporada (HBO, segunda-feira, 2 de novembro de 2026). Nome do 1x08 em português não divulgado (tradução própria)"
+          ]
+        },
+        {
+          "nome": "Red River",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "17/18",
+            "vistos": 17,
+            "total": 18
+          },
+          "proximo": {
+            "texto": "1x18 - Proof of Innocence / Prova de Inocência",
+            "codigo": "1x18",
+            "titulo_en": "Proof of Innocence",
+            "titulo_pt": "Prova de Inocência",
+            "rotulo": "próximo",
+            "duracao": "30 min",
+            "lancamento": "2026-11-03T13:29-03:00"
+          },
+          "brasil": "Crunchyroll (1x18 no ar desde terça-feira, 3 de novembro de 2026; legendado)",
+          "notas": [
+            "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ]
         },
         {
@@ -487,52 +395,28 @@
           ]
         },
         {
-          "nome": "A Série Pokémon: Horizontes",
-          "nome_original": "Pokémon Horizons: The Series",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/154",
-            "vistos": 0,
-            "total": 154
-          },
-          "proximo": {
-            "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
-            "codigo": "1x01",
-            "titulo_en": "The Pendant That Starts It All (Part One)",
-            "titulo_pt": "O pingente que iniciou tudo – Parte 1",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
-        }
-      ]
-    },
-    "episodio_recente": {
-      "titulo": "Episódio recente",
-      "emoji": "📺",
-      "itens": [
-        {
-          "nome": "Red River",
-          "nome_original": null,
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
           "status": "🟢",
           "progresso": {
-            "texto": "17/18",
-            "vistos": 17,
-            "total": 18
+            "texto": "9/12",
+            "vistos": 9,
+            "total": 12
           },
           "proximo": {
-            "texto": "1x18 - Proof of Innocence / Prova de Inocência",
-            "codigo": "1x18",
-            "titulo_en": "Proof of Innocence",
-            "titulo_pt": "Prova de Inocência",
+            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
+            "codigo": "2x01",
+            "titulo_en": "The Scorpio Ball",
+            "titulo_pt": "O Baile de Escorpião",
             "rotulo": "próximo",
-            "duracao": "30 min",
-            "lancamento": "2026-11-03T13:29-03:00"
+            "duracao": "47 min",
+            "lancamento": "2026-11-04T04:00-03:00"
           },
-          "brasil": "Crunchyroll (1x18 no ar desde terça-feira, 3 de novembro de 2026; legendado)",
+          "brasil": "Disney+, hoje de madrugada (2x01 a 2x03 de uma vez; horário não confirmado oficialmente)",
           "notas": [
-            "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
           ],
+          "transmissao": "Hulu (EUA), hoje",
           "campos_novos": [
             "nome",
             "nome_original",
@@ -540,112 +424,11 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "transmissao",
+            "notas:Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
           ],
           "novo": true,
           "novo_ate": "2026-11-05T05:40-03:00"
-        },
-        {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
-          },
-          "proximo": {
-            "texto": "1x07 - Immolation / Imolação",
-            "codigo": "1x07",
-            "titulo_en": "Immolation",
-            "titulo_pt": "Imolação",
-            "rotulo": "próximo",
-            "duracao": "62 min",
-            "lancamento": "2026-11-03T23:00-03:00"
-          },
-          "brasil": "Disney+ (1x07 no ar desde terça-feira, 3 de novembro de 2026, às 23h)",
-          "notas": [
-            "O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
-        },
-        {
-          "nome": "Youth",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "7/8",
-            "vistos": 7,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x08 - Agent of the Year / Agente do Ano",
-            "codigo": "1x08",
-            "titulo_en": "Agent of the Year",
-            "titulo_pt": "Agente do Ano",
-            "rotulo": "próximo",
-            "duracao": "31 min"
-          },
-          "brasil": "HBO Max (1x08 no ar desde segunda-feira, 2 de novembro de 2026, à 0h)",
-          "notas": [
-            "Final da temporada. Renovada para a 2ª temporada (HBO, segunda-feira, 2 de novembro de 2026). Nome do 1x08 em português não divulgado (tradução própria)"
-          ]
-        },
-        {
-          "nome": "Overgeared",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "5/5",
-            "vistos": 5,
-            "total": 5
-          },
-          "proximo": {
-            "texto": "1x06 - First Boss Raid / O Primeiro Ataque ao Chefe",
-            "codigo": "1x06",
-            "titulo_en": "First Boss Raid",
-            "titulo_pt": "O Primeiro Ataque ao Chefe",
-            "rotulo": "próximo",
-            "duracao": "25 min"
-          },
-          "brasil": "Crunchyroll (1x06 no ar desde domingo, 1 de novembro de 2026, às 11h30; legendado e dublado)",
-          "notas": [
-            "Semanal aos domingos; o 1x07 sai no domingo, 8 de novembro de 2026, às 11h30. O Banco de Séries e o Bingers marcam o 1x06 na sexta-feira, 6 de novembro de 2026 (vale a data da Crunchyroll Brasil). Nome do 1x06 em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T20:28-03:00"
-        },
-        {
-          "nome": "Delegado",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/1",
-            "vistos": 0,
-            "total": 1
-          },
-          "proximo": {
-            "texto": "1x01 - A Arma de Biu Doidão / A Arma de Biu Doidão",
-            "codigo": "1x01",
-            "titulo_en": "A Arma de Biu Doidão",
-            "titulo_pt": "A Arma de Biu Doidão",
-            "rotulo": "próximo",
-            "duracao": "35 min"
-          },
-          "brasil": "Globoplay (plano Premium) desde sábado, 31 de outubro de 2026 (no Canal Brasil desde sexta-feira, 30 de outubro de 2026, às 22h)",
-          "notas": [
-            "Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal; o 1x02 sai na sexta-feira, 6 de novembro de 2026, às 22h no Canal Brasil e no sábado, 7 de novembro de 2026, no Globoplay"
-          ]
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -670,112 +453,117 @@
           ]
         },
         {
-          "nome": "Locker Diaries: Coven Academy",
+          "nome": "It Gets Worse",
           "nome_original": null,
-          "status": null,
+          "status": "🔴",
           "progresso": {
-            "texto": "0/6",
+            "texto": "0/4",
             "vistos": 0,
-            "total": 6
+            "total": 4
           },
           "proximo": {
-            "texto": "1x01 - The Binding / O Vínculo",
             "codigo": "1x01",
-            "titulo_en": "The Binding",
-            "titulo_pt": "O Vínculo",
-            "rotulo": "próximo",
-            "duracao": "3 min"
+            "titulo_en": "Ethan",
+            "titulo_pt": null,
+            "duracao": "24 min",
+            "texto": "1x01 - Ethan",
+            "rotulo": "próximo"
           },
-          "brasil": "Sem data no Brasil (os Locker Diaries anteriores chegaram ao Disney+ Brasil meses depois dos EUA)",
+          "brasil": "Sem streaming no Brasil · exibição original: Channel 4"
+        },
+        {
+          "nome": "Delegado",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1",
+            "vistos": 0,
+            "total": 1
+          },
+          "proximo": {
+            "texto": "1x01 - A Arma de Biu Doidão / A Arma de Biu Doidão",
+            "codigo": "1x01",
+            "titulo_en": "A Arma de Biu Doidão",
+            "titulo_pt": "A Arma de Biu Doidão",
+            "rotulo": "próximo",
+            "duracao": "35 min"
+          },
+          "brasil": "Globoplay (plano Premium) desde sábado, 31 de outubro de 2026 (no Canal Brasil desde sexta-feira, 30 de outubro de 2026, às 22h)",
           "notas": [
-            "Spin-off em curtas verticais de Coven Academy (série separada; formato Locker Diaries, 6 episódios de cerca de 3 minutos, segundo o Diário da Mídia).",
-            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+            "Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal; o 1x02 sai na sexta-feira, 6 de novembro de 2026, às 22h no Canal Brasil e no sábado, 7 de novembro de 2026, no Globoplay"
+          ]
+        },
+        {
+          "nome": "Carrie, a Estranha",
+          "nome_original": "Carrie",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - First Period / Primeiro Período",
+            "codigo": "1x01",
+            "titulo_en": "First Period",
+            "titulo_pt": "Primeiro Período",
+            "rotulo": "próximo",
+            "duracao": "55 min"
+          },
+          "brasil": "T1 completa no Prime Video",
+          "notas": [
+            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
           ]
         }
       ]
     },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
+    "bg_acumulando_poeira": {
+      "titulo": "Acumulando poeira (episódio esperando há mais de 30 dias)",
+      "emoji": "🕸️",
       "itens": [
         {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "status": "🟢",
-          "progresso": {
-            "texto": "9/12",
-            "vistos": 9,
-            "total": 12
-          },
-          "proximo": {
-            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
-            "codigo": "2x01",
-            "titulo_en": "The Scorpio Ball",
-            "titulo_pt": "O Baile de Escorpião",
-            "rotulo": "hoje",
-            "duracao": "47 min",
-            "lancamento": "2026-11-04T04:00-03:00"
-          },
-          "transmissao": "Hulu (EUA), hoje",
-          "brasil": "Disney+, hoje de madrugada (2x01 a 2x03 de uma vez; horário não confirmado oficialmente)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 2x04 sai na quarta-feira, 11 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
-        },
-        {
-          "nome": "Scrubs",
+          "nome": "Pokémon",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
+            "texto": "939/1231",
+            "vistos": 939,
+            "total": 1231
           },
           "proximo": {
-            "texto": "2x07 - My Story / Minha História",
-            "codigo": "2x07",
-            "titulo_en": "My Story",
-            "titulo_pt": "Minha História",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-04T22:00-03:00"
+            "texto": "20x03 - Loading the Dex! / Carregando o Dex!",
+            "codigo": "20x03",
+            "titulo_en": "Loading the Dex!",
+            "titulo_pt": "Carregando o Dex!",
+            "rotulo": "próximo",
+            "duracao": "30 min"
           },
-          "transmissao": "ABC (EUA), às 22h",
-          "brasil": "Disney+, quinta-feira, 5 de novembro de 2026",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
-          ],
+          "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)"
+        },
+        {
+          "nome": "9-1-1",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "64/145",
+            "vistos": 64,
+            "total": 145
+          },
+          "proximo": {
+            "texto": "5x05 - Peer Pressure / Pressão do Grupo",
+            "codigo": "5x05",
+            "titulo_en": "Peer Pressure",
+            "titulo_pt": "Pressão do Grupo",
+            "rotulo": "próximo",
+            "duracao": "60 min"
+          },
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
+            "progresso"
           ],
           "novo": true,
-          "novo_ate": "2026-11-05T05:40-03:00"
-        }
-      ]
-    },
-    "finalizadas_atrasadas": {
-      "titulo": "Finalizadas atrasadas",
-      "emoji": "⏳",
-      "itens": [
+          "novo_ate": "2026-11-05T20:28-03:00"
+        },
         {
           "nome": "9-1-1: Lone Star",
           "nome_original": null,
@@ -793,45 +581,32 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T5 no Disney+"
+          "brasil": "T1 a T5 no Disney+",
+          "finalizada": true
         },
         {
-          "nome": "A Lenda de Korra",
-          "nome_original": "The Legend of Korra",
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/52",
-            "vistos": 0,
-            "total": 52
-          },
-          "proximo": {
-            "texto": "1x01 - Welcome to Republic City / Bem-vinda à Cidade República",
-            "codigo": "1x01",
-            "titulo_en": "Welcome to Republic City",
-            "titulo_pt": "Bem-vinda à Cidade República",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)"
-        },
-        {
-          "nome": "Coldwater",
+          "nome": "Doc",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "0/6",
-            "vistos": 0,
-            "total": 6
+            "texto": "32/38",
+            "vistos": 32,
+            "total": 38
           },
           "proximo": {
-            "texto": "1x01 - Episode 1 / Episódio 1",
-            "codigo": "1x01",
-            "titulo_en": "Episode 1",
-            "titulo_pt": "Episódio 1",
+            "texto": "3x01 - Wherefore Art Thou / Onde Estás Tu",
+            "codigo": "3x01",
+            "titulo_en": "Wherefore Art Thou",
+            "titulo_pt": "Onde Estás Tu",
             "rotulo": "próximo",
-            "duracao": "49 min"
+            "duracao": "60 min"
           },
-          "brasil": "Sem streaming no Brasil"
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
         },
         {
           "nome": "Mila no Multiverso",
@@ -853,42 +628,162 @@
           "brasil": "T1 no Disney+; T2 sem streaming no Brasil"
         },
         {
-          "nome": "Pokémon",
-          "nome_original": null,
+          "nome": "Troia: A Queda de Uma Cidade",
+          "nome_original": "Troy: Fall of a City",
           "status": "🟢",
           "progresso": {
-            "texto": "939/1231",
-            "vistos": 939,
-            "total": 1231
-          },
-          "proximo": {
-            "texto": "20x03 - Loading the Dex! / Carregando o Dex!",
-            "codigo": "20x03",
-            "titulo_en": "Loading the Dex!",
-            "titulo_pt": "Carregando o Dex!",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)"
-        },
-        {
-          "nome": "Pôneis",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
+            "texto": "2/8",
+            "vistos": 2,
             "total": 8
           },
           "proximo": {
-            "texto": "1x01 - Second Hand News / Notícias de Segunda Mão",
-            "codigo": "1x01",
-            "titulo_en": "Second Hand News",
-            "titulo_pt": "Notícias de Segunda Mão",
-            "rotulo": "próximo",
-            "duracao": "53 min"
+            "codigo": "1x03",
+            "titulo_en": "Siege",
+            "titulo_pt": "Encurralados",
+            "duracao": "60 min",
+            "texto": "1x03 - Siege / Encurralados",
+            "rotulo": "próximo"
           },
-          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Reboot: Os Guardiões do Sistema",
+          "nome_original": "ReBoot: The Guardian Code",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/20",
+            "vistos": 10,
+            "total": 20
+          },
+          "proximo": {
+            "codigo": "1x11",
+            "titulo_en": "Network Interference",
+            "titulo_pt": null,
+            "duracao": "30 min",
+            "texto": "1x11 - Network Interference",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Power Rangers",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "4/974",
+            "vistos": 4,
+            "total": 974
+          },
+          "proximo": {
+            "codigo": "1x05",
+            "titulo_en": "Different Drum",
+            "titulo_pt": "Um Encontro a Sós",
+            "duracao": "25 min",
+            "texto": "1x05 - Different Drum / Um Encontro a Sós",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Hawai Força Especial",
+          "nome_original": "Hawaii Five-0",
+          "status": "🟢",
+          "progresso": {
+            "texto": "1/240",
+            "vistos": 1,
+            "total": 240
+          },
+          "proximo": {
+            "codigo": "1x02",
+            "titulo_en": "Ohana",
+            "titulo_pt": "Ohana (Família)",
+            "duracao": "60 min",
+            "texto": "1x02 - Ohana / Ohana (Família)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Globoplay, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Gypsy",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "1/10",
+            "vistos": 1,
+            "total": 10
+          },
+          "proximo": {
+            "codigo": "1x02",
+            "titulo_en": "Morgan Stop",
+            "titulo_pt": "Estação Morgan",
+            "duracao": "54 min",
+            "texto": "1x02 - Morgan Stop / Estação Morgan",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Orange Is the New Black",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/91",
+            "vistos": 2,
+            "total": 91
+          },
+          "proximo": {
+            "codigo": "1x03",
+            "titulo_en": "Lesbian Request Denied",
+            "titulo_pt": "Pedido lésbico negado",
+            "duracao": "58 min",
+            "texto": "1x03 - Lesbian Request Denied / Pedido lésbico negado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Por Treze Razões",
+          "nome_original": "13 Reasons Why",
+          "status": "🟢",
+          "progresso": {
+            "texto": "13/49",
+            "vistos": 13,
+            "total": 49
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "The First Polaroid",
+            "titulo_pt": "A primeira foto Polaroid",
+            "duracao": "60 min",
+            "texto": "2x01 - The First Polaroid / A primeira foto Polaroid",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        }
+      ]
+    },
+    "bg_nao_comecei": {
+      "titulo": "Ainda não comecei",
+      "emoji": "🆕",
+      "itens": [
+        {
+          "nome": "Cyborg 009: Nemesis (2026)",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/3",
+            "vistos": 0,
+            "total": 3
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "手を組め",
+            "titulo_pt": null,
+            "duracao": "31 min",
+            "texto": "1x01 - 手を組め",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Prime Video"
         },
         {
           "nome": "O Teste de Copenhague",
@@ -907,7 +802,4051 @@
             "rotulo": "próximo",
             "duracao": "57 min"
           },
-          "brasil": "Sem streaming por assinatura no Brasil · cancelada após 1 temporada"
+          "brasil": "Sem streaming por assinatura no Brasil · cancelada após 1 temporada",
+          "finalizada": true
+        },
+        {
+          "nome": "Coldwater",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/6",
+            "vistos": 0,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x01 - Episode 1 / Episódio 1",
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": "Episódio 1",
+            "rotulo": "próximo",
+            "duracao": "49 min"
+          },
+          "brasil": "Sem streaming no Brasil",
+          "finalizada": true
+        },
+        {
+          "nome": "Pôneis",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Second Hand News / Notícias de Segunda Mão",
+            "codigo": "1x01",
+            "titulo_en": "Second Hand News",
+            "titulo_pt": "Notícias de Segunda Mão",
+            "rotulo": "próximo",
+            "duracao": "53 min"
+          },
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
+          "finalizada": true
+        },
+        {
+          "nome": "Transformers: EarthSpark",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/44",
+            "vistos": 0,
+            "total": 44
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Secret Legacy (1)",
+            "titulo_pt": "Legado Secreto Parte 1 e 2",
+            "duracao": "45 min",
+            "texto": "1x01 - Secret Legacy (1) / Legado Secreto Parte 1 e 2",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "High School Musical: O Musical: A Série",
+          "nome_original": "High School Musical: The Musical: The Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/38",
+            "vistos": 0,
+            "total": 38
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Auditions",
+            "titulo_pt": "As Audições",
+            "duracao": "39 min",
+            "texto": "1x01 - The Auditions / As Audições",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "O Panda do Kung Fu: O Cavaleiro-Dragão",
+          "nome_original": "Kung Fu Panda: The Dragon Knight",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/42",
+            "vistos": 0,
+            "total": 42
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "A Cause for the Paws",
+            "titulo_pt": null,
+            "duracao": "24 min",
+            "texto": "1x01 - A Cause for the Paws",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Lances da Vida",
+          "nome_original": "One Tree Hill",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/187",
+            "vistos": 0,
+            "total": 187
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video"
+        },
+        {
+          "nome": "Kill Jackie",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Burning Down the House / Botando Fogo na Casa",
+            "codigo": "1x01",
+            "titulo_en": "Burning Down the House",
+            "titulo_pt": "Botando Fogo na Casa",
+            "rotulo": "próximo",
+            "duracao": "44 min"
+          },
+          "brasil": "Globoplay desde quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie",
+          "notas": [
+            "A imprensa também usa \"Kill Jackie: Acerto de Contas\""
+          ]
+        },
+        {
+          "nome": "Tron: Uprising",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/18",
+            "vistos": 0,
+            "total": 18
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Renegade (1)",
+            "titulo_pt": "O Renegado, Parte 1",
+            "duracao": "30 min",
+            "texto": "1x01 - The Renegade (1) / O Renegado, Parte 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Tulsa King",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/32",
+            "vistos": 0,
+            "total": 32
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Go West, Old Man",
+            "titulo_pt": "Vai para Oeste, Velho",
+            "duracao": "42 min",
+            "texto": "1x01 - Go West, Old Man / Vai para Oeste, Velho",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Claro tv+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Amizade Platónica",
+          "nome_original": "Platonic",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/20",
+            "vistos": 0,
+            "total": 20
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "31 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "As Feiticeiras",
+          "nome_original": "Charmed",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/178",
+            "vistos": 0,
+            "total": 178
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Something Wicca This Way Comes",
+            "titulo_pt": "Algo Mágico Vem Aí",
+            "duracao": "60 min",
+            "texto": "1x01 - Something Wicca This Way Comes / Algo Mágico Vem Aí",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Scrubs (2001)",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/181",
+            "vistos": 0,
+            "total": 181
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "My First Day",
+            "titulo_pt": "Meu Primeiro Dia",
+            "duracao": "30 min",
+            "texto": "1x01 - My First Day / Meu Primeiro Dia",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Viva o Rei Juliano!",
+          "nome_original": "All Hail King Julien",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/78",
+            "vistos": 0,
+            "total": 78
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "King Me",
+            "titulo_pt": "Viva eu",
+            "duracao": "23 min",
+            "texto": "1x01 - King Me / Viva eu",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Netflix"
+        },
+        {
+          "nome": "Monstros",
+          "nome_original": "Monster",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/35",
+            "vistos": 0,
+            "total": 35
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode One",
+            "titulo_pt": null,
+            "duracao": "50 min",
+            "texto": "1x01 - Episode One",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Netflix"
+        },
+        {
+          "nome": "El Chapulín Colorado Animado",
+          "nome_original": "El Chapulín Colorado: The Animated Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/74",
+            "vistos": 0,
+            "total": 74
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "El Anillo Perdido",
+            "titulo_pt": null,
+            "duracao": "11 min",
+            "texto": "1x01 - El Anillo Perdido",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Televisa"
+        },
+        {
+          "nome": "Chapolin Colorado",
+          "nome_original": "El Chapulín",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/260",
+            "vistos": 0,
+            "total": 260
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "El Muñeco Chilpayate / Noche de espantos",
+            "titulo_pt": "Um Boneco Muito Vivo / A Casa Mal-Assombrada",
+            "duracao": "30 min",
+            "texto": "1x01 - El Muñeco Chilpayate / Noche de espantos / Um Boneco Muito Vivo / A Casa Mal-Assombrada",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, HBO Max, Globoplay"
+        },
+        {
+          "nome": "O Xavier",
+          "nome_original": "El Chavo: The Animated Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/135",
+            "vistos": 0,
+            "total": 135
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Los globos",
+            "titulo_pt": "Os Balões",
+            "duracao": "30 min",
+            "texto": "1x01 - Los globos / Os Balões",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Televisa"
+        },
+        {
+          "nome": "Chaves",
+          "nome_original": "El Chavo del 8",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/288",
+            "vistos": 0,
+            "total": 288
+          },
+          "proximo": {
+            "codigo": "1x02",
+            "titulo_en": "El peso de Quico",
+            "titulo_pt": "Os Ladrões / Dando um banho no Chaves",
+            "duracao": "30 min",
+            "texto": "1x02 - El peso de Quico / Os Ladrões / Dando um banho no Chaves",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, HBO Max, Globoplay, Multishow Amazon Channel"
+        },
+        {
+          "nome": "Batman and Robin",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/15",
+            "vistos": 0,
+            "total": 15
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Batman Takes Over",
+            "titulo_pt": null,
+            "duracao": "18 min",
+            "texto": "1x01 - Batman Takes Over",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Syndication"
+        },
+        {
+          "nome": "Batman",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/15",
+            "vistos": 0,
+            "total": 15
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Electrical Brain",
+            "titulo_pt": null,
+            "duracao": "16 min",
+            "texto": "1x01 - The Electrical Brain",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Syndication"
+        },
+        {
+          "nome": "Fast & Furious: Spy Racers",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/52",
+            "vistos": 0,
+            "total": 52
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Born a Toretto",
+            "titulo_pt": "Sou um Toretto",
+            "duracao": "24 min",
+            "texto": "1x01 - Born a Toretto / Sou um Toretto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Medusa",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/24",
+            "vistos": 0,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "La muerte",
+            "titulo_pt": "A morte",
+            "duracao": "39 min",
+            "texto": "1x01 - La muerte / A morte",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Planeta Pré-Histórico",
+          "nome_original": "Prehistoric Planet",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/15",
+            "vistos": 0,
+            "total": 15
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Coasts",
+            "titulo_pt": "Costa",
+            "duracao": "42 min",
+            "texto": "1x01 - Coasts / Costa",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Respira",
+          "nome_original": "Breathless",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/16",
+            "vistos": 0,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Por encima de todo",
+            "titulo_pt": "Acima de tudo",
+            "duracao": "51 min",
+            "texto": "1x01 - Por encima de todo / Acima de tudo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Atom Man vs. Superman",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/15",
+            "vistos": 0,
+            "total": 15
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Superman Flies Again",
+            "titulo_pt": null,
+            "duracao": "15 min",
+            "texto": "1x01 - Superman Flies Again",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: CBS"
+        },
+        {
+          "nome": "Superman",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Superman Comes to Earth",
+            "titulo_pt": null,
+            "duracao": "25 min",
+            "texto": "1x01 - Superman Comes to Earth",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: CBS"
+        },
+        {
+          "nome": "Ash vs Evil Dead",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "El Jefe",
+            "titulo_pt": null,
+            "duracao": "43 min",
+            "texto": "1x01 - El Jefe",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Lionsgate+ Amazon Channel"
+        },
+        {
+          "nome": "Alice in Borderland",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/22",
+            "vistos": 0,
+            "total": 22
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "エピソード１",
+            "titulo_pt": null,
+            "duracao": "49 min",
+            "texto": "1x01 - エピソード１",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "The Stand",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/9",
+            "vistos": 0,
+            "total": 9
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The End",
+            "titulo_pt": "O Fim",
+            "duracao": "59 min",
+            "texto": "1x01 - The End / O Fim",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: CBS All Access"
+        },
+        {
+          "nome": "Invasão",
+          "nome_original": "Invasion",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Last Day",
+            "titulo_pt": "Último dia",
+            "duracao": "55 min",
+            "texto": "1x01 - Last Day / Último dia",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Sei o Que Fizeste no Verão Passado",
+          "nome_original": "I Know What You Did Last Summer",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "It's Thursday",
+            "titulo_pt": "É Quinta-Feira",
+            "duracao": "50 min",
+            "texto": "1x01 - It's Thursday / É Quinta-Feira",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Buffy, a Caça-Vampiros",
+          "nome_original": "Buffy the Vampire Slayer",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/144",
+            "vistos": 0,
+            "total": 144
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Welcome to the Hellmouth (1)",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Welcome to the Hellmouth (1)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Fire Country",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/76",
+            "vistos": 0,
+            "total": 76
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Paramount+, Claro tv+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Brilliant Minds",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/33",
+            "vistos": 0,
+            "total": 33
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Everybody Still Hates Chris",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/20",
+            "vistos": 0,
+            "total": 20
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Everybody Still Hates The GED",
+            "titulo_pt": "Todo Mundo Ainda Odeia O Supletivo",
+            "duracao": "30 min",
+            "texto": "1x01 - Everybody Still Hates The GED / Todo Mundo Ainda Odeia O Supletivo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Todos Contra o Chris",
+          "nome_original": "Everybody Hates Chris",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/88",
+            "vistos": 0,
+            "total": 88
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Everybody Hates the Pilot",
+            "titulo_pt": "Todo Mundo Odeia o Chris",
+            "duracao": "30 min",
+            "texto": "1x01 - Everybody Hates the Pilot / Todo Mundo Odeia o Chris",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, Disney+, Paramount+, Globoplay, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Lilo & Stitch",
+          "nome_original": "Lilo & Stitch: The Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/65",
+            "vistos": 0,
+            "total": 65
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Richter",
+            "titulo_pt": null,
+            "duracao": "25 min",
+            "texto": "1x01 - Richter",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "9-1-1: Nashville",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/21",
+            "vistos": 0,
+            "total": 21
+          },
+          "proximo": {
+            "texto": "1x01 - Pilot / Piloto",
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "rotulo": "próximo",
+            "duracao": "60 min"
+          },
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
+        },
+        {
+          "nome": "Reacher",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/32",
+            "vistos": 0,
+            "total": 32
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Welcome to Margrave",
+            "titulo_pt": "Bem-vindo a Margrave",
+            "duracao": "54 min",
+            "texto": "1x01 - Welcome to Margrave / Bem-vindo a Margrave",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Victorious",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/57",
+            "vistos": 0,
+            "total": 57
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "30 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "ICarly",
+          "nome_original": "iCarly",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/109",
+            "vistos": 0,
+            "total": 109
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "iPilot",
+            "titulo_pt": "Piloto",
+            "duracao": "30 min",
+            "texto": "1x01 - iPilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "iCarly",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/33",
+            "vistos": 0,
+            "total": 33
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "iStart Over",
+            "titulo_pt": "iRecomeçando",
+            "duracao": "26 min",
+            "texto": "1x01 - iStart Over / iRecomeçando",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "School Spirits",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/24",
+            "vistos": 0,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "My So-Called Death",
+            "titulo_pt": "Minha Pseudomorte",
+            "duracao": "44 min",
+            "texto": "1x01 - My So-Called Death / Minha Pseudomorte",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Demolidor: Nascer de Novo",
+          "nome_original": "Daredevil: Born Again",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/17",
+            "vistos": 0,
+            "total": 17
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Heaven's Half Hour",
+            "titulo_pt": "Meia Hora do Céu",
+            "duracao": "58 min",
+            "texto": "1x01 - Heaven's Half Hour / Meia Hora do Céu",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Beleza Fatal",
+          "nome_original": "Scars Of Beauty",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/40",
+            "vistos": 0,
+            "total": 40
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Capítulo 1",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Capítulo 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "The White Lotus",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/21",
+            "vistos": 0,
+            "total": 21
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Arrivals",
+            "titulo_pt": "Chegadas",
+            "duracao": "54 min",
+            "texto": "1x01 - Arrivals / Chegadas",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "High Potential",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/31",
+            "vistos": 0,
+            "total": 31
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Disclaimer",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/7",
+            "vistos": 0,
+            "total": 7
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "I",
+            "titulo_pt": null,
+            "duracao": "45 min",
+            "texto": "1x01 - I",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV"
+        },
+        {
+          "nome": "Slow Horses",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/36",
+            "vistos": 0,
+            "total": 36
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Failure's Contagious",
+            "titulo_pt": "Fracasso é contagioso",
+            "duracao": "53 min",
+            "texto": "1x01 - Failure's Contagious / Fracasso é contagioso",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "A Mulher no Lago",
+          "nome_original": "Lady in the Lake",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/7",
+            "vistos": 0,
+            "total": 7
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Did you know Seahorses are fish?",
+            "titulo_pt": "Sabia que cavalos-marinhos são peixes?",
+            "duracao": "54 min",
+            "texto": "1x01 - Did you know Seahorses are fish? / Sabia que cavalos-marinhos são peixes?",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Fundação",
+          "nome_original": "Foundation",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Emperor's Peace",
+            "titulo_pt": "A paz do imperador",
+            "duracao": "69 min",
+            "texto": "1x01 - The Emperor's Peace / A paz do imperador",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Ted Lasso",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/44",
+            "vistos": 0,
+            "total": 44
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "31 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "O Silo",
+          "nome_original": "Silo",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Freedom Day",
+            "titulo_pt": "Dia da liberdade",
+            "duracao": "59 min",
+            "texto": "1x01 - Freedom Day / Dia da liberdade",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Separação",
+          "nome_original": "Severance",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/19",
+            "vistos": 0,
+            "total": 19
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Good News About Hell",
+            "titulo_pt": "Boas notícias sobre o inferno",
+            "duracao": "57 min",
+            "texto": "1x01 - Good News About Hell / Boas notícias sobre o inferno",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Uma Família Inusitada",
+          "nome_original": "The Atypical Family",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/12",
+            "vistos": 0,
+            "total": 12
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "1회",
+            "titulo_pt": null,
+            "duracao": "80 min",
+            "texto": "1x01 - 1회",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "De Volta aos 15",
+          "nome_original": "Back to 15",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/18",
+            "vistos": 0,
+            "total": 18
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "(⊙_⊙)",
+            "titulo_pt": null,
+            "duracao": "36 min",
+            "texto": "1x01 - (⊙_⊙)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Pedaço de Mim",
+          "nome_original": "Desperate Lies",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/17",
+            "vistos": 0,
+            "total": 17
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Tudo que eu desejo",
+            "titulo_pt": null,
+            "duracao": "58 min",
+            "texto": "1x01 - Tudo que eu desejo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Young Sheldon",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/141",
+            "vistos": 0,
+            "total": 141
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "30 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, HBO Max"
+        },
+        {
+          "nome": "Swagger",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/18",
+            "vistos": 0,
+            "total": 18
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "NBA",
+            "titulo_pt": null,
+            "duracao": "59 min",
+            "texto": "1x01 - NBA",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Ice Age: Scrat Tales",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/6",
+            "vistos": 0,
+            "total": 6
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Nuts About You",
+            "titulo_pt": "Louco Por Você",
+            "duracao": "4 min",
+            "texto": "1x01 - Nuts About You / Louco Por Você",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Hellsing Ultimate",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/10",
+            "vistos": 0,
+            "total": 10
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Hellsing I",
+            "titulo_pt": null,
+            "duracao": "50 min",
+            "texto": "1x01 - Hellsing I",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Anime OAV"
+        },
+        {
+          "nome": "The Witch and the Beast",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/12",
+            "vistos": 0,
+            "total": 12
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "魔女と紅蓮の街",
+            "titulo_pt": "A Bruxa e a Cidade Ardente",
+            "duracao": "30 min",
+            "texto": "1x01 - 魔女と紅蓮の街 / A Bruxa e a Cidade Ardente",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Crunchyroll"
+        },
+        {
+          "nome": "Era Uma Vez",
+          "nome_original": "Once Upon a Time",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/156",
+            "vistos": 0,
+            "total": 156
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, Disney+"
+        },
+        {
+          "nome": "Revenge",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/89",
+            "vistos": 0,
+            "total": 89
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Quem é Você, Alasca?",
+          "nome_original": "Looking for Alaska",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Famous Last Words",
+            "titulo_pt": "Famosas Últimas Palavras",
+            "duracao": "60 min",
+            "texto": "1x01 - Famous Last Words / Famosas Últimas Palavras",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Hulu"
+        },
+        {
+          "nome": "Rececionista Pokémon",
+          "nome_original": "Pokémon Concierge",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "今日からこちらで働かせていただきます！",
+            "titulo_pt": "Sou Haru, a nova concierge!",
+            "duracao": "20 min",
+            "texto": "1x01 - 今日からこちらで働かせていただきます！ / Sou Haru, a nova concierge!",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Skull Island",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Maritime Pilot",
+            "titulo_pt": "Viver num barco",
+            "duracao": "25 min",
+            "texto": "1x01 - Maritime Pilot / Viver num barco",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "SKY Castle",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/20",
+            "vistos": 0,
+            "total": 20
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "대한민국 상위 0.1% 그녀들이 사는 곳",
+            "titulo_pt": "The Wives Celebrate",
+            "duracao": "60 min",
+            "texto": "1x01 - 대한민국 상위 0.1% 그녀들이 사는 곳 / The Wives Celebrate",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Homicídios ao Domicílio",
+          "nome_original": "Only Murders in the Building",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/50",
+            "vistos": 0,
+            "total": 50
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "True Crime",
+            "titulo_pt": "Crime Real",
+            "duracao": "33 min",
+            "texto": "1x01 - True Crime / Crime Real",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "A Maldição",
+          "nome_original": "The Haunting",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/19",
+            "vistos": 0,
+            "total": 19
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Steven Sees a Ghost",
+            "titulo_pt": "A mansão",
+            "duracao": "60 min",
+            "texto": "1x01 - Steven Sees a Ghost / A mansão",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Netflix"
+        },
+        {
+          "nome": "The Last Kingdom",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/46",
+            "vistos": 0,
+            "total": 46
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "75 min",
+            "texto": "1x01 - Episode 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Nancy Drew",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/62",
+            "vistos": 0,
+            "total": 62
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: The CW"
+        },
+        {
+          "nome": "Clínica Privada",
+          "nome_original": "Private Practice",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/111",
+            "vistos": 0,
+            "total": 111
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "In Which We Meet Addison, a Nice Girl from Somewhere Else",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - In Which We Meet Addison, a Nice Girl from Somewhere Else",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Dr. House",
+          "nome_original": "House",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/176",
+            "vistos": 0,
+            "total": 176
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, Disney+, HBO Max"
+        },
+        {
+          "nome": "Periféricos",
+          "nome_original": "The Peripheral",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "73 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "A Rainha Das Sombras",
+          "nome_original": "Lost Girl",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/77",
+            "vistos": 0,
+            "total": 77
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "It's a Fae, Fae, Fae, Fae World",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - It's a Fae, Fae, Fae, Fae World",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Sony One Amazon Channel"
+        },
+        {
+          "nome": "Britannia",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/27",
+            "vistos": 0,
+            "total": 27
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Woe to the Vanquished",
+            "titulo_pt": "Ai dos Vencidos",
+            "duracao": "60 min",
+            "texto": "1x01 - Woe to the Vanquished / Ai dos Vencidos",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Claro video"
+        },
+        {
+          "nome": "Station 19",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/105",
+            "vistos": 0,
+            "total": 105
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Stuck",
+            "titulo_pt": "Preso",
+            "duracao": "60 min",
+            "texto": "1x01 - Stuck / Preso",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Sonic Prime",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/23",
+            "vistos": 0,
+            "total": 23
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Shattered",
+            "titulo_pt": "Em mil pedaços",
+            "duracao": "43 min",
+            "texto": "1x01 - Shattered / Em mil pedaços",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Squid Game",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/22",
+            "vistos": 0,
+            "total": 22
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "무궁화 꽃이 피던 날",
+            "titulo_pt": "Batatinha frita 1, 2, 3",
+            "duracao": "60 min",
+            "texto": "1x01 - 무궁화 꽃이 피던 날 / Batatinha frita 1, 2, 3",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "The Lazarus Project",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/16",
+            "vistos": 0,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "44 min",
+            "texto": "1x01 - Episode 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Claro video"
+        },
+        {
+          "nome": "Luke Cage",
+          "nome_original": "Marvel's Luke Cage",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/26",
+            "vistos": 0,
+            "total": 26
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Moment of Truth",
+            "titulo_pt": null,
+            "duracao": "54 min",
+            "texto": "1x01 - Moment of Truth",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Os Defensores",
+          "nome_original": "Marvel's The Defenders",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The H Word",
+            "titulo_pt": "H de Herói",
+            "duracao": "52 min",
+            "texto": "1x01 - The H Word / H de Herói",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Punho de Ferro",
+          "nome_original": "Marvel's Iron Fist",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/23",
+            "vistos": 0,
+            "total": 23
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Snow Gives Way",
+            "titulo_pt": "A Neve Abre Caminho",
+            "duracao": "57 min",
+            "texto": "1x01 - Snow Gives Way / A Neve Abre Caminho",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Manifest",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/62",
+            "vistos": 0,
+            "total": 62
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "O Jogo das Chaves",
+          "nome_original": "El juego de las llaves",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/24",
+            "vistos": 0,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Yo nunca nunca",
+            "titulo_pt": "Eu Nunca",
+            "duracao": "27 min",
+            "texto": "1x01 - Yo nunca nunca / Eu Nunca",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Desejo Obscuro",
+          "nome_original": "Dark Desire",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/33",
+            "vistos": 0,
+            "total": 33
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Es solo sexo",
+            "titulo_pt": "É só sexo",
+            "duracao": "40 min",
+            "texto": "1x01 - Es solo sexo / É só sexo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "A Roda do Tempo",
+          "nome_original": "The Wheel of Time",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/24",
+            "vistos": 0,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Leavetaking",
+            "titulo_pt": "A Partida",
+            "duracao": "54 min",
+            "texto": "1x01 - Leavetaking / A Partida",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "A Teoria do Big Bang",
+          "nome_original": "The Big Bang Theory",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/279",
+            "vistos": 0,
+            "total": 279
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "30 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "A Noite de Todas as Almas",
+          "nome_original": "A Discovery of Witches",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/25",
+            "vistos": 0,
+            "total": 25
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Episode 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Sky One"
+        },
+        {
+          "nome": "Immortals",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Episode 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: BluTV"
+        },
+        {
+          "nome": "Bleach",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/416",
+            "vistos": 0,
+            "total": 416
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "死神になっちゃった日",
+            "titulo_pt": "O Dia Em Que Me Tornei Um Shinigami",
+            "duracao": "30 min",
+            "texto": "1x01 - 死神になっちゃった日 / O Dia Em Que Me Tornei Um Shinigami",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "My Dress-Up Darling",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/24",
+            "vistos": 0,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "自分とは真逆の世界で生きている人",
+            "titulo_pt": "Alguém que vive no lado oposto do mesmo mundo que o meu",
+            "duracao": "30 min",
+            "texto": "1x01 - 自分とは真逆の世界で生きている人 / Alguém que vive no lado oposto do mesmo mundo que o meu",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Crunchyroll"
+        },
+        {
+          "nome": "Black Clover",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/175",
+            "vistos": 0,
+            "total": 175
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "アスタとユノ",
+            "titulo_pt": "Asta E Yuno",
+            "duracao": "30 min",
+            "texto": "1x01 - アスタとユノ / Asta E Yuno",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: TV Tokyo"
+        },
+        {
+          "nome": "Gambito de Dama",
+          "nome_original": "The Queen's Gambit",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/7",
+            "vistos": 0,
+            "total": 7
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Openings",
+            "titulo_pt": "Aberturas",
+            "duracao": "59 min",
+            "texto": "1x01 - Openings / Aberturas",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Friends",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/236",
+            "vistos": 0,
+            "total": 236
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The One Where Monica Gets a Roommate",
+            "titulo_pt": "Aquele Onde Tudo Começou",
+            "duracao": "30 min",
+            "texto": "1x01 - The One Where Monica Gets a Roommate / Aquele Onde Tudo Começou",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, HBO Max"
+        },
+        {
+          "nome": "Gossip Girl: A Garota do Blog",
+          "nome_original": "Gossip Girl",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/121",
+            "vistos": 0,
+            "total": 121
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, HBO Max"
+        },
+        {
+          "nome": "Sword Art Online",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/96",
+            "vistos": 0,
+            "total": 96
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "剣の世界",
+            "titulo_pt": "O Mundo das Espadas",
+            "duracao": "25 min",
+            "texto": "1x01 - 剣の世界 / O Mundo das Espadas",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Crunchyroll"
+        },
+        {
+          "nome": "Neon Genesis Evangelion",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/26",
+            "vistos": 0,
+            "total": 26
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "使徒、襲来",
+            "titulo_pt": "O Ataque dos Anjos",
+            "duracao": "25 min",
+            "texto": "1x01 - 使徒、襲来 / O Ataque dos Anjos",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Walker",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/69",
+            "vistos": 0,
+            "total": 69
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: The CW"
+        },
+        {
+          "nome": "How I Met Your Father",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "25 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "How I Met Your Mother",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/208",
+            "vistos": 0,
+            "total": 208
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "30 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Pennyworth",
+          "nome_original": "Pennyworth: The Origin of Batman's Butler",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "72 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: EPIX"
+        },
+        {
+          "nome": "DMZ",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/4",
+            "vistos": 0,
+            "total": 4
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Good Luck",
+            "titulo_pt": "Boa Sorte",
+            "duracao": "59 min",
+            "texto": "1x01 - Good Luck / Boa Sorte",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: HBO Max"
+        },
+        {
+          "nome": "Masters of Sex",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/46",
+            "vistos": 0,
+            "total": 46
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Paramount+ with Showtime"
+        },
+        {
+          "nome": "My Hero Academia",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/170",
+            "vistos": 0,
+            "total": 170
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "緑谷出久：オリジン",
+            "titulo_pt": "Izuku Midoriya: A Origem",
+            "duracao": "25 min",
+            "texto": "1x01 - 緑谷出久：オリジン / Izuku Midoriya: A Origem",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Disney+, HBO Max, Crunchyroll, WeTV"
+        },
+        {
+          "nome": "True Blood",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/80",
+            "vistos": 0,
+            "total": 80
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Strange Love",
+            "titulo_pt": "Estranho amor",
+            "duracao": "60 min",
+            "texto": "1x01 - Strange Love / Estranho amor",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, HBO Max"
+        },
+        {
+          "nome": "Salem",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/36",
+            "vistos": 0,
+            "total": 36
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Vow",
+            "titulo_pt": "O Voto",
+            "duracao": "60 min",
+            "texto": "1x01 - The Vow / O Voto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Fugitivos",
+          "nome_original": "Marvel's Runaways",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/33",
+            "vistos": 0,
+            "total": 33
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Reunion",
+            "titulo_pt": "Reencontro",
+            "duracao": "53 min",
+            "texto": "1x01 - Reunion / Reencontro",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Hulu"
+        },
+        {
+          "nome": "One Piece (1999)",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1179",
+            "vistos": 0,
+            "total": 1179
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "俺はルフィ！海賊王になる男だ！",
+            "titulo_pt": "Eu Sou Luffy! Aquele Que Será o Rei dos Piratas!",
+            "duracao": "25 min",
+            "texto": "1x01 - 俺はルフィ！海賊王になる男だ！ / Eu Sou Luffy! Aquele Que Será o Rei dos Piratas!",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Claro video, HBO Max, Crunchyroll"
+        },
+        {
+          "nome": "Digimon",
+          "nome_original": "Digimon: Digital Monsters",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/104",
+            "vistos": 0,
+            "total": 104
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "漂流? 冒険の島!",
+            "titulo_pt": "Férias de Verão",
+            "duracao": "30 min",
+            "texto": "1x01 - 漂流? 冒険の島! / Férias de Verão",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Oldflix"
+        },
+        {
+          "nome": "Hulk e os Agentes de S.M.A.S.H.",
+          "nome_original": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/51",
+            "vistos": 0,
+            "total": 51
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Doorway to Destruction (1)",
+            "titulo_pt": "Portal Para a Destruição (Parte 1)",
+            "duracao": "30 min",
+            "texto": "1x01 - Doorway to Destruction (1) / Portal Para a Destruição (Parte 1)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Chicago Med",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/224",
+            "vistos": 0,
+            "total": 224
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Derailed",
+            "titulo_pt": "Descarrilhado",
+            "duracao": "60 min",
+            "texto": "1x01 - Derailed / Descarrilhado",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, Globoplay, Claro tv+"
+        },
+        {
+          "nome": "Chicago P.D.: Distrito 21",
+          "nome_original": "Chicago P.D.",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/269",
+            "vistos": 0,
+            "total": 269
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Stepping Stone",
+            "titulo_pt": "Um Trampolim para o Objetivo",
+            "duracao": "60 min",
+            "texto": "1x01 - Stepping Stone / Um Trampolim para o Objetivo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, Globoplay, Claro tv+"
+        },
+        {
+          "nome": "Chicago Fire",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/300",
+            "vistos": 0,
+            "total": 300
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, Disney+, Globoplay, Claro tv+"
+        },
+        {
+          "nome": "Fairy Tail",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/328",
+            "vistos": 0,
+            "total": 328
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Fairy Tail",
+            "titulo_pt": "A Fairy Tail",
+            "duracao": "25 min",
+            "texto": "1x01 - The Fairy Tail / A Fairy Tail",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Koiplay Amazon Channel"
+        },
+        {
+          "nome": "The Crown",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/60",
+            "vistos": 0,
+            "total": 60
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Wolferton Splash",
+            "titulo_pt": null,
+            "duracao": "57 min",
+            "texto": "1x01 - Wolferton Splash",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "The Seven Deadly Sins",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/96",
+            "vistos": 0,
+            "total": 96
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "七つの大罪",
+            "titulo_pt": "Os Sete Pecados Capitais",
+            "duracao": "25 min",
+            "texto": "1x01 - 七つの大罪 / Os Sete Pecados Capitais",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Doctor Who",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/153",
+            "vistos": 0,
+            "total": 153
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Rose",
+            "titulo_pt": null,
+            "duracao": "45 min",
+            "texto": "1x01 - Rose",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: BBC One"
+        },
+        {
+          "nome": "Fear the Walking Dead",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/113",
+            "vistos": 0,
+            "total": 113
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "90 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: AMC"
+        },
+        {
+          "nome": "Butterfly04",
+          "nome_original": "Heirs of the Night",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/26",
+            "vistos": 0,
+            "total": 26
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Spark",
+            "titulo_pt": "A Centelha",
+            "duracao": "25 min",
+            "texto": "1x01 - The Spark / A Centelha",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: NRK3"
+        },
+        {
+          "nome": "Sobrenatural",
+          "nome_original": "Supernatural",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/327",
+            "vistos": 0,
+            "total": 327
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video, HBO Max"
+        },
+        {
+          "nome": "Legião",
+          "nome_original": "Legion",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/27",
+            "vistos": 0,
+            "total": 27
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Chapter 1",
+            "titulo_pt": "Capítulo 1",
+            "duracao": "90 min",
+            "texto": "1x01 - Chapter 1 / Capítulo 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "DC Super Hero Girls",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/78",
+            "vistos": 0,
+            "total": 78
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "#SweetJustice - Part 1",
+            "titulo_pt": "#SweetJustice (1)",
+            "duracao": "15 min",
+            "texto": "1x01 - #SweetJustice - Part 1 / #SweetJustice (1)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Cartoon Network"
+        },
+        {
+          "nome": "Death Note",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/37",
+            "vistos": 0,
+            "total": 37
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "新生",
+            "titulo_pt": "Renascimento",
+            "duracao": "30 min",
+            "texto": "1x01 - 新生 / Renascimento",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, HBO Max"
+        },
+        {
+          "nome": "Harrow",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/30",
+            "vistos": 0,
+            "total": 30
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Actus Reus",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Actus Reus",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "The Outpost",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/49",
+            "vistos": 0,
+            "total": 49
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "One is the Loneliest Number",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - One is the Loneliest Number",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: The CW"
+        },
+        {
+          "nome": "Verdades Secretas",
+          "nome_original": "Hidden Truths",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/115",
+            "vistos": 0,
+            "total": 115
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Capítulo 1",
+            "titulo_pt": null,
+            "duracao": "40 min",
+            "texto": "1x01 - Capítulo 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Globoplay"
+        },
+        {
+          "nome": "Matthew the Rabbit",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1",
+            "vistos": 0,
+            "total": 1
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "1 min",
+            "texto": "1x01 - Episode 1",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Tokyo MX"
+        },
+        {
+          "nome": "The Walking Dead",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/177",
+            "vistos": 0,
+            "total": 177
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Days Gone Bye",
+            "titulo_pt": "Dias Passados",
+            "duracao": "60 min",
+            "texto": "1x01 - Days Gone Bye / Dias Passados",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Disney+, Claro video"
+        },
+        {
+          "nome": "Vikings",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/89",
+            "vistos": 0,
+            "total": 89
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Rites of Passage",
+            "titulo_pt": "Rituais de Passagem",
+            "duracao": "60 min",
+            "texto": "1x01 - Rites of Passage / Rituais de Passagem",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Demolidor",
+          "nome_original": "Marvel's Daredevil",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/39",
+            "vistos": 0,
+            "total": 39
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Into the Ring",
+            "titulo_pt": "No Círculo",
+            "duracao": "60 min",
+            "texto": "1x01 - Into the Ring / No Círculo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Jessica Jones",
+          "nome_original": "Marvel's Jessica Jones",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/39",
+            "vistos": 0,
+            "total": 39
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "AKA Ladies' Night",
+            "titulo_pt": "Moça Bonita não Paga",
+            "duracao": "52 min",
+            "texto": "1x01 - AKA Ladies' Night / Moça Bonita não Paga",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Dinastia",
+          "nome_original": "Dynasty",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/108",
+            "vistos": 0,
+            "total": 108
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "I Hardly Recognized You",
+            "titulo_pt": "Quase não te reconheci",
+            "duracao": "60 min",
+            "texto": "1x01 - I Hardly Recognized You / Quase não te reconheci",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Lucifer",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/93",
+            "vistos": 0,
+            "total": 93
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "O Justiceiro",
+          "nome_original": "Marvel's The Punisher",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/26",
+            "vistos": 0,
+            "total": 26
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "3AM",
+            "titulo_pt": "Três da Madrugada",
+            "duracao": "60 min",
+            "texto": "1x01 - 3AM / Três da Madrugada",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Breaking Bad: Ruptura Total",
+          "nome_original": "Breaking Bad",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/62",
+            "vistos": 0,
+            "total": 62
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Gotham",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/100",
+            "vistos": 0,
+            "total": 100
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot / Piloto",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: HBO Max"
+        }
+      ]
+    },
+    "bg_ver_depois": {
+      "titulo": "Ver depois",
+      "emoji": "🔖",
+      "itens": [
+        {
+          "nome": "Ataque dos Titãs",
+          "nome_original": "Attack on Titan",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/89",
+            "vistos": 0,
+            "total": 89
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "二千年後の君へ ~シガンシナ陥落①~",
+            "titulo_pt": "Para você a 2 mil anos no futuro - A queda de Shiganshina (1)",
+            "duracao": "25 min",
+            "texto": "1x01 - 二千年後の君へ ~シガンシナ陥落①~ / Para você a 2 mil anos no futuro - A queda de Shiganshina (1)",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Crunchyroll"
+        },
+        {
+          "nome": "Baywatch",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "1x01 - Pilot",
+            "rotulo": "próximo",
+            "lancamento": "2027-01-06"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: FOX"
+        },
+        {
+          "nome": "O Rei-Lobo",
+          "nome_original": "Wolf King",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/16",
+            "vistos": 0,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "The Rise of the Wolf",
+            "titulo_pt": "A origem do lobo",
+            "duracao": "32 min",
+            "texto": "1x01 - The Rise of the Wolf / A origem do lobo",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix"
+        }
+      ]
+    },
+    "bg_em_breve": {
+      "titulo": "Em breve",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "Awkwafina: The Unlikely Cook",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Nora Learns to Cook",
+            "titulo_pt": null,
+            "duracao": "32 min",
+            "texto": "1x01 - Nora Learns to Cook",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        },
+        {
+          "nome": "12 12 12",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "All for a F**king Betamax, Dad",
+            "titulo_pt": null,
+            "duracao": "53 min",
+            "texto": "1x01 - All for a F**king Betamax, Dad",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-13"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        },
+        {
+          "nome": "Neuromancer",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Chiba City Blues",
+            "titulo_pt": null,
+            "texto": "1x01 - Chiba City Blues",
+            "rotulo": "próximo",
+            "lancamento": "2027-01-22"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        },
+        {
+          "nome": "Apollo Has Fallen",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": null
+        },
+        {
+          "nome": "Beat the Reaper",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "texto": "1x01 - TBA",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        },
+        {
+          "nome": "Berlin Noir",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "texto": "1x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        },
+        {
+          "nome": "Cyborg 009: Nemesis",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": null
+        },
+        {
+          "nome": "Delphi",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "texto": "1x01 - TBA",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Prime Video"
+        },
+        {
+          "nome": "God of War",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "texto": "1x01 - TBA",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Prime Video"
+        },
+        {
+          "nome": "Motel Transylvania",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "texto": "1x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Netflix"
+        },
+        {
+          "nome": "The Savant",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/0",
+            "vistos": 0,
+            "total": 0
+          },
+          "proximo": {
+            "codigo": "1x01",
+            "titulo_en": "Whack-a-Mole",
+            "titulo_pt": null,
+            "duracao": "36 min",
+            "texto": "1x01 - Whack-a-Mole",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Apple TV"
+        }
+      ]
+    },
+    "bg_em_dia": {
+      "titulo": "Em dia",
+      "emoji": "✅",
+      "itens": [
+        {
+          "nome": "Scrubs",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
+          },
+          "proximo": {
+            "texto": "2x07 - My Story / Minha História",
+            "codigo": "2x07",
+            "titulo_en": "My Story",
+            "titulo_pt": "Minha História",
+            "rotulo": "próximo",
+            "duracao": "30 min",
+            "lancamento": "2026-11-04T22:00-03:00"
+          },
+          "brasil": "Disney+, quinta-feira, 5 de novembro de 2026",
+          "notas": [
+            "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
+          ],
+          "transmissao": "ABC (EUA), às 22h",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "transmissao",
+            "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x07"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T05:40-03:00"
+        },
+        {
+          "nome": "MobLand",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "17/17",
+            "vistos": 17,
+            "total": 17
+          },
+          "proximo": {
+            "codigo": "2x08",
+            "titulo_en": "We Don't Talk Anymore",
+            "titulo_pt": null,
+            "duracao": "42 min",
+            "texto": "2x08 - We Don't Talk Anymore",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Onde ver no Brasil: Paramount+, Claro tv+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Nocturne",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/2",
+            "vistos": 2,
+            "total": 2
+          },
+          "proximo": {
+            "codigo": "1x03",
+            "titulo_en": "Eyes on the Inside",
+            "titulo_pt": "Olhos por dentro",
+            "duracao": "47 min",
+            "texto": "1x03 - Eyes on the Inside / Olhos por dentro",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Overgeared",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "5/5",
+            "vistos": 5,
+            "total": 5
+          },
+          "proximo": {
+            "texto": "1x06 - First Boss Raid / O Primeiro Ataque ao Chefe",
+            "codigo": "1x06",
+            "titulo_en": "First Boss Raid",
+            "titulo_pt": "O Primeiro Ataque ao Chefe",
+            "rotulo": "próximo",
+            "duracao": "25 min",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Crunchyroll (1x06 no ar desde domingo, 1 de novembro de 2026, às 11h30; legendado e dublado)",
+          "notas": [
+            "Semanal aos domingos; o 1x07 sai no domingo, 8 de novembro de 2026, às 11h30. O Banco de Séries e o Bingers marcam o 1x06 na sexta-feira, 6 de novembro de 2026 (vale a data da Crunchyroll Brasil). Nome do 1x06 em português não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T20:28-03:00"
+        },
+        {
+          "nome": "The Assassin",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/6",
+            "vistos": 6,
+            "total": 6
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": null,
+            "duracao": "49 min",
+            "texto": "2x01 - Episode 1",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Prime Video"
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "18/18",
+            "vistos": 18,
+            "total": 18
+          },
+          "proximo": {
+            "codigo": "1x19",
+            "titulo_en": "釣り人クランの女帝",
+            "titulo_pt": "Empress of the Angler Clan",
+            "duracao": "30 min",
+            "texto": "1x19 - 釣り人クランの女帝 / Empress of the Angler Clan",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-06"
+          },
+          "brasil": "Onde ver no Brasil: Crunchyroll"
+        },
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "4/4",
+            "vistos": 4,
+            "total": 4
+          },
+          "proximo": {
+            "codigo": "1x05",
+            "titulo_en": "破壊神と孫悟空",
+            "titulo_pt": "The God of Destruction and Son Goku",
+            "duracao": "30 min",
+            "texto": "1x05 - 破壊神と孫悟空 / The God of Destruction and Son Goku",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-08"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Disney+, HBO Max, Crunchyroll"
+        },
+        {
+          "nome": "The Institute",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "The Reckoning",
+            "titulo_pt": null,
+            "duracao": "60 min",
+            "texto": "2x01 - The Reckoning",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-08"
+          },
+          "brasil": "Onde ver no Brasil: MGM+ Apple TV Channel, MGM Plus Amazon Channel"
+        },
+        {
+          "nome": "O Senhor dos Anéis: Os Anéis do Poder",
+          "nome_original": "The Lord of the Rings: The Rings of Power",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "3x01",
+            "titulo_en": "The Life of Celeborn",
+            "titulo_pt": null,
+            "duracao": "68 min",
+            "texto": "3x01 - The Life of Celeborn",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-11"
+          },
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Percy Jackson",
+          "nome_original": "Percy Jackson and the Olympians",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "3x01",
+            "titulo_en": "My Rescue Operation Goes Very Wrong",
+            "titulo_pt": null,
+            "duracao": "40 min",
+            "texto": "3x01 - My Rescue Operation Goes Very Wrong",
+            "rotulo": "próximo",
+            "lancamento": "2026-11-20"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Disney+"
+        },
+        {
+          "nome": "Disney Twisted-Wonderland: A Série",
+          "nome_original": "Disney Twisted-Wonderland: The Animation",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "duracao": "27 min",
+            "texto": "2x01 - TBA",
+            "rotulo": "próximo",
+            "lancamento": "2026-12-23"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "As Bruxas Mayfair de Anne Rice",
+          "nome_original": "Anne Rice's Mayfair Witches",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": {
+            "codigo": "3x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "duracao": "51 min",
+            "texto": "3x01 - TBA",
+            "rotulo": "próximo",
+            "lancamento": "2026-12-30"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video"
+        },
+        {
+          "nome": "O Teu Amigo da Vizinhança Homem-Aranha",
+          "nome_original": "Your Friendly Neighborhood Spider-Man",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "duracao": "31 min",
+            "texto": "2x01 - TBA",
+            "rotulo": "próximo",
+            "lancamento": "2027-01-13"
+          },
+          "brasil": "Sem streaming no Brasil · exibição original: Disney+"
+        },
+        {
+          "nome": "Ahsoka",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": "TBA",
+            "titulo_pt": null,
+            "duracao": "45 min",
+            "texto": "2x01 - TBA",
+            "rotulo": "próximo",
+            "lancamento": "2027-01-20"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "A Knight of the Seven Kingdoms",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/6",
+            "vistos": 6,
+            "total": 6
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Adultos",
+          "nome_original": "Adults",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Alien: Planeta Terra",
+          "nome_original": "Alien: Earth",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "American Classic",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: MGM+ Apple TV Channel, MGM Plus Amazon Channel"
+        },
+        {
+          "nome": "American Horror Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "145/145",
+            "vistos": 145,
+            "total": 145
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Avatar: O Último Airbender",
+          "nome_original": "Avatar: The Last Airbender",
+          "status": "🟢",
+          "progresso": {
+            "texto": "15/15",
+            "vistos": 15,
+            "total": 15
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "BAT-FAM",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Batman: Caped Crusader",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "20/20",
+            "vistos": 20,
+            "total": 20
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Black Mirror",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "32/32",
+            "vistos": 32,
+            "total": 32
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Boruto: Naruto Next Generations",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "293/293",
+            "vistos": 293,
+            "total": 293
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix, Crunchyroll"
+        },
+        {
+          "nome": "Carême",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Chapolin e os Colorados",
+          "nome_original": "Los Colorado",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Sem streaming no Brasil · exibição original: HBO Max"
+        },
+        {
+          "nome": "Coven Academy",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "21/21",
+            "vistos": 21,
+            "total": 21
+          },
+          "proximo": {
+            "codigo": "2x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "duracao": "16 min",
+            "texto": "2x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Creature Commandos",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "7/7",
+            "vistos": 7,
+            "total": 7
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Crystal Lake",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Sem streaming no Brasil · exibição original: Peacock",
+          "campos_novos": [
+            "progresso",
+            "proximo"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-05T13:04-03:00"
+        },
+        {
+          "nome": "DAN DA DAN",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "24/24",
+            "vistos": 24,
+            "total": 24
+          },
+          "proximo": {
+            "codigo": "3x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "duracao": "24 min",
+            "texto": "3x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, HBO Max, Crunchyroll"
+        },
+        {
+          "nome": "Devil May Cry",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Diários de um Assassiborgue",
+          "nome_original": "Murderbot",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Down Cemetery Road",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Emergência 53",
+          "nome_original": "Emergency 53",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Globoplay"
+        },
+        {
+          "nome": "Fallout",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Finding Her Edge",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Frieren: Beyond Journey's End",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "38/38",
+            "vistos": 38,
+            "total": 38
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix, HBO Max, Crunchyroll"
+        },
+        {
+          "nome": "From",
+          "nome_original": "FROM",
+          "status": "🟢",
+          "progresso": {
+            "texto": "40/40",
+            "vistos": 40,
+            "total": 40
+          },
+          "proximo": {
+            "codigo": "5x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "duracao": "51 min",
+            "texto": "5x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Globoplay"
+        },
+        {
+          "nome": "Furious",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Golden Axe",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Paramount+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Good American Family",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Has Fallen",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Globoplay"
+        },
+        {
+          "nome": "House of the Dragon",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "26/26",
+            "vistos": 26,
+            "total": 26
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max, Claro tv+"
+        },
+        {
+          "nome": "INVENCÍVEL",
+          "nome_original": "INVINCIBLE",
+          "status": "🟢",
+          "progresso": {
+            "texto": "32/32",
+            "vistos": 32,
+            "total": 32
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "IT: Welcome to Derry",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Jovem Sherlock",
+          "nome_original": "Young Sherlock",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Jujutsu Kaisen",
+          "nome_original": "JUJUTSU KAISEN",
+          "status": "🟢",
+          "progresso": {
+            "texto": "59/59",
+            "vistos": 59,
+            "total": 59
+          },
+          "proximo": {
+            "codigo": "4x01",
+            "titulo_en": null,
+            "titulo_pt": null,
+            "duracao": "30 min",
+            "texto": "4x01 - None",
+            "rotulo": "próximo"
+          },
+          "brasil": "Onde ver no Brasil: Netflix, Prime Video, Disney+, HBO Max, Globoplay, Crunchyroll"
+        },
+        {
+          "nome": "Lanterns",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max, Claro tv+"
+        },
+        {
+          "nome": "Love Story",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/9",
+            "vistos": 9,
+            "total": 9
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Margo Tem Problemas de Dinheiro",
+          "nome_original": "Margo's Got Money Troubles",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Memory of a Killer",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Monarch: Legado de Monstros",
+          "nome_original": "Monarch: Legacy of Monsters",
+          "status": "🟢",
+          "progresso": {
+            "texto": "20/20",
+            "vistos": 20,
+            "total": 20
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Mulheres Imperfeitas",
+          "nome_original": "Imperfect Women",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "My Adventures with Superman",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "30/30",
+            "vistos": 30,
+            "total": 30
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max, Cartoon Network Amazon Channel"
+        },
+        {
+          "nome": "One Piece (2023)",
+          "nome_original": "ONE PIECE",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "One Punch Man",
+          "nome_original": "One-Punch Man",
+          "status": "🟢",
+          "progresso": {
+            "texto": "36/36",
+            "vistos": 36,
+            "total": 36
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix, Crunchyroll"
+        },
+        {
+          "nome": "Pluribus",
+          "nome_original": "PLUR1BUS",
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/9",
+            "vistos": 9,
+            "total": 9
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Prazer Máximo Garantido",
+          "nome_original": "Maximum Pleasure Guaranteed",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Robin Hood",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: MGM+ Apple TV Channel, MGM Plus Amazon Channel"
+        },
+        {
+          "nome": "Secret Level",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "15/15",
+            "vistos": 15,
+            "total": 15
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Prime Video"
+        },
+        {
+          "nome": "Sherlock & Daughter",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Sem streaming no Brasil · exibição original: The CW"
+        },
+        {
+          "nome": "SkyMed",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "35/35",
+            "vistos": 35,
+            "total": 35
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Paramount+, Claro tv+, Paramount Plus Apple TV channel, Paramount Plus Premium"
+        },
+        {
+          "nome": "Sociedade da Virtude: A Série",
+          "nome_original": "Society of Virtue: The Series",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "Splinter Cell: Deathwatch",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Star Wars: Maul - Senhor da Sombra",
+          "nome_original": "Star Wars: Maul – Shadow Lord",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "Stranger Things: Contos de 85",
+          "nome_original": "Stranger Things: Tales from '85",
+          "status": "🟢",
+          "progresso": {
+            "texto": "18/18",
+            "vistos": 18,
+            "total": 18
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "The Last of Us",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "The Pitt",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "30/30",
+            "vistos": 30,
+            "total": 30
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: HBO Max"
+        },
+        {
+          "nome": "The Shards",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/9",
+            "vistos": 9,
+            "total": 9
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Disney+"
+        },
+        {
+          "nome": "The Witcher",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "32/32",
+            "vistos": 32,
+            "total": 32
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        },
+        {
+          "nome": "Urgências de Berlim",
+          "nome_original": "Berlin ER",
+          "status": "🟢",
+          "progresso": {
+            "texto": "8/8",
+            "vistos": 8,
+            "total": 8
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Apple TV, Apple TV Amazon Channel"
+        },
+        {
+          "nome": "Wednesday",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/16",
+            "vistos": 16,
+            "total": 16
+          },
+          "proximo": null,
+          "brasil": "Onde ver no Brasil: Netflix"
+        }
+      ]
+    },
+    "bg_fora": {
+      "titulo": "Fora do Bingers",
+      "emoji": "📌",
+      "itens": [
+        {
+          "nome": "Avatar: Os Sete Refúgios",
+          "nome_original": "Avatar: Seven Havens",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/13",
+            "vistos": 0,
+            "total": 13
+          },
+          "proximo": {
+            "texto": "1x01 - On the Horizon / No horizonte",
+            "codigo": "1x01",
+            "titulo_en": "On the Horizon",
+            "titulo_pt": "No horizonte",
+            "rotulo": "próximo",
+            "duracao": "22 min"
+          },
+          "brasil": "Paramount+ (Livro 1 completo: 1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026; 10 a 13 desde sexta-feira, 30 de outubro de 2026)",
+          "notas": [
+            "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
+          ]
+        },
+        {
+          "nome": "Line of Fire",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/6",
+            "vistos": 0,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x01 - Pilot / Piloto",
+            "codigo": "1x01",
+            "titulo_en": "Pilot",
+            "titulo_pt": "Piloto",
+            "rotulo": "próximo",
+            "duracao": "60 min"
+          },
+          "brasil": "HBO Max a partir de quinta-feira, 5 de novembro de 2026; o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
+          "notas": [
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
+          ]
+        },
+        {
+          "nome": "A Série Pokémon: Horizontes",
+          "nome_original": "Pokémon Horizons: The Series",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/154",
+            "vistos": 0,
+            "total": 154
+          },
+          "proximo": {
+            "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
+            "codigo": "1x01",
+            "titulo_en": "The Pendant That Starts It All (Part One)",
+            "titulo_pt": "O pingente que iniciou tudo – Parte 1",
+            "rotulo": "próximo",
+            "duracao": "30 min"
+          },
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
+        },
+        {
+          "nome": "Locker Diaries: Coven Academy",
+          "nome_original": null,
+          "status": null,
+          "progresso": {
+            "texto": "0/6",
+            "vistos": 0,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x01 - The Binding / O Vínculo",
+            "codigo": "1x01",
+            "titulo_en": "The Binding",
+            "titulo_pt": "O Vínculo",
+            "rotulo": "próximo",
+            "duracao": "3 min"
+          },
+          "brasil": "Sem data no Brasil (os Locker Diaries anteriores chegaram ao Disney+ Brasil meses depois dos EUA)",
+          "notas": [
+            "Spin-off em curtas verticais de Coven Academy (série separada; formato Locker Diaries, 6 episódios de cerca de 3 minutos, segundo o Diário da Mídia).",
+            "Disney+ (EUA): 1x01 e 1x02 no ar desde sábado, 17 de outubro de 2026; 1x03 e 1x04 desde sábado, 24 de outubro de 2026; 1x05 e 1x06 desde sábado, 31 de outubro de 2026 (TV Radar, Rivr, Diário da Mídia; o TMDB lista 1 episódio por sábado)"
+          ]
+        },
+        {
+          "nome": "A Lenda de Korra",
+          "nome_original": "The Legend of Korra",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/52",
+            "vistos": 0,
+            "total": 52
+          },
+          "proximo": {
+            "texto": "1x01 - Welcome to Republic City / Bem-vinda à Cidade República",
+            "codigo": "1x01",
+            "titulo_en": "Welcome to Republic City",
+            "titulo_pt": "Bem-vinda à Cidade República",
+            "rotulo": "próximo",
+            "duracao": "30 min"
+          },
+          "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)"
         }
       ]
     },
