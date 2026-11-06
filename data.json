@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 6 de novembro de 2026",
-  "atualizado_em": "2026-11-06T12:42-03:00",
+  "atualizado_em": "2026-11-06T19:21-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -84,30 +84,6 @@
             "transmissao",
             "brasil",
             "notas:Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "episodios": "2x08",
-          "progresso": {
-            "texto": "8/10",
-            "vistos": 8,
-            "total": 10
-          },
-          "titulo_pt_nota": "\"Não Conversamos Mais\" (\"We Don't Talk Anymore\")",
-          "transmissao": "Paramount+, hoje (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Semanal às sextas; o 2x09 (\"Colapso Nervoso\") sai na sexta-feira, 13 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026. Nome do 2x09 em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "notas:Semanal às sextas; o 2x09 (\"Colapso Nervoso\") sai na sexta-feira, 13 de novembro de 2026, e o final (2x10) na sexta-feira, 20 de novembro de 2026. Nome do 2x09 em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
           "novo_ate": "2026-11-07T05:47-03:00"
@@ -812,29 +788,29 @@
           "nome_original": "MobLand",
           "status": "🟢",
           "progresso": {
-            "texto": "17/18",
-            "vistos": 17,
+            "texto": "18/18",
+            "vistos": 18,
             "total": 18
           },
           "proximo": {
-            "texto": "2x08 - We Don't Talk Anymore / Não Conversamos Mais",
-            "codigo": "2x08",
-            "titulo_en": "We Don't Talk Anymore",
-            "titulo_pt": "Não Conversamos Mais",
-            "rotulo": "hoje"
+            "texto": "2x09 - Nervous Breakdown / Colapso Nervoso",
+            "codigo": "2x09",
+            "titulo_en": "Nervous Breakdown",
+            "titulo_pt": "Colapso Nervoso",
+            "rotulo": "13/11/2026"
           },
           "transmissao": "Paramount+ (horário não divulgado)",
           "brasil": "Paramount+",
           "notas": [
-            "Semanal às sextas; o 2x09 sai na sexta-feira, 13 de novembro de 2026"
+            "2x08 visto em 06/11/2026; em dia com os episódios lançados. 2x09 em 13/11/2026; final da temporada (2x10) em 20/11/2026. “Colapso Nervoso” é tradução própria."
           ],
           "campos_novos": [
             "progresso",
             "proximo",
-            "notas:Semanal às sextas; o 2x09 sai na sexta-feira, 13 de novembro de 2026"
+            "notas:2x08 visto em 06/11/2026; em dia com os episódios lançados. 2x09 em 13/11/2026; final da temporada (2x10) em 20/11/2026. “Colapso Nervoso” é tradução própria."
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T19:21-03:00"
         },
         {
           "nome": "Noturno",
