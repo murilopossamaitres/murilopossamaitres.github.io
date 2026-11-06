@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 6 de novembro de 2026",
-  "atualizado_em": "2026-11-06T05:47-03:00",
+  "atualizado_em": "2026-11-06T07:14-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -742,13 +742,7 @@
             "Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "proximo"
           ],
           "novo": true,
           "novo_ate": "2026-11-07T05:47-03:00"
@@ -1357,8 +1351,7 @@
             "verificado_em": "2026-11-05"
           },
           "campos_novos": [
-            "cinema_brasil",
-            "aluguel_compra"
+            "cinema_brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-07T05:47-03:00"
