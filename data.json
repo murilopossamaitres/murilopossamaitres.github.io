@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 5 de novembro de 2026",
-  "atualizado_em": "2026-11-06T00:11-03:00",
+  "atualizado_em": "2026-11-06T00:34-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -30,55 +30,6 @@
             "transmissao",
             "brasil",
             "notas:Título oficial no Brasil: \"Line of Fire\". A NBC encomendou 18 episódios (Deadline) e já exibiu 6; o 1x07 (\"Lista de Convidados\") sai na terça-feira, 10 de novembro de 2026, à 0h (NBC). Nome do 1x07 em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-06T06:25-03:00"
-        },
-        {
-          "nome": "Scrubs",
-          "nome_original": null,
-          "episodios": "2x07",
-          "progresso": {
-            "texto": "7/10",
-            "vistos": 7,
-            "total": 10
-          },
-          "outras_linhas": [
-            "🧊 Está na sua Geladeira"
-          ],
-          "titulo_pt_nota": "\"Minha História\" (\"My Story\")",
-          "transmissao": "ABC (EUA), quarta-feira, 4 de novembro de 2026, às 22h",
-          "brasil": "+1 dia: Disney+, hoje (horário não divulgado)",
-          "notas": [
-            "No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai na ABC na quarta-feira, 11 de novembro de 2026, e no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "transmissao",
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-06T06:25-03:00"
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x19",
-          "progresso": {
-            "texto": "19/26",
-            "vistos": 19,
-            "total": 26
-          },
-          "titulo_pt_nota": "\"A Imperatriz do Clã Pescador\" (\"Empress of the Angler Clan\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
-          "notas": [
-            "Semanal às quintas; o 1x20 sai na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "notas:Semanal às quintas; o 1x20 sai na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
           "novo_ate": "2026-11-06T06:25-03:00"
@@ -568,85 +519,6 @@
           "novo_ate": "2026-11-06T06:25-03:00"
         },
         {
-          "nome": "Scrubs",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
-          },
-          "proximo": {
-            "texto": "2x07 - My Story / Minha História",
-            "codigo": "2x07",
-            "titulo_en": "My Story",
-            "titulo_pt": "Minha História",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Disney+ (2x07 hoje, horário não divulgado; na ABC saiu na quarta-feira, 4 de novembro de 2026, às 22h)",
-          "notas": [
-            "No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:No Banco de Séries aparece como 11x07. O 2x08 (\"Minha Emergência\") sai no Disney+ na quinta-feira, 12 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-06T06:25-03:00"
-        },
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "17/18",
-            "vistos": 17,
-            "total": 18
-          },
-          "proximo": {
-            "texto": "1x18 - Proof of Innocence / Prova de Inocência",
-            "codigo": "1x18",
-            "titulo_en": "Proof of Innocence",
-            "titulo_pt": "Prova de Inocência",
-            "rotulo": "próximo",
-            "duracao": "30 min",
-            "lancamento": "2026-11-03T13:29-03:00"
-          },
-          "brasil": "Crunchyroll (1x18 no ar desde terça-feira, 3 de novembro de 2026; legendado)",
-          "notas": [
-            "Semanal às terças; o 1x19 sai na terça-feira, 10 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ]
-        },
-        {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
-          },
-          "proximo": {
-            "texto": "1x07 - Immolation / Imolação",
-            "codigo": "1x07",
-            "titulo_en": "Immolation",
-            "titulo_pt": "Imolação",
-            "rotulo": "próximo",
-            "duracao": "62 min",
-            "lancamento": "2026-11-03T23:00-03:00"
-          },
-          "brasil": "Disney+ (1x07 no ar desde terça-feira, 3 de novembro de 2026, às 23h)",
-          "notas": [
-            "O final (1x08, \"Forever\" / \"Para Sempre\") sai na terça-feira, 10 de novembro de 2026, às 23h. Nome em português ainda não divulgado (tradução própria)"
-          ]
-        },
-        {
           "nome": "Cyberpunk: Mercenários",
           "nome_original": "Cyberpunk: Edgerunners",
           "status": "🟢",
@@ -696,39 +568,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "18/19",
-            "vistos": 18,
-            "total": 19
-          },
-          "proximo": {
-            "texto": "1x19 - Empress of the Angler Clan / A Imperatriz do Clã Pescador",
-            "codigo": "1x19",
-            "titulo_en": "Empress of the Angler Clan",
-            "titulo_pt": "A Imperatriz do Clã Pescador",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-05T12:26-03:00"
-          },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 1x20 sai na quinta-feira, 12 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 1x20 sai na quinta-feira, 12 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-06T06:25-03:00"
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
