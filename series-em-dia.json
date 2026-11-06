@@ -15,9 +15,9 @@
     },
     {
       "nome": "Red River",
-      "em_dia_ate": "1x18",
-      "em_dia_em": "2026-11-05",
-      "obs": "1x18 \"Proof of Innocence\" (\"Prova de Inocência\") visto em 05/11/2026; 18/18 lançados (18/24). 1x19 sai ter 10/11/2026 na Crunchyroll, aí volta sozinha"
+      "em_dia_ate": "1x17",
+      "em_dia_em": "2026-10-27",
+      "obs": "1x17 \"Uma Nova Conspiração\" visto em 27/10 (Bingers; Banco não conferido); 17/17 lançados (17/24). 1x18 sai ter 03/11/2026 na Crunchyroll, aí volta sozinha"
     },
     {
       "nome": "Dragon Ball Super: Beerus",
@@ -45,9 +45,9 @@
     },
     {
       "nome": "Scrubs",
-      "em_dia_ate": "2x07",
-      "em_dia_em": "2026-11-05",
-      "obs": "2x07 \"My Story\" (\"Minha História\") visto em 05/11/2026; 7/10. No Banco de Séries aparece como 11x07. 2x08 (\"Minha Emergência\") sai qua 11/11/2026 na ABC e qui 12/11/2026 no Disney+, aí volta sozinha"
+      "em_dia_ate": "2x06",
+      "em_dia_em": "2026-10-29",
+      "obs": "2x06 \"My Halloween\" (\"Meu Halloween\") visto em 29/10 (Bingers; Banco não conferido); 6/10. 2x07 \"My Story\" (\"Minha História\") sai qua 04/11/2026 na ABC e qui 05/11/2026 no Disney+, aí volta sozinha"
     },
     {
       "nome": "The Exiled Heavy Knight Knows How to Game the System",
@@ -68,12 +68,6 @@
       "obs": "13x13 \"Devil of a Good Time\" (\"Uma Diversão Infernal\"), final da T13 (exibido em 29/10/2026), visto em 30/10/2026 às 13h24 (Bingers, 2,5 estrelas, status caught_up; Banco de Séries, nota 5); T13 completa (13/13), 145/145, 0 pendentes. 14ª temporada renovada (FX, 20/10/2026), sem data; aí volta sozinha"
     },
     {
-      "nome": "Overgeared",
-      "em_dia_ate": "1x05",
-      "em_dia_em": "2026-10-30",
-      "obs": "1x05 \"Family's Trust\" (\"A Confiança da Família\") visto em 30/10 (Bingers, nota 5); 5/5 lançados (5/12). 1x06 sai dom 01/11/2026 às 11h30 na Crunchyroll, aí volta sozinha"
-    },
-    {
       "nome": "Noturno",
       "em_dia_ate": "1x02",
       "em_dia_em": "2026-11-01",
@@ -90,6 +84,12 @@
       "em_dia_ate": "1x01",
       "em_dia_em": "2026-11-04",
       "obs": "1x01 \"A Arma de Biu Doidão\" visto em 04/11/2026 às 22h19 (Bingers, 4,5 estrelas, status caught_up; Banco de Séries serieid 47043: nota 8,5, marcado no Banco); 1/1 lançado (1/7). Semanal às sextas: 1x02 \"Operação Tapioca\" sai sex 06/11/2026 às 22h no Canal Brasil e sáb 07/11/2026 no Globoplay, aí volta sozinha"
+    },
+    {
+      "nome": "Overgeared",
+      "em_dia_ate": "1x06",
+      "em_dia_em": "2026-11-06",
+      "obs": "1x06 \"First Boss Raid\" (\"O Primeiro Ataque ao Chefe\") visto em 06/11 (Bingers, nota 5★); 6/6 lançados no Bingers (6/12). 1x07 sai dom 08/11/2026 às 11h30 na Crunchyroll (Banco 13/11), aí volta sozinha"
     }
   ]
 }
