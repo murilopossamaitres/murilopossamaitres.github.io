@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 6 de novembro de 2026",
-  "atualizado_em": "2026-11-06T07:14-03:00",
+  "atualizado_em": "2026-11-06T09:55-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -174,21 +174,6 @@
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
-        {
-          "selo": "",
-          "data": "05/11",
-          "dia_semana": "qui",
-          "nome": "Line of Fire",
-          "temporada": "T1",
-          "info": "HBO Max, novos episódios às quintas (BDS; número na estreia não divulgado — página BR mostra o 1x01)",
-          "texto": "05/11 (qui) - Line of Fire - T1 - HBO Max, novos episódios às quintas (BDS; número na estreia não divulgado — página BR mostra o 1x01)",
-          "campos_novos": [
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
-        },
         {
           "selo": "",
           "data": "06/11",
