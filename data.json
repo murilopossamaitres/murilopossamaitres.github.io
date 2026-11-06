@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 6 de novembro de 2026",
-  "atualizado_em": "2026-11-06T09:55-03:00",
+  "atualizado_em": "2026-11-06T12:42-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -711,26 +711,29 @@
           "nome_original": "All's Fair",
           "status": "🟢",
           "progresso": {
-            "texto": "9/12",
-            "vistos": 9,
+            "texto": "10/12",
+            "vistos": 10,
             "total": 12
           },
           "proximo": {
-            "texto": "2x01 - The Scorpio Ball / O Baile de Escorpião",
-            "codigo": "2x01",
-            "titulo_en": "The Scorpio Ball",
-            "titulo_pt": "O Baile de Escorpião",
+            "texto": "2x02 - Going Down / Going Down",
+            "codigo": "2x02",
+            "titulo_en": "Going Down",
+            "titulo_pt": "Going Down",
             "rotulo": "próximo"
           },
-          "brasil": "Disney+ (2x01 a 2x03 no ar desde quarta-feira, 4 de novembro de 2026, de madrugada; horário não confirmado oficialmente)",
+          "brasil": "Disney+ (2x01 a 2x03 no ar desde quarta-feira, 4 de novembro de 2026, de madrugada; horário não confirmado oficialmente; 2x01 visto em 06/11/2026)",
           "notas": [
-            "Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). Ainda atrasada: 2x02 e 2x03 no ar."
           ],
           "campos_novos": [
-            "proximo"
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). Ainda atrasada: 2x02 e 2x03 no ar."
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T12:42-03:00"
         },
         {
           "nome": "St. Denis Medical",
