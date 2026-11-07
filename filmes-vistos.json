@@ -1,0 +1,47 @@
+{
+  "_leia": "Filmes que o Murilo marcou como vistos. O parse_resumo.py tira estes filmes da seção Filmes (venham do resumo ou de filmes-manuais.json). Chave: titulo_original + ano (ou titulo pt-BR).",
+  "itens": [
+    {
+      "titulo": "Homem-Aranha: Um Novo Dia",
+      "titulo_original": "Spider-Man: Brand New Day",
+      "ano": "2026",
+      "visto_em": "2026-10-17"
+    },
+    {
+      "titulo": "Pecadores",
+      "titulo_original": "Sinners",
+      "ano": "2025",
+      "visto_em": "2026-10-18"
+    },
+    {
+      "titulo": "Moana",
+      "titulo_original": "Moana",
+      "ano": "2026",
+      "visto_em": "2026-10-25"
+    },
+    {
+      "titulo": "Um Filme Minecraft",
+      "titulo_original": "A Minecraft Movie",
+      "ano": "2025",
+      "visto_em": "2026-10-26"
+    },
+    {
+      "titulo": "Acompanhante Perfeita",
+      "titulo_original": "Companion",
+      "ano": "2025",
+      "visto_em": "2026-10-31"
+    },
+    {
+      "titulo": "Longlegs: Vínculo Mortal",
+      "titulo_original": "Longlegs",
+      "ano": "2024",
+      "visto_em": "2026-11-01"
+    },
+    {
+      "titulo": "Resident Evil",
+      "titulo_original": "Resident Evil",
+      "ano": "2026",
+      "visto_em": "2026-11-07"
+    }
+  ]
+}
