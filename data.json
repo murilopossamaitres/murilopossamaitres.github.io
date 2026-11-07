@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 6 de novembro de 2026",
-  "atualizado_em": "2026-11-06T20:35-03:00",
+  "atualizado_em": "2026-11-06T23:33-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -32,7 +32,7 @@
             "notas:Título oficial no Brasil: \"Awkwafina - A Cozinheira Improvável\". Nomes em português dos episódios ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto (0/2); a temporada tem 8. O 1x03 sai na sexta-feira, 13 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "De Mal a Pior",
@@ -60,7 +60,7 @@
             "notas:Título oficial no Brasil: \"De Mal a Pior\". Já exibida no Reino Unido em 22 de outubro de 2026 (Channel 4 / A24)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Delegado",
@@ -78,6 +78,8 @@
             "Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
             "episodios",
             "progresso",
             "titulo_pt_nota",
@@ -86,7 +88,7 @@
             "notas:Série original do Canal Brasil: 7 episódios de cerca de 35 minutos, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Noturno",
@@ -114,7 +116,7 @@
             "notas:Semanal às sextas; o 1x04 (\"O Mensageiro\") sai na sexta-feira, 13 de novembro de 2026, e o final (1x10) na sexta-feira, 25 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "A Assassina",
@@ -142,7 +144,7 @@
             "notas:🔜 Estreia só no Reino Unido e na Irlanda. Nomes em português ainda não divulgados"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     },
@@ -157,7 +159,18 @@
           "nome": "De Mal a Pior",
           "temporada": "T1",
           "info": "Paramount+, temporada completa (6 episódios de uma vez)",
-          "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)"
+          "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -166,7 +179,18 @@
           "nome": "Awkwafina",
           "temporada": "A Cozinheira Improvável",
           "info": "T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
-          "texto": "06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)"
+          "texto": "06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (formato de lançamento não divulgado oficialmente)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -175,7 +199,18 @@
           "nome": "O Instituto",
           "temporada": "T2",
           "info": "MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira",
-          "texto": "08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira"
+          "texto": "08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -184,7 +219,18 @@
           "nome": "O Senhor dos Anéis: Os Anéis de Poder",
           "temporada": "T3",
           "info": "Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)",
-          "texto": "11/11 (qua) - O Senhor dos Anéis: Os Anéis de Poder - T3 - Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)"
+          "texto": "11/11 (qua) - O Senhor dos Anéis: Os Anéis de Poder - T3 - Prime Video, 8 episódios (1 a 4 na estreia, depois em lotes)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "🆕",
@@ -204,7 +250,7 @@
             "texto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -213,7 +259,18 @@
           "nome": "12 12 12",
           "temporada": "T1",
           "info": "Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
-          "texto": "13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)"
+          "texto": "13/11 (sex) - 12 12 12 - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 25/12)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -222,7 +279,18 @@
           "nome": "Percy Jackson e os Olimpianos",
           "temporada": "T3",
           "info": "Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
-          "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
+          "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -231,7 +299,18 @@
           "nome": "Disney Twisted-Wonderland: A Série",
           "temporada": "T2",
           "info": "Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
-          "texto": "23/12 (qua) - Disney Twisted-Wonderland: A Série - T2 - Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")"
+          "texto": "23/12 (qua) - Disney Twisted-Wonderland: A Série - T2 - Disney+, 8 episódios (semanal, às quartas; \"O Episódio de Savanaclaw\")",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -240,7 +319,18 @@
           "nome": "Seu Amigão da Vizinhança: Homem-Aranha",
           "temporada": "T2",
           "info": "Disney+, número de episódios e formato não divulgados",
-          "texto": "13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, número de episódios e formato não divulgados"
+          "texto": "13/01/2027 (qua) - Seu Amigão da Vizinhança: Homem-Aranha - T2 - Disney+, número de episódios e formato não divulgados",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -249,7 +339,18 @@
           "nome": "Ahsoka",
           "temporada": "T2",
           "info": "Disney+, horário e formato não divulgados",
-          "texto": "20/01/2027 (qua) - Ahsoka - T2 - Disney+, horário e formato não divulgados"
+          "texto": "20/01/2027 (qua) - Ahsoka - T2 - Disney+, horário e formato não divulgados",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -258,7 +359,18 @@
           "nome": "Neuromancer",
           "temporada": "T1",
           "info": "Apple TV, 10 episódios (2 na estreia, depois semanal)",
-          "texto": "22/01/2027 (sex) - Neuromancer - T1 - Apple TV, 10 episódios (2 na estreia, depois semanal)"
+          "texto": "22/01/2027 (sex) - Neuromancer - T1 - Apple TV, 10 episódios (2 na estreia, depois semanal)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "",
@@ -267,7 +379,18 @@
           "nome": "A Série Pokémon: Horizontes",
           "temporada": "T4",
           "info": "Netflix, Parte 1 (\"Maravilhas à Vista\"; número de episódios não divulgado)",
-          "texto": "27/02/2027 (sáb) - A Série Pokémon: Horizontes - T4 - Netflix, Parte 1 (\"Maravilhas à Vista\"; número de episódios não divulgado)"
+          "texto": "27/02/2027 (sáb) - A Série Pokémon: Horizontes - T4 - Netflix, Parte 1 (\"Maravilhas à Vista\"; número de episódios não divulgado)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "selo": "🧊",
@@ -276,7 +399,18 @@
           "nome": "Silo",
           "temporada": "T4",
           "info": "Apple TV, temporada final",
-          "texto": "🧊 09/07/2027 (sex) - Silo - T4 - Apple TV, temporada final"
+          "texto": "🧊 09/07/2027 (sex) - Silo - T4 - Apple TV, temporada final",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ],
       "sem_data": {
@@ -287,95 +421,156 @@
             "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h",
             "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h",
             "campos_novos": [
+              "nome",
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "9-1-1: Nashville",
             "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h",
             "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h",
             "campos_novos": [
+              "nome",
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "A Assassina (The Assassin)",
             "info": "T2 🔜 Reino Unido e Irlanda: hoje, sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
             "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: hoje, sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
             "campos_novos": [
+              "nome",
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "A Especialista (The Savant)",
             "info": "T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)",
-            "texto": "A Especialista (The Savant) - T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)"
+            "texto": "A Especialista (The Savant) - T1 🔜 adiada para a primavera dos EUA de 2027, entre março e junho de 2027 (Apple TV)",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "As Bruxas Mayfair",
             "info": "T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil",
-            "texto": "As Bruxas Mayfair - T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil"
+            "texto": "As Bruxas Mayfair - T3 🔜 EUA: quarta-feira, 30 de dezembro de 2026 (AMC e AMC+, subtítulo \"Salem Coven\"); sem data no Brasil",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Baywatch",
             "info": "T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
-            "texto": "Baywatch - T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios"
+            "texto": "Baywatch - T1 🔜 EUA: quarta-feira, 6 de janeiro de 2027, às 23h (FOX); no Brasil: Prime Video, janeiro de 2027 (anunciado pelo Prime Video Brasil; dia ainda não divulgado), 12 episódios",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Coven Academy",
             "info": "T2 🔜 Disney+ Brasil anunciou \"em breve\" (segunda-feira, 2 de novembro de 2026); renovada em 26 de outubro de 2026, data não divulgada",
-            "texto": "Coven Academy - T2 🔜 Disney+ Brasil anunciou \"em breve\" (segunda-feira, 2 de novembro de 2026); renovada em 26 de outubro de 2026, data não divulgada"
+            "texto": "Coven Academy - T2 🔜 Disney+ Brasil anunciou \"em breve\" (segunda-feira, 2 de novembro de 2026); renovada em 26 de outubro de 2026, data não divulgada",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Doc",
             "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h"
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Fire Country",
             "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) sai hoje, sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
             "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) sai hoje, sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
             "campos_novos": [
+              "nome",
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Grey's Anatomy",
             "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
             "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
             "campos_novos": [
+              "nome",
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "Only Murders in the Building",
             "info": "T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local",
-            "texto": "Only Murders in the Building - T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local"
+            "texto": "Only Murders in the Building - T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "St. Denis Medical",
             "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai na segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai na segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai na segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           },
           {
             "nome": "The Pitt",
             "info": "T3 🔜 HBO Max, janeiro de 2027 (anunciado pela HBO Max; dia ainda não divulgado)",
-            "texto": "The Pitt - T3 🔜 HBO Max, janeiro de 2027 (anunciado pela HBO Max; dia ainda não divulgado)"
+            "texto": "The Pitt - T3 🔜 HBO Max, janeiro de 2027 (anunciado pela HBO Max; dia ainda não divulgado)",
+            "campos_novos": [
+              "nome",
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-07T23:33-03:00"
           }
         ]
       }
@@ -402,11 +597,15 @@
           },
           "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "9-1-1: Nashville",
@@ -426,11 +625,15 @@
           },
           "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -453,10 +656,16 @@
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
           ],
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Carrie, a Estranha",
@@ -479,10 +688,16 @@
             "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
           ],
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -514,7 +729,7 @@
             "notas:Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "De Mal a Pior",
@@ -546,7 +761,7 @@
             "notas:Título oficial no Brasil: \"De Mal a Pior\""
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Doc",
@@ -566,11 +781,15 @@
           },
           "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Grey's Anatomy",
@@ -593,11 +812,16 @@
             "Progresso do Bingers (22x04 visto em 29/10). Nome do 22x05 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil",
+            "notas:Progresso do Bingers (22x04 visto em 29/10). Nome do 22x05 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -620,10 +844,16 @@
             "A imprensa também usa \"Kill Jackie: Acerto de Contas\""
           ],
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:A imprensa também usa \"Kill Jackie: Acerto de Contas\""
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Line of Fire",
@@ -646,11 +876,16 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
             "proximo",
-            "brasil"
+            "brasil",
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -670,11 +905,15 @@
           },
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     },
@@ -687,29 +926,32 @@
           "nome_original": "All's Fair",
           "status": "🟢",
           "progresso": {
-            "texto": "11/12",
-            "vistos": 11,
+            "texto": "12/12",
+            "vistos": 12,
             "total": 12
           },
           "proximo": {
-            "texto": "2x03 - Thanksgiving (1) / Ação de Graças (1)",
-            "codigo": "2x03",
-            "titulo_en": "Thanksgiving (1)",
-            "titulo_pt": "Ação de Graças (1)",
+            "texto": "2x04 - Thanksgiving (2) / Ação de Graças (2)",
+            "codigo": "2x04",
+            "titulo_en": "Thanksgiving (2)",
+            "titulo_pt": "Ação de Graças (2)",
             "rotulo": "próximo"
           },
-          "brasil": "Disney+ (2x01 a 2x03 no ar desde quarta-feira, 4 de novembro de 2026, de madrugada; horário não confirmado oficialmente; 2x01 e 2x02 vistos em 06/11/2026)",
+          "brasil": "Disney+ (2x01 a 2x03 no ar desde quarta-feira, 4 de novembro de 2026, de madrugada; horário não confirmado oficialmente; 2x01 a 2x03 vistos em 06/11/2026; 2x04 na quarta-feira, 18 de novembro de 2026)",
           "notas": [
-            "Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). 2x02 Going Down / Descendo visto em 06/11/2026 (sem nota). Ainda atrasada: 2x03 no ar."
+            "Semanal às quartas; o 2x04 Thanksgiving (2) sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x08 Carr Crash) na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). 2x02 Going Down / Descendo e 2x03 Thanksgiving (1) / Ação de Graças (1) vistos em 06/11/2026 (sem nota). Em dia."
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
             "brasil",
-            "notas:Semanal às quartas; o 2x04 sai na quarta-feira, 11 de novembro de 2026, e o final (2x08) na quarta-feira, 2 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). 2x02 Going Down / Descendo visto em 06/11/2026 (sem nota). Ainda atrasada: 2x03 no ar."
+            "notas:Semanal às quartas; o 2x04 Thanksgiving (2) sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x08 Carr Crash) na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). 2x01 The Scorpio Ball / O Baile de Escorpião visto em 06/11/2026 (Bingers 4,5★; Banco nota 8; Bingebase nota 8). 2x02 Going Down / Descendo e 2x03 Thanksgiving (1) / Ação de Graças (1) vistos em 06/11/2026 (sem nota). Em dia."
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T20:35-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "St. Denis Medical",
@@ -741,7 +983,7 @@
             "notas:Nome do 3x01 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     },
@@ -781,7 +1023,7 @@
             "notas:O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Terra da Máfia",
@@ -805,12 +1047,17 @@
             "2x08 visto em 06/11/2026; em dia com os episódios lançados. 2x09 em 13/11/2026; final da temporada (2x10) em 20/11/2026. “Colapso Nervoso” é tradução própria."
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
+            "transmissao",
+            "brasil",
             "notas:2x08 visto em 06/11/2026; em dia com os episódios lançados. 2x09 em 13/11/2026; final da temporada (2x10) em 20/11/2026. “Colapso Nervoso” é tradução própria."
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T19:21-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Noturno",
@@ -834,13 +1081,17 @@
             "Semanal às sextas; o 1x04 sai na sexta-feira, 13 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
             "transmissao",
+            "brasil",
             "notas:Semanal às sextas; o 1x04 sai na sexta-feira, 13 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "A Assassina",
@@ -874,7 +1125,7 @@
             "notas:🔜 Estreia só no Reino Unido e na Irlanda. Nome em português ainda não divulgado"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Awkwafina - A Cozinheira Improvável",
@@ -908,7 +1159,7 @@
             "notas:Nome em português ainda não divulgado (tradução própria). O Banco de Séries conta 2 episódios por enquanto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     },
@@ -934,10 +1185,15 @@
           },
           "brasil": "T1 a T5 no Disney+",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "A Lenda de Korra",
@@ -957,10 +1213,15 @@
           },
           "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Coldwater",
@@ -980,10 +1241,15 @@
           },
           "brasil": "Sem streaming no Brasil",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Mila no Multiverso",
@@ -1003,10 +1269,15 @@
           },
           "brasil": "T1 no Disney+; T2 sem streaming no Brasil",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Pokémon",
@@ -1026,10 +1297,15 @@
           },
           "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "Pôneis",
@@ -1049,10 +1325,15 @@
           },
           "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "nome": "O Teste de Copenhague",
@@ -1072,10 +1353,15 @@
           },
           "brasil": "Sem streaming por assinatura no Brasil · cancelada após 1 temporada",
           "campos_novos": [
-            "proximo"
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     },
@@ -1142,7 +1428,19 @@
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "03/11/2026: lançamento digital no Brasil. Apple TV BR (API do tv.apple.com, sf=143503): a pré-venda virou compra e aluguel, R$ 29,90 SD/HD (buy e rent). Prime Video BR (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, currentTerritory BR): 'Comprar ou alugar', compra UHD R$ 29,90. Antes: pré-venda Apple TV BR R$ 29,90 desde 30/10/2026.",
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Verity",
@@ -1199,7 +1497,19 @@
             "fonte_url": "https://www.justwatch.com/br/filme/verity",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Cara-de-Barro",
@@ -1266,7 +1576,19 @@
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -1315,10 +1637,17 @@
             "verificado_em": "2026-11-05"
           },
           "campos_novos": [
-            "cinema_brasil"
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
           ],
           "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
@@ -1379,7 +1708,19 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -1428,7 +1769,19 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -1470,7 +1823,19 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 2",
@@ -1526,7 +1891,19 @@
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         },
         {
           "titulo": "Batman: A Queda do Morcego - Parte 3",
@@ -1575,7 +1952,19 @@
             "fonte_url": null,
             "fonte_nome": null,
             "verificado_em": "2026-11-05"
-          }
+          },
+          "campos_novos": [
+            "titulo",
+            "titulo_original",
+            "ano",
+            "tipo_lancamento",
+            "cinema_brasil",
+            "aluguel_compra",
+            "streaming",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-07T23:33-03:00"
         }
       ]
     }
