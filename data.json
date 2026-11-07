@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-07T05:44-03:00",
+  "atualizado_em": "2026-11-07T14:19-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -23,9 +23,6 @@
           ],
           "duracao": "duração não divulgada",
           "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
             "transmissao",
             "brasil",
             "duracao",
@@ -93,11 +90,6 @@
           "texto": "12/11 (qua) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)",
           "campos_novos": [
             "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
             "texto"
           ],
           "novo": true,
@@ -182,24 +174,12 @@
           {
             "nome": "9-1-1",
             "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h"
           },
           {
             "nome": "9-1-1: Nashville",
             "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -251,13 +231,7 @@
           {
             "nome": "Grey's Anatomy",
             "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-07T05:47-03:00"
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Only Murders in the Building",
@@ -300,7 +274,6 @@
           },
           "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
           "campos_novos": [
-            "progresso",
             "proximo"
           ],
           "novo": true,
@@ -325,7 +298,6 @@
           },
           "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "campos_novos": [
-            "progresso",
             "proximo"
           ],
           "novo": true,
@@ -407,13 +379,7 @@
             "Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
+            "proximo"
           ],
           "novo": true,
           "novo_ate": "2026-11-08T05:44-03:00"
@@ -440,13 +406,8 @@
             "Título oficial no Brasil: \"De Mal a Pior\""
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
             "proximo",
-            "brasil",
-            "notas:Título oficial no Brasil: \"De Mal a Pior\""
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-08T05:44-03:00"
@@ -470,7 +431,6 @@
           },
           "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
           "campos_novos": [
-            "progresso",
             "proximo"
           ],
           "novo": true,
@@ -498,7 +458,6 @@
             "Nome do 22x05 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "progresso",
             "proximo",
             "notas:Nome do 22x05 em português não divulgado (tradução própria)"
           ],
@@ -587,8 +546,7 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
           ],
           "campos_novos": [
-            "proximo",
-            "brasil"
+            "proximo"
           ],
           "novo": true,
           "novo_ate": "2026-11-08T05:44-03:00"
@@ -612,7 +570,6 @@
           },
           "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
           "campos_novos": [
-            "progresso",
             "proximo"
           ],
           "novo": true,
@@ -965,67 +922,6 @@
       "emoji": "🎞️",
       "itens": [
         {
-          "titulo": "Resident Evil",
-          "titulo_original": "Resident Evil",
-          "ano": "2026",
-          "tipo_lancamento": {
-            "emoji": "🏷️",
-            "rotulo": "Tipo de lançamento",
-            "valor": "cinema, depois aluguel/compra e streaming",
-            "notas": [
-              "Reinvenção da franquia, escrita e dirigida por Zach Cregger (A Hora do Mal); no Brasil, distribuição da Sony Pictures"
-            ]
-          },
-          "cinema_brasil": {
-            "emoji": "🎟️",
-            "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 17 de setembro de 2026 (oficial no Brasil, Sony Pictures; em cartaz)",
-            "notas": [
-              "EUA: sexta-feira, 18 de setembro de 2026 (Sony Pictures)"
-            ]
-          },
-          "aluguel_compra": {
-            "emoji": "🛒",
-            "rotulo": "Aluguel e compra",
-            "valor": "liberados desde hoje, terça-feira, 3 de novembro de 2026: Apple TV (compra e aluguel, R$ 29,90) e Prime Video (loja; compra e aluguel, compra UHD R$ 29,90)",
-            "notas": [
-              "Conferido nas lojas brasileiras na terça-feira, 3 de novembro de 2026 (a pré-venda da Apple TV, aberta desde 30 de outubro, virou compra e aluguel). EUA: mesma data"
-            ]
-          },
-          "streaming": {
-            "emoji": "📺",
-            "rotulo": "Streaming",
-            "valor": "sem data no Brasil",
-            "notas": [
-              "Plataforma não anunciada (lançamentos recentes da Sony no Brasil foram para a HBO Max, segundo o Estadão)"
-            ]
-          },
-          "encomenda": {
-            "ofertas": [
-              {
-                "loja": "Apple TV",
-                "tipo": "compra e aluguel",
-                "preco": "R$ 29,90",
-                "data_brasil": "2026-11-03",
-                "url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
-                "fonte": "loja Apple TV Brasil (03/11/2026): compra e aluguel liberados, R$ 29,90 SD/HD"
-              },
-              {
-                "loja": "Prime Video",
-                "tipo": "compra e aluguel",
-                "preco": "R$ 29,90",
-                "data_brasil": "2026-11-03",
-                "url": "https://www.primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0",
-                "fonte": "loja Prime Video Brasil (03/11/2026, território BR): 'Comprar ou alugar', compra UHD R$ 29,90"
-              }
-            ],
-            "fonte_url": "https://tv.apple.com/br/movie/resident-evil/umc.cmc.1oweeytxhn136fmlgpizbxsc5",
-            "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
-            "obs": "03/11/2026: lançamento digital no Brasil. Apple TV BR (API do tv.apple.com, sf=143503): a pré-venda virou compra e aluguel, R$ 29,90 SD/HD (buy e rent). Prime Video BR (primevideo.com/-/pt/detail/0RTDWN1YVBN1G9IMVHU56X4GS0, currentTerritory BR): 'Comprar ou alugar', compra UHD R$ 29,90. Antes: pré-venda Apple TV BR R$ 29,90 desde 30/10/2026.",
-            "verificado_em": "2026-11-05"
-          }
-        },
-        {
           "titulo": "Verity",
           "titulo_original": "Verity",
           "ano": "2026",
@@ -1194,12 +1090,7 @@
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
             "verificado_em": "2026-11-05"
-          },
-          "campos_novos": [
-            "cinema_brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-07T05:47-03:00"
+          }
         },
         {
           "titulo": "Jogos Vorazes: Amanhecer na Colheita",
