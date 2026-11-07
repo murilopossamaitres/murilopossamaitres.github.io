@@ -237,6 +237,75 @@ def parse_filmes(md_text):
     return {"titulo": "Filmes", "emoji": "🎞️", "itens": [parse_film_block(b) for b in blocks(lines[1:])]}
 
 
+# build.py ordena a seção e tira o episódio já visto antes de gerar o HTML.
+_MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",
+          "setembro", "outubro", "novembro", "dezembro"]
+_ESTREIA_RE = re.compile(r"(\d{1,2}) de ([a-záéíóúâêôãõç]+) de (\d{4})")
+# Cards de episódio (não a timeline de Novidades): some enquanto o código do card for <= em_dia_ate.
+_SECOES_EM_DIA = ("lancamentos", "ativas_atrasadas", "episodio_recente", "episodio_hoje", "finalizadas_atrasadas")
+
+
+def _estreia_key(film):
+    valor = (film.get("cinema_brasil") or {}).get("valor") or ""
+    m = _ESTREIA_RE.search(valor)
+    if m and m.group(2) in _MESES:
+        return (int(m.group(3)), _MESES.index(m.group(2)) + 1, int(m.group(1)), film.get("titulo") or "")
+    return (9999, 12, 31, film.get("titulo") or "")
+
+
+def ordenar_filmes(data):
+    """Filmes em ordem de estreia no cinema no Brasil. Sem data (ex.: \"não terá\") ficam no fim."""
+    itens = data.get("secoes", {}).get("filmes", {}).get("itens")
+    if itens:
+        itens.sort(key=_estreia_key)
+    return data
+
+
+def _ep_key(texto):
+    pares = [(int(s), int(e)) for s, e in re.findall(r"(\d+)x(\d+)", texto or "")]
+    if pares:
+        return max(pares)
+    m = re.search(r"\bT(\d+)\b", texto or "")
+    if m:
+        return (int(m.group(1)), 0)
+    return None
+
+
+def _codigo_card(sec, it):
+    if sec == "lancamentos":
+        return it.get("episodios") or ""
+    prox = it.get("proximo") or {}
+    return prox.get("codigo") or prox.get("texto") or ""
+
+
+def remove_series_em_dia(data, path):
+    """Tira o card cujo episódio já foi visto (series-em-dia.json).
+
+    Compara o código do card com em_dia_ate (SxE, ou Tn para temporada nova).
+    Novidades não entram: um episódio novo (ex.: T2) volta a aparecer sozinho.
+    """
+    if not path or not os.path.exists(path):
+        return data
+    with open(path, encoding="utf-8") as f:
+        limite = {i["nome"]: i.get("em_dia_ate", "") for i in json.load(f).get("itens", [])}
+    for sec in _SECOES_EM_DIA:
+        bloco = data.get("secoes", {}).get(sec)
+        if not bloco or "itens" not in bloco:
+            continue
+        kept = []
+        for it in bloco["itens"]:
+            ate = limite.get(it.get("nome"))
+            if ate is None:
+                kept.append(it)
+                continue
+            card, lim = _ep_key(_codigo_card(sec, it)), _ep_key(ate)
+            if card is not None and lim is not None and card <= lim:
+                continue
+            kept.append(it)
+        bloco["itens"] = kept
+    return data
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("resumo")
