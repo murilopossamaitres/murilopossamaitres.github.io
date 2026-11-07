@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-07T14:19-03:00",
+  "atualizado_em": "2026-11-07T17:24-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -819,6 +819,41 @@
           "novo_ate": "2026-11-08T05:44-03:00"
         },
         {
+          "nome": "Dance in the Vampire Bund",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "1/12",
+            "vistos": 1,
+            "total": 12
+          },
+          "proximo": {
+            "texto": "1x02 - Howling / título em português não confirmado",
+            "codigo": "1x02",
+            "titulo_en": "Howling",
+            "titulo_pt": "título em português não confirmado",
+            "rotulo": "próximo",
+            "duracao": "25 min"
+          },
+          "brasil": "Crunchyroll; Crunchyroll Amazon Channel",
+          "notas": [
+            "Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
+            "1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
+            "notas:1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-08T17:24-03:00"
+        },
+        {
           "nome": "Mila no Multiverso",
           "nome_original": null,
           "status": "🟢",
@@ -838,6 +873,31 @@
           "brasil": "T1 no Disney+; T2 sem streaming no Brasil",
           "campos_novos": [
             "proximo"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-08T05:44-03:00"
+        },
+        {
+          "nome": "O Teste de Copenhague",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Copenhagen / Copenhague",
+            "codigo": "1x01",
+            "titulo_en": "Copenhagen",
+            "titulo_pt": "Copenhague",
+            "rotulo": "próximo",
+            "duracao": "57 min"
+          },
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
+          "campos_novos": [
+            "proximo",
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-08T05:44-03:00"
@@ -886,31 +946,6 @@
           "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
           "campos_novos": [
             "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
-        },
-        {
-          "nome": "O Teste de Copenhague",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x01 - Copenhagen / Copenhague",
-            "codigo": "1x01",
-            "titulo_en": "Copenhagen",
-            "titulo_pt": "Copenhague",
-            "rotulo": "próximo",
-            "duracao": "57 min"
-          },
-          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
-          "campos_novos": [
-            "proximo",
-            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-08T05:44-03:00"
