@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T16:29-03:00",
+  "atualizado_em": "2026-11-08T20:41-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -393,22 +393,28 @@
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/6",
-            "vistos": 0,
+            "texto": "1/6",
+            "vistos": 1,
             "total": 6
           },
           "proximo": {
-            "texto": "1x01 - Pilot / Piloto",
-            "codigo": "1x01",
-            "titulo_en": "Pilot",
-            "titulo_pt": "Piloto",
+            "texto": "1x02 - A Bigger Picture",
+            "codigo": "1x02",
+            "titulo_en": "A Bigger Picture",
+            "titulo_pt": null,
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS); o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
-          ]
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-09T20:41-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -704,19 +710,7 @@
           "notas": [
             "Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
             "1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
-            "notas:1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T17:24-03:00"
+          ]
         },
         {
           "nome": "Mila no Multiverso",
