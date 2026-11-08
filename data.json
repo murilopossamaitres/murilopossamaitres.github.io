@@ -1,52 +1,16 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T15:50-03:00",
+  "atualizado_em": "2026-11-08T16:29-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "Delegado",
-          "nome_original": null,
-          "episodios": "1x02",
-          "progresso": {
-            "texto": "1/2",
-            "vistos": 1,
-            "total": 2
-          },
-          "titulo_pt_nota": "\"Operação Tapioca\"",
-          "transmissao": "Canal Brasil, ontem, sexta-feira, 6 de novembro de 2026, às 22h",
-          "brasil": "+1 dia: Globoplay (plano Premium), hoje (horário não divulgado)",
-          "notas": [
-            "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay (@canalbrasil, 06/11); o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026, no Canal Brasil, e no sábado, 14 de novembro de 2026, no Globoplay"
-          ],
-          "duracao": "duração não divulgada"
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
       "emoji": "🆕",
       "itens": [
-        {
-          "selo": "",
-          "data": "06/11",
-          "dia_semana": "sex",
-          "nome": "De Mal a Pior",
-          "temporada": "T1",
-          "info": "Paramount+, temporada completa (6 episódios de uma vez)",
-          "texto": "06/11 (sex) - De Mal a Pior - T1 - Paramount+, temporada completa (6 episódios de uma vez)"
-        },
-        {
-          "selo": "✏️",
-          "data": "06/11",
-          "dia_semana": "sex",
-          "nome": "Awkwafina - A Cozinheira Improvável",
-          "temporada": "T1",
-          "info": "Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 18/12)",
-          "texto": "✏️ 06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 18/12)"
-        },
         {
           "selo": "",
           "data": "11/11",
