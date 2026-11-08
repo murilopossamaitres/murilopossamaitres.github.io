@@ -20,12 +20,6 @@
       "obs": "1x18 \"Prova de Inocência\" visto em 05/11/2026 (Bingers; Banco; Bingebase); 18/18 lançados (18/24). 1x19 sai ter 10/11/2026 na Crunchyroll, aí volta sozinha"
     },
     {
-      "nome": "Dragon Ball Super: Beerus",
-      "em_dia_ate": "1x04",
-      "em_dia_em": "2026-11-01",
-      "obs": "1x04 \"The God of Saiyans\" (\"O Deus dos Saiyajins\", tradução própria) visto em 01/11/2026 às 20h30 (Bingers, 4,5 estrelas, status caught_up; Banco de Séries serieid 44908: nota 8,5 pela média 8,39 do episódio, não marcado no Banco); 4/4 lançados. 1x05 sai dom 08/11/2026 na Crunchyroll, aí volta sozinha"
-    },
-    {
       "nome": "Invasão: Código Apollo",
       "em_dia_ate": "2x08",
       "em_dia_em": "2026-10-27",
@@ -96,6 +90,18 @@
       "em_dia_ate": "2x03",
       "em_dia_em": "2026-11-06",
       "obs": "2x03 \"Thanksgiving (1)\" (\"Ação de Graças (1)\", tradução própria) visto em 06/11/2026, sem nota (Bingers caught_up, 12/12 lançados); próximo 2x04 em 18/11/2026; final da T2 (2x08 \"Carr Crash\") em 09/12/2026"
+    },
+    {
+      "nome": "O Instituto",
+      "em_dia_ate": "2x01",
+      "em_dia_em": "2026-11-08",
+      "obs": "2x01 visto; 9/16 conhecidos. Próximo: 2x02 em 2026-11-15. T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9) e Bingers (4,5 estrelas). Não é final de temporada nem de série. Bingebase: marcação pendente; exibição hoje, 08/11, às 23h (Brasília)."
+    },
+    {
+      "nome": "Dragon Ball Super: Beerus",
+      "em_dia_ate": "1x05",
+      "em_dia_em": "2026-11-08",
+      "obs": "1x05 visto; 5/8 conhecidos. Próximo: 1x06 em 2026-11-15. 1x05 \"The God of Destruction and Son Goku\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
     }
   ]
 }

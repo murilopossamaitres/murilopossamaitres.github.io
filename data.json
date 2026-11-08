@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T00:01-03:00",
+  "atualizado_em": "2026-11-08T15:50-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -21,15 +21,7 @@
           "notas": [
             "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay (@canalbrasil, 06/11); o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026, no Canal Brasil, e no sábado, 14 de novembro de 2026, no Globoplay"
           ],
-          "duracao": "duração não divulgada",
-          "campos_novos": [
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay (@canalbrasil, 06/11); o 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026, no Canal Brasil, e no sábado, 14 de novembro de 2026, no Globoplay"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "duracao": "duração não divulgada"
         }
       ]
     },
@@ -53,23 +45,7 @@
           "nome": "Awkwafina - A Cozinheira Improvável",
           "temporada": "T1",
           "info": "Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 18/12)",
-          "texto": "✏️ 06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 18/12)",
-          "campos_novos": [
-            "selo",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
-        },
-        {
-          "selo": "",
-          "data": "08/11",
-          "dia_semana": "dom",
-          "nome": "O Instituto",
-          "temporada": "T2",
-          "info": "MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira",
-          "texto": "08/11 (dom) - O Instituto - T2 - MGM+ (canal no Prime Video), data confirmada pela imprensa brasileira"
+          "texto": "✏️ 06/11 (sex) - Awkwafina - A Cozinheira Improvável - T1 - Apple TV, 8 episódios (2 na estreia, depois 1 por semana às sextas até 18/12)"
         },
         {
           "selo": "",
@@ -87,13 +63,7 @@
           "nome": "Dragon Ball Super: Beerus",
           "temporada": "dublagem PT",
           "info": "Crunchyroll (eps semanais)",
-          "texto": "12/11 (qua) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)",
-          "campos_novos": [
-            "selo",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "texto": "12/11 (qua) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)"
         },
         {
           "selo": "",
@@ -184,13 +154,7 @@
           {
             "nome": "A Assassina (The Assassin)",
             "info": "T2 🔜 Reino Unido e Irlanda: no ar desde sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
-            "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: no ar desde sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-08T05:44-03:00"
+            "texto": "A Assassina (The Assassin) - T2 🔜 Reino Unido e Irlanda: no ar desde sexta-feira, 6 de novembro de 2026 (Prime Video, 6 episódios de uma vez); no Brasil a T1 está no Universal+ (canal no Prime Video), T2 sem data"
           },
           {
             "nome": "A Especialista (The Savant)",
@@ -220,13 +184,7 @@
           {
             "nome": "Fire Country",
             "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) saiu na sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") sai na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) saiu na sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") sai na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-08T05:44-03:00"
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) saiu na sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") sai na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
@@ -272,12 +230,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
         },
         {
           "nome": "9-1-1: Nashville",
@@ -296,12 +249,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -323,12 +271,7 @@
           "brasil": "Paramount+ (Livro 1 completo: 1 a 3 no ar desde sexta-feira, 9 de outubro de 2026; 4 a 6 desde sexta-feira, 16 de outubro de 2026; 7 a 9 desde sexta-feira, 23 de outubro de 2026; 10 a 13 desde sexta-feira, 30 de outubro de 2026)",
           "notas": [
             "Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)"
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Carrie, a Estranha",
@@ -350,12 +293,7 @@
           "brasil": "T1 completa no Prime Video",
           "notas": [
             "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -377,12 +315,7 @@
           "brasil": "Netflix (2ª temporada completa, 10 episódios, no ar desde terça-feira, 20 de outubro de 2026, às 4h)",
           "notas": [
             "Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil"
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "De Mal a Pior",
@@ -404,13 +337,7 @@
           "brasil": "Paramount+ (T1 completa, 6 episódios, no ar desde ontem, sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Título oficial no Brasil: \"De Mal a Pior\""
-          ],
-          "campos_novos": [
-            "proximo",
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Doc",
@@ -429,12 +356,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil"
         },
         {
           "nome": "Grey's Anatomy",
@@ -456,13 +378,7 @@
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
             "Nome do 22x05 em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "proximo",
-            "notas:Nome do 22x05 em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "IT: Bem-Vindos a Derry",
@@ -484,18 +400,7 @@
           "brasil": "HBO Max (especial com página própria, \"Uma História de Derry\", lançado de surpresa no sábado, 31 de outubro de 2026; T1 completa, 8 episódios)",
           "notas": [
             "Episódio especial de ficção (cerca de 30 minutos) que volta séculos no tempo, antes de Pennywise; entrou hoje na contagem do Banco de Séries (8/8 → 8/9). Título em português da página da HBO Max Brasil (via Telaverso, 31/10). 2ª temporada renovada, sem data"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Episódio especial de ficção (cerca de 30 minutos) que volta séculos no tempo, antes de Pennywise; entrou hoje na contagem do Banco de Séries (8/8 → 8/9). Título em português da página da HBO Max Brasil (via Telaverso, 31/10). 2ª temporada renovada, sem data"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Kill Jackie",
@@ -517,12 +422,7 @@
           "brasil": "Globoplay desde quinta-feira, 15 de outubro de 2026 (exclusivo); minissérie",
           "notas": [
             "A imprensa também usa \"Kill Jackie: Acerto de Contas\""
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Line of Fire",
@@ -544,12 +444,7 @@
           "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS); o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -568,12 +463,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
         },
         {
           "nome": "St. Denis Medical",
@@ -595,12 +485,7 @@
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
             "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") sai nos EUA na segunda-feira, 9 de novembro de 2026, às 22h"
-          ],
-          "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") sai nos EUA na segunda-feira, 9 de novembro de 2026, às 22h"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         }
       ]
     },
@@ -628,18 +513,7 @@
           "brasil": "Apple TV (1x01 e 1x02 no ar desde ontem, sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Delegado",
@@ -661,16 +535,7 @@
           "brasil": "Canal Brasil desde ontem, sexta-feira, 6 de novembro de 2026, às 22h; Globoplay (plano Premium) hoje",
           "notas": [
             "O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "Noturno",
@@ -692,15 +557,7 @@
           "brasil": "Apple TV (desde ontem, sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Semanal às sextas; o 1x04 (\"O Mensageiro\") sai na sexta-feira, 13 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Semanal às sextas; o 1x04 (\"O Mensageiro\") sai na sexta-feira, 13 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          ]
         },
         {
           "nome": "A Assassina",
@@ -722,6 +579,30 @@
           "brasil": "Sem data (T1 no Universal+; T2 sem data no Brasil)",
           "notas": [
             "🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado"
+          ]
+        },
+        {
+          "nome": "O Instituto",
+          "nome_original": "The Institute",
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/16",
+            "vistos": 9,
+            "total": 16
+          },
+          "proximo": {
+            "rotulo": "próximo",
+            "codigo": "2x02",
+            "titulo_en": "The Sanctuary",
+            "titulo_pt": "título em português não confirmado",
+            "texto": "2x02 - The Sanctuary / título em português não confirmado",
+            "duracao": "60 min",
+            "lancamento": "2026-11-15"
+          },
+          "brasil": "MGM+ (canal no Prime Video)",
+          "notas": [
+            "T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9) e Bingers (4,5 estrelas). Não é final de temporada nem de série.",
+            "Bingebase: marcação pendente; exibição hoje, 08/11, às 23h (Brasília)."
           ],
           "campos_novos": [
             "nome",
@@ -730,10 +611,45 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado"
+            "notas:T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9) e Bingers (4,5 estrelas). Não é final de temporada nem de série.",
+            "notas:Bingebase: marcação pendente; exibição hoje, 08/11, às 23h (Brasília)."
           ],
           "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "novo_ate": "2026-11-09T15:50-03:00"
+        },
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "5/8",
+            "vistos": 5,
+            "total": 8
+          },
+          "proximo": {
+            "rotulo": "próximo",
+            "codigo": "1x06",
+            "titulo_en": "Episode 6",
+            "titulo_pt": "título em português não confirmado",
+            "texto": "1x06 - Episode 6 / título em português não confirmado",
+            "duracao": "30 min",
+            "lancamento": "2026-11-15"
+          },
+          "brasil": "Crunchyroll",
+          "notas": [
+            "1x05 \"The God of Destruction and Son Goku\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:1x05 \"The God of Destruction and Son Goku\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-09T15:50-03:00"
         }
       ]
     },
@@ -763,12 +679,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T5 no Disney+",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "T1 a T5 no Disney+"
         },
         {
           "nome": "A Lenda de Korra",
@@ -787,12 +698,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)"
         },
         {
           "nome": "Coldwater",
@@ -811,12 +717,7 @@
             "rotulo": "próximo",
             "duracao": "49 min"
           },
-          "brasil": "Sem streaming no Brasil",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Sem streaming no Brasil"
         },
         {
           "nome": "Dance in the Vampire Bund",
@@ -870,12 +771,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "T1 no Disney+; T2 sem streaming no Brasil",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "T1 no Disney+; T2 sem streaming no Brasil"
         },
         {
           "nome": "O Teste de Copenhague",
@@ -894,13 +790,7 @@
             "rotulo": "próximo",
             "duracao": "57 min"
           },
-          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
-          "campos_novos": [
-            "proximo",
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
         },
         {
           "nome": "Pokémon",
@@ -919,12 +809,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Sol e Lua (T20 a T22) no Globoplay; as outras fases estão divididas entre Netflix e Prime Video, e algumas não estão em streaming (XY na Netflix e Ouro e Prata no Prime Video: fontes divergem)"
         },
         {
           "nome": "Pôneis",
@@ -943,12 +828,7 @@
             "rotulo": "próximo",
             "duracao": "53 min"
           },
-          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada",
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-08T05:44-03:00"
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
         }
       ]
     },
