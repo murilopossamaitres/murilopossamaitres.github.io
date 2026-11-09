@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — segunda-feira, 9 de novembro de 2026",
-  "atualizado_em": "2026-11-09T05:43-03:00",
+  "atualizado_em": "2026-11-09T13:00-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -492,29 +492,35 @@
         {
           "nome": "Awkwafina - A Cozinheira Improvável",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "0/2",
-            "vistos": 0,
+            "texto": "1/2",
+            "vistos": 1,
             "total": 2
           },
           "proximo": {
-            "texto": "1x01 - Nora Learns to Cook / Nora Aprende a Cozinhar",
-            "codigo": "1x01",
-            "titulo_en": "Nora Learns to Cook",
-            "titulo_pt": "Nora Aprende a Cozinhar",
+            "texto": "1x02 - Texas Barbecue / Churrasco Texano",
+            "codigo": "1x02",
+            "titulo_en": "Texas Barbecue",
+            "titulo_pt": "Churrasco Texano",
             "rotulo": "próximo",
             "duracao": "32 min"
           },
           "brasil": "Apple TV (1x01 e 1x02 no ar desde sexta-feira, 6 de novembro de 2026)",
           "notas": [
-            "Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
+            "1x01 \"Nora Learns to Cook\" (\"Nora Aprende a Cozinhar\") visto em 09/11/2026 no Banco de Séries (serieid 47424; nota 7), Bingers (3,5 estrelas) e Bingebase (nota 7). Não é final de temporada nem de série.",
+            "Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nome do 1x02 em português não divulgado (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
           ],
           "campos_novos": [
-            "brasil"
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:1x01 \"Nora Learns to Cook\" (\"Nora Aprende a Cozinhar\") visto em 09/11/2026 no Banco de Séries (serieid 47424; nota 7), Bingers (3,5 estrelas) e Bingebase (nota 7). Não é final de temporada nem de série.",
+            "notas:Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nome do 1x02 em português não divulgado (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
           ],
           "novo": true,
-          "novo_ate": "2026-11-10T05:43-03:00"
+          "novo_ate": "2026-11-10T13:00-03:00"
         },
         {
           "nome": "Delegado",
