@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T22:58-03:00",
+  "atualizado_em": "2026-11-08T23:21-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -549,8 +549,7 @@
           },
           "brasil": "MGM+ (canal no Prime Video)",
           "notas": [
-            "T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9) e Bingers (4,5 estrelas). Não é final de temporada nem de série.",
-            "Bingebase: marcação pendente; exibição hoje, 08/11, às 23h (Brasília)."
+            "T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
           ],
           "campos_novos": [
             "nome",
@@ -559,11 +558,10 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9) e Bingers (4,5 estrelas). Não é final de temporada nem de série.",
-            "notas:Bingebase: marcação pendente; exibição hoje, 08/11, às 23h (Brasília)."
+            "notas:T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
           ],
           "novo": true,
-          "novo_ate": "2026-11-09T15:50-03:00"
+          "novo_ate": "2026-11-09T23:21-03:00"
         },
         {
           "nome": "Dragon Ball Super: Beerus",
