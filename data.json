@@ -1,6 +1,6 @@
 {
-  "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T23:21-03:00",
+  "titulo": "📺 Séries — segunda-feira, 9 de novembro de 2026",
+  "atualizado_em": "2026-11-09T05:43-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -142,8 +142,14 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai na terça-feira, 10 de novembro de 2026, às 23h"
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai amanhã, terça-feira, 10 de novembro de 2026, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai amanhã, terça-feira, 10 de novembro de 2026, às 23h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-10T05:43-03:00"
           },
           {
             "nome": "Fire Country",
@@ -162,8 +168,14 @@
           },
           {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai na segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai na segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai hoje, segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") sai hoje, segunda-feira, 9 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-10T05:43-03:00"
           },
           {
             "nome": "The Pitt",
@@ -298,10 +310,15 @@
             "rotulo": "próximo",
             "duracao": "24 min"
           },
-          "brasil": "Paramount+ (T1 completa, 6 episódios, no ar desde ontem, sexta-feira, 6 de novembro de 2026)",
+          "brasil": "Paramount+ (T1 completa, 6 episódios, no ar desde sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Título oficial no Brasil: \"De Mal a Pior\""
-          ]
+          ],
+          "campos_novos": [
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T05:43-03:00"
         },
         {
           "nome": "Doc",
@@ -391,30 +408,33 @@
         {
           "nome": "Line of Fire",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "1/6",
+            "texto": "1/7",
             "vistos": 1,
-            "total": 6
+            "total": 7
           },
           "proximo": {
-            "texto": "1x02 - A Bigger Picture",
+            "texto": "1x02 - A Bigger Picture / Uma Visão Mais Ampla",
             "codigo": "1x02",
             "titulo_en": "A Bigger Picture",
-            "titulo_pt": null,
+            "titulo_pt": "Uma Visão Mais Ampla",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS); o 1x07 sai nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC)",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS); o 1x07 (\"Lista de Convidados\") sai nos EUA amanhã, terça-feira, 10 de novembro de 2026, à 0h (NBC)",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu)"
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
+            "status",
             "progresso",
-            "proximo"
+            "proximo",
+            "brasil",
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-09T20:41-03:00"
+          "novo_ate": "2026-11-10T05:43-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -440,9 +460,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "36/37",
+            "texto": "36/38",
             "vistos": 36,
-            "total": 37
+            "total": 38
           },
           "proximo": {
             "texto": "3x01 - He Ain't Noah Wyle / Ele Não É o Noah Wyle",
@@ -454,8 +474,14 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") sai nos EUA na segunda-feira, 9 de novembro de 2026, às 22h"
-          ]
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") sai nos EUA hoje, segunda-feira, 9 de novembro de 2026, às 22h"
+          ],
+          "campos_novos": [
+            "progresso",
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") sai nos EUA hoje, segunda-feira, 9 de novembro de 2026, às 22h"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T05:43-03:00"
         }
       ]
     },
@@ -480,10 +506,15 @@
             "rotulo": "próximo",
             "duracao": "32 min"
           },
-          "brasil": "Apple TV (1x01 e 1x02 no ar desde ontem, sexta-feira, 6 de novembro de 2026)",
+          "brasil": "Apple TV (1x01 e 1x02 no ar desde sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Novos episódios às sextas (@PortalAppleTV, 06/11); o 1x03 (\"Pato de Pequim com Estrela Michelin\") sai na sexta-feira, 13 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ]
+          ],
+          "campos_novos": [
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T05:43-03:00"
         },
         {
           "nome": "Delegado",
@@ -502,10 +533,15 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Canal Brasil desde ontem, sexta-feira, 6 de novembro de 2026, às 22h; Globoplay (plano Premium) hoje",
+          "brasil": "Canal Brasil desde sexta-feira, 6 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 7 de novembro de 2026",
           "notas": [
             "O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ]
+          ],
+          "campos_novos": [
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T05:43-03:00"
         },
         {
           "nome": "A Assassina",
@@ -528,74 +564,6 @@
           "notas": [
             "🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado"
           ]
-        },
-        {
-          "nome": "O Instituto",
-          "nome_original": "The Institute",
-          "status": "🟢",
-          "progresso": {
-            "texto": "9/16",
-            "vistos": 9,
-            "total": 16
-          },
-          "proximo": {
-            "rotulo": "próximo",
-            "codigo": "2x02",
-            "titulo_en": "The Sanctuary",
-            "titulo_pt": "título em português não confirmado",
-            "texto": "2x02 - The Sanctuary / título em português não confirmado",
-            "duracao": "60 min",
-            "lancamento": "2026-11-15"
-          },
-          "brasil": "MGM+ (canal no Prime Video)",
-          "notas": [
-            "T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-09T23:21-03:00"
-        },
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "5/8",
-            "vistos": 5,
-            "total": 8
-          },
-          "proximo": {
-            "rotulo": "próximo",
-            "codigo": "1x06",
-            "titulo_en": "Episode 6",
-            "titulo_pt": "título em português não confirmado",
-            "texto": "1x06 - Episode 6 / título em português não confirmado",
-            "duracao": "30 min",
-            "lancamento": "2026-11-15"
-          },
-          "brasil": "Crunchyroll",
-          "notas": [
-            "1x05 \"The God of Destruction and Son Goku\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:1x05 \"The God of Destruction and Son Goku\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série."
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-09T15:50-03:00"
         }
       ]
     },
@@ -675,10 +643,10 @@
             "total": 12
           },
           "proximo": {
-            "texto": "1x02 - Howling / título em português não confirmado",
+            "texto": "1x02 - Howling / Grito de Horror",
             "codigo": "1x02",
             "titulo_en": "Howling",
-            "titulo_pt": "título em português não confirmado",
+            "titulo_pt": "Grito de Horror",
             "rotulo": "próximo",
             "duracao": "25 min"
           },
@@ -686,7 +654,12 @@
           "notas": [
             "Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
             "1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
-          ]
+          ],
+          "campos_novos": [
+            "proximo"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T05:43-03:00"
         },
         {
           "nome": "Mila no Multiverso",
@@ -706,25 +679,6 @@
             "duracao": "duração não divulgada"
           },
           "brasil": "T1 no Disney+; T2 sem streaming no Brasil"
-        },
-        {
-          "nome": "O Teste de Copenhague",
-          "nome_original": null,
-          "status": "🔴",
-          "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
-            "total": 8
-          },
-          "proximo": {
-            "texto": "1x01 - Copenhagen / Copenhague",
-            "codigo": "1x01",
-            "titulo_en": "Copenhagen",
-            "titulo_pt": "Copenhague",
-            "rotulo": "próximo",
-            "duracao": "57 min"
-          },
-          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
         },
         {
           "nome": "Pokémon",
@@ -761,6 +715,25 @@
             "titulo_pt": "Notícias de Segunda Mão",
             "rotulo": "próximo",
             "duracao": "53 min"
+          },
+          "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
+        },
+        {
+          "nome": "O Teste de Copenhague",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Copenhagen / Copenhague",
+            "codigo": "1x01",
+            "titulo_en": "Copenhagen",
+            "titulo_pt": "Copenhague",
+            "rotulo": "próximo",
+            "duracao": "57 min"
           },
           "brasil": "Sem streaming no Brasil · cancelada após 1 temporada"
         }
