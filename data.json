@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 7 de novembro de 2026",
-  "atualizado_em": "2026-11-08T20:41-03:00",
+  "atualizado_em": "2026-11-08T22:58-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -505,28 +505,6 @@
           "brasil": "Canal Brasil desde ontem, sexta-feira, 6 de novembro de 2026, às 22h; Globoplay (plano Premium) hoje",
           "notas": [
             "O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ]
-        },
-        {
-          "nome": "Noturno",
-          "nome_original": "Nocturne",
-          "status": "🟢",
-          "progresso": {
-            "texto": "2/3",
-            "vistos": 2,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x03 - Eyes on the Inside / Olhos por Dentro",
-            "codigo": "1x03",
-            "titulo_en": "Eyes on the Inside",
-            "titulo_pt": "Olhos por Dentro",
-            "rotulo": "próximo",
-            "duracao": "47 min"
-          },
-          "brasil": "Apple TV (desde ontem, sexta-feira, 6 de novembro de 2026)",
-          "notas": [
-            "Semanal às sextas; o 1x04 (\"O Mensageiro\") sai na sexta-feira, 13 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ]
         },
         {
