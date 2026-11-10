@@ -1,6 +1,5 @@
 {
   "titulo": "📺 Séries — segunda-feira, 9 de novembro de 2026",
-  "atualizado_em": "2026-11-09T19:02-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -344,22 +343,31 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "452/470",
-            "vistos": 452,
+            "texto": "453/470",
+            "vistos": 453,
             "total": 470
           },
           "proximo": {
-            "texto": "22x05 - Sometimes I Feel Like a Motherless Child / Às Vezes Me Sinto Como uma Criança Sem Mãe",
-            "codigo": "22x05",
-            "titulo_en": "Sometimes I Feel Like a Motherless Child",
-            "titulo_pt": "Às Vezes Me Sinto Como uma Criança Sem Mãe",
+            "texto": "22x06 - When I Crash / Quando Eu Bater",
+            "codigo": "22x06",
+            "titulo_en": "When I Crash",
+            "titulo_pt": "Quando Eu Bater",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
-            "Nome do 22x05 em português não divulgado (tradução própria)"
-          ]
+            "22x05 \"Sometimes I Feel Like a Motherless Child\" (\"Às Vezes Me Sinto Como uma Criança Sem Mãe\") visto em 09/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série. Nome do 22x05 em português não divulgado no Banco (tradução própria / Bingebase).",
+            "Nome do 22x06 em português segundo o Bingebase (\"Quando Eu Bater\")."
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:22x05 \"Sometimes I Feel Like a Motherless Child\" (\"Às Vezes Me Sinto Como uma Criança Sem Mãe\") visto em 09/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série. Nome do 22x05 em português não divulgado no Banco (tradução própria / Bingebase).",
+            "notas:Nome do 22x06 em português segundo o Bingebase (\"Quando Eu Bater\")."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-10T23:33-03:00"
         },
         {
           "nome": "IT: Bem-Vindos a Derry",
@@ -1146,5 +1154,6 @@
         }
       ]
     }
-  }
+  },
+  "atualizado_em": "2026-11-09T23:33-03:00"
 }
