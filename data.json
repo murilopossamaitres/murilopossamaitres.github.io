@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 10 de novembro de 2026",
-  "atualizado_em": "2026-11-10T05:38-03:00",
+  "atualizado_em": "2026-11-10T13:11-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -365,12 +365,7 @@
           "brasil": "Paramount+ (T1 completa, 6 episódios, no ar desde sexta-feira, 6 de novembro de 2026)",
           "notas": [
             "Título oficial no Brasil: \"De Mal a Pior\""
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-10T05:43-03:00"
+          ]
         },
         {
           "nome": "Doc",
@@ -493,11 +488,7 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-11T05:38-03:00"
@@ -543,7 +534,6 @@
             "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA ontem, segunda-feira, 9 de novembro de 2026, às 22h"
           ],
           "campos_novos": [
-            "progresso",
             "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA ontem, segunda-feira, 9 de novembro de 2026, às 22h"
           ],
           "novo": true,
@@ -555,33 +545,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "Delegado",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "1/2",
-            "vistos": 1,
-            "total": 2
-          },
-          "proximo": {
-            "texto": "1x02 - Operação Tapioca / Operação Tapioca",
-            "codigo": "1x02",
-            "titulo_en": "Operação Tapioca",
-            "titulo_pt": "Operação Tapioca",
-            "rotulo": "próximo",
-            "duracao": "duração não divulgada"
-          },
-          "brasil": "Canal Brasil desde sexta-feira, 6 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 7 de novembro de 2026",
-          "notas": [
-            "O 1x03 (\"Caneta e Arma\") sai na sexta-feira, 13 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-10T05:43-03:00"
-        },
         {
           "nome": "A Assassina",
           "nome_original": "The Assassin",
@@ -756,12 +719,7 @@
           "notas": [
             "Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 11 pendentes.",
             "1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série."
-          ],
-          "campos_novos": [
-            "proximo"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-10T05:43-03:00"
+          ]
         },
         {
           "nome": "Mila no Multiverso",
