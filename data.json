@@ -1,37 +1,11 @@
 {
   "titulo": "📺 Séries — terça-feira, 10 de novembro de 2026",
-  "atualizado_em": "2026-11-10T13:11-03:00",
+  "atualizado_em": "2026-11-10T18:55-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "episodios": "1x19",
-          "progresso": {
-            "texto": "19/24",
-            "vistos": 19,
-            "total": 24
-          },
-          "titulo_pt_nota": "\"Sonho Daquele Dia Maravilhoso\" (\"Dream of That Wonderful Day\")",
-          "transmissao": "NTV (Japão), hoje às 13h29",
-          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "Semanal às terças; o 1x20 sai na terça-feira, 17 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze). Não é final de temporada nem de série"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "duracao",
-            "notas:Semanal às terças; o 1x20 sai na terça-feira, 17 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
-        },
         {
           "nome": "VisionQuest",
           "nome_original": null,
@@ -573,37 +547,6 @@
       "titulo": "Episódio de hoje",
       "emoji": "📅",
       "itens": [
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "18/19",
-            "vistos": 18,
-            "total": 19
-          },
-          "proximo": {
-            "texto": "1x19 - Dream of That Wonderful Day / Sonho Daquele Dia Maravilhoso",
-            "codigo": "1x19",
-            "titulo_en": "Dream of That Wonderful Day",
-            "titulo_pt": "Sonho Daquele Dia Maravilhoso",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-10T13:29-03:00"
-          },
-          "transmissao": "NTV (Japão), às 13h29",
-          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x20 sai na terça-feira, 17 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x20 sai na terça-feira, 17 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
-        },
         {
           "nome": "VisionQuest",
           "nome_original": null,
