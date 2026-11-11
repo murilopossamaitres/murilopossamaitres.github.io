@@ -1,38 +1,11 @@
 {
   "titulo": "📺 Séries — quarta-feira, 11 de novembro de 2026",
-  "atualizado_em": "2026-11-11T05:34-03:00",
+  "atualizado_em": "2026-11-11T13:21-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "episodios": "2x04",
-          "progresso": {
-            "texto": "13/17",
-            "vistos": 13,
-            "total": 17
-          },
-          "titulo_pt_nota": "\"Ação de Graças (2)\" (\"Thanksgiving Part Two\")",
-          "transmissao": "Hulu (EUA), hoje",
-          "brasil": "Mesmo dia: Disney+, hoje às 2h (Rolling Stone Brasil)",
-          "notas": [
-            "Semanal às quartas; o 2x05 sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria; o TVmaze grafa \"Thanksgiving Party Two\"). Não é final de temporada nem de série"
-          ],
-          "duracao": "duração não divulgada",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "brasil",
-            "duracao",
-            "notas:Semanal às quartas; o 2x05 sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria; o TVmaze grafa \"Thanksgiving Party Two\"). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
-        },
         {
           "nome": "O Senhor dos Anéis: Os Anéis de Poder",
           "nome_original": "The Lord of the Rings: The Rings of Power",
@@ -264,13 +237,7 @@
           {
             "nome": "St. Denis Medical",
             "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-11T05:38-03:00"
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
           },
           {
             "nome": "The Pitt",
@@ -427,12 +394,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil"
         },
         {
           "nome": "Grey's Anatomy",
@@ -646,37 +608,6 @@
       "titulo": "Episódio de hoje",
       "emoji": "📅",
       "itens": [
-        {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "status": "🟢",
-          "progresso": {
-            "texto": "12/13",
-            "vistos": 12,
-            "total": 13
-          },
-          "proximo": {
-            "texto": "2x04 - Thanksgiving Part Two / Ação de Graças (2)",
-            "codigo": "2x04",
-            "titulo_en": "Thanksgiving Part Two",
-            "titulo_pt": "Ação de Graças (2)",
-            "rotulo": "hoje",
-            "duracao": "duração não divulgada"
-          },
-          "transmissao": "Hulu (EUA), hoje",
-          "brasil": "Disney+, hoje às 2h (Rolling Stone Brasil)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x05 sai na quarta-feira, 18 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x05 sai na quarta-feira, 18 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
-        },
         {
           "nome": "O Senhor dos Anéis: Os Anéis de Poder",
           "nome_original": "The Lord of the Rings: The Rings of Power",
