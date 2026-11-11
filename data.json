@@ -1,35 +1,98 @@
 {
-  "titulo": "📺 Séries — terça-feira, 10 de novembro de 2026",
-  "atualizado_em": "2026-11-10T22:48-03:00",
+  "titulo": "📺 Séries — quarta-feira, 11 de novembro de 2026",
+  "atualizado_em": "2026-11-11T05:34-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "VisionQuest",
-          "nome_original": null,
-          "episodios": "1x08",
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "episodios": "2x04",
           "progresso": {
-            "texto": "8/8",
-            "vistos": 8,
-            "total": 8
+            "texto": "13/17",
+            "vistos": 13,
+            "total": 17
           },
-          "titulo_pt_nota": "\"Para Sempre\" (\"Forever\")",
-          "transmissao": "Disney+ (EUA), hoje às 18h PT (23h de Brasília)",
-          "brasil": "Mesmo dia: Disney+, hoje às 23h",
+          "titulo_pt_nota": "\"Ação de Graças (2)\" (\"Thanksgiving Part Two\")",
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Mesmo dia: Disney+, hoje às 2h (Rolling Stone Brasil)",
           "notas": [
-            "Episódio final da temporada (8/8), que encerra a trilogia iniciada em WandaVision (Guia Disney+ Brasil, Telaverso). Nome em português ainda não divulgado (tradução própria)"
+            "Semanal às quartas; o 2x05 sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria; o TVmaze grafa \"Thanksgiving Party Two\"). Não é final de temporada nem de série"
           ],
           "duracao": "duração não divulgada",
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "notas:Episódio final da temporada (8/8), que encerra a trilogia iniciada em WandaVision (Guia Disney+ Brasil, Telaverso). Nome em português ainda não divulgado (tradução própria)"
+            "brasil",
+            "duracao",
+            "notas:Semanal às quartas; o 2x05 sai na quarta-feira, 18 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria; o TVmaze grafa \"Thanksgiving Party Two\"). Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
+          "novo_ate": "2026-11-12T05:34-03:00"
+        },
+        {
+          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+          "nome_original": "The Lord of the Rings: The Rings of Power",
+          "episodios": "3x01 a 3x04",
+          "progresso": {
+            "texto": "20/24",
+            "vistos": 20,
+            "total": 24
+          },
+          "titulo_pt_nota": "\"Marnûkh\", \"O Dom dos Homens\", \"O Fogo Secreto\" e \"Gundabad\" (\"Marnûkh\", \"The Gift of Men\", \"The Secret Fire\" e \"Gundabad\")",
+          "transmissao": "Prime Video, hoje às 5h de Brasília",
+          "brasil": "Mesmo dia: Prime Video, hoje às 5h (Rolling Stone Brasil, O Vício)",
+          "notas": [
+            "A 3ª temporada tem 8 episódios: 1 a 4 hoje, 5 e 6 na quarta-feira, 18 de novembro de 2026, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (O Vício, TechTudo, Exame). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "74 min + 69 min + 58 min + 57 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:A 3ª temporada tem 8 episódios: 1 a 4 hoje, 5 e 6 na quarta-feira, 18 de novembro de 2026, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (O Vício, TechTudo, Exame). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
+        },
+        {
+          "nome": "Scrubs",
+          "nome_original": null,
+          "episodios": "2x08",
+          "progresso": {
+            "texto": "8/10",
+            "vistos": 8,
+            "total": 10
+          },
+          "outras_linhas": [
+            "🧊 Está na sua Geladeira"
+          ],
+          "titulo_pt_nota": "\"Minha Emergência\" (\"My Emergency\")",
+          "transmissao": "ABC (EUA), hoje às 22h",
+          "brasil": "+1 dia: Disney+, quinta-feira, 12 de novembro de 2026 (horário não divulgado; Guia Disney+ Brasil)",
+          "notas": [
+            "No Banco de Séries aparece como 11x08. Depois de uma pausa, o 2x09 sai na ABC na quarta-feira, 2 de dezembro de 2026, e o final da temporada (2x10, \"Minha Vida Maravilhosa\") na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "30 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:No Banco de Séries aparece como 11x08. Depois de uma pausa, o 2x09 sai na ABC na quarta-feira, 2 de dezembro de 2026, e o final da temporada (2x10, \"Minha Vida Maravilhosa\") na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
         }
       ]
     },
@@ -49,11 +112,17 @@
         {
           "selo": "",
           "data": "12/11",
-          "dia_semana": "qua",
+          "dia_semana": "qui",
           "nome": "Dragon Ball Super: Beerus",
           "temporada": "dublagem PT",
           "info": "Crunchyroll (eps semanais)",
-          "texto": "12/11 (qua) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)"
+          "texto": "12/11 (qui) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)",
+          "campos_novos": [
+            "dia_semana",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
         },
         {
           "selo": "",
@@ -168,14 +237,14 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai hoje, terça-feira, 10 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026, e o 3x07 (\"Medidas Heroicas\") sai hoje, terça-feira, 10 de novembro de 2026, às 23h",
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h, e o 3x08 (\"Operação\") sai na terça-feira, 17 de novembro de 2026, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h, e o 3x08 (\"Operação\") sai na terça-feira, 17 de novembro de 2026, às 23h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-11T05:38-03:00"
+            "novo_ate": "2026-11-12T05:34-03:00"
           },
           {
             "nome": "Fire Country",
@@ -457,7 +526,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chega na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA hoje, terça-feira, 10 de novembro de 2026, à 0h (NBC)",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chega na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
           ],
@@ -465,7 +534,7 @@
             "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
+          "novo_ate": "2026-11-12T05:34-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -505,13 +574,13 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA ontem, segunda-feira, 9 de novembro de 2026, às 22h"
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h"
           ],
           "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA ontem, segunda-feira, 9 de novembro de 2026, às 22h"
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h"
           ],
           "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
+          "novo_ate": "2026-11-12T05:34-03:00"
         }
       ]
     },
@@ -540,13 +609,7 @@
           "notas": [
             "🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado"
           ]
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
+        },
         {
           "nome": "VisionQuest",
           "nome_original": null,
@@ -561,22 +624,125 @@
             "codigo": "1x08",
             "titulo_en": "Forever",
             "titulo_pt": "Para Sempre",
-            "rotulo": "hoje",
-            "duracao": "duração não divulgada",
-            "lancamento": "2026-11-10T23:00-03:00"
+            "rotulo": "próximo",
+            "duracao": "69 min"
           },
-          "transmissao": "Disney+ (EUA), às 18h PT (23h de Brasília)",
-          "brasil": "Disney+, hoje às 23h",
+          "brasil": "Disney+ (1x08 no ar desde terça-feira, 10 de novembro de 2026, às 23h)",
           "notas": [
-            "Episódio final da temporada (8/8). Nome em português ainda não divulgado (tradução própria)"
+            "Episódio final da temporada (8/8), que encerra a trilogia iniciada em WandaVision. Nome em português ainda não divulgado (tradução própria)"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
-            "notas:Episódio final da temporada (8/8). Nome em português ainda não divulgado (tradução própria)"
+            "brasil",
+            "notas:Episódio final da temporada (8/8), que encerra a trilogia iniciada em WandaVision. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-11T05:38-03:00"
+          "novo_ate": "2026-11-12T05:34-03:00"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "status": "🟢",
+          "progresso": {
+            "texto": "12/13",
+            "vistos": 12,
+            "total": 13
+          },
+          "proximo": {
+            "texto": "2x04 - Thanksgiving Part Two / Ação de Graças (2)",
+            "codigo": "2x04",
+            "titulo_en": "Thanksgiving Part Two",
+            "titulo_pt": "Ação de Graças (2)",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada"
+          },
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Disney+, hoje às 2h (Rolling Stone Brasil)",
+          "notas": [
+            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x05 sai na quarta-feira, 18 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x05 sai na quarta-feira, 18 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
+        },
+        {
+          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+          "nome_original": "The Lord of the Rings: The Rings of Power",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/20",
+            "vistos": 16,
+            "total": 20
+          },
+          "proximo": {
+            "texto": "3x01 - Marnûkh / Marnûkh",
+            "codigo": "3x01",
+            "titulo_en": "Marnûkh",
+            "titulo_pt": "Marnûkh",
+            "rotulo": "hoje",
+            "duracao": "74 min"
+          },
+          "transmissao": "Prime Video, às 5h de Brasília (3x01 a 3x04 de uma vez)",
+          "brasil": "Prime Video, hoje às 5h",
+          "notas": [
+            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
+        },
+        {
+          "nome": "Scrubs",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "7/8",
+            "vistos": 7,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "2x08 - My Emergency / Minha Emergência",
+            "codigo": "2x08",
+            "titulo_en": "My Emergency",
+            "titulo_pt": "Minha Emergência",
+            "rotulo": "hoje",
+            "duracao": "30 min",
+            "lancamento": "2026-11-11T22:00-03:00"
+          },
+          "transmissao": "ABC (EUA), às 22h",
+          "brasil": "Disney+, quinta-feira, 12 de novembro de 2026",
+          "notas": [
+            "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x08. Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x08. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-12T05:34-03:00"
         }
       ]
     },
