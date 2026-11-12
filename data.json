@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 12 de novembro de 2026",
-  "atualizado_em": "2026-11-12T09:37-03:00",
+  "atualizado_em": "2026-11-12T13:16-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -28,34 +28,6 @@
             "titulo_pt_nota",
             "duracao",
             "notas:Semanal às quintas; o 1x21 sai na quinta-feira, 19 de novembro de 2026. Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
-        },
-        {
-          "nome": "Line of Fire",
-          "nome_original": null,
-          "episodios": "1x02",
-          "progresso": {
-            "texto": "2/18",
-            "vistos": 2,
-            "total": 18
-          },
-          "titulo_pt_nota": "\"Uma Visão Mais Ampla\" (\"A Bigger Picture\")",
-          "transmissao": "NBC (EUA), segunda-feira, 28 de setembro de 2026",
-          "brasil": "HBO Max, hoje (horário não divulgado; Oficina da Net, Jornal Top Dez)",
-          "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h (NBC). Nome do 1x02 em português não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "60 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h (NBC). Nome do 1x02 em português não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
           "novo_ate": "2026-11-13T05:35-03:00"
@@ -474,22 +446,29 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "1/7",
-            "vistos": 1,
+            "texto": "2/7",
+            "vistos": 2,
             "total": 7
           },
           "proximo": {
-            "texto": "1x02 - A Bigger Picture / Uma Visão Mais Ampla",
-            "codigo": "1x02",
-            "titulo_en": "A Bigger Picture",
-            "titulo_pt": "Uma Visão Mais Ampla",
+            "texto": "1x03 - There Are Two Wolves",
+            "codigo": "1x03",
+            "titulo_en": "There Are Two Wolves",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chega na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
-          ]
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-13T13:16-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
