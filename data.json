@@ -1,40 +1,64 @@
 {
-  "titulo": "📺 Séries — quarta-feira, 11 de novembro de 2026",
-  "atualizado_em": "2026-11-11T23:28-03:00",
+  "titulo": "📺 Séries — quinta-feira, 12 de novembro de 2026",
+  "atualizado_em": "2026-11-12T05:35-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
-          "nome_original": "The Lord of the Rings: The Rings of Power",
-          "episodios": "3x01 a 3x04",
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "episodios": "1x20",
           "progresso": {
-            "texto": "20/24",
+            "texto": "20/26",
             "vistos": 20,
-            "total": 24
+            "total": 26
           },
-          "titulo_pt_nota": "\"Marnûkh\", \"O Dom dos Homens\", \"O Fogo Secreto\" e \"Gundabad\" (\"Marnûkh\", \"The Gift of Men\", \"The Secret Fire\" e \"Gundabad\")",
-          "transmissao": "Prime Video, hoje às 5h de Brasília",
-          "brasil": "Mesmo dia: Prime Video, hoje às 5h (Rolling Stone Brasil, O Vício)",
+          "titulo_pt_nota": "\"Episódio 20\" (\"Episode 20\")",
+          "transmissao": "MBS (Japão), hoje às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
           "notas": [
-            "A 3ª temporada tem 8 episódios: 1 a 4 hoje, 5 e 6 na quarta-feira, 18 de novembro de 2026, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (O Vício, TechTudo, Exame). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+            "Semanal às quintas; o 1x21 sai na quinta-feira, 19 de novembro de 2026. Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
-          "duracao": "74 min + 69 min + 58 min + 57 min",
+          "duracao": "30 min",
           "campos_novos": [
-            "nome",
-            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "duracao",
+            "notas:Semanal às quintas; o 1x21 sai na quinta-feira, 19 de novembro de 2026. Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-13T05:35-03:00"
+        },
+        {
+          "nome": "Line of Fire",
+          "nome_original": null,
+          "episodios": "1x02",
+          "progresso": {
+            "texto": "2/18",
+            "vistos": 2,
+            "total": 18
+          },
+          "titulo_pt_nota": "\"Uma Visão Mais Ampla\" (\"A Bigger Picture\")",
+          "transmissao": "NBC (EUA), segunda-feira, 28 de setembro de 2026",
+          "brasil": "HBO Max, hoje (horário não divulgado; Oficina da Net, Jornal Top Dez)",
+          "notas": [
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h (NBC). Nome do 1x02 em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "60 min",
+          "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
             "transmissao",
             "brasil",
             "duracao",
-            "notas:A 3ª temporada tem 8 episódios: 1 a 4 hoje, 5 e 6 na quarta-feira, 18 de novembro de 2026, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (O Vício, TechTudo, Exame). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h (NBC). Nome do 1x02 em português não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          "novo_ate": "2026-11-13T05:35-03:00"
         },
         {
           "nome": "Scrubs",
@@ -49,23 +73,18 @@
             "🧊 Está na sua Geladeira"
           ],
           "titulo_pt_nota": "\"Minha Emergência\" (\"My Emergency\")",
-          "transmissao": "ABC (EUA), hoje às 22h",
-          "brasil": "+1 dia: Disney+, quinta-feira, 12 de novembro de 2026 (horário não divulgado; Guia Disney+ Brasil)",
+          "transmissao": "ABC (EUA), quarta-feira, 11 de novembro de 2026, às 22h",
+          "brasil": "+1 dia: Disney+, hoje (horário não divulgado; Guia Disney+ Brasil)",
           "notas": [
             "No Banco de Séries aparece como 11x08. Depois de uma pausa, o 2x09 sai na ABC na quarta-feira, 2 de dezembro de 2026, e o final da temporada (2x10, \"Minha Vida Maravilhosa\") na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "duracao": "30 min",
           "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
             "transmissao",
-            "brasil",
-            "duracao",
-            "notas:No Banco de Séries aparece como 11x08. Depois de uma pausa, o 2x09 sai na ABC na quarta-feira, 2 de dezembro de 2026, e o final da temporada (2x10, \"Minha Vida Maravilhosa\") na quarta-feira, 9 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          "novo_ate": "2026-11-13T05:35-03:00"
         }
       ]
     },
@@ -89,13 +108,7 @@
           "nome": "Dragon Ball Super: Beerus",
           "temporada": "dublagem PT",
           "info": "Crunchyroll (eps semanais)",
-          "texto": "12/11 (qui) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)",
-          "campos_novos": [
-            "dia_semana",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          "texto": "12/11 (qui) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)"
         },
         {
           "selo": "",
@@ -175,13 +188,25 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai na quinta-feira, 12 de novembro de 2026, às 22h"
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai hoje, quinta-feira, 12 de novembro de 2026, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai hoje, quinta-feira, 12 de novembro de 2026, às 22h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-13T05:35-03:00"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai na quinta-feira, 12 de novembro de 2026, às 23h"
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai hoje, quinta-feira, 12 de novembro de 2026, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai hoje, quinta-feira, 12 de novembro de 2026, às 23h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-13T05:35-03:00"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -211,13 +236,7 @@
           {
             "nome": "Doc",
             "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h, e o 3x08 (\"Operação\") sai na terça-feira, 17 de novembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h, e o 3x08 (\"Operação\") sai na terça-feira, 17 de novembro de 2026, às 23h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-12T05:34-03:00"
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h, e o 3x08 (\"Operação\") sai na terça-feira, 17 de novembro de 2026, às 23h"
           },
           {
             "nome": "Fire Country",
@@ -256,9 +275,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "64/146",
+            "texto": "64/147",
             "vistos": 64,
-            "total": 146
+            "total": 147
           },
           "proximo": {
             "texto": "5x05 - Peer Pressure / Pressão do Grupo",
@@ -268,16 +287,21 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-13T05:35-03:00"
         },
         {
           "nome": "9-1-1: Nashville",
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/22",
+            "texto": "0/23",
             "vistos": 0,
-            "total": 22
+            "total": 23
           },
           "proximo": {
             "texto": "1x01 - Pilot / Piloto",
@@ -287,7 +311,12 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-13T05:35-03:00"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -401,53 +430,31 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "455/470",
+            "texto": "455/471",
             "vistos": 455,
-            "total": 470
+            "total": 471
           },
           "proximo": {
-            "texto": "22x08 - Heavy on Me / Pesa muito em mim",
+            "texto": "22x08 - Heavy on Me / Pesado Para Mim",
             "codigo": "22x08",
             "titulo_en": "Heavy on Me",
-            "titulo_pt": "Pesa muito em mim",
+            "titulo_pt": "Pesado Para Mim",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
-            "22x07 \"Skyfall\" (\"Chuva torrencial\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série. Nome do 22x07 em português segundo o Bingebase.",
-            "Nome do 22x08 em português segundo o Bingebase (\"Pesa muito em mim\")."
+            "22x07 \"Skyfall\" (\"Queda do Céu\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers e Bingebase. Não é final de temporada nem de série.",
+            "Nome do 22x08 em português não divulgado no Banco (tradução própria)."
           ],
           "campos_novos": [
             "progresso",
             "proximo",
-            "notas:22x07 \"Skyfall\" (\"Chuva torrencial\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série. Nome do 22x07 em português segundo o Bingebase.",
-            "notas:Nome do 22x08 em português segundo o Bingebase (\"Pesa muito em mim\")."
+            "notas:22x07 \"Skyfall\" (\"Queda do Céu\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers e Bingebase. Não é final de temporada nem de série.",
+            "notas:Nome do 22x08 em português não divulgado no Banco (tradução própria)."
           ],
           "novo": true,
-          "novo_ate": "2026-11-12T23:28-03:00"
-        },
-        {
-          "nome": "IT: Bem-Vindos a Derry",
-          "nome_original": "IT: Welcome to Derry",
-          "status": "🟢",
-          "progresso": {
-            "texto": "8/9",
-            "vistos": 8,
-            "total": 9
-          },
-          "proximo": {
-            "texto": "1xSP - A Story of Derry / Uma História de Derry",
-            "codigo": "1xSP",
-            "titulo_en": "A Story of Derry",
-            "titulo_pt": "Uma História de Derry",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "HBO Max (especial com página própria, \"Uma História de Derry\", lançado de surpresa no sábado, 31 de outubro de 2026; T1 completa, 8 episódios)",
-          "notas": [
-            "Episódio especial de ficção (cerca de 30 minutos) que volta séculos no tempo, antes de Pennywise; entrou hoje na contagem do Banco de Séries (8/8 → 8/9). Título em português da página da HBO Max Brasil (via Telaverso, 31/10). 2ª temporada renovada, sem data"
-          ]
+          "novo_ate": "2026-11-13T05:35-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -491,12 +498,7 @@
           "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chega na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x02 em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          ]
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -537,12 +539,7 @@
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
             "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h"
-          ],
-          "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          ]
         }
       ]
     },
@@ -571,13 +568,7 @@
           "notas": [
             "🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado"
           ]
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
+        },
         {
           "nome": "O Senhor dos Anéis: Os Anéis de Poder",
           "nome_original": "The Lord of the Rings: The Rings of Power",
@@ -592,11 +583,10 @@
             "codigo": "3x01",
             "titulo_en": "Marnûkh",
             "titulo_pt": "Marnûkh",
-            "rotulo": "hoje",
+            "rotulo": "próximo",
             "duracao": "74 min"
           },
-          "transmissao": "Prime Video, às 5h de Brasília (3x01 a 3x04 de uma vez)",
-          "brasil": "Prime Video, hoje às 5h",
+          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h)",
           "notas": [
             "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
@@ -606,12 +596,11 @@
             "status",
             "progresso",
             "proximo",
-            "transmissao",
             "brasil",
             "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          "novo_ate": "2026-11-13T05:35-03:00"
         },
         {
           "nome": "Scrubs",
@@ -627,12 +616,10 @@
             "codigo": "2x08",
             "titulo_en": "My Emergency",
             "titulo_pt": "Minha Emergência",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-11T22:00-03:00"
+            "rotulo": "próximo",
+            "duracao": "30 min"
           },
-          "transmissao": "ABC (EUA), às 22h",
-          "brasil": "Disney+, quinta-feira, 12 de novembro de 2026",
+          "brasil": "Disney+ (2x08 hoje, horário não divulgado; na ABC saiu na quarta-feira, 11 de novembro de 2026, às 22h)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x08. Não é final de temporada nem de série"
           ],
@@ -643,7 +630,44 @@
             "notas:Nome em português ainda não divulgado (tradução própria). No Banco de Séries aparece como 11x08. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-12T05:34-03:00"
+          "novo_ate": "2026-11-13T05:35-03:00"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "19/20",
+            "vistos": 19,
+            "total": 20
+          },
+          "proximo": {
+            "texto": "1x20 - Episode 20 / Episódio 20",
+            "codigo": "1x20",
+            "titulo_en": "Episode 20",
+            "titulo_pt": "Episódio 20",
+            "rotulo": "hoje",
+            "duracao": "30 min",
+            "lancamento": "2026-11-12T12:26-03:00"
+          },
+          "transmissao": "MBS (Japão), às 12h26",
+          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "notas": [
+            "Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na quinta-feira, 19 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na quinta-feira, 19 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-13T05:35-03:00"
         }
       ]
     },
