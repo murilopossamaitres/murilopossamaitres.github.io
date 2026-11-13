@@ -1,10 +1,149 @@
 {
-  "titulo": "📺 Séries — quinta-feira, 12 de novembro de 2026",
+  "titulo": "📺 Séries — sexta-feira, 13 de novembro de 2026",
+  "atualizado_em": "2026-11-13T05:43-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": []
+      "itens": [
+        {
+          "nome": "12 12 12",
+          "nome_original": null,
+          "episodios": "1x01 e 1x02",
+          "progresso": {
+            "texto": "0/2",
+            "vistos": 0,
+            "total": 2
+          },
+          "titulo_pt_nota": "\"Estou Roubando a Casa na Véspera de Natal Enquanto a Família Está na Missa\" (\"I'm Robbing the House on Christmas Eve While the Family's at Mass\") e \"Quero Minha Auréola de Volta\" (\"I Want My Halo Back\")",
+          "transmissao": "Apple TV, hoje (estreia global, 2 episódios; depois 1 por semana às sextas até 25/12)",
+          "brasil": "Apple TV, hoje (no ar desde quinta-feira, 12 de novembro de 2026, às 23h, segundo o Portal Apple TV)",
+          "notas": [
+            "Título oficial no Brasil: \"12 12 12\". 8 episódios; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Nomes em português dos episódios ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "59 min + 52 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Título oficial no Brasil: \"12 12 12\". 8 episódios; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Nomes em português dos episódios ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Awkwafina - A Cozinheira Improvável",
+          "nome_original": null,
+          "episodios": "1x03",
+          "progresso": {
+            "texto": "3/8",
+            "vistos": 3,
+            "total": 8
+          },
+          "titulo_pt_nota": "\"Pato de Pequim Estrelado pelo Michelin\" (\"Michelin-Starred Peking Duck\")",
+          "transmissao": "Apple TV, hoje (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x04 (\"Tiki no Havaí\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "31 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Semanal às sextas; o 1x04 (\"Tiki no Havaí\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Delegado",
+          "nome_original": null,
+          "episodios": "1x03",
+          "progresso": {
+            "texto": "3/7",
+            "vistos": 3,
+            "total": 7
+          },
+          "titulo_pt_nota": "\"Caneta e Arma\"",
+          "transmissao": "Canal Brasil, hoje às 22h",
+          "brasil": "+1 dia: Globoplay (plano Premium), amanhã, sábado, 14 de novembro de 2026",
+          "notas": [
+            "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "duracao": "duração não divulgada",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x09",
+          "progresso": {
+            "texto": "9/10",
+            "vistos": 9,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"Colapso Nervoso\" (\"Nervous Breakdown\")",
+          "transmissao": "Paramount+, hoje (horário não divulgado)",
+          "brasil": "Paramount+",
+          "notas": [
+            "Penúltimo episódio da temporada; o final da temporada (2x10, \"A Rainha Está Morta\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "47 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "duracao",
+            "notas:Penúltimo episódio da temporada; o final da temporada (2x10, \"A Rainha Está Morta\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Noturno",
+          "nome_original": "Nocturne",
+          "episodios": "1x04",
+          "progresso": {
+            "texto": "4/10",
+            "vistos": 4,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"O Mensageiro\" (\"The Courier\")",
+          "transmissao": "Apple TV, hoje (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "46 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "duracao",
+            "notas:Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        }
+      ]
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -74,6 +213,26 @@
           "texto": "27/02/2027 (sáb) - A Série Pokémon: Horizontes - T4 - Netflix, Parte 1 (\"Maravilhas à Vista\"; número de episódios não divulgado)"
         },
         {
+          "selo": "🆕",
+          "data": "21/05/2027",
+          "dia_semana": "sex",
+          "nome": "Avatar: Os Sete Refúgios",
+          "temporada": "T2",
+          "info": "Paramount+, 13 episódios (\"Livro 2: Descoberta\"; 3 na estreia, mais 3 em 28/05, 3 em 04/06 e os 4 últimos em 11/06)",
+          "texto": "🆕 21/05/2027 (sex) - Avatar: Os Sete Refúgios - T2 - Paramount+, 13 episódios (\"Livro 2: Descoberta\"; 3 na estreia, mais 3 em 28/05, 3 em 04/06 e os 4 últimos em 11/06)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
           "selo": "🧊",
           "data": "09/07/2027",
           "dia_semana": "sex",
@@ -88,25 +247,25 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai hoje, quinta-feira, 12 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x04 (\"Síndrome do Impostor\") saiu na quinta-feira, 5 de novembro de 2026, às 22h, e o 10x05 (\"Quem É o Seu Pai?\") sai hoje, quinta-feira, 12 de novembro de 2026, às 22h",
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai na quinta-feira, 19 de novembro de 2026, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai na quinta-feira, 19 de novembro de 2026, às 22h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-13T05:35-03:00"
+            "novo_ate": "2026-11-14T05:43-03:00"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai hoje, quinta-feira, 12 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x04 (\"A Sangue Frio\") saiu na quinta-feira, 5 de novembro de 2026, às 23h, e o 2x05 (\"Campainha e Fuga\") sai hoje, quinta-feira, 12 de novembro de 2026, às 23h",
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai na quinta-feira, 19 de novembro de 2026, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai na quinta-feira, 19 de novembro de 2026, às 23h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-13T05:35-03:00"
+            "novo_ate": "2026-11-14T05:43-03:00"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -140,13 +299,25 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) saiu na sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") sai na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x05 (\"Sem Saída\", crossover com Sheriff Country) saiu na sexta-feira, 6 de novembro de 2026, às 23h, e o 5x06 (\"Igreja e Estado\") sai na sexta-feira, 13 de novembro de 2026, às 23h; sem data no Paramount+ Brasil"
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") sai hoje, sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") sai hoje, sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-14T05:43-03:00"
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x04 (\"Amor na Cabeça\") saiu na sexta-feira, 6 de novembro de 2026, à 0h, e o 23x05 (\"Mais Forte (O Que Não Mata)\") sai na sexta-feira, 13 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu hoje, sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu hoje, sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-14T05:43-03:00"
           },
           {
             "nome": "Only Murders in the Building",
@@ -187,12 +358,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
         },
         {
           "nome": "9-1-1: Nashville",
@@ -211,12 +377,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -386,33 +547,34 @@
             "total": 7
           },
           "proximo": {
-            "texto": "1x03 - There Are Two Wolves",
+            "texto": "1x03 - There Are Two Wolves / Existem Dois Lobos",
             "codigo": "1x03",
             "titulo_en": "There Are Two Wolves",
+            "titulo_pt": "Existem Dois Lobos",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado"
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
             "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado"
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-13T13:16-03:00"
+          "novo_ate": "2026-11-14T05:43-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
           "nome_original": "Pokémon Horizons: The Series",
           "status": "🔴",
           "progresso": {
-            "texto": "0/156",
+            "texto": "0/157",
             "vistos": 0,
-            "total": 156
+            "total": 157
           },
           "proximo": {
             "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
@@ -422,7 +584,12 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
         },
         {
           "nome": "St. Denis Medical",
@@ -494,6 +661,35 @@
           "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h)",
           "notas": [
             "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+          ]
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "12 12 12",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/2",
+            "vistos": 0,
+            "total": 2
+          },
+          "proximo": {
+            "texto": "1x01 - I'm Robbing the House on Christmas Eve While the Family's at Mass / Estou Roubando a Casa na Véspera de Natal Enquanto a Família Está na Missa",
+            "codigo": "1x01",
+            "titulo_en": "I'm Robbing the House on Christmas Eve While the Family's at Mass",
+            "titulo_pt": "Estou Roubando a Casa na Véspera de Natal Enquanto a Família Está na Missa",
+            "rotulo": "hoje",
+            "duracao": "59 min"
+          },
+          "transmissao": "Apple TV (1x01 e 1x02 na estreia)",
+          "brasil": "Apple TV, hoje",
+          "notas": [
+            "Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
           ],
           "campos_novos": [
             "nome",
@@ -501,18 +697,138 @@
             "status",
             "progresso",
             "proximo",
+            "transmissao",
             "brasil",
-            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+            "notas:Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
           ],
           "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Awkwafina - A Cozinheira Improvável",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/3",
+            "vistos": 2,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x03 - Michelin-Starred Peking Duck / Pato de Pequim Estrelado pelo Michelin",
+            "codigo": "1x03",
+            "titulo_en": "Michelin-Starred Peking Duck",
+            "titulo_pt": "Pato de Pequim Estrelado pelo Michelin",
+            "rotulo": "hoje",
+            "duracao": "31 min"
+          },
+          "transmissao": "Apple TV (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x04 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:Semanal às sextas; o 1x04 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Delegado",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/3",
+            "vistos": 2,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x03 - Caneta e Arma / Caneta e Arma",
+            "codigo": "1x03",
+            "titulo_en": "Caneta e Arma",
+            "titulo_pt": "Caneta e Arma",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada",
+            "lancamento": "2026-11-13T22:00-03:00"
+          },
+          "transmissao": "Canal Brasil, às 22h",
+          "brasil": "+1 dia: Globoplay (plano Premium), amanhã",
+          "notas": [
+            "O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "status": "🟢",
+          "progresso": {
+            "texto": "18/19",
+            "vistos": 18,
+            "total": 19
+          },
+          "proximo": {
+            "texto": "2x09 - Nervous Breakdown / Colapso Nervoso",
+            "codigo": "2x09",
+            "titulo_en": "Nervous Breakdown",
+            "titulo_pt": "Colapso Nervoso",
+            "rotulo": "hoje",
+            "duracao": "47 min"
+          },
+          "transmissao": "Paramount+ (horário não divulgado)",
+          "brasil": "Paramount+",
+          "notas": [
+            "Penúltimo episódio da temporada; o final (2x10) sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Penúltimo episódio da temporada; o final (2x10) sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
+        },
+        {
+          "nome": "Noturno",
+          "nome_original": "Nocturne",
+          "status": "🟢",
+          "progresso": {
+            "texto": "3/4",
+            "vistos": 3,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x04 - The Courier / O Mensageiro",
+            "codigo": "1x04",
+            "titulo_en": "The Courier",
+            "titulo_pt": "O Mensageiro",
+            "rotulo": "hoje",
+            "duracao": "46 min"
+          },
+          "transmissao": "Apple TV (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x05 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Semanal às sextas; o 1x05 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T05:43-03:00"
         }
       ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1110,6 +1426,5 @@
         }
       ]
     }
-  },
-  "atualizado_em": "2026-11-13T00:17-03:00"
+  }
 }
