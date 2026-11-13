@@ -1,38 +1,11 @@
 {
   "titulo": "📺 Séries — quinta-feira, 12 de novembro de 2026",
-  "atualizado_em": "2026-11-12T19:02-03:00",
+  "atualizado_em": "2026-11-12T22:38-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x20",
-          "progresso": {
-            "texto": "20/26",
-            "vistos": 20,
-            "total": 26
-          },
-          "titulo_pt_nota": "\"Episódio 20\" (\"Episode 20\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
-          "notas": [
-            "Semanal às quintas; o 1x21 sai na quinta-feira, 19 de novembro de 2026. Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "duracao",
-            "notas:Semanal às quintas; o 1x21 sai na quinta-feira, 19 de novembro de 2026. Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -551,39 +524,7 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": [
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "19/20",
-            "vistos": 19,
-            "total": 20
-          },
-          "proximo": {
-            "texto": "1x20 - Episode 20 / Episódio 20",
-            "codigo": "1x20",
-            "titulo_en": "Episode 20",
-            "titulo_pt": "Episódio 20",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-12T12:26-03:00"
-          },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
-          "notas": [
-            "Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na quinta-feira, 19 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:Nome do episódio ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na quinta-feira, 19 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
-        }
-      ]
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
