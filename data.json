@@ -1,6 +1,5 @@
 {
   "titulo": "📺 Séries — quinta-feira, 12 de novembro de 2026",
-  "atualizado_em": "2026-11-12T22:38-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -340,31 +339,29 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "455/471",
-            "vistos": 455,
+            "texto": "456/471",
+            "vistos": 456,
             "total": 471
           },
           "proximo": {
-            "texto": "22x08 - Heavy on Me / Pesado Para Mim",
-            "codigo": "22x08",
-            "titulo_en": "Heavy on Me",
-            "titulo_pt": "Pesado Para Mim",
+            "texto": "22x09 - Fortunate Son / Filho da sorte",
+            "codigo": "22x09",
+            "titulo_en": "Fortunate Son",
+            "titulo_pt": "Filho da sorte",
             "rotulo": "próximo",
             "duracao": "60 min"
           },
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
-            "22x07 \"Skyfall\" (\"Queda do Céu\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers e Bingebase. Não é final de temporada nem de série.",
-            "Nome do 22x08 em português não divulgado no Banco (tradução própria)."
+            "22x08 \"Heavy on Me\" (\"Pesa muito em mim\") visto em 12/11/2026 no Banco de Séries (serieid 5577; nota 8,5, média 8,25), Bingers (nota 4,5) e Bingebase (nota 9, média 8,7). Não é final de temporada nem de série."
           ],
           "campos_novos": [
             "progresso",
             "proximo",
-            "notas:22x07 \"Skyfall\" (\"Queda do Céu\") visto em 11/11/2026 no Banco de Séries (serieid 5577; nota 8,5), Bingers e Bingebase. Não é final de temporada nem de série.",
-            "notas:Nome do 22x08 em português não divulgado no Banco (tradução própria)."
+            "notas:22x08 \"Heavy on Me\" (\"Pesa muito em mim\") visto em 12/11/2026 no Banco de Séries (serieid 5577; nota 8,5, média 8,25), Bingers (nota 4,5) e Bingebase (nota 9, média 8,7). Não é final de temporada nem de série."
           ],
           "novo": true,
-          "novo_ate": "2026-11-13T05:35-03:00"
+          "novo_ate": "2026-11-13T23:25-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -1122,5 +1119,6 @@
         }
       ]
     }
-  }
+  },
+  "atualizado_em": "2026-11-12T23:25-03:00"
 }
