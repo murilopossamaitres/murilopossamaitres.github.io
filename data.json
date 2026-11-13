@@ -12,15 +12,6 @@
       "itens": [
         {
           "selo": "",
-          "data": "12/11",
-          "dia_semana": "qui",
-          "nome": "Dragon Ball Super: Beerus",
-          "temporada": "dublagem PT",
-          "info": "Crunchyroll (eps semanais)",
-          "texto": "12/11 (qui) - Dragon Ball Super: Beerus - dublagem PT - Crunchyroll (eps semanais)"
-        },
-        {
-          "selo": "",
           "data": "13/11",
           "dia_semana": "sex",
           "nome": "12 12 12",
@@ -1120,5 +1111,5 @@
       ]
     }
   },
-  "atualizado_em": "2026-11-12T23:25-03:00"
+  "atualizado_em": "2026-11-13T00:17-03:00"
 }
