@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 13 de novembro de 2026",
-  "atualizado_em": "2026-11-13T05:43-03:00",
+  "atualizado_em": "2026-11-13T13:26-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -87,32 +87,6 @@
             "transmissao",
             "brasil",
             "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "episodios": "2x09",
-          "progresso": {
-            "texto": "9/10",
-            "vistos": 9,
-            "total": 10
-          },
-          "titulo_pt_nota": "\"Colapso Nervoso\" (\"Nervous Breakdown\")",
-          "transmissao": "Paramount+, hoje (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Penúltimo episódio da temporada; o final da temporada (2x10, \"A Rainha Está Morta\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "47 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "duracao",
-            "notas:Penúltimo episódio da temporada; o final da temporada (2x10, \"A Rainha Está Morta\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
           "novo_ate": "2026-11-14T05:43-03:00"
@@ -559,9 +533,7 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "campos_novos": [
-            "progresso",
             "proximo",
-            "brasil",
             "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "novo": true,
@@ -764,36 +736,6 @@
             "progresso",
             "proximo",
             "notas:O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "18/19",
-            "vistos": 18,
-            "total": 19
-          },
-          "proximo": {
-            "texto": "2x09 - Nervous Breakdown / Colapso Nervoso",
-            "codigo": "2x09",
-            "titulo_en": "Nervous Breakdown",
-            "titulo_pt": "Colapso Nervoso",
-            "rotulo": "hoje",
-            "duracao": "47 min"
-          },
-          "transmissao": "Paramount+ (horário não divulgado)",
-          "brasil": "Paramount+",
-          "notas": [
-            "Penúltimo episódio da temporada; o final (2x10) sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:Penúltimo episódio da temporada; o final (2x10) sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
           "novo_ate": "2026-11-14T05:43-03:00"
