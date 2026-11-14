@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sábado, 14 de novembro de 2026",
-  "atualizado_em": "2026-11-14T05:41-03:00",
+  "atualizado_em": "2026-11-14T14:36-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -23,9 +23,6 @@
           ],
           "duracao": "duração não divulgada",
           "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
             "transmissao",
             "brasil",
             "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026, no Canal Brasil, e no sábado, 21 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
@@ -100,18 +97,7 @@
           "nome": "Avatar: Os Sete Refúgios",
           "temporada": "T2",
           "info": "Paramount+, 13 episódios (\"Livro 2: Descoberta\"; 3 na estreia, mais 3 em 28/05, 3 em 04/06 e os 4 últimos em 11/06)",
-          "texto": "🆕 21/05/2027 (sex) - Avatar: Os Sete Refúgios - T2 - Paramount+, 13 episódios (\"Livro 2: Descoberta\"; 3 na estreia, mais 3 em 28/05, 3 em 04/06 e os 4 últimos em 11/06)",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
+          "texto": "🆕 21/05/2027 (sex) - Avatar: Os Sete Refúgios - T2 - Paramount+, 13 episódios (\"Livro 2: Descoberta\"; 3 na estreia, mais 3 em 28/05, 3 em 04/06 e os 4 últimos em 11/06)"
         },
         {
           "selo": "🧊",
@@ -129,24 +115,12 @@
           {
             "nome": "9-1-1",
             "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai na quinta-feira, 19 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai na quinta-feira, 19 de novembro de 2026, às 22h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-14T05:43-03:00"
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai na quinta-feira, 19 de novembro de 2026, às 22h"
           },
           {
             "nome": "9-1-1: Nashville",
             "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai na quinta-feira, 19 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai na quinta-feira, 19 de novembro de 2026, às 23h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-14T05:43-03:00"
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai na quinta-feira, 19 de novembro de 2026, às 23h"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -431,13 +405,7 @@
           "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
-          ],
-          "campos_novos": [
-            "proximo",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
+          ]
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -456,12 +424,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
         },
         {
           "nome": "St. Denis Medical",
