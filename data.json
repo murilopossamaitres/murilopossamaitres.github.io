@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 13 de novembro de 2026",
-  "atualizado_em": "2026-11-13T13:26-03:00",
+  "atualizado_em": "2026-11-13T21:44-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -32,34 +32,6 @@
             "brasil",
             "duracao",
             "notas:Título oficial no Brasil: \"12 12 12\". 8 episódios; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Nomes em português dos episódios ainda não divulgados (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
-        },
-        {
-          "nome": "Awkwafina - A Cozinheira Improvável",
-          "nome_original": null,
-          "episodios": "1x03",
-          "progresso": {
-            "texto": "3/8",
-            "vistos": 3,
-            "total": 8
-          },
-          "titulo_pt_nota": "\"Pato de Pequim Estrelado pelo Michelin\" (\"Michelin-Starred Peking Duck\")",
-          "transmissao": "Apple TV, hoje (horário não divulgado)",
-          "brasil": "Apple TV",
-          "notas": [
-            "Semanal às sextas; o 1x04 (\"Tiki no Havaí\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "31 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Semanal às sextas; o 1x04 (\"Tiki no Havaí\") sai na sexta-feira, 20 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
           "novo_ate": "2026-11-14T05:43-03:00"
@@ -634,6 +606,38 @@
           "notas": [
             "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ]
+        },
+        {
+          "nome": "Locker Diaries: Coven Academy",
+          "nome_original": null,
+          "status": null,
+          "progresso": {
+            "texto": "4/6",
+            "vistos": 4,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x05",
+            "codigo": "1x05",
+            "rotulo": "próximo"
+          },
+          "brasil": "Sem data no Brasil (os Locker Diaries anteriores chegaram ao Disney+ Brasil meses depois dos EUA)",
+          "notas": [
+            "Spin-off em curtas verticais de Coven Academy (série separada da de 21 episódios). Banco de Séries serieid 47454: 4/6, 1x01 a 1x04 vistos em 13/11/2026.",
+            "Próximos no Banco: 1x05 e 1x06 (ainda não vistos). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada. Sem título oficial em português."
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Spin-off em curtas verticais de Coven Academy (série separada da de 21 episódios). Banco de Séries serieid 47454: 4/6, 1x01 a 1x04 vistos em 13/11/2026.",
+            "notas:Próximos no Banco: 1x05 e 1x06 (ainda não vistos). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada. Sem título oficial em português."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-14T21:44-03:00"
         }
       ]
     },
@@ -672,39 +676,6 @@
             "transmissao",
             "brasil",
             "notas:Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-14T05:43-03:00"
-        },
-        {
-          "nome": "Awkwafina - A Cozinheira Improvável",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "2/3",
-            "vistos": 2,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x03 - Michelin-Starred Peking Duck / Pato de Pequim Estrelado pelo Michelin",
-            "codigo": "1x03",
-            "titulo_en": "Michelin-Starred Peking Duck",
-            "titulo_pt": "Pato de Pequim Estrelado pelo Michelin",
-            "rotulo": "hoje",
-            "duracao": "31 min"
-          },
-          "transmissao": "Apple TV (horário não divulgado)",
-          "brasil": "Apple TV",
-          "notas": [
-            "Semanal às sextas; o 1x04 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:Semanal às sextas; o 1x04 sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
           "novo_ate": "2026-11-14T05:43-03:00"
