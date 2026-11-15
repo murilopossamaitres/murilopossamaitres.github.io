@@ -1,41 +1,11 @@
 {
   "titulo": "📺 Séries — domingo, 15 de novembro de 2026",
-  "atualizado_em": "2026-11-15T05:32-03:00",
+  "atualizado_em": "2026-11-15T14:52-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "episodios": "1x06",
-          "progresso": {
-            "texto": "6/19",
-            "vistos": 6,
-            "total": 19
-          },
-          "titulo_pt_nota": "\"A Batalha dos Deuses\" (\"Battle of Gods\")",
-          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
-          "brasil": "Mesmo dia: Crunchyroll, às 13h (legendado)",
-          "notas": [
-            "Fecha o primeiro arco (6 episódios, saga do Deus da Destruição), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 18 de novembro de 2026), à HBO Max (sexta-feira, 20 de novembro de 2026) e à Netflix (sábado, 21 de novembro de 2026), segundo o Geekdama e o Observatório do Cinema; o 1x07 sai no domingo, 22 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x06 em português não divulgado (tradução própria)"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Fecha o primeiro arco (6 episódios, saga do Deus da Destruição), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 18 de novembro de 2026), à HBO Max (sexta-feira, 20 de novembro de 2026) e à Netflix (sábado, 21 de novembro de 2026), segundo o Geekdama e o Observatório do Cinema; o 1x07 sai no domingo, 22 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x06 em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
-        },
         {
           "nome": "Overgeared",
           "nome_original": null,
@@ -540,18 +510,7 @@
           "brasil": "Apple TV (1x01 e 1x02 no ar desde quinta-feira, 12 de novembro de 2026, às 23h, segundo o Portal Apple TV)",
           "notas": [
             "Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-15T05:41-03:00"
+          ]
         },
         {
           "nome": "Delegado",
@@ -575,10 +534,7 @@
             "O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
           ],
           "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-16T05:32-03:00"
@@ -605,10 +561,7 @@
             "Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-16T05:32-03:00"
@@ -680,14 +633,7 @@
             "Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454: 4/6)",
-            "notas:Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-16T05:32-03:00"
@@ -698,42 +644,6 @@
       "titulo": "Episódio de hoje",
       "emoji": "📅",
       "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "5/6",
-            "vistos": 5,
-            "total": 6
-          },
-          "proximo": {
-            "texto": "1x06 - Battle of Gods / A Batalha dos Deuses",
-            "codigo": "1x06",
-            "titulo_en": "Battle of Gods",
-            "titulo_pt": "A Batalha dos Deuses",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-15T13:00-03:00"
-          },
-          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
-          "brasil": "Crunchyroll, às 13h (legendado)",
-          "notas": [
-            "O Banco de Séries conta 6 episódios por enquanto; a série tem 19. Fecha o primeiro arco, não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "transmissao",
-            "brasil",
-            "notas:O Banco de Séries conta 6 episódios por enquanto; a série tem 19. Fecha o primeiro arco, não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
-        },
         {
           "nome": "O Instituto",
           "nome_original": "The Institute",
