@@ -1,34 +1,100 @@
 {
-  "titulo": "📺 Séries — sábado, 14 de novembro de 2026",
-  "atualizado_em": "2026-11-14T23:02-03:00",
+  "titulo": "📺 Séries — domingo, 15 de novembro de 2026",
+  "atualizado_em": "2026-11-15T05:32-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Delegado",
+          "nome": "Dragon Ball Super: Beerus",
           "nome_original": null,
-          "episodios": "1x03",
+          "episodios": "1x06",
           "progresso": {
-            "texto": "3/7",
-            "vistos": 3,
-            "total": 7
+            "texto": "6/19",
+            "vistos": 6,
+            "total": 19
           },
-          "titulo_pt_nota": "\"Caneta e Arma\"",
-          "transmissao": "Canal Brasil, ontem, sexta-feira, 13 de novembro de 2026, às 22h",
-          "brasil": "+1 dia: Globoplay (plano Premium), hoje (horário não divulgado)",
+          "titulo_pt_nota": "\"A Batalha dos Deuses\" (\"Battle of Gods\")",
+          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
+          "brasil": "Mesmo dia: Crunchyroll, às 13h (legendado)",
           "notas": [
-            "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026, no Canal Brasil, e no sábado, 21 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
+            "Fecha o primeiro arco (6 episódios, saga do Deus da Destruição), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 18 de novembro de 2026), à HBO Max (sexta-feira, 20 de novembro de 2026) e à Netflix (sábado, 21 de novembro de 2026), segundo o Geekdama e o Observatório do Cinema; o 1x07 sai no domingo, 22 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x06 em português não divulgado (tradução própria)"
           ],
-          "duracao": "duração não divulgada",
+          "duracao": "30 min",
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
             "transmissao",
             "brasil",
-            "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026, no Canal Brasil, e no sábado, 21 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
+            "duracao",
+            "notas:Fecha o primeiro arco (6 episódios, saga do Deus da Destruição), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 18 de novembro de 2026), à HBO Max (sexta-feira, 20 de novembro de 2026) e à Netflix (sábado, 21 de novembro de 2026), segundo o Geekdama e o Observatório do Cinema; o 1x07 sai no domingo, 22 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x06 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-15T05:41-03:00"
+          "novo_ate": "2026-11-16T05:32-03:00"
+        },
+        {
+          "nome": "Overgeared",
+          "nome_original": null,
+          "episodios": "1x08",
+          "progresso": {
+            "texto": "8/12",
+            "vistos": 8,
+            "total": 12
+          },
+          "titulo_pt_nota": "\"Episódio 8\" (nome ainda não divulgado)",
+          "transmissao": "Tokyo MX / redes japonesas, hoje (~11h30 de Brasília)",
+          "brasil": "Mesmo dia: Crunchyroll, às 11h30",
+          "notas": [
+            "O Banco de Séries e o Bingers marcam as datas às sextas (1x08 na sexta-feira, 20 de novembro de 2026); o 1x09 sai no domingo, 22 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "duracao": "25 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:O Banco de Séries e o Bingers marcam as datas às sextas (1x08 na sexta-feira, 20 de novembro de 2026); o 1x09 sai no domingo, 22 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-16T05:32-03:00"
+        },
+        {
+          "nome": "O Instituto",
+          "nome_original": "The Institute",
+          "episodios": "2x02",
+          "progresso": {
+            "texto": "2/8",
+            "vistos": 2,
+            "total": 8
+          },
+          "titulo_pt_nota": "\"O Santuário\" (\"The Sanctuary\")",
+          "transmissao": "MGM+ nos EUA, hoje às 23h (21h de Nova York)",
+          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "notas": [
+            "Semanal aos domingos; o 2x03 (\"Double Cross\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\") no domingo, 27 de dezembro de 2026. Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "60 min",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:Semanal aos domingos; o 2x03 (\"Double Cross\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\") no domingo, 27 de dezembro de 2026. Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-16T05:32-03:00"
         }
       ]
     },
@@ -154,25 +220,25 @@
           },
           {
             "nome": "Fire Country",
-            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu ontem, sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu ontem, sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
+            "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu na sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu na sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-15T05:41-03:00"
+            "novo_ate": "2026-11-16T05:32-03:00"
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu ontem, sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu ontem, sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-15T05:41-03:00"
+            "novo_ate": "2026-11-16T05:32-03:00"
           },
           {
             "nome": "Only Murders in the Building",
@@ -504,7 +570,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Canal Brasil desde ontem, sexta-feira, 13 de novembro de 2026, às 22h; Globoplay (plano Premium) hoje",
+          "brasil": "Canal Brasil desde sexta-feira, 13 de novembro de 2026, às 22h; Globoplay (plano Premium) desde ontem, sábado, 14 de novembro de 2026",
           "notas": [
             "O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
           ],
@@ -515,7 +581,7 @@
             "notas:O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-15T05:41-03:00"
+          "novo_ate": "2026-11-16T05:32-03:00"
         },
         {
           "nome": "Noturno",
@@ -534,7 +600,7 @@
             "rotulo": "próximo",
             "duracao": "46 min"
           },
-          "brasil": "Apple TV (desde ontem, sexta-feira, 13 de novembro de 2026)",
+          "brasil": "Apple TV (desde sexta-feira, 13 de novembro de 2026)",
           "notas": [
             "Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
@@ -545,7 +611,7 @@
             "notas:Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-15T05:41-03:00"
+          "novo_ate": "2026-11-16T05:32-03:00"
         },
         {
           "nome": "A Assassina",
@@ -608,7 +674,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Disney+ (1x01 a 1x04 no ar desde ontem, sexta-feira, 13 de novembro de 2026, segundo o Info Disney Hulu e o Guia Disney+ Brasil)",
+          "brasil": "Disney+ (1x01 a 1x04 no ar desde sexta-feira, 13 de novembro de 2026, segundo o Info Disney Hulu e o Guia Disney+ Brasil)",
           "notas": [
             "Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454: 4/6)",
             "Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
@@ -624,14 +690,86 @@
             "notas:Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
           ],
           "novo": true,
-          "novo_ate": "2026-11-15T05:41-03:00"
+          "novo_ate": "2026-11-16T05:32-03:00"
         }
       ]
     },
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "5/6",
+            "vistos": 5,
+            "total": 6
+          },
+          "proximo": {
+            "texto": "1x06 - Battle of Gods / A Batalha dos Deuses",
+            "codigo": "1x06",
+            "titulo_en": "Battle of Gods",
+            "titulo_pt": "A Batalha dos Deuses",
+            "rotulo": "hoje",
+            "duracao": "30 min",
+            "lancamento": "2026-11-15T13:00-03:00"
+          },
+          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
+          "brasil": "Crunchyroll, às 13h (legendado)",
+          "notas": [
+            "O Banco de Séries conta 6 episódios por enquanto; a série tem 19. Fecha o primeiro arco, não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:O Banco de Séries conta 6 episódios por enquanto; a série tem 19. Fecha o primeiro arco, não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-16T05:32-03:00"
+        },
+        {
+          "nome": "O Instituto",
+          "nome_original": "The Institute",
+          "status": "🟢",
+          "progresso": {
+            "texto": "9/10",
+            "vistos": 9,
+            "total": 10
+          },
+          "proximo": {
+            "texto": "2x02 - The Sanctuary / O Santuário",
+            "codigo": "2x02",
+            "titulo_en": "The Sanctuary",
+            "titulo_pt": "O Santuário",
+            "rotulo": "hoje",
+            "duracao": "60 min"
+          },
+          "transmissao": "MGM+ nos EUA, hoje às 23h",
+          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "notas": [
+            "T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-16T05:32-03:00"
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
