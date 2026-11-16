@@ -1,72 +1,11 @@
 {
-  "titulo": "📺 Séries — domingo, 15 de novembro de 2026",
-  "atualizado_em": "2026-11-15T21:28-03:00",
+  "titulo": "📺 Séries — segunda-feira, 16 de novembro de 2026",
+  "atualizado_em": "2026-11-16T05:40-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "Overgeared",
-          "nome_original": null,
-          "episodios": "1x08",
-          "progresso": {
-            "texto": "8/12",
-            "vistos": 8,
-            "total": 12
-          },
-          "titulo_pt_nota": "\"Episódio 8\" (nome ainda não divulgado)",
-          "transmissao": "Tokyo MX / redes japonesas, hoje (~11h30 de Brasília)",
-          "brasil": "Mesmo dia: Crunchyroll, às 11h30",
-          "notas": [
-            "O Banco de Séries e o Bingers marcam as datas às sextas (1x08 na sexta-feira, 20 de novembro de 2026); o 1x09 sai no domingo, 22 de novembro de 2026. Não é final de temporada nem de série"
-          ],
-          "duracao": "25 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:O Banco de Séries e o Bingers marcam as datas às sextas (1x08 na sexta-feira, 20 de novembro de 2026); o 1x09 sai no domingo, 22 de novembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
-        },
-        {
-          "nome": "O Instituto",
-          "nome_original": "The Institute",
-          "episodios": "2x02",
-          "progresso": {
-            "texto": "2/8",
-            "vistos": 2,
-            "total": 8
-          },
-          "titulo_pt_nota": "\"O Santuário\" (\"The Sanctuary\")",
-          "transmissao": "MGM+ nos EUA, hoje às 23h (21h de Nova York)",
-          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
-          "notas": [
-            "Semanal aos domingos; o 2x03 (\"Double Cross\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\") no domingo, 27 de dezembro de 2026. Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "60 min",
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:Semanal aos domingos; o 2x03 (\"Double Cross\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\") no domingo, 27 de dezembro de 2026. Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -191,24 +130,12 @@
           {
             "nome": "Fire Country",
             "info": "T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu na sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu na sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-16T05:32-03:00"
+            "texto": "Fire Country - T5, no ar nos EUA desde sexta-feira, 9 de outubro de 2026, às 22h (CBS); o 5x06 (\"Igreja e Estado\") saiu na sexta-feira, 13 de novembro de 2026, às 23h, e, depois de uma pausa, o 5x07 sai na sexta-feira, 11 de dezembro de 2026, às 23h; sem data no Paramount+ Brasil"
           },
           {
             "nome": "Grey's Anatomy",
             "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-16T05:32-03:00"
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
             "nome": "Only Murders in the Building",
@@ -217,8 +144,14 @@
           },
           {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai hoje, segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x02 (\"É um Dinossauro?\") saiu na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai hoje, segunda-feira, 16 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-17T05:40-03:00"
           },
           {
             "nome": "The Pitt",
@@ -426,9 +359,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "2/7",
+            "texto": "2/8",
             "vistos": 2,
-            "total": 7
+            "total": 8
           },
           "proximo": {
             "texto": "1x03 - There Are Two Wolves / Existem Dois Lobos",
@@ -438,10 +371,16 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x07 (\"Lista de Convidados\") saiu nos EUA na terça-feira, 10 de novembro de 2026, à 0h (NBC), e o 1x08 (\"Sitiados\") sai na terça-feira, 17 de novembro de 2026, à 0h (o Banco de Séries já conta 8 episódios)",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x03 em português não divulgado (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
-          ]
+          ],
+          "campos_novos": [
+            "progresso",
+            "brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-17T05:40-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -467,9 +406,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "36/38",
+            "texto": "36/39",
             "vistos": 36,
-            "total": 38
+            "total": 39
           },
           "proximo": {
             "texto": "3x01 - He Ain't Noah Wyle / Ele Não É o Noah Wyle",
@@ -481,8 +420,14 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h, e o 3x03 (\"E Aí, St. D!\") sai na segunda-feira, 16 de novembro de 2026, às 22h"
-          ]
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h; o 3x03 (\"E Aí, St. D!\") sai hoje, segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
+          ],
+          "campos_novos": [
+            "progresso",
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x02 (\"É um Dinossauro?\") saiu nos EUA na segunda-feira, 9 de novembro de 2026, às 22h; o 3x03 (\"E Aí, St. D!\") sai hoje, segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-17T05:40-03:00"
         }
       ]
     },
@@ -529,7 +474,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Canal Brasil desde sexta-feira, 13 de novembro de 2026, às 22h; Globoplay (plano Premium) desde ontem, sábado, 14 de novembro de 2026",
+          "brasil": "Canal Brasil desde sexta-feira, 13 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 14 de novembro de 2026",
           "notas": [
             "O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
           ],
@@ -537,7 +482,7 @@
             "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
+          "novo_ate": "2026-11-17T05:40-03:00"
         },
         {
           "nome": "Noturno",
@@ -559,12 +504,7 @@
           "brasil": "Apple TV (desde sexta-feira, 13 de novembro de 2026)",
           "notas": [
             "Semanal às sextas; o 1x05 (\"Solidão\") sai na sexta-feira, 20 de novembro de 2026. Nome em português ainda não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
+          ]
         },
         {
           "nome": "A Assassina",
@@ -631,19 +571,8 @@
           "notas": [
             "Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454: 4/6)",
             "Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
+          ]
+        },
         {
           "nome": "O Instituto",
           "nome_original": "The Institute",
@@ -658,28 +587,28 @@
             "codigo": "2x02",
             "titulo_en": "The Sanctuary",
             "titulo_pt": "O Santuário",
-            "rotulo": "hoje",
+            "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "transmissao": "MGM+ nos EUA, hoje às 23h",
-          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "brasil": "MGM+ (canal no Prime Video), 2x02 no ar desde ontem, domingo, 15 de novembro de 2026 (5h, segundo o Séries em Cena; o Portal MGM+ Brasil confirmou os dois primeiros episódios da temporada no MGM+)",
           "notas": [
-            "T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Semanal aos domingos; o 2x03 (\"Double Cross\" / \"Traição\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). O 2x02 não é final de temporada nem de série"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
             "progresso",
             "proximo",
-            "transmissao",
             "brasil",
-            "notas:T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "notas:T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Semanal aos domingos; o 2x03 (\"Double Cross\" / \"Traição\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). O 2x02 não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-16T05:32-03:00"
+          "novo_ate": "2026-11-17T05:40-03:00"
         }
       ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -752,9 +681,10 @@
             "total": 12
           },
           "proximo": {
-            "texto": "1x03 - Teen Wolf",
+            "texto": "1x03 - Teen Wolf / Lobo Adolescente",
             "codigo": "1x03",
             "titulo_en": "Teen Wolf",
+            "titulo_pt": "Lobo Adolescente",
             "rotulo": "próximo",
             "duracao": "25 min"
           },
@@ -762,16 +692,16 @@
           "notas": [
             "Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 10 pendentes.",
             "1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série.",
-            "1x02 \"Howling\" / \"Grito de Horror\" visto em 15/11/2026 às 21h28 (America/Sao_Paulo), Banco de Séries serieid 8606 nota 8 (média 7,73), Bingers 4 estrelas. Bingebase ainda não marcado (Cloudflare). Não é final de temporada nem de série."
+            "1x02 \"Howling\" / \"Grito de Horror\" visto em 15/11/2026 às 21h28 (America/Sao_Paulo), Banco de Séries serieid 8606 nota 8 (média 7,73), Bingers 4 estrelas. Bingebase ainda não marcado (Cloudflare). Não é final de temporada nem de série. Nome do 1x03 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
             "notas:Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 10 pendentes.",
-            "notas:1x02 \"Howling\" / \"Grito de Horror\" visto em 15/11/2026 às 21h28 (America/Sao_Paulo), Banco de Séries serieid 8606 nota 8 (média 7,73), Bingers 4 estrelas. Bingebase ainda não marcado (Cloudflare). Não é final de temporada nem de série."
+            "notas:1x02 \"Howling\" / \"Grito de Horror\" visto em 15/11/2026 às 21h28 (America/Sao_Paulo), Banco de Séries serieid 8606 nota 8 (média 7,73), Bingers 4 estrelas. Bingebase ainda não marcado (Cloudflare). Não é final de temporada nem de série. Nome do 1x03 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-16T21:28-03:00"
+          "novo_ate": "2026-11-17T05:40-03:00"
         },
         {
           "nome": "Mila no Multiverso",
@@ -876,16 +806,16 @@
             "rotulo": "Aluguel e compra",
             "valor": null,
             "notas": [
-              "A compra e o aluguel digital liberados na terça-feira, 27 de outubro de 2026, valem só para os EUA (Prime Video e Apple TV, segundo a Amazon); no Brasil ainda não há data"
+              "A compra e o aluguel digital no Brasil apareceram nas lojas entre domingo, 15, e segunda-feira, 16 de novembro de 2026 (no domingo de manhã ainda não havia oferta); nos EUA estavam liberados desde terça-feira, 27 de outubro de 2026"
             ],
             "linhas": [
               {
-                "loja": "Prime Video (loja)",
-                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
+                "loja": "Apple TV",
+                "texto": "já disponível no Brasil — compra R$ 59,90 e aluguel R$ 29,90 (loja Apple TV Brasil, conferido na segunda-feira, 16 de novembro de 2026)"
               },
               {
-                "loja": "Apple TV",
-                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
+                "loja": "Prime Video (loja)",
+                "texto": "já disponível no Brasil — aluguel R$ 29,90 e compra R$ 54,90 (loja Prime Video da amazon.com.br, conferido na segunda-feira, 16 de novembro de 2026)"
               },
               {
                 "loja": "Claro tv+",
@@ -906,11 +836,35 @@
             ]
           },
           "encomenda": {
-            "ofertas": [],
-            "fonte_url": "https://www.justwatch.com/br/filme/verity",
-            "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-05"
-          }
+            "ofertas": [
+              {
+                "loja": "Apple TV",
+                "tipo": "compra e aluguel",
+                "preco": "R$ 59,90 (compra) / R$ 29,90 (aluguel)",
+                "data_brasil": "2026-11-16",
+                "url": "https://tv.apple.com/br/movie/verity/umc.cmc.x0464dtyg3c7i761fobbe4sc",
+                "fonte": "loja Apple TV Brasil (16/11/2026, API do tv.apple.com sf=143503 e iTunes lookup BR id 6808034868): compra R$ 59,90 e aluguel R$ 29,90 SD/HD; em 15/11 ainda sem oferta"
+              },
+              {
+                "loja": "Prime Video",
+                "tipo": "compra e aluguel",
+                "preco": "R$ 54,90 (compra) / R$ 29,90 (aluguel)",
+                "data_brasil": "2026-11-16",
+                "url": "https://www.amazon.com.br/dp/B0HF4H12BS",
+                "fonte": "loja Prime Video Brasil (amazon.com.br, busca de vídeo, 16/11/2026): Verity (2026) 'Por R$ 29,90 para alugar · Por R$ 54,90 para comprar'; em 15/11 'Nenhum resultado'"
+              }
+            ],
+            "fonte_url": "https://tv.apple.com/br/movie/verity/umc.cmc.x0464dtyg3c7i761fobbe4sc",
+            "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
+            "verificado_em": "2026-11-16",
+            "obs": "16/11/2026: compra e aluguel digital liberados no Brasil entre a manhã de 15/11 e a de 16/11 (data exata não divulgada). Apple TV BR: buy R$ 59,90 e rent R$ 29,90 SD/HD. Prime Video BR (ASIN B0HF4H12BS): aluguel R$ 29,90, compra R$ 54,90. Antes: só cinema no Brasil (digital nos EUA desde 27/10/2026)."
+          },
+          "campos_novos": [
+            "aluguel_compra",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-17T05:40-03:00"
         },
         {
           "titulo": "Cara-de-Barro",
