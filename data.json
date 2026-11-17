@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 17 de novembro de 2026",
-  "atualizado_em": "2026-11-17T05:41-03:00",
+  "atualizado_em": "2026-11-17T15:25-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -45,6 +45,26 @@
           "temporada": "T3",
           "info": "Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)",
           "texto": "20/11 (sex) - Percy Jackson e os Olimpianos - T3 - Disney+, 8 episódios (2 por semana, às sextas, de 20/11 a 11/12)"
+        },
+        {
+          "selo": "🆕",
+          "data": "18/12",
+          "dia_semana": "sex",
+          "nome": "Ted: The Animated Series",
+          "temporada": "T1",
+          "info": "Universal+, 8 episódios na estreia; episódios adicionais em 2027",
+          "texto": "🆕 18/12 (sex) - Ted: The Animated Series - T1 - Universal+, 8 episódios na estreia; episódios adicionais em 2027",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-18T15:25-03:00"
         },
         {
           "selo": "",
