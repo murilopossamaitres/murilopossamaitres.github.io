@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 17 de novembro de 2026",
-  "atualizado_em": "2026-11-17T15:25-03:00",
+  "atualizado_em": "2026-11-17T20:52-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -857,81 +857,6 @@
       "titulo": "Filmes",
       "emoji": "🎞️",
       "itens": [
-        {
-          "titulo": "Verity",
-          "titulo_original": "Verity",
-          "ano": "2026",
-          "tipo_lancamento": {
-            "emoji": "🏷️",
-            "rotulo": "Tipo de lançamento",
-            "valor": "cinema, depois aluguel/compra e streaming",
-            "notas": []
-          },
-          "cinema_brasil": {
-            "emoji": "🎟️",
-            "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 1 de outubro de 2026 (oficial no Brasil; em cartaz)",
-            "notas": []
-          },
-          "aluguel_compra": {
-            "emoji": "🛒",
-            "rotulo": "Aluguel e compra",
-            "valor": null,
-            "notas": [
-              "A compra e o aluguel digital no Brasil apareceram nas lojas entre domingo, 15, e segunda-feira, 16 de novembro de 2026 (no domingo de manhã ainda não havia oferta); nos EUA estavam liberados desde terça-feira, 27 de outubro de 2026"
-            ],
-            "linhas": [
-              {
-                "loja": "Apple TV",
-                "texto": "já disponível no Brasil — compra R$ 59,90 e aluguel R$ 29,90 (loja Apple TV Brasil, conferido na segunda-feira, 16 de novembro de 2026)"
-              },
-              {
-                "loja": "Prime Video (loja)",
-                "texto": "já disponível no Brasil — aluguel R$ 29,90 e compra R$ 54,90 (loja Prime Video da amazon.com.br, conferido na segunda-feira, 16 de novembro de 2026)"
-              },
-              {
-                "loja": "Claro tv+",
-                "texto": "sem data (estimativa no Brasil, não anunciada: novembro de 2026)"
-              }
-            ]
-          },
-          "streaming": {
-            "emoji": "📺",
-            "rotulo": "Streaming",
-            "valor": null,
-            "notas": [],
-            "linhas": [
-              {
-                "loja": "Prime Video",
-                "texto": "sem data (estimativa no Brasil, não anunciada: entre dezembro de 2026 e janeiro de 2027; pode passar antes pelo MGM+)"
-              }
-            ]
-          },
-          "encomenda": {
-            "ofertas": [
-              {
-                "loja": "Apple TV",
-                "tipo": "compra e aluguel",
-                "preco": "R$ 59,90 (compra) / R$ 29,90 (aluguel)",
-                "data_brasil": "2026-11-16",
-                "url": "https://tv.apple.com/br/movie/verity/umc.cmc.x0464dtyg3c7i761fobbe4sc",
-                "fonte": "loja Apple TV Brasil (16/11/2026, API do tv.apple.com sf=143503 e iTunes lookup BR id 6808034868): compra R$ 59,90 e aluguel R$ 29,90 SD/HD; em 15/11 ainda sem oferta"
-              },
-              {
-                "loja": "Prime Video",
-                "tipo": "compra e aluguel",
-                "preco": "R$ 54,90 (compra) / R$ 29,90 (aluguel)",
-                "data_brasil": "2026-11-16",
-                "url": "https://www.amazon.com.br/dp/B0HF4H12BS",
-                "fonte": "loja Prime Video Brasil (amazon.com.br, busca de vídeo, 16/11/2026): Verity (2026) 'Por R$ 29,90 para alugar · Por R$ 54,90 para comprar'; em 15/11 'Nenhum resultado'"
-              }
-            ],
-            "fonte_url": "https://tv.apple.com/br/movie/verity/umc.cmc.x0464dtyg3c7i761fobbe4sc",
-            "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
-            "verificado_em": "2026-11-16",
-            "obs": "16/11/2026: compra e aluguel digital liberados no Brasil entre a manhã de 15/11 e a de 16/11 (data exata não divulgada). Apple TV BR: buy R$ 59,90 e rent R$ 29,90 SD/HD. Prime Video BR (ASIN B0HF4H12BS): aluguel R$ 29,90, compra R$ 54,90. Antes: só cinema no Brasil (digital nos EUA desde 27/10/2026)."
-          }
-        },
         {
           "titulo": "Cara-de-Barro",
           "titulo_original": "Clayface",
