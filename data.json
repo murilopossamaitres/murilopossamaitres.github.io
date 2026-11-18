@@ -1,35 +1,63 @@
 {
-  "titulo": "📺 Séries — terça-feira, 17 de novembro de 2026",
-  "atualizado_em": "2026-11-17T23:27-03:00",
+  "titulo": "📺 Séries — quarta-feira, 18 de novembro de 2026",
+  "atualizado_em": "2026-11-18T05:37-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Red River",
-          "nome_original": null,
-          "episodios": "1x20",
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "episodios": "2x05",
           "progresso": {
-            "texto": "20/24",
-            "vistos": 20,
-            "total": 24
+            "texto": "14/17",
+            "vistos": 14,
+            "total": 17
           },
-          "titulo_pt_nota": "\"Divisões\" (\"Divisions\")",
-          "transmissao": "NTV (Japão), hoje às 13h29",
-          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "titulo_pt_nota": "\"Liberty à Solta\" (\"Liberty Unleashed\")",
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Mesmo dia: Disney+, hoje (Olhar Digital, lançamentos do Disney+ de 16 a 22/11; horário não divulgado)",
           "notas": [
-            "Semanal às terças; o 1x21 sai na terça-feira, 24 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze). Não é final de temporada nem de série"
+            "Semanal às quartas; o 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
-          "duracao": "30 min",
+          "duracao": "duração não divulgada",
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "notas:Semanal às terças; o 1x21 sai na terça-feira, 24 de novembro de 2026. Nome em português ainda não divulgado (tradução própria do nome em inglês do TVmaze). Não é final de temporada nem de série"
+            "brasil",
+            "notas:Semanal às quartas; o 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026 (Exame). Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          "novo_ate": "2026-11-19T05:37-03:00"
+        },
+        {
+          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+          "nome_original": "The Lord of the Rings: The Rings of Power",
+          "episodios": "3x05 e 3x06",
+          "progresso": {
+            "texto": "22/24",
+            "vistos": 22,
+            "total": 24
+          },
+          "titulo_pt_nota": "\"A Senhora de Lórien\" e \"De Valinor\" (\"The Lady of Lórien\" e \"From Valinor\")",
+          "transmissao": "Prime Video, hoje às 5h de Brasília",
+          "brasil": "Mesmo dia: Prime Video, hoje às 5h (Séries em Cena, Critical Hits, Ensaio Geral)",
+          "notas": [
+            "A 3ª temporada tem 8 episódios: 1 a 4 em 11/11, 5 e 6 hoje, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (Critical Hits, Séries em Cena). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "55 min + 64 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "brasil",
+            "duracao",
+            "notas:A 3ª temporada tem 8 episódios: 1 a 4 em 11/11, 5 e 6 hoje, e 7 e 8 (final da temporada) na quarta-feira, 25 de novembro de 2026 (Critical Hits, Séries em Cena). Nomes dos episódios em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-19T05:37-03:00"
         }
       ]
     },
@@ -48,12 +76,12 @@
         },
         {
           "selo": "🆕",
-          "data": "18/12",
-          "dia_semana": "sex",
-          "nome": "Ted: The Animated Series",
-          "temporada": "T1",
-          "info": "Universal+, 8 episódios na estreia; episódios adicionais em 2027",
-          "texto": "🆕 18/12 (sex) - Ted: The Animated Series - T1 - Universal+, 8 episódios na estreia; episódios adicionais em 2027",
+          "data": "08/12",
+          "dia_semana": "ter",
+          "nome": "Only Murders in the Building",
+          "temporada": "T6",
+          "info": "Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
+          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
           "campos_novos": [
             "selo",
             "data",
@@ -64,7 +92,27 @@
             "texto"
           ],
           "novo": true,
-          "novo_ate": "2026-11-18T15:25-03:00"
+          "novo_ate": "2026-11-19T05:37-03:00"
+        },
+        {
+          "selo": "🆕",
+          "data": "18/12",
+          "dia_semana": "sex",
+          "nome": "Ted: A Série Animada",
+          "temporada": "T1",
+          "info": "Universal+, 8 episódios na estreia; episódios adicionais em 2027",
+          "texto": "🆕 18/12 (sex) - Ted: A Série Animada - T1 - Universal+, 8 episódios na estreia; episódios adicionais em 2027",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-19T05:37-03:00"
         },
         {
           "selo": "",
@@ -170,14 +218,14 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") sai hoje, terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") sai hoje, terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu ontem, terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu ontem, terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-18T05:41-03:00"
+            "novo_ate": "2026-11-19T05:37-03:00"
           },
           {
             "nome": "Fire Country",
@@ -190,20 +238,15 @@
             "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai na sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)"
           },
           {
-            "nome": "Only Murders in the Building",
-            "info": "T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local",
-            "texto": "Only Murders in the Building - T6 🔜 estreia mundial na terça-feira, 8 de dezembro de 2026; Disney+ Brasil ainda sem comunicado local"
-          },
-          {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu ontem, segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu ontem, segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-18T05:41-03:00"
+            "novo_ate": "2026-11-19T05:37-03:00"
           },
           {
             "nome": "The Pitt",
@@ -428,7 +471,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA hoje, terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA ontem, terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x03 e do 1x09 em português não divulgados (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
@@ -437,7 +480,7 @@
             "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x03 e do 1x09 em português não divulgados (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          "novo_ate": "2026-11-19T05:37-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -477,13 +520,13 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA ontem, segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
           ],
           "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA ontem, segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
           ],
           "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          "novo_ate": "2026-11-19T05:37-03:00"
         }
       ]
     },
@@ -562,9 +605,9 @@
           "nome_original": "The Lord of the Rings: The Rings of Power",
           "status": "🟢",
           "progresso": {
-            "texto": "16/20",
+            "texto": "16/22",
             "vistos": 16,
-            "total": 20
+            "total": 22
           },
           "proximo": {
             "texto": "3x01 - Marnûkh / Marnûkh",
@@ -574,10 +617,17 @@
             "rotulo": "próximo",
             "duracao": "74 min"
           },
-          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h)",
+          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 hoje, às 5h)",
           "notas": [
-            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 e o 3x06 saem na quarta-feira, 18 de novembro de 2026; o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
-          ]
+            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saem hoje, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "brasil",
+            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saem hoje, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-19T05:37-03:00"
         },
         {
           "nome": "Diários de Armário: Coven Academy",
@@ -628,13 +678,7 @@
           ],
           "novo": true,
           "novo_ate": "2026-11-18T05:41-03:00"
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
+        },
         {
           "nome": "Red River",
           "nome_original": null,
@@ -649,22 +693,61 @@
             "codigo": "1x20",
             "titulo_en": "Divisions",
             "titulo_pt": "Divisões",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-17T13:29-03:00"
+            "rotulo": "próximo",
+            "duracao": "30 min"
           },
-          "transmissao": "NTV (Japão), às 13h29",
-          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "brasil": "Crunchyroll (legendado; 1x20 no ar desde ontem, terça-feira, 17 de novembro de 2026)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na terça-feira, 24 de novembro de 2026"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
+            "brasil",
             "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na terça-feira, 24 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          "novo_ate": "2026-11-19T05:37-03:00"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "status": "🟢",
+          "progresso": {
+            "texto": "13/14",
+            "vistos": 13,
+            "total": 14
+          },
+          "proximo": {
+            "texto": "2x05 - Liberty Unleashed / Liberty à Solta",
+            "codigo": "2x05",
+            "titulo_en": "Liberty Unleashed",
+            "titulo_pt": "Liberty à Solta",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada"
+          },
+          "transmissao": "Hulu (EUA), hoje",
+          "brasil": "Disney+, hoje (Olhar Digital; horário não divulgado)",
+          "notas": [
+            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-19T05:37-03:00"
         }
       ]
     },
