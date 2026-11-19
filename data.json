@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 18 de novembro de 2026",
-  "atualizado_em": "2026-11-18T05:37-03:00",
+  "atualizado_em": "2026-11-18T21:15-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -403,12 +403,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          "brasil": "T1 e T2 no Disney+; T3 sem streaming no Brasil"
         },
         {
           "nome": "Grey's Anatomy",
@@ -476,8 +471,7 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x03 e do 1x09 em português não divulgados (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
           "campos_novos": [
-            "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x03 e do 1x09 em português não divulgados (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-19T05:37-03:00"
@@ -537,46 +531,32 @@
         {
           "nome": "12 12 12",
           "nome_original": null,
-          "status": "🔴",
+          "status": "🟢",
           "progresso": {
-            "texto": "0/2",
-            "vistos": 0,
+            "texto": "1/2",
+            "vistos": 1,
             "total": 2
           },
           "proximo": {
-            "texto": "1x01 - I'm Robbing the House on Christmas Eve While the Family's at Mass / Estou Roubando a Casa na Véspera de Natal Enquanto a Família Está na Missa",
-            "codigo": "1x01",
-            "titulo_en": "I'm Robbing the House on Christmas Eve While the Family's at Mass",
-            "titulo_pt": "Estou Roubando a Casa na Véspera de Natal Enquanto a Família Está na Missa",
+            "texto": "1x02 - I Want My Halo Back / Quero minha auréola de volta",
+            "codigo": "1x02",
+            "titulo_en": "I Want My Halo Back",
+            "titulo_pt": "Quero minha auréola de volta",
             "rotulo": "próximo",
-            "duracao": "59 min"
+            "duracao": "52 min"
           },
           "brasil": "Apple TV (1x01 e 1x02 no ar desde quinta-feira, 12 de novembro de 2026, às 23h, segundo o Portal Apple TV)",
           "notas": [
-            "Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. Nomes em português ainda não divulgados (tradução própria). O Banco de Séries conta 2 episódios por enquanto; a temporada tem 8"
-          ]
-        },
-        {
-          "nome": "Delegado",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "2/3",
-            "vistos": 2,
-            "total": 3
-          },
-          "proximo": {
-            "texto": "1x03 - Caneta e Arma / Caneta e Arma",
-            "codigo": "1x03",
-            "titulo_en": "Caneta e Arma",
-            "titulo_pt": "Caneta e Arma",
-            "rotulo": "próximo",
-            "duracao": "duração não divulgada"
-          },
-          "brasil": "Canal Brasil desde sexta-feira, 13 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 14 de novembro de 2026",
-          "notas": [
-            "O 1x04 (\"Velhos Amigos\") sai na sexta-feira, 20 de novembro de 2026"
-          ]
+            "1x01 \"I'm Robbing the House on Christmas Eve While the Family's at Mass\" (\"Estou roubando a casa na véspera de Natal enquanto a família está na missa\", Apple TV Brasil) visto em 18/11/2026 (Banco de Séries serieid 42505: nota 8,5, média 8,31; Bingers 4,5 estrelas; Bingebase 1/8). Não é final de temporada nem de série. Falta o 1x02, já no ar desde quinta-feira, 12 de novembro de 2026, às 23h. Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. A temporada tem 8 episódios (final 1x08 em 25/12/2026)."
+          ],
+          "campos_novos": [
+            "status",
+            "progresso",
+            "proximo",
+            "notas:1x01 \"I'm Robbing the House on Christmas Eve While the Family's at Mass\" (\"Estou roubando a casa na véspera de Natal enquanto a família está na missa\", Apple TV Brasil) visto em 18/11/2026 (Banco de Séries serieid 42505: nota 8,5, média 8,31; Bingers 4,5 estrelas; Bingebase 1/8). Não é final de temporada nem de série. Falta o 1x02, já no ar desde quinta-feira, 12 de novembro de 2026, às 23h. Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. A temporada tem 8 episódios (final 1x08 em 25/12/2026)."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-19T21:15-03:00"
         },
         {
           "nome": "A Assassina",
@@ -672,12 +652,7 @@
           "brasil": "MGM+ (canal no Prime Video), 2x02 no ar desde domingo, 15 de novembro de 2026 (5h, segundo o Séries em Cena; o Portal MGM+ Brasil confirmou os dois primeiros episódios da temporada no MGM+)",
           "notas": [
             "T2: 1/8 visto (2x01 \"The Reckoning\" visto em 08/11/2026). Semanal aos domingos; o 2x03 (\"Double Cross\" / \"Traição\") sai no domingo, 22 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). O 2x02 não é final de temporada nem de série"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-18T05:41-03:00"
+          ]
         },
         {
           "nome": "Red River",
