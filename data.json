@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quinta-feira, 19 de novembro de 2026",
-  "atualizado_em": "2026-11-19T05:35-03:00",
+  "atualizado_em": "2026-11-19T13:16-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -80,18 +80,7 @@
           "nome": "Only Murders in the Building",
           "temporada": "T6",
           "info": "Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
-          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-19T05:37-03:00"
+          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)"
         },
         {
           "selo": "🆕",
@@ -100,18 +89,7 @@
           "nome": "Ted: A Série Animada",
           "temporada": "T1",
           "info": "Universal+, 8 episódios na estreia; episódios adicionais em 2027",
-          "texto": "🆕 18/12 (sex) - Ted: A Série Animada - T1 - Universal+, 8 episódios na estreia; episódios adicionais em 2027",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-19T05:37-03:00"
+          "texto": "🆕 18/12 (sex) - Ted: A Série Animada - T1 - Universal+, 8 episódios na estreia; episódios adicionais em 2027"
         },
         {
           "selo": "",
@@ -257,13 +235,7 @@
           {
             "nome": "St. Denis Medical",
             "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-19T05:37-03:00"
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
           },
           {
             "nome": "The Pitt",
@@ -532,12 +504,7 @@
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
             "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
-          ],
-          "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-19T05:37-03:00"
+          ]
         }
       ]
     },
@@ -545,36 +512,6 @@
       "titulo": "Episódio recente",
       "emoji": "📺",
       "itens": [
-        {
-          "nome": "12 12 12",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "1/2",
-            "vistos": 1,
-            "total": 2
-          },
-          "proximo": {
-            "texto": "1x02 - I Want My Halo Back / Quero minha auréola de volta",
-            "codigo": "1x02",
-            "titulo_en": "I Want My Halo Back",
-            "titulo_pt": "Quero minha auréola de volta",
-            "rotulo": "próximo",
-            "duracao": "52 min"
-          },
-          "brasil": "Apple TV (1x01 e 1x02 no ar desde quinta-feira, 12 de novembro de 2026, às 23h, segundo o Portal Apple TV)",
-          "notas": [
-            "1x01 \"I'm Robbing the House on Christmas Eve While the Family's at Mass\" (\"Estou roubando a casa na véspera de Natal enquanto a família está na missa\", Apple TV Brasil) visto em 18/11/2026 (Banco de Séries serieid 42505: nota 8,5, média 8,31; Bingers 4,5 estrelas; Bingebase 1/8). Não é final de temporada nem de série. Falta o 1x02, já no ar desde quinta-feira, 12 de novembro de 2026, às 23h. Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. A temporada tem 8 episódios (final 1x08 em 25/12/2026)."
-          ],
-          "campos_novos": [
-            "status",
-            "progresso",
-            "proximo",
-            "notas:1x01 \"I'm Robbing the House on Christmas Eve While the Family's at Mass\" (\"Estou roubando a casa na véspera de Natal enquanto a família está na missa\", Apple TV Brasil) visto em 18/11/2026 (Banco de Séries serieid 42505: nota 8,5, média 8,31; Bingers 4,5 estrelas; Bingebase 1/8). Não é final de temporada nem de série. Falta o 1x02, já no ar desde quinta-feira, 12 de novembro de 2026, às 23h. Novos episódios às sextas; o 1x03 (\"Einfach Obergeil\") sai na sexta-feira, 20 de novembro de 2026. A temporada tem 8 episódios (final 1x08 em 25/12/2026)."
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-19T21:15-03:00"
-        },
         {
           "nome": "A Assassina",
           "nome_original": "The Assassin",
@@ -619,7 +556,6 @@
             "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram ontem, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
           "campos_novos": [
-            "progresso",
             "brasil",
             "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram ontem, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
@@ -726,13 +662,7 @@
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na terça-feira, 24 de novembro de 2026"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na terça-feira, 24 de novembro de 2026"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-20T05:35-03:00"
