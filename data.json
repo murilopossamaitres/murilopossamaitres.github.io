@@ -1,62 +1,175 @@
 {
-  "titulo": "📺 Séries — quinta-feira, 19 de novembro de 2026",
-  "atualizado_em": "2026-11-20T00:33-03:00",
+  "titulo": "📺 Séries — sexta-feira, 20 de novembro de 2026",
+  "atualizado_em": "2026-11-20T05:45-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "episodios": "1x21",
-          "progresso": {
-            "texto": "21/26",
-            "vistos": 21,
-            "total": 26
-          },
-          "titulo_pt_nota": "\"Lâmina Flamejante Enegrecida\" (\"Blackened Flameblade\")",
-          "transmissao": "MBS (Japão), hoje às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (horário não divulgado; o 1x15 saiu às 13h)",
-          "notas": [
-            "Semanal às quintas; o 1x22 sai na quinta-feira, 26 de novembro de 2026. Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "notas:Semanal às quintas; o 1x22 sai na quinta-feira, 26 de novembro de 2026. Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
-        },
-        {
-          "nome": "Line of Fire",
+          "nome": "12 12 12",
           "nome_original": null,
           "episodios": "1x03",
           "progresso": {
-            "texto": "3/18",
+            "texto": "3/8",
             "vistos": 3,
-            "total": 18
+            "total": 8
           },
-          "titulo_pt_nota": "\"Existem Dois Lobos\" (\"There Are Two Wolves\")",
-          "transmissao": "NBC (EUA), segunda-feira, 5 de outubro de 2026",
-          "brasil": "HBO Max, hoje (horário não divulgado; Olhar Digital e Oficina da Net, lançamentos da HBO Max de 16 a 22/11)",
+          "titulo_pt_nota": "\"Einfach Obergeil\" (\"Einfach Obergeil\")",
+          "transmissao": "Apple TV, hoje (episódio semanal; a @AppleTV anunciou no X, na quinta-feira, 19 de novembro de 2026, às 11h, que o novo episódio estreava \"em 12 horas\")",
+          "brasil": "Apple TV (no ar desde ontem, quinta-feira, 19 de novembro de 2026, às 23h)",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h (NBC). Nome do 1x03 em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "Título do episódio oficial na Apple TV Brasil (sem tradução). 8 episódios; o 1x04 (\"É Assim Que Se Faz um Menino\", \"That's How You Make a Boy Baby\", tradução própria) sai na quarta-feira, 25 de novembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
           ],
-          "duracao": "60 min",
+          "duracao": "57 min",
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
             "transmissao",
             "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Novos episódios às quintas no HBO Max. Nos EUA o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h (NBC). Nome do 1x03 em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "duracao",
+            "notas:Título do episódio oficial na Apple TV Brasil (sem tradução). 8 episódios; o 1x04 (\"É Assim Que Se Faz um Menino\", \"That's How You Make a Boy Baby\", tradução própria) sai na quarta-feira, 25 de novembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Awkwafina - A Cozinheira Improvável",
+          "nome_original": null,
+          "episodios": "1x04",
+          "progresso": {
+            "texto": "4/8",
+            "vistos": 4,
+            "total": 8
+          },
+          "titulo_pt_nota": "\"Tiki no Havaí\" (\"Tiki in Hawaiʻi\")",
+          "transmissao": "Apple TV, hoje (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x05 (\"Nora Aprende a Servir\", \"Nora Learns to Serve\") sai na sexta-feira, 27 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nomes em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "duração não divulgada",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "duracao",
+            "notas:Semanal às sextas; o 1x05 (\"Nora Aprende a Servir\", \"Nora Learns to Serve\") sai na sexta-feira, 27 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nomes em português ainda não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Delegado",
+          "nome_original": null,
+          "episodios": "1x04",
+          "progresso": {
+            "texto": "4/7",
+            "vistos": 4,
+            "total": 7
+          },
+          "titulo_pt_nota": "\"Velhos Amigos\"",
+          "transmissao": "Canal Brasil, hoje às 22h",
+          "brasil": "+1 dia: Globoplay (plano Premium), amanhã, sábado, 21 de novembro de 2026",
+          "notas": [
+            "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay (TV Map e meuguia.tv confirmam o 1x04 hoje às 22h); o 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, e o final (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "duracao": "duração não divulgada",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e no dia seguinte no Globoplay (TV Map e meuguia.tv confirmam o 1x04 hoje às 22h); o 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, e o final (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "episodios": "2x10",
+          "progresso": {
+            "texto": "10/10",
+            "vistos": 10,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"A Rainha Está Morta\" (\"The Queen Is Dead\")",
+          "transmissao": "Paramount+, hoje (horário não divulgado)",
+          "brasil": "Paramount+ (Jornada Geek: episódio 10 da 2ª temporada hoje no Paramount+)",
+          "notas": [
+            "⚠️ Episódio final da 2ª temporada (série renovada para a 3ª temporada, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "duracao": "47 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "brasil",
+            "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª temporada, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Noturno",
+          "nome_original": "Nocturne",
+          "episodios": "1x05",
+          "progresso": {
+            "texto": "5/10",
+            "vistos": 5,
+            "total": 10
+          },
+          "titulo_pt_nota": "\"Solidão\" (\"Solitude\")",
+          "transmissao": "Apple TV, hoje (a @AppleTV avisou no X \"A new episode of #Nocturne is now streaming\" na quinta-feira, 19 de novembro de 2026, às 22h59)",
+          "brasil": "Apple TV (no ar desde ontem, quinta-feira, 19 de novembro de 2026, às 23h)",
+          "notas": [
+            "O 1x06 (\"Apenas Conecte\", \"Only Connect\", tradução própria) sai na quarta-feira, 25 de novembro de 2026 (TVmaze), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Nome do 1x05 em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "54 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:O 1x06 (\"Apenas Conecte\", \"Only Connect\", tradução própria) sai na quarta-feira, 25 de novembro de 2026 (TVmaze), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Nome do 1x05 em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Percy Jackson e os Olimpianos",
+          "nome_original": "Percy Jackson and the Olympians",
+          "episodios": "3x01 e 3x02",
+          "progresso": {
+            "texto": "18/24",
+            "vistos": 18,
+            "total": 24
+          },
+          "titulo_pt_nota": "\"Minha Operação de Resgate Dá Muito Errado\" e \"Um Velho Amigo Falecido Vem Visitar\" (\"My Rescue Operation Goes Very Wrong\" e \"An Old Dead Friend Comes to Visit\")",
+          "transmissao": "Disney+, hoje (estreia da 3ª temporada, 2 episódios)",
+          "brasil": "Mesmo dia: Disney+, hoje às 5h (@heroipercy no X: \"às 5h da manhã aqui no Brasil\"; \"já tá disponível\" às 5h02)",
+          "notas": [
+            "3ª temporada (\"A Maldição do Titã\") com 8 episódios, 2 por semana às sextas: 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026, 3x05 e 3x06 na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Nomes oficiais dos episódios divulgados pelo Disney+ (Omelete, Capricho). Não é final de temporada nem de série"
+          ],
+          "duracao": "duração não divulgada",
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:3ª temporada (\"A Maldição do Titã\") com 8 episódios, 2 por semana às sextas: 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026, 3x05 e 3x06 na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Nomes oficiais dos episódios divulgados pelo Disney+ (Omelete, Capricho). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         }
       ]
     },
@@ -81,6 +194,26 @@
           "temporada": "T6",
           "info": "Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
           "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)"
+        },
+        {
+          "selo": "🆕",
+          "data": "15/12",
+          "dia_semana": "ter",
+          "nome": "One Piece",
+          "temporada": "dublagem do arco País de Wano",
+          "info": "Netflix, episódios dublados a partir do 892 (anunciado pela Netflix Anime e pelo Portal Netflix no X em 19/11; número de episódios não divulgado)",
+          "texto": "🆕 15/12 (ter) - One Piece - dublagem do arco País de Wano - Netflix, episódios dublados a partir do 892 (anunciado pela Netflix Anime e pelo Portal Netflix no X em 19/11; número de episódios não divulgado)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "selo": "🆕",
@@ -128,6 +261,26 @@
           "texto": "22/01/2027 (sex) - Neuromancer - T1 - Apple TV, 10 episódios (2 na estreia, depois semanal)"
         },
         {
+          "selo": "🆕",
+          "data": "17/02/2027",
+          "dia_semana": "qua",
+          "nome": "Invencível",
+          "temporada": "T5",
+          "info": "Prime Video, número de episódios e formato não divulgados (anunciado pelo Prime Video em 19/11, com teaser; mesma data em mais de 240 países, inclusive o Brasil)",
+          "texto": "🆕 17/02/2027 (qua) - Invencível - T5 - Prime Video, número de episódios e formato não divulgados (anunciado pelo Prime Video em 19/11, com teaser; mesma data em mais de 240 países, inclusive o Brasil)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
           "selo": "",
           "data": "27/02/2027",
           "dia_semana": "sáb",
@@ -160,25 +313,25 @@
         "itens": [
           {
             "nome": "9-1-1",
-            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai hoje, quinta-feira, 19 de novembro de 2026, às 22h",
-            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x05 (\"Quem É o Seu Pai?\") saiu na quinta-feira, 12 de novembro de 2026, às 22h, e o 10x06 (\"Até Tu?\") sai hoje, quinta-feira, 19 de novembro de 2026, às 22h",
+            "info": "T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x06 (\"Até Tu?\") saiu ontem, quinta-feira, 19 de novembro de 2026, às 22h, e, depois de uma pausa, o 10x07 sai na quinta-feira, 7 de janeiro de 2027, às 22h",
+            "texto": "9-1-1 - T10, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 10x06 (\"Até Tu?\") saiu ontem, quinta-feira, 19 de novembro de 2026, às 22h, e, depois de uma pausa, o 10x07 sai na quinta-feira, 7 de janeiro de 2027, às 22h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-20T05:35-03:00"
+            "novo_ate": "2026-11-21T05:45-03:00"
           },
           {
             "nome": "9-1-1: Nashville",
-            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai hoje, quinta-feira, 19 de novembro de 2026, às 23h",
-            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x05 (\"Campainha e Fuga\") saiu na quinta-feira, 12 de novembro de 2026, às 23h, e o 2x06 (\"Lágrimas do Nilo\") sai hoje, quinta-feira, 19 de novembro de 2026, às 23h",
+            "info": "T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x06 (\"Lágrimas do Nilo\") saiu ontem, quinta-feira, 19 de novembro de 2026, às 23h, e, depois de uma pausa, o 2x07 (\"Um Destino Pior que a Morte\") sai na quinta-feira, 7 de janeiro de 2027, às 23h",
+            "texto": "9-1-1: Nashville - T2, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 2x06 (\"Lágrimas do Nilo\") saiu ontem, quinta-feira, 19 de novembro de 2026, às 23h, e, depois de uma pausa, o 2x07 (\"Um Destino Pior que a Morte\") sai na quinta-feira, 7 de janeiro de 2027, às 23h",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-20T05:35-03:00"
+            "novo_ate": "2026-11-21T05:45-03:00"
           },
           {
             "nome": "A Assassina (The Assassin)",
@@ -208,13 +361,7 @@
           {
             "nome": "Doc",
             "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
-            "campos_novos": [
-              "info",
-              "texto"
-            ],
-            "novo": true,
-            "novo_ate": "2026-11-20T05:35-03:00"
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h"
           },
           {
             "nome": "Fire Country",
@@ -223,14 +370,14 @@
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai amanhã, sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x05 (\"Mais Forte (O Que Não Mata)\") saiu na sexta-feira, 13 de novembro de 2026, à 0h, e o 23x06 (\"Até Eu Cair\") sai amanhã, sexta-feira, 20 de novembro de 2026, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu hoje, sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu hoje, sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-20T05:35-03:00"
+            "novo_ate": "2026-11-21T05:45-03:00"
           },
           {
             "nome": "St. Denis Medical",
@@ -254,9 +401,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "64/147",
+            "texto": "64/148",
             "vistos": 64,
-            "total": 147
+            "total": 148
           },
           "proximo": {
             "texto": "5x05 - Peer Pressure / Pressão do Grupo",
@@ -266,16 +413,21 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "9-1-1: Nashville",
           "nome_original": null,
           "status": "🔴",
           "progresso": {
-            "texto": "0/23",
+            "texto": "0/24",
             "vistos": 0,
-            "total": 23
+            "total": 24
           },
           "proximo": {
             "texto": "1x01 - Pilot / Piloto",
@@ -285,7 +437,12 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -399,9 +556,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "456/471",
+            "texto": "456/472",
             "vistos": 456,
-            "total": 471
+            "total": 472
           },
           "proximo": {
             "texto": "22x09 - Fortunate Son / Filho da sorte",
@@ -414,7 +571,12 @@
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
             "22x08 \"Heavy on Me\" (\"Pesa muito em mim\") visto em 12/11/2026 no Banco de Séries (serieid 5577; nota 8,5, média 8,25), Bingers (nota 4,5) e Bingebase (nota 9, média 8,7). Não é final de temporada nem de série."
-          ]
+          ],
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "Kill Jackie",
@@ -455,7 +617,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, e o 1x03 chega hoje, segundo o Olhar Digital e a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA na terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, e o 1x03 chegou ontem, quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA na terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x03 e do 1x09 em português não divulgados (tradução própria). O 1x02 \"Uma Visão Mais Ampla\" foi visto em 12/11/2026"
           ],
@@ -463,16 +625,16 @@
             "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
           "nome_original": "Pokémon Horizons: The Series",
           "status": "🔴",
           "progresso": {
-            "texto": "0/157",
+            "texto": "0/158",
             "vistos": 0,
-            "total": 157
+            "total": 158
           },
           "proximo": {
             "texto": "1x01 - The Pendant That Starts It All (Part One) / O pingente que iniciou tudo – Parte 1",
@@ -482,7 +644,12 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
+          "campos_novos": [
+            "progresso"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "St. Denis Medical",
@@ -551,16 +718,16 @@
             "rotulo": "próximo",
             "duracao": "74 min"
           },
-          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde ontem, quarta-feira, 18 de novembro de 2026, às 5h)",
+          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h)",
           "notas": [
-            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram ontem, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
           "campos_novos": [
             "brasil",
-            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram ontem, quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
+            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "Diários de Armário: Coven Academy",
@@ -624,21 +791,15 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Disney+ (2x05 no ar desde ontem, quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
+          "brasil": "Disney+ (2x05 no ar desde quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
+          "novo_ate": "2026-11-21T05:45-03:00"
         },
         {
           "nome": "Red River",
@@ -660,19 +821,8 @@
           "brasil": "Crunchyroll (legendado; 1x20 no ar desde terça-feira, 17 de novembro de 2026)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x21 sai na terça-feira, 24 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
+          ]
+        },
         {
           "nome": "The Exiled Heavy Knight Knows How to Game the System",
           "nome_original": null,
@@ -687,22 +837,220 @@
             "codigo": "1x21",
             "titulo_en": "Blackened Flameblade",
             "titulo_pt": "Lâmina Flamejante Enegrecida",
-            "rotulo": "hoje",
-            "duracao": "30 min",
-            "lancamento": "2026-11-19T12:26-03:00"
+            "rotulo": "próximo",
+            "duracao": "30 min"
           },
-          "transmissao": "MBS (Japão), às 12h26",
-          "brasil": "Mesmo dia: Crunchyroll (o 1x15 saiu às 13h)",
+          "brasil": "Crunchyroll (1x21 no ar desde ontem, quinta-feira, 19 de novembro de 2026; às 13h, segundo o @_ANIMEse)",
           "notas": [
             "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
+            "brasil",
             "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-20T05:35-03:00"
+          "novo_ate": "2026-11-21T05:45-03:00"
+        }
+      ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": [
+        {
+          "nome": "12 12 12",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "2/3",
+            "vistos": 2,
+            "total": 3
+          },
+          "proximo": {
+            "texto": "1x03 - Einfach Obergeil / Einfach Obergeil",
+            "codigo": "1x03",
+            "titulo_en": "Einfach Obergeil",
+            "titulo_pt": "Einfach Obergeil",
+            "rotulo": "hoje",
+            "duracao": "57 min"
+          },
+          "transmissao": "Apple TV (no ar desde ontem, quinta-feira, 19 de novembro de 2026, às 23h)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Título do episódio oficial na Apple TV Brasil (sem tradução). O 1x04 sai na quarta-feira, 25 de novembro de 2026 (TVmaze). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:Título do episódio oficial na Apple TV Brasil (sem tradução). O 1x04 sai na quarta-feira, 25 de novembro de 2026 (TVmaze). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Awkwafina - A Cozinheira Improvável",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "3/4",
+            "vistos": 3,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x04 - Tiki in Hawaiʻi / Tiki no Havaí",
+            "codigo": "1x04",
+            "titulo_en": "Tiki in Hawaiʻi",
+            "titulo_pt": "Tiki no Havaí",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada"
+          },
+          "transmissao": "Apple TV (horário não divulgado)",
+          "brasil": "Apple TV",
+          "notas": [
+            "Semanal às sextas; o 1x05 sai na sexta-feira, 27 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Semanal às sextas; o 1x05 sai na sexta-feira, 27 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Delegado",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "3/4",
+            "vistos": 3,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x04 - Velhos Amigos / Velhos Amigos",
+            "codigo": "1x04",
+            "titulo_en": "Velhos Amigos",
+            "titulo_pt": "Velhos Amigos",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada",
+            "lancamento": "2026-11-20T22:00-03:00"
+          },
+          "transmissao": "Canal Brasil, às 22h",
+          "brasil": "+1 dia: Globoplay (plano Premium), amanhã",
+          "notas": [
+            "O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Terra da Máfia",
+          "nome_original": "MobLand",
+          "status": "🟢",
+          "progresso": {
+            "texto": "19/20",
+            "vistos": 19,
+            "total": 20
+          },
+          "proximo": {
+            "texto": "2x10 - The Queen Is Dead / A Rainha Está Morta",
+            "codigo": "2x10",
+            "titulo_en": "The Queen Is Dead",
+            "titulo_pt": "A Rainha Está Morta",
+            "rotulo": "hoje",
+            "duracao": "47 min"
+          },
+          "transmissao": "Paramount+ (horário não divulgado)",
+          "brasil": "Paramount+",
+          "notas": [
+            "⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, ainda sem data). Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, ainda sem data). Nome em português ainda não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Noturno",
+          "nome_original": "Nocturne",
+          "status": "🟢",
+          "progresso": {
+            "texto": "4/5",
+            "vistos": 4,
+            "total": 5
+          },
+          "proximo": {
+            "texto": "1x05 - Solitude / Solidão",
+            "codigo": "1x05",
+            "titulo_en": "Solitude",
+            "titulo_pt": "Solidão",
+            "rotulo": "hoje",
+            "duracao": "54 min"
+          },
+          "transmissao": "Apple TV (no ar desde ontem, quinta-feira, 19 de novembro de 2026, às 23h)",
+          "brasil": "Apple TV",
+          "notas": [
+            "O 1x06 sai na quarta-feira, 25 de novembro de 2026 (TVmaze). Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "transmissao",
+            "notas:O 1x06 sai na quarta-feira, 25 de novembro de 2026 (TVmaze). Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
+        },
+        {
+          "nome": "Percy Jackson e os Olimpianos",
+          "nome_original": "Percy Jackson and the Olympians",
+          "status": "🟢",
+          "progresso": {
+            "texto": "16/18",
+            "vistos": 16,
+            "total": 18
+          },
+          "proximo": {
+            "texto": "3x01 - My Rescue Operation Goes Very Wrong / Minha Operação de Resgate Dá Muito Errado",
+            "codigo": "3x01",
+            "titulo_en": "My Rescue Operation Goes Very Wrong",
+            "titulo_pt": "Minha Operação de Resgate Dá Muito Errado",
+            "rotulo": "hoje",
+            "duracao": "duração não divulgada"
+          },
+          "transmissao": "Disney+, às 5h (3x01 e 3x02 na estreia da 3ª temporada)",
+          "brasil": "Disney+ (no ar desde hoje às 5h)",
+          "notas": [
+            "O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "transmissao",
+            "brasil",
+            "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-21T05:45-03:00"
         }
       ]
     },
