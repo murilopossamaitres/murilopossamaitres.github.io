@@ -15,9 +15,9 @@
     },
     {
       "nome": "Red River",
-      "em_dia_ate": "1x19",
-      "em_dia_em": "2026-11-10",
-      "obs": "1x18 \"Prova de Inocência\" visto em 05/11/2026 (Bingers; Banco; Bingebase). 1x19 \"Sonho Daquele Dia Maravilhoso\" (\"Dream of That Wonderful Day\", tradução própria) visto em 10/11/2026 às 18h53 no Banco de Séries (serieid 45476; nota 8, média exata), Bingers (4 estrelas) e Bingebase (nota 8). Não é final de temporada nem de série. Banco mostra 19/19; a temporada tem 24. 1x20 sai ter 17/11/2026 na Crunchyroll, aí volta sozinha. Status 🟢; progresso Banco 19/19 (temporada tem 24). Bingers caught_up furthest 1x19, all_aired_watched true."
+      "em_dia_ate": "1x20",
+      "em_dia_em": "2026-11-20",
+      "obs": "1x20 \"Divisions\" (\"Rachadura\", Bingebase pt-BR; no site estava a tradução própria \"Divisões\") visto em 20/11/2026 (Banco de Séries serieid 45476: nota 6,5, média 6,17; Bingers 3,5 estrelas, 6,5/2 = 3,25 arredondado para cima; Bingebase nota 9, 20/24). Não é final de temporada nem de série. Banco 20/20 lançados (temporada tem 24). Bingers caught_up, furthest 1x20, all_aired_watched true. Semanal às terças: o próximo é o 1x21 \"A decisão de nos separarmos\" (Bingebase pt-BR), ter 24/11/2026 na Crunchyroll, aí volta sozinha. O final da T1 é o 1x24, em 15/12/2026 (série renovada)."
     },
     {
       "nome": "Invasão: Código Apollo",
@@ -83,7 +83,7 @@
       "nome": "Overgeared",
       "em_dia_ate": "1x08",
       "em_dia_em": "2026-11-20",
-      "obs": "1x08 \"Yatan's High Priest\" (\"O Sumo Sacerdote de Yatan\") visto em 20/11/2026 no Bingers (5★; a API ainda não mostra % das estrelas nem voto de personagem; 8/12, all_aired_watched). Banco de Séries (serieid 46060) bloqueado por anti-robô (\"Please wait while your request is being verified...\" + 404). Bingebase ainda não liberou (7/12; 1x08 \"O Sumo Sacerdote de Yatan\" em sex 20/11/2026 às 11h30 Brasília). 1x09 \"Episódio 9\": Bingers/Bingebase sex 27/11/2026; TVmaze (horário habitual da Crunchyroll) dom 22/11/2026 11h30."
+      "obs": "1x08 \"Yatan's High Priest\" (\"O Sumo Sacerdote de Yatan\") visto em 20/11/2026 no Bingers (5★; a API ainda não mostra % das estrelas nem voto de personagem; 8/12, all_aired_watched), no Banco de Séries (serieid 46060; nota 9, média do episódio 8,50; 8/8 lançados, 8/12) e no Bingebase (nota 8, pela média da temporada 8,0; média do episódio 8,7 só apareceu depois da nota; 8/12). Não é final de temporada nem de série. Próximo 1x09 (ainda sem título / \"Episódio 9\"): Crunchyroll/TVmaze domingo 22/11/2026 às 11h30; Banco e Bingebase sexta 27/11/2026."
     },
     {
       "nome": "Tudo É Justo",
@@ -93,9 +93,9 @@
     },
     {
       "nome": "O Instituto",
-      "em_dia_ate": "2x01",
-      "em_dia_em": "2026-11-08",
-      "obs": "2x01 visto; 9/16 conhecidos. Próximo: 2x02 em 2026-11-15. T2: 1/8 visto; 2x01 \"The Reckoning\" visto em 08/11/2026 no Banco de Séries (nota 9), Bingers (4,5 estrelas) e Bingebase (nota 9). Não é final de temporada nem de série. Banco de Séries 9/9 em Ativas em dia (grade de 09/11/2026); Bingers caught_up 2x01."
+      "em_dia_ate": "2x02",
+      "em_dia_em": "2026-11-20",
+      "obs": "2x02 \"The Sanctuary\" (\"O Santuário\") visto em 20/11/2026 (Banco de Séries serieid 39889: nota 8, média 7,83; Bingers 4 estrelas, 8/2 exato; Bingebase já marcado). Não é final de temporada nem de série. Banco 10/10 lançados. T2: 2/8 vistos. Bingers caught_up, furthest 2x02, all_aired_watched true. Semanal aos domingos: o próximo é o 2x03 \"Double Cross\" (\"Traição\", tradução própria), dom 22/11/2026, aí volta sozinha. O final da T2 é o 2x08 \"The Other Side\" (\"O Outro Lado\", tradução própria), em 27/12/2026."
     },
     {
       "nome": "Dragon Ball Super: Beerus",
