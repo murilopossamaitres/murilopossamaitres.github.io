@@ -1,37 +1,86 @@
 {
-  "titulo": "📺 Séries — sábado, 21 de novembro de 2026",
-  "atualizado_em": "2026-11-21T05:41-03:00",
+  "titulo": "📺 Séries — domingo, 22 de novembro de 2026",
+  "atualizado_em": "2026-11-22T05:39-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "Delegado",
+          "nome": "Dragon Ball Super: Beerus",
           "nome_original": null,
-          "episodios": "1x04",
+          "episodios": "1x07",
           "progresso": {
-            "texto": "4/7",
-            "vistos": 4,
-            "total": 7
+            "texto": "7/19",
+            "vistos": 7,
+            "total": 19
           },
-          "titulo_pt_nota": "\"Velhos Amigos\"",
-          "transmissao": "Canal Brasil, ontem, sexta-feira, 20 de novembro de 2026, às 22h",
-          "brasil": "+1 dia: Globoplay (plano Premium), hoje (horário não divulgado)",
+          "titulo_pt_nota": "\"A Ressurreição de 'F'\" (\"Resurrection 'F'\")",
+          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
+          "brasil": "Mesmo dia: Crunchyroll, às 13h (legendado)",
           "notas": [
-            "Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay; o final (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+            "Abre a saga do Freeza Dourado (segundo arco), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
-          "duracao": "duração não divulgada",
+          "duracao": "30 min",
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay; o final (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
+            "notas:Abre a saga do Freeza Dourado (segundo arco), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-22T05:41-03:00"
+          "novo_ate": "2026-11-23T05:38-03:00"
+        },
+        {
+          "nome": "Overgeared",
+          "nome_original": null,
+          "episodios": "1x09",
+          "progresso": {
+            "texto": "9/12",
+            "vistos": 9,
+            "total": 12
+          },
+          "titulo_pt_nota": "\"Os Companheiros da Guilda\" (tradução própria; a Crunchyroll ainda não divulgou o nome)",
+          "transmissao": "Tokyo MX / redes japonesas, hoje (~11h30 de Brasília)",
+          "brasil": "Mesmo dia: Crunchyroll, às 11h30 (legendado e dublado)",
+          "notas": [
+            "O Banco de Séries e o Bingers marcam as datas às sextas (1x09 na sexta-feira, 27 de novembro de 2026); o 1x10 sai no domingo, 29 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "duracao": "25 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "brasil",
+            "notas:O Banco de Séries e o Bingers marcam as datas às sextas (1x09 na sexta-feira, 27 de novembro de 2026); o 1x10 sai no domingo, 29 de novembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-23T05:38-03:00"
+        },
+        {
+          "nome": "O Instituto",
+          "nome_original": "The Institute",
+          "episodios": "2x03",
+          "progresso": {
+            "texto": "3/8",
+            "vistos": 3,
+            "total": 8
+          },
+          "titulo_pt_nota": "\"Traição\" (\"Double Cross\")",
+          "transmissao": "MGM+ nos EUA, hoje às 23h (21h de Nova York)",
+          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "notas": [
+            "Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "duracao": "60 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "notas:Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-23T05:38-03:00"
         }
       ]
     },
@@ -55,18 +104,7 @@
           "nome": "One Piece",
           "temporada": "dublagem do arco País de Wano",
           "info": "Netflix, episódios dublados a partir do 892 (anunciado pela Netflix Anime e pelo Portal Netflix no X em 19/11; número de episódios não divulgado)",
-          "texto": "🆕 15/12 (ter) - One Piece - dublagem do arco País de Wano - Netflix, episódios dublados a partir do 892 (anunciado pela Netflix Anime e pelo Portal Netflix no X em 19/11; número de episódios não divulgado)",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          "texto": "🆕 15/12 (ter) - One Piece - dublagem do arco País de Wano - Netflix, episódios dublados a partir do 892 (anunciado pela Netflix Anime e pelo Portal Netflix no X em 19/11; número de episódios não divulgado)"
         },
         {
           "selo": "🆕",
@@ -140,18 +178,7 @@
           "nome": "Invencível",
           "temporada": "T5",
           "info": "Prime Video, número de episódios e formato não divulgados (anunciado pelo Prime Video em 19/11, com teaser; mesma data em mais de 240 países, inclusive o Brasil)",
-          "texto": "🆕 17/02/2027 (qua) - Invencível - T5 - Prime Video, número de episódios e formato não divulgados (anunciado pelo Prime Video em 19/11, com teaser; mesma data em mais de 240 países, inclusive o Brasil)",
-          "campos_novos": [
-            "selo",
-            "data",
-            "dia_semana",
-            "nome",
-            "temporada",
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          "texto": "🆕 17/02/2027 (qua) - Invencível - T5 - Prime Video, número de episódios e formato não divulgados (anunciado pelo Prime Video em 19/11, com teaser; mesma data em mais de 240 países, inclusive o Brasil)"
         },
         {
           "selo": "",
@@ -243,14 +270,14 @@
           },
           {
             "nome": "Grey's Anatomy",
-            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu ontem, sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
-            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu ontem, sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "info": "T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu na sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
+            "texto": "Grey's Anatomy - T23, no ar nos EUA desde quinta-feira, 15 de outubro de 2026 (ABC); o 23x06 (\"Até Eu Cair\") saiu na sexta-feira, 20 de novembro de 2026, à 0h, e, depois de uma pausa, o 23x07 sai na sexta-feira, 8 de janeiro de 2027, à 0h; no Brasil deve ir para Sony Channel / UOL Play (não confirmado)",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-22T05:41-03:00"
+            "novo_ate": "2026-11-23T05:38-03:00"
           },
           {
             "nome": "St. Denis Medical",
@@ -286,12 +313,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          "brasil": "T1 a T9 no Disney+ (T10 sem data no Brasil)"
         },
         {
           "nome": "9-1-1: Nashville",
@@ -310,12 +332,7 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          "brasil": "T1 no Disney+ (T2 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)"
         },
         {
           "nome": "Avatar: Os Sete Refúgios",
@@ -444,12 +461,7 @@
           "brasil": "T1 a T22 no Disney+ (T23 no ar nos EUA desde quinta-feira, 15 de outubro de 2026)",
           "notas": [
             "22x08 \"Heavy on Me\" (\"Pesa muito em mim\") visto em 12/11/2026 no Banco de Séries (serieid 5577; nota 8,5, média 8,25), Bingers (nota 4,5) e Bingebase (nota 9, média 8,7). Não é final de temporada nem de série."
-          ],
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          ]
         },
         {
           "nome": "Kill Jackie",
@@ -517,12 +529,7 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027",
-          "campos_novos": [
-            "progresso"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          "brasil": "Netflix: T1 do Banco = T1 e T2 da Netflix; T2 do Banco = \"Altas Esperanças\" na Netflix; T3 do Banco chega à Netflix como \"Temporada 4 – Maravilhas à Vista\" (Parte 1) no sábado, 27 de fevereiro de 2027"
         },
         {
           "nome": "St. Denis Medical",
@@ -599,7 +606,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Apple TV (no ar desde ontem, sexta-feira, 20 de novembro de 2026)",
+          "brasil": "Apple TV (no ar desde sexta-feira, 20 de novembro de 2026)",
           "notas": [
             "Título do episódio oficial na Apple TV Brasil. O 1x05 (\"Nora Aprende a Servir\", título oficial) deve sair na quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA (Portal Apple TV no X; a Apple TV Press Brasil e o TVmaze ainda indicam sexta-feira, 27 de novembro de 2026); o final da temporada (1x08, \"Inauguração\") sai na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série"
           ],
@@ -613,7 +620,7 @@
             "notas:Título do episódio oficial na Apple TV Brasil. O 1x05 (\"Nora Aprende a Servir\", título oficial) deve sair na quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA (Portal Apple TV no X; a Apple TV Press Brasil e o TVmaze ainda indicam sexta-feira, 27 de novembro de 2026); o final da temporada (1x08, \"Inauguração\") sai na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-22T05:41-03:00"
+          "novo_ate": "2026-11-23T05:38-03:00"
         },
         {
           "nome": "Delegado",
@@ -632,7 +639,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Canal Brasil desde ontem, sexta-feira, 20 de novembro de 2026, às 22h; Globoplay (plano Premium) hoje",
+          "brasil": "Canal Brasil desde sexta-feira, 20 de novembro de 2026, às 22h; Globoplay (plano Premium) desde ontem, sábado, 21 de novembro de 2026",
           "notas": [
             "O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
           ],
@@ -643,7 +650,7 @@
             "notas:O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-22T05:41-03:00"
+          "novo_ate": "2026-11-23T05:38-03:00"
         },
         {
           "nome": "Terra da Máfia",
@@ -662,7 +669,7 @@
             "rotulo": "próximo",
             "duracao": "47 min"
           },
-          "brasil": "Paramount+ (2ª temporada completa desde ontem, sexta-feira, 20 de novembro de 2026; Info Paramount Warner no X)",
+          "brasil": "Paramount+ (2ª temporada completa desde sexta-feira, 20 de novembro de 2026; Info Paramount Warner no X)",
           "notas": [
             "⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, já em produção, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)"
           ],
@@ -676,7 +683,7 @@
             "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, já em produção, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-22T05:41-03:00"
+          "novo_ate": "2026-11-23T05:38-03:00"
         },
         {
           "nome": "Noturno",
@@ -725,7 +732,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Disney+ (3x01 e 3x02 no ar desde ontem, sexta-feira, 20 de novembro de 2026, às 5h)",
+          "brasil": "Disney+ (3x01 e 3x02 no ar desde sexta-feira, 20 de novembro de 2026, às 5h)",
           "notas": [
             "O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
           ],
@@ -739,7 +746,7 @@
             "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-22T05:41-03:00"
+          "novo_ate": "2026-11-23T05:38-03:00"
         },
         {
           "nome": "A Assassina",
@@ -783,13 +790,7 @@
           "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h)",
           "notas": [
             "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
-          ],
-          "campos_novos": [
-            "brasil",
-            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          ]
         },
         {
           "nome": "Diários de Armário: Coven Academy",
@@ -834,12 +835,7 @@
           "brasil": "Disney+ (2x05 no ar desde quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-21T05:45-03:00"
+          ]
         },
         {
           "nome": "The Exiled Heavy Knight Knows How to Game the System",
@@ -863,13 +859,7 @@
             "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-22T05:41-03:00"
@@ -879,7 +869,68 @@
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
+          },
+          "proximo": {
+            "texto": "1x07 - Resurrection 'F' / A Ressurreição de 'F'",
+            "codigo": "1x07",
+            "titulo_en": "Resurrection 'F'",
+            "titulo_pt": "A Ressurreição de 'F'",
+            "rotulo": "hoje",
+            "duracao": "30 min"
+          },
+          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
+          "brasil": "Crunchyroll, às 13h (legendado)",
+          "notas": [
+            "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-23T05:38-03:00"
+        },
+        {
+          "nome": "O Instituto",
+          "nome_original": "The Institute",
+          "status": "🟢",
+          "progresso": {
+            "texto": "10/11",
+            "vistos": 10,
+            "total": 11
+          },
+          "proximo": {
+            "texto": "2x03 - Double Cross / Traição",
+            "codigo": "2x03",
+            "titulo_en": "Double Cross",
+            "titulo_pt": "Traição",
+            "rotulo": "hoje",
+            "duracao": "60 min"
+          },
+          "transmissao": "MGM+ nos EUA, hoje às 23h",
+          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "notas": [
+            "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-23T05:38-03:00"
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1112,7 +1163,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-05"
+            "verificado_em": "2026-11-22"
           }
         },
         {
@@ -1159,7 +1210,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-05"
+            "verificado_em": "2026-11-22"
           }
         },
         {
@@ -1220,7 +1271,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-05"
+            "verificado_em": "2026-11-22"
           }
         },
         {
@@ -1269,7 +1320,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-05"
+            "verificado_em": "2026-11-22"
           }
         },
         {
@@ -1367,7 +1418,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-05"
+            "verificado_em": "2026-11-22"
           }
         },
         {
