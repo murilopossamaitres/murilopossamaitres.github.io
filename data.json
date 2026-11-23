@@ -1,62 +1,11 @@
 {
-  "titulo": "📺 Séries — domingo, 22 de novembro de 2026",
-  "atualizado_em": "2026-11-22T23:25-03:00",
+  "titulo": "📺 Séries — segunda-feira, 23 de novembro de 2026",
+  "atualizado_em": "2026-11-23T05:34-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "episodios": "1x07",
-          "progresso": {
-            "texto": "7/19",
-            "vistos": 7,
-            "total": 19
-          },
-          "titulo_pt_nota": "\"A Ressurreição de 'F'\" (\"Resurrection 'F'\")",
-          "transmissao": "Fuji TV / redes japonesas, hoje (~11h15 de Brasília — horário da TV japonesa, só referência)",
-          "brasil": "Mesmo dia: Crunchyroll, às 13h (legendado)",
-          "notas": [
-            "Abre a saga do Freeza Dourado (segundo arco), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
-          ],
-          "duracao": "30 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "notas:Abre a saga do Freeza Dourado (segundo arco), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-23T05:38-03:00"
-        },
-        {
-          "nome": "O Instituto",
-          "nome_original": "The Institute",
-          "episodios": "2x03",
-          "progresso": {
-            "texto": "3/8",
-            "vistos": 3,
-            "total": 8
-          },
-          "titulo_pt_nota": "\"Traição\" (\"Double Cross\")",
-          "transmissao": "MGM+ nos EUA, hoje às 23h (21h de Nova York)",
-          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
-          "notas": [
-            "Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
-          ],
-          "duracao": "60 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "notas:Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-23T05:38-03:00"
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -232,8 +181,14 @@
           },
           {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h, e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai na segunda-feira, 23 de novembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil"
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-24T05:34-03:00"
           },
           {
             "nome": "The Pitt",
@@ -441,9 +396,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "3/8",
+            "texto": "3/9",
             "vistos": 3,
-            "total": 8
+            "total": 9
           },
           "proximo": {
             "texto": "1x04 - Paper Trails / Rastros de Papel",
@@ -453,17 +408,18 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, e o 1x03 chegou na quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA na terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai na terça-feira, 24 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, e o 1x03 chegou na quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA na terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai nesta madrugada, terça-feira, 24 de novembro de 2026, à 0h",
           "notas": [
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04 e do 1x09 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
+            "brasil",
             "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04 e do 1x09 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-23T23:25-03:00"
+          "novo_ate": "2026-11-24T05:34-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -489,9 +445,9 @@
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "36/39",
+            "texto": "36/40",
             "vistos": 36,
-            "total": 39
+            "total": 40
           },
           "proximo": {
             "texto": "3x01 - He Ain't Noah Wyle / Ele Não É o Noah Wyle",
@@ -503,8 +459,47 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC), e o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") na segunda-feira, 23 de novembro de 2026, às 22h. O Banco de Séries já conta 39 episódios"
-          ]
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+          ],
+          "campos_novos": [
+            "progresso",
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-24T05:34-03:00"
+        },
+        {
+          "nome": "Tudo É Justo",
+          "nome_original": "All's Fair",
+          "status": "🟢",
+          "progresso": {
+            "texto": "13/14",
+            "vistos": 13,
+            "total": 14
+          },
+          "proximo": {
+            "texto": "2x05 - Liberty Unleashed / Liberty à Solta",
+            "codigo": "2x05",
+            "titulo_en": "Liberty Unleashed",
+            "titulo_pt": "Liberty à Solta",
+            "rotulo": "próximo",
+            "duracao": "duração não divulgada"
+          },
+          "brasil": "Disney+ (2x05 no ar desde quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
+          "notas": [
+            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-24T05:34-03:00"
         }
       ]
     },
@@ -578,7 +573,7 @@
             "rotulo": "próximo",
             "duracao": "duração não divulgada"
           },
-          "brasil": "Canal Brasil desde sexta-feira, 20 de novembro de 2026, às 22h; Globoplay (plano Premium) desde ontem, sábado, 21 de novembro de 2026",
+          "brasil": "Canal Brasil desde sexta-feira, 20 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 21 de novembro de 2026",
           "notas": [
             "O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
           ],
@@ -586,7 +581,40 @@
             "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-23T05:38-03:00"
+          "novo_ate": "2026-11-24T05:34-03:00"
+        },
+        {
+          "nome": "Dragon Ball Super: Beerus",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "6/7",
+            "vistos": 6,
+            "total": 7
+          },
+          "proximo": {
+            "texto": "1x07 - Resurrection 'F' / A Ressurreição de 'F'",
+            "codigo": "1x07",
+            "titulo_en": "Resurrection 'F'",
+            "titulo_pt": "A Ressurreição de 'F'",
+            "rotulo": "próximo",
+            "duracao": "30 min"
+          },
+          "brasil": "Crunchyroll (1x07 no ar desde ontem, domingo, 22 de novembro de 2026, às 13h, legendado)",
+          "notas": [
+            "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-24T05:34-03:00"
         },
         {
           "nome": "Terra da Máfia",
@@ -732,28 +760,6 @@
           ]
         },
         {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "status": "🟢",
-          "progresso": {
-            "texto": "13/14",
-            "vistos": 13,
-            "total": 14
-          },
-          "proximo": {
-            "texto": "2x05 - Liberty Unleashed / Liberty à Solta",
-            "codigo": "2x05",
-            "titulo_en": "Liberty Unleashed",
-            "titulo_pt": "Liberty à Solta",
-            "rotulo": "próximo",
-            "duracao": "duração não divulgada"
-          },
-          "brasil": "Disney+ (2x05 no ar desde quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
-          ]
-        },
-        {
           "nome": "The Exiled Heavy Knight Knows How to Game the System",
           "nome_original": null,
           "status": "🟢",
@@ -774,42 +780,6 @@
           "notas": [
             "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ]
-        }
-      ]
-    },
-    "episodio_hoje": {
-      "titulo": "Episódio de hoje",
-      "emoji": "📅",
-      "itens": [
-        {
-          "nome": "Dragon Ball Super: Beerus",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "6/7",
-            "vistos": 6,
-            "total": 7
-          },
-          "proximo": {
-            "texto": "1x07 - Resurrection 'F' / A Ressurreição de 'F'",
-            "codigo": "1x07",
-            "titulo_en": "Resurrection 'F'",
-            "titulo_pt": "A Ressurreição de 'F'",
-            "rotulo": "hoje",
-            "duracao": "30 min"
-          },
-          "transmissao": "Fuji TV / redes japonesas (~11h15 de Brasília — só referência)",
-          "brasil": "Crunchyroll, às 13h (legendado)",
-          "notas": [
-            "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Nome em português não divulgado (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-23T05:38-03:00"
         },
         {
           "nome": "O Instituto",
@@ -825,23 +795,28 @@
             "codigo": "2x03",
             "titulo_en": "Double Cross",
             "titulo_pt": "Traição",
-            "rotulo": "hoje",
+            "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "transmissao": "MGM+ nos EUA, hoje às 23h",
-          "brasil": "MGM+ (canal no Prime Video), hoje às 5h, segundo o Séries em Cena",
+          "brasil": "MGM+ (canal no Prime Video), no ar desde ontem, domingo, 22 de novembro de 2026, às 5h, segundo o Séries em Cena",
           "notas": [
-            "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
-            "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série"
+            "brasil",
+            "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-23T05:38-03:00"
+          "novo_ate": "2026-11-24T05:34-03:00"
         }
       ]
+    },
+    "episodio_hoje": {
+      "titulo": "Episódio de hoje",
+      "emoji": "📅",
+      "itens": []
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -1074,7 +1049,7 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-22"
+            "verificado_em": "2026-11-23"
           }
         },
         {
@@ -1121,7 +1096,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-22"
+            "verificado_em": "2026-11-23"
           }
         },
         {
@@ -1182,7 +1157,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-22"
+            "verificado_em": "2026-11-23"
           }
         },
         {
@@ -1231,7 +1206,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-22"
+            "verificado_em": "2026-11-23"
           }
         },
         {
@@ -1329,7 +1304,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-22"
+            "verificado_em": "2026-11-23"
           }
         },
         {
