@@ -1,11 +1,65 @@
 {
-  "titulo": "📺 Séries — segunda-feira, 23 de novembro de 2026",
-  "atualizado_em": "2026-11-23T18:30-03:00",
+  "titulo": "📺 Séries — terça-feira, 24 de novembro de 2026",
+  "atualizado_em": "2026-11-24T05:49-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Red River",
+          "nome_original": null,
+          "episodios": "1x21",
+          "progresso": {
+            "texto": "21/24",
+            "vistos": 21,
+            "total": 24
+          },
+          "titulo_pt_nota": "\"A decisão de nos separarmos\" (\"The Decision to Leave\")",
+          "transmissao": "NTV (Japão), hoje às 13h29",
+          "brasil": "Mesmo dia: Crunchyroll (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "notas": [
+            "Semanal às terças; o 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026. Nome em português do Bingebase. Não é final de temporada nem de série"
+          ],
+          "duracao": "30 min",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "notas:Semanal às terças; o 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026. Nome em português do Bingebase. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
+        },
+        {
+          "nome": "O Senhor dos Anéis: Os Anéis de Poder",
+          "nome_original": "The Lord of the Rings: The Rings of Power",
+          "episodios": "3x07 e 3x08",
+          "progresso": {
+            "texto": "24/24",
+            "vistos": 24,
+            "total": 24
+          },
+          "titulo_pt_nota": "\"A Forja do Um Anel\" e \"Episódio 8\" (\"Forging the One Ring\" e \"Episode 8\")",
+          "transmissao": "Prime Video, hoje às 23h de Brasília (18h do Pacífico)",
+          "brasil": "Mesmo dia: Prime Video, hoje às 23h (antecipado de quarta-feira, 25 de novembro de 2026; Critical Hits, Salada de Cinema, Telaverso, Observatório do Cinema)",
+          "notas": [
+            "⚠️ Final da 3ª temporada (os dois últimos episódios juntos). Não é final de série: a 4ª temporada está em desenvolvimento, mas ainda não foi renovada oficialmente. O 3x08 ainda não tem nome divulgado; nomes em português ainda não divulgados (tradução própria)"
+          ],
+          "duracao": "73 min + duração não divulgada",
+          "campos_novos": [
+            "episodios",
+            "progresso",
+            "titulo_pt_nota",
+            "transmissao",
+            "brasil",
+            "duracao",
+            "notas:⚠️ Final da 3ª temporada (os dois últimos episódios juntos). Não é final de série: a 4ª temporada está em desenvolvimento, mas ainda não foi renovada oficialmente. O 3x08 ainda não tem nome divulgado; nomes em português ainda não divulgados (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
+        }
+      ]
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
@@ -17,8 +71,14 @@
           "dia_semana": "ter",
           "nome": "Only Murders in the Building",
           "temporada": "T6",
-          "info": "Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)",
-          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, número de episódios e formato no Brasil não divulgados (anunciado pelo Disney+ Brasil no X em 17/11)"
+          "info": "Disney+, estreia com 2 episódios (Info Disney Hulu no X em 23/11); número total de episódios no Brasil não divulgado (anunciado pelo Disney+ Brasil no X em 17/11)",
+          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, estreia com 2 episódios (Info Disney Hulu no X em 23/11); número total de episódios no Brasil não divulgado (anunciado pelo Disney+ Brasil no X em 17/11)",
+          "campos_novos": [
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "selo": "🆕",
@@ -175,14 +235,14 @@
           },
           {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu ontem, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu ontem, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-24T05:34-03:00"
+            "novo_ate": "2026-11-25T05:42-03:00"
           },
           {
             "nome": "The Pitt",
@@ -402,18 +462,16 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, e o 1x03 chegou na quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net); o 1x08 (\"Sitiados\") saiu nos EUA na terça-feira, 17 de novembro de 2026, à 0h (NBC), e o 1x09 (\"Vista Grossa\") sai nesta madrugada, terça-feira, 24 de novembro de 2026, à 0h",
+          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, o 1x03 chegou na quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net, e o 1x04 chega na quinta-feira, 26 de novembro de 2026, segundo a Oficina da Net); o 1x09 (\"Vista Grossa\") saiu nos EUA hoje, terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\") sai na terça-feira, 5 de janeiro de 2027, à 0h",
           "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04 e do 1x09 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
           ],
           "campos_novos": [
-            "progresso",
-            "proximo",
             "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04 e do 1x09 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -453,14 +511,13 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu ontem, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
           ],
           "campos_novos": [
-            "progresso",
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") sai hoje, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu ontem, segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
           ],
           "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "nome": "Tudo É Justo",
@@ -482,6 +539,28 @@
           "brasil": "Disney+ (2x05 no ar desde quarta-feira, 18 de novembro de 2026; Olhar Digital, Tekimobile)",
           "notas": [
             "Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+          ]
+        },
+        {
+          "nome": "The Exiled Heavy Knight Knows How to Game the System",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "20/21",
+            "vistos": 20,
+            "total": 21
+          },
+          "proximo": {
+            "texto": "1x21 - Blackened Flameblade / Lâmina Flamejante Enegrecida",
+            "codigo": "1x21",
+            "titulo_en": "Blackened Flameblade",
+            "titulo_pt": "Lâmina Flamejante Enegrecida",
+            "rotulo": "próximo",
+            "duracao": "30 min"
+          },
+          "brasil": "Crunchyroll (1x21 no ar desde quinta-feira, 19 de novembro de 2026, às 13h, segundo o @_ANIMEse)",
+          "notas": [
+            "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ],
           "campos_novos": [
             "nome",
@@ -490,10 +569,10 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026"
+            "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
           ],
           "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          "novo_ate": "2026-11-25T05:42-03:00"
         }
       ]
     },
@@ -543,12 +622,7 @@
           "brasil": "Canal Brasil desde sexta-feira, 20 de novembro de 2026, às 22h; Globoplay (plano Premium) desde sábado, 21 de novembro de 2026",
           "notas": [
             "O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay. Não é final de temporada nem de série"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          ]
         },
         {
           "nome": "Dragon Ball Super: Beerus",
@@ -567,21 +641,15 @@
             "rotulo": "próximo",
             "duracao": "30 min"
           },
-          "brasil": "Crunchyroll (1x07 no ar desde ontem, domingo, 22 de novembro de 2026, às 13h, legendado)",
+          "brasil": "Crunchyroll (1x07 no ar desde domingo, 22 de novembro de 2026, às 13h, legendado)",
           "notas": [
             "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "nome": "Terra da Máfia",
@@ -688,10 +756,16 @@
             "rotulo": "próximo",
             "duracao": "74 min"
           },
-          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h)",
+          "brasil": "Prime Video (3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h; 3x07 e 3x08 hoje, terça-feira, 24 de novembro de 2026, às 23h)",
           "notas": [
-            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 e 3x08) na quarta-feira, 25 de novembro de 2026"
-          ]
+            "Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 \"A Forja do Um Anel\" e 3x08) sai hoje, terça-feira, 24 de novembro de 2026, às 23h, antecipado de quarta-feira, 25 de novembro de 2026 (Critical Hits, Salada de Cinema, Telaverso)"
+          ],
+          "campos_novos": [
+            "brasil",
+            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. O 3x05 (\"A Senhora de Lórien\") e o 3x06 (\"De Valinor\") saíram na quarta-feira, 18 de novembro de 2026 (tradução própria); o final da temporada (3x07 \"A Forja do Um Anel\" e 3x08) sai hoje, terça-feira, 24 de novembro de 2026, às 23h, antecipado de quarta-feira, 25 de novembro de 2026 (Critical Hits, Salada de Cinema, Telaverso)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "nome": "Diários de Armário: Coven Academy",
@@ -712,31 +786,15 @@
           },
           "brasil": "Disney+ (1x01 a 1x04 no ar desde sexta-feira, 13 de novembro de 2026, segundo o Info Disney Hulu e o Guia Disney+ Brasil)",
           "notas": [
-            "Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454: 4/6)",
-            "Próximos no Banco: 1x05 e 1x06 (ainda não vistos; sem data e sem nome divulgados). No Bingebase o progresso é 4/4 e o 1x05/1x06 aparecem como \"Delete Me\" (placeholder); a série foi renovada"
-          ]
-        },
-        {
-          "nome": "The Exiled Heavy Knight Knows How to Game the System",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "20/21",
-            "vistos": 20,
-            "total": 21
-          },
-          "proximo": {
-            "texto": "1x21 - Blackened Flameblade / Lâmina Flamejante Enegrecida",
-            "codigo": "1x21",
-            "titulo_en": "Blackened Flameblade",
-            "titulo_pt": "Lâmina Flamejante Enegrecida",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Crunchyroll (1x21 no ar desde quinta-feira, 19 de novembro de 2026, às 13h, segundo o @_ANIMEse)",
-          "notas": [
-            "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026"
-          ]
+            "Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454)",
+            "Em 24/11/2026 o Banco de Séries tirou o 1x05 e o 1x06 da contagem (passou de 4/6 para 4/4, como no Bingebase, onde eles aparecem como \"Delete Me\"); o Bingers ainda mostra o 1x05 como próximo. Sem data e sem nome divulgados; a série foi renovada"
+          ],
+          "campos_novos": [
+            "notas:Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454)",
+            "notas:Em 24/11/2026 o Banco de Séries tirou o 1x05 e o 1x06 da contagem (passou de 4/6 para 4/4, como no Bingebase, onde eles aparecem como \"Delete Me\"); o Bingers ainda mostra o 1x05 como próximo. Sem data e sem nome divulgados; a série foi renovada"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "nome": "O Instituto",
@@ -755,25 +813,53 @@
             "rotulo": "próximo",
             "duracao": "60 min"
           },
-          "brasil": "MGM+ (canal no Prime Video), no ar desde ontem, domingo, 22 de novembro de 2026, às 5h, segundo o Séries em Cena",
+          "brasil": "MGM+ (canal no Prime Video), no ar desde domingo, 22 de novembro de 2026, às 5h, segundo o Séries em Cena",
           "notas": [
             "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
           ],
           "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
+            "brasil"
           ],
           "novo": true,
-          "novo_ate": "2026-11-24T05:34-03:00"
+          "novo_ate": "2026-11-25T05:42-03:00"
         }
       ]
     },
     "episodio_hoje": {
       "titulo": "Episódio de hoje",
       "emoji": "📅",
-      "itens": []
+      "itens": [
+        {
+          "nome": "Red River",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "20/21",
+            "vistos": 20,
+            "total": 21
+          },
+          "proximo": {
+            "texto": "1x21 - The Decision to Leave / A decisão de nos separarmos",
+            "codigo": "1x21",
+            "titulo_en": "The Decision to Leave",
+            "titulo_pt": "A decisão de nos separarmos",
+            "rotulo": "hoje",
+            "duracao": "30 min"
+          },
+          "transmissao": "NTV (Japão), às 13h29",
+          "brasil": "Crunchyroll, mesmo dia (legendado; o 1x16 saiu às 14h15 no calendário da Crunchyroll Brasil)",
+          "notas": [
+            "Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "notas:Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
+        }
+      ]
     },
     "finalizadas_atrasadas": {
       "titulo": "Finalizadas atrasadas",
@@ -964,7 +1050,9 @@
             "emoji": "🛒",
             "rotulo": "Aluguel e compra",
             "valor": null,
-            "notas": [],
+            "notas": [
+              "Digital nos EUA: terça-feira, 8 de dezembro de 2026 (data de fora, só referência; CBR, via O Vício, Melhor do Cinema e Antihype, e @Boxreport no X, todos na segunda-feira, 23 de novembro de 2026). No Brasil a Warner ainda não divulgou data; a Apple TV e o Prime Video têm pré-venda sem data"
+            ],
             "linhas": [
               {
                 "loja": null,
@@ -1006,8 +1094,13 @@
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-23"
-          }
+            "verificado_em": "2026-11-24"
+          },
+          "campos_novos": [
+            "aluguel_compra"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-25T05:42-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -1053,7 +1146,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-23"
+            "verificado_em": "2026-11-24"
           }
         },
         {
@@ -1114,7 +1207,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-23"
+            "verificado_em": "2026-11-24"
           }
         },
         {
@@ -1163,7 +1256,7 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-23"
+            "verificado_em": "2026-11-24"
           }
         },
         {
@@ -1261,7 +1354,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-23"
+            "verificado_em": "2026-11-24"
           }
         },
         {
