@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — terça-feira, 24 de novembro de 2026",
-  "atualizado_em": "2026-11-24T18:39-03:00",
+  "atualizado_em": "2026-11-24T21:39-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -628,28 +628,6 @@
           ],
           "novo": true,
           "novo_ate": "2026-11-25T05:42-03:00"
-        },
-        {
-          "nome": "Terra da Máfia",
-          "nome_original": "MobLand",
-          "status": "🟢",
-          "progresso": {
-            "texto": "19/20",
-            "vistos": 19,
-            "total": 20
-          },
-          "proximo": {
-            "texto": "2x10 - The Queen Is Dead / A Rainha Está Morta",
-            "codigo": "2x10",
-            "titulo_en": "The Queen Is Dead",
-            "titulo_pt": "A Rainha Está Morta",
-            "rotulo": "próximo",
-            "duracao": "47 min"
-          },
-          "brasil": "Paramount+ (2ª temporada completa desde sexta-feira, 20 de novembro de 2026; Info Paramount Warner no X)",
-          "notas": [
-            "⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, já em produção, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)"
-          ]
         },
         {
           "nome": "Noturno",
