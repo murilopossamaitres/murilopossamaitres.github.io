@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 25 de novembro de 2026",
-  "atualizado_em": "2026-11-25T05:38-03:00",
+  "atualizado_em": "2026-11-25T13:21-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -102,13 +102,7 @@
           "nome": "Only Murders in the Building",
           "temporada": "T6",
           "info": "Disney+, estreia com 2 episódios (Info Disney Hulu no X em 23/11); número total de episódios no Brasil não divulgado (anunciado pelo Disney+ Brasil no X em 17/11)",
-          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, estreia com 2 episódios (Info Disney Hulu no X em 23/11); número total de episódios no Brasil não divulgado (anunciado pelo Disney+ Brasil no X em 17/11)",
-          "campos_novos": [
-            "info",
-            "texto"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-25T05:42-03:00"
+          "texto": "🆕 08/12 (ter) - Only Murders in the Building - T6 - Disney+, estreia com 2 episódios (Info Disney Hulu no X em 23/11); número total de episódios no Brasil não divulgado (anunciado pelo Disney+ Brasil no X em 17/11)"
         },
         {
           "selo": "🆕",
@@ -497,8 +491,7 @@
             "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
           ],
           "campos_novos": [
-            "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
+            "brasil"
           ],
           "novo": true,
           "novo_ate": "2026-11-26T05:38-03:00"
@@ -508,21 +501,21 @@
           "nome_original": "Nocturne",
           "status": "🟢",
           "progresso": {
-            "texto": "4/5",
-            "vistos": 4,
-            "total": 5
+            "texto": "5/6",
+            "vistos": 5,
+            "total": 6
           },
           "proximo": {
-            "texto": "1x05 - Solitude / Solidão",
-            "codigo": "1x05",
-            "titulo_en": "Solitude",
-            "titulo_pt": "Solidão",
+            "texto": "1x06 - Only Connect / Conexões",
+            "codigo": "1x06",
+            "titulo_en": "Only Connect",
+            "titulo_pt": "Conexões",
             "rotulo": "próximo",
-            "duracao": "54 min"
+            "duracao": "45 min"
           },
-          "brasil": "Apple TV (1x05 no ar desde quinta-feira, 19 de novembro de 2026, às 23h; 1x06 \"Conexões\" desde hoje, antecipado por causa do feriado de Ação de Graças nos EUA)",
+          "brasil": "Apple TV (1x06 \"Conexões\" no ar desde quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA)",
           "notas": [
-            "\"Solidão\" é o título oficial na Apple TV Brasil. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. O Banco de Séries ainda conta 5 episódios. Não é final de temporada nem de série"
+            "\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "campos_novos": [
             "nome",
@@ -531,10 +524,10 @@
             "progresso",
             "proximo",
             "brasil",
-            "notas:\"Solidão\" é o título oficial na Apple TV Brasil. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. O Banco de Séries ainda conta 5 episódios. Não é final de temporada nem de série"
+            "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-26T13:21-03:00"
         },
         {
           "nome": "Percy Jackson e os Olimpianos",
@@ -666,12 +659,6 @@
             "Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai amanhã, quinta-feira, 26 de novembro de 2026"
           ],
           "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
             "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai amanhã, quinta-feira, 26 de novembro de 2026"
           ],
           "novo": true,
@@ -705,7 +692,6 @@
             "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chega hoje ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "brasil",
             "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chega hoje ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "novo": true,
@@ -813,13 +799,7 @@
           "notas": [
             "Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454)",
             "Em 24/11/2026 o Banco de Séries tirou o 1x05 e o 1x06 da contagem (passou de 4/6 para 4/4, como no Bingebase, onde eles aparecem como \"Delete Me\"); o Bingers ainda mostra o 1x05 como próximo. Sem data e sem nome divulgados; a série foi renovada"
-          ],
-          "campos_novos": [
-            "notas:Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454)",
-            "notas:Em 24/11/2026 o Banco de Séries tirou o 1x05 e o 1x06 da contagem (passou de 4/6 para 4/4, como no Bingebase, onde eles aparecem como \"Delete Me\"); o Bingers ainda mostra o 1x05 como próximo. Sem data e sem nome divulgados; a série foi renovada"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-25T05:42-03:00"
+          ]
         },
         {
           "nome": "O Instituto",
@@ -841,12 +821,7 @@
           "brasil": "MGM+ (canal no Prime Video), no ar desde domingo, 22 de novembro de 2026, às 5h, segundo o Séries em Cena",
           "notas": [
             "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-25T05:42-03:00"
+          ]
         }
       ]
     },
@@ -1121,12 +1096,7 @@
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
             "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
             "verificado_em": "2026-11-25"
-          },
-          "campos_novos": [
-            "aluguel_compra"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-25T05:42-03:00"
+          }
         },
         {
           "titulo": "Godzilla Minus Zero",
