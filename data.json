@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — quarta-feira, 25 de novembro de 2026",
-  "atualizado_em": "2026-11-25T20:54-03:00",
+  "atualizado_em": "2026-11-25T21:40-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -877,6 +877,39 @@
             "duracao": "30 min"
           },
           "brasil": "Livros 1 a 4 no Paramount+ (não confirmado na plataforma)"
+        },
+        {
+          "nome": "Blade Runner 2099",
+          "nome_original": null,
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/8",
+            "vistos": 0,
+            "total": 8
+          },
+          "proximo": {
+            "texto": "1x01 - Hades / Hades",
+            "codigo": "1x01",
+            "titulo_en": "Hades",
+            "titulo_pt": "Hades",
+            "rotulo": "próximo",
+            "duracao": "63 min"
+          },
+          "brasil": "Prime Video (minissérie completa, 8 episódios, desde terça-feira, 24 de novembro de 2026, às 23h)",
+          "notas": [
+            "Título oficial no Brasil: \"Blade Runner 2099\" (TMDB pt-BR e Prime Video Brasil). Minissérie (encerrada; todos os episódios lançados juntos). Nomes dos episódios em português não divulgados (tradução própria)"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Título oficial no Brasil: \"Blade Runner 2099\" (TMDB pt-BR e Prime Video Brasil). Minissérie (encerrada; todos os episódios lançados juntos). Nomes dos episódios em português não divulgados (tradução própria)"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-26T21:40-03:00"
         },
         {
           "nome": "Coldwater",
