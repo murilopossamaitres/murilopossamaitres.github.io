@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 27 de novembro de 2026",
-  "atualizado_em": "2026-11-27T05:34-03:00",
+  "atualizado_em": "2026-11-27T13:42-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -31,7 +31,7 @@
             "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x02 foi visto em 26/11/2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T05:34-03:00"
+          "novo_ate": "2026-11-28T13:42-03:00"
         },
         {
           "nome": "Percy Jackson e os Olimpianos",
@@ -58,7 +58,7 @@
             "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T05:34-03:00"
+          "novo_ate": "2026-11-28T13:42-03:00"
         },
         {
           "nome": "Delegado",
@@ -365,30 +365,30 @@
           "nome_original": "Carrie",
           "status": "🔴",
           "progresso": {
-            "texto": "1/8",
-            "vistos": 1,
+            "texto": "2/8",
+            "vistos": 2,
             "total": 8
           },
           "proximo": {
-            "texto": "1x02 - Foreign Language / Língua Estrangeira",
-            "codigo": "1x02",
-            "titulo_en": "Foreign Language",
-            "titulo_pt": "Língua Estrangeira",
+            "texto": "1x03 - Social Studies / Estudos Sociais",
+            "codigo": "1x03",
+            "titulo_en": "Social Studies",
+            "titulo_pt": "Estudos Sociais",
             "rotulo": "próximo",
-            "duracao": "52 min"
+            "duracao": "49 min"
           },
           "brasil": "T1 completa no Prime Video (os 8 episódios no ar desde quarta-feira, 7 de outubro de 2026, às 4h)",
           "notas": [
-            "Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026 no Bingers; o Banco de Séries ainda mostra 0/8 (1x01 não marcado lá). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+            "Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (Banco 9,0) foi visto em 26/11/2026; o 1x02 \"Língua Estrangeira\" (\"Foreign Language\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 8,5, média 8,49, 2/8; Bingers 4,5; Bingebase 9, média 8,9, 2/8, às 13h18). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
             "brasil",
-            "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026 no Bingers; o Banco de Séries ainda mostra 0/8 (1x01 não marcado lá). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+            "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (Banco 9,0) foi visto em 26/11/2026; o 1x02 \"Língua Estrangeira\" (\"Foreign Language\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 8,5, média 8,49, 2/8; Bingers 4,5; Bingebase 9, média 8,9, 2/8, às 13h18). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T05:34-03:00"
+          "novo_ate": "2026-11-28T13:20-03:00"
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -707,6 +707,39 @@
           ],
           "novo": true,
           "novo_ate": "2026-11-28T05:34-03:00"
+        },
+        {
+          "nome": "Segurança Nacional",
+          "nome_original": "Secret Service",
+          "status": "🔴",
+          "progresso": {
+            "texto": "0/1",
+            "vistos": 0,
+            "total": 1
+          },
+          "proximo": {
+            "texto": "1x01 - Episode 1 / Episódio 1",
+            "codigo": "1x01",
+            "titulo_en": "Episode 1",
+            "titulo_pt": "Episódio 1",
+            "rotulo": "próximo",
+            "duracao": "47 min"
+          },
+          "brasil": "MGM+ (canal no Prime Video; também canal na Apple TV), 1x01 no ar desde domingo, 22 de novembro de 2026 (horário no Brasil não divulgado; nos EUA, domingo às 22h ET/PT)",
+          "notas": [
+            "Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai no domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05)."
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai no domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05)."
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-28T13:42-03:00"
         }
       ]
     },

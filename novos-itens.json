@@ -266,8 +266,8 @@
    }
   },
   "ativas_atrasadas|Carrie, a Estranha": {
-   "hash": "b18c13813f2efa13",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "5b80af6a30b26685",
+   "desde": "2026-11-27T13:20-03:00",
    "campos": {
     "nome": {
      "hash": "d3140ae839a7accf",
@@ -282,20 +282,20 @@
      "desde": "2026-10-22T08:00-03:00"
     },
     "progresso": {
-     "hash": "e8a912e43d8ca165",
-     "desde": "2026-11-26T21:40-03:00"
+     "hash": "ab7d6f6c1e76229e",
+     "desde": "2026-11-27T13:20-03:00"
     },
     "proximo": {
-     "hash": "7986f79c10adefcf",
-     "desde": "2026-11-26T21:40-03:00"
+     "hash": "fbd026936e76ab5e",
+     "desde": "2026-11-27T13:20-03:00"
     },
     "brasil": {
      "hash": "913f7d37de364ad0",
      "desde": "2026-11-26T21:40-03:00"
     },
-    "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026 no Bingers; o Banco de Séries ainda mostra 0/8 (1x01 não marcado lá). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar": {
+    "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (Banco 9,0) foi visto em 26/11/2026; o 1x02 \"Língua Estrangeira\" (\"Foreign Language\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 8,5, média 8,49, 2/8; Bingers 4,5; Bingebase 9, média 8,9, 2/8, às 13h18). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar": {
      "hash": "1",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:20-03:00"
     }
    }
   },
@@ -1063,86 +1063,6 @@
     }
    }
   },
-  "lancamentos|Terra da Máfia": {
-   "hash": "f5666b4f0d1ec0b6",
-   "desde": "2026-11-20T05:45-03:00",
-   "campos": {
-    "nome": {
-     "hash": "7762b5efab348535",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "nome_original": {
-     "hash": "c4873e62b3b23b3d",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "episodios": {
-     "hash": "39f44ec499bb4a3a",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "progresso": {
-     "hash": "78b3a1215cee2cdc",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "titulo_pt_nota": {
-     "hash": "389919efed47e649",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "transmissao": {
-     "hash": "30978246865be3e6",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "brasil": {
-     "hash": "9fa9f828a732ab37",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "duracao": {
-     "hash": "e9dc3acfbcab597c",
-     "desde": "2026-11-13T05:43-03:00"
-    },
-    "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª temporada, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)": {
-     "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
-    }
-   }
-  },
-  "episodio_hoje|Terra da Máfia": {
-   "hash": "cd4ca0fcebc25572",
-   "desde": "2026-11-20T05:45-03:00",
-   "campos": {
-    "nome": {
-     "hash": "7762b5efab348535",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "nome_original": {
-     "hash": "c4873e62b3b23b3d",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "status": {
-     "hash": "6045bfc7dbf0dcb4",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "progresso": {
-     "hash": "4238a6a88a1d22dd",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "proximo": {
-     "hash": "19f8693ae02ef4e6",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "transmissao": {
-     "hash": "c50e8a011add1e04",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "brasil": {
-     "hash": "f57bd6df2dbcc2c7",
-     "desde": "2026-10-30T05:35-03:00"
-    },
-    "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, ainda sem data). Nome em português ainda não divulgado (tradução própria)": {
-     "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
-    }
-   }
-  },
   "novidades_sem_data|9-1-1": {
    "hash": "2ad8af62285895d9",
    "desde": "2026-11-21T05:41-03:00",
@@ -1320,44 +1240,6 @@
     "texto": {
      "hash": "fec81e7d05841b03",
      "desde": "2026-10-30T07:31-03:00"
-    }
-   }
-  },
-  "episodio_hoje|Noturno": {
-   "hash": "c759a20e79b78c90",
-   "desde": "2026-11-20T05:45-03:00",
-   "campos": {
-    "nome": {
-     "hash": "24e5b099a12a6551",
-     "desde": "2026-10-30T23:14-03:00"
-    },
-    "nome_original": {
-     "hash": "063098a1d714361f",
-     "desde": "2026-10-30T23:14-03:00"
-    },
-    "status": {
-     "hash": "6045bfc7dbf0dcb4",
-     "desde": "2026-10-30T23:14-03:00"
-    },
-    "progresso": {
-     "hash": "36ecdbf6609b67b4",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "proximo": {
-     "hash": "14d66159907f8f06",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "transmissao": {
-     "hash": "362859b04e16fabd",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "brasil": {
-     "hash": "4c12608653688fde",
-     "desde": "2026-10-30T23:14-03:00"
-    },
-    "notas:O 1x06 sai na quarta-feira, 25 de novembro de 2026 (TVmaze). Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série": {
-     "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
     }
    }
   },
@@ -1672,48 +1554,6 @@
     "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série": {
      "hash": "1",
      "desde": "2026-11-26T21:40-03:00"
-    }
-   }
-  },
-  "lancamentos|Awkwafina - A Cozinheira Improvável": {
-   "hash": "d1ca85edf7fe92d4",
-   "desde": "2026-11-20T05:45-03:00",
-   "campos": {
-    "nome": {
-     "hash": "c91926cfb4199386",
-     "desde": "2026-11-06T05:47-03:00"
-    },
-    "nome_original": {
-     "hash": "2be88ca4242c76e8",
-     "desde": "2026-11-06T05:47-03:00"
-    },
-    "episodios": {
-     "hash": "afa3ff4af02364b2",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "progresso": {
-     "hash": "0ead36e6aa61c418",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "titulo_pt_nota": {
-     "hash": "ccfc29414654588a",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "transmissao": {
-     "hash": "3c19bfe1b9c828ea",
-     "desde": "2026-11-13T05:43-03:00"
-    },
-    "brasil": {
-     "hash": "4c12608653688fde",
-     "desde": "2026-11-13T05:43-03:00"
-    },
-    "duracao": {
-     "hash": "d13829dac20f8209",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "notas:Semanal às sextas; o 1x05 (\"Nora Aprende a Servir\", \"Nora Learns to Serve\") sai na sexta-feira, 27 de novembro de 2026, e o final da temporada (1x08, \"Noite de Estreia\") na sexta-feira, 18 de dezembro de 2026. Nomes em português ainda não divulgados (tradução própria). Não é final de temporada nem de série": {
-     "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
     }
    }
   },
@@ -2581,7 +2421,7 @@
   },
   "lancamentos|Percy Jackson e os Olimpianos": {
    "hash": "3ef3f1cece2f3d48",
-   "desde": "2026-11-27T05:34-03:00",
+   "desde": "2026-11-27T13:42-03:00",
    "campos": {
     "nome": {
      "hash": "89de2f96358bc93d",
@@ -2593,23 +2433,23 @@
     },
     "episodios": {
      "hash": "15aae51f55af94ac",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "progresso": {
      "hash": "0ead36e6aa61c418",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "titulo_pt_nota": {
      "hash": "a91c80395602c47e",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "transmissao": {
      "hash": "aeb96a8945f6d195",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "brasil": {
      "hash": "8b962e35d2d82e15",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "duracao": {
      "hash": "d13829dac20f8209",
@@ -2617,7 +2457,7 @@
     },
     "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     }
    }
   },
@@ -3340,6 +3180,40 @@
     "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia": {
      "hash": "1",
      "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Segurança Nacional": {
+   "hash": "593748201b1890e7",
+   "desde": "2026-11-27T13:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "b81472730606c749",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "nome_original": {
+     "hash": "3b0635406f6569f7",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "progresso": {
+     "hash": "5405802115c6b45b",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "proximo": {
+     "hash": "8d6ec51d034e1bb0",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "brasil": {
+     "hash": "449bd0db05eb74a1",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai no domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05).": {
+     "hash": "1",
+     "desde": "2026-11-27T13:42-03:00"
     }
    }
   }
