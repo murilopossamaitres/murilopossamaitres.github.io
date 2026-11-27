@@ -1,93 +1,37 @@
 {
-  "titulo": "📺 Séries — quarta-feira, 25 de novembro de 2026",
-  "atualizado_em": "2026-11-25T21:40-03:00",
+  "titulo": "📺 Séries — quinta-feira, 26 de novembro de 2026",
+  "atualizado_em": "2026-11-26T21:51-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
       "itens": [
         {
-          "nome": "12 12 12",
+          "nome": "Line of Fire",
           "nome_original": null,
           "episodios": "1x04",
           "progresso": {
-            "texto": "4/8",
+            "texto": "4/9",
             "vistos": 4,
-            "total": 8
+            "total": 9
           },
-          "titulo_pt_nota": "\"É Assim Que Se Faz um Menino\" (\"That's How You Make a Boy Baby\")",
-          "transmissao": "Apple TV, hoje (antecipado da sexta-feira por causa do feriado de Ação de Graças nos EUA; a @AppleTV anunciou no X, na terça-feira, 24 de novembro de 2026, às 11h, que o novo episódio estreava \"em 12 horas\")",
-          "brasil": "Apple TV (no ar desde ontem, terça-feira, 24 de novembro de 2026, às 23h; a página da Apple TV Brasil mostra \"Novo episódio: quarta\")",
+          "titulo_pt_nota": "\"Rastros de Papel\" (\"Paper Trails\")",
+          "transmissao": "HBO Max Brasil, hoje, quinta-feira, 26 de novembro de 2026 (horário não divulgado; Oficina da Net e Olhar Digital, listas da semana de 23 a 29/11)",
+          "brasil": "HBO Max (desde quinta-feira, 5 de novembro de 2026; novos às quintas, segundo o Banco de Séries; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, e o 1x03 na quinta-feira, 19 de novembro de 2026, segundo a Oficina da Net e o Olhar Digital)",
           "notas": [
-            "Título oficial na Apple TV Brasil. 8 episódios; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
+            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série"
           ],
-          "duracao": "48 min",
+          "duracao": "60 min",
           "campos_novos": [
             "episodios",
             "progresso",
             "titulo_pt_nota",
             "transmissao",
             "brasil",
-            "duracao",
-            "notas:Título oficial na Apple TV Brasil. 8 episódios; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
+            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
-        },
-        {
-          "nome": "Noturno",
-          "nome_original": "Nocturne",
-          "episodios": "1x06",
-          "progresso": {
-            "texto": "6/10",
-            "vistos": 6,
-            "total": 10
-          },
-          "titulo_pt_nota": "\"Conexões\" (\"Only Connect\")",
-          "transmissao": "Apple TV, hoje (antecipado da sexta-feira por causa do feriado de Ação de Graças nos EUA)",
-          "brasil": "Apple TV (a página da Apple TV Brasil mostra \"Novo episódio: quarta\"; horário não divulgado, o 12 12 12 entrou ontem às 23h)",
-          "notas": [
-            "\"Conexões\" é o título oficial na Apple TV Brasil. O 1x07 (\"Céus Cinzentos\", \"Grey Skies\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "duracao": "45 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "duracao",
-            "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x07 (\"Céus Cinzentos\", \"Grey Skies\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
-        },
-        {
-          "nome": "Tudo É Justo",
-          "nome_original": "All's Fair",
-          "episodios": "2x06",
-          "progresso": {
-            "texto": "15/17",
-            "vistos": 15,
-            "total": 17
-          },
-          "titulo_pt_nota": "\"Rainhas\" (\"Queens\")",
-          "transmissao": "Hulu (EUA), hoje (o Hulu lança o 2x06 e o 2x07 juntos por causa do feriado de Ação de Graças)",
-          "brasil": "Mesmo dia: Disney+, hoje (horário não divulgado; o Guia Disney+ Brasil e a Exame listam só o 2x06 hoje; a Oficina da Net lista o 2x06 e o 2x07; o Banco de Séries já conta o 2x06)",
-          "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai hoje ou na quarta-feira, 2 de dezembro de 2026 (fontes divergem), e o final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) na quarta-feira, 2 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "duracao": "duração não divulgada",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai hoje ou na quarta-feira, 2 de dezembro de 2026 (fontes divergem), e o final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) na quarta-feira, 2 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         }
       ]
     },
@@ -139,6 +83,26 @@
           "temporada": "T3",
           "info": "Disney+, número de episódios não divulgado (semanal; nos EUA estreia na ABC na terça-feira, 5 de janeiro de 2027; anunciado pelo Guia Disney+ Brasil e pelo Info Disney Hulu no X em 20/11)",
           "texto": "🆕 06/01/2027 (qua) - Uma Mente Excepcional - T3 - Disney+, número de episódios não divulgado (semanal; nos EUA estreia na ABC na terça-feira, 5 de janeiro de 2027; anunciado pelo Guia Disney+ Brasil e pelo Info Disney Hulu no X em 20/11)"
+        },
+        {
+          "selo": "🆕",
+          "data": "07/01/2027",
+          "dia_semana": "qui",
+          "nome": "The Pitt",
+          "temporada": "T3",
+          "info": "HBO Max, número de episódios e formato não divulgados (anunciado pela @HBOMaxBrasil no X em 25/11, às 14h22; o Bingers já aponta o 3x01 nesta data)",
+          "texto": "🆕 07/01/2027 (qui) - The Pitt - T3 - HBO Max, número de episódios e formato não divulgados (anunciado pela @HBOMaxBrasil no X em 25/11, às 14h22; o Bingers já aponta o 3x01 nesta data)",
+          "campos_novos": [
+            "selo",
+            "data",
+            "dia_semana",
+            "nome",
+            "temporada",
+            "info",
+            "texto"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "selo": "",
@@ -244,8 +208,14 @@
           },
           {
             "nome": "Doc",
-            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h",
-            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h, e o 3x09 sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h"
+            "info": "T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h; o 3x09 (\"When It Rains...\", tradução própria ainda não feita no título oficial) sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h, e o 3x10 (\"It Pours\") sai na terça-feira, 5 de janeiro de 2027, às 23h",
+            "texto": "Doc - T3, no ar nos EUA desde terça-feira, 22 de setembro de 2026 (FOX); depois de uma pausa, o 3x06 (\"Fachada\") saiu na terça-feira, 3 de novembro de 2026; o 3x07 (\"Medidas Heroicas\") saiu na terça-feira, 10 de novembro de 2026, às 23h; o 3x08 (\"Operação\") saiu na terça-feira, 17 de novembro de 2026, às 23h; o 3x09 (\"When It Rains...\", tradução própria ainda não feita no título oficial) sai, depois de nova pausa, na terça-feira, 1º de dezembro de 2026, às 23h, e o 3x10 (\"It Pours\") sai na terça-feira, 5 de janeiro de 2027, às 23h",
+            "campos_novos": [
+              "info",
+              "texto"
+            ],
+            "novo": true,
+            "novo_ate": "2026-11-27T21:40-03:00"
           },
           {
             "nome": "Fire Country",
@@ -259,19 +229,14 @@
           },
           {
             "nome": "St. Denis Medical",
-            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
-            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\") sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "info": "T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Hand of Gold\" / \"Mão de Ouro\", tradução própria; o TVmaze atualizou o título) sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
+            "texto": "St. Denis Medical - T3, no ar nos EUA desde segunda-feira, 2 de novembro de 2026 (NBC; 3x01 \"Ele Não É o Noah Wyle\"); o 3x03 (\"E Aí, St. D!\") saiu na segunda-feira, 16 de novembro de 2026, às 22h; o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Hand of Gold\" / \"Mão de Ouro\", tradução própria; o TVmaze atualizou o título) sai na segunda-feira, 7 de dezembro de 2026, às 22h; a T2 está no Universal+, T3 sem data no Brasil",
             "campos_novos": [
               "info",
               "texto"
             ],
             "novo": true,
-            "novo_ate": "2026-11-26T05:38-03:00"
-          },
-          {
-            "nome": "The Pitt",
-            "info": "T3 🔜 HBO Max, janeiro de 2027 (anunciado pela HBO Max; dia ainda não divulgado)",
-            "texto": "The Pitt - T3 🔜 HBO Max, janeiro de 2027 (anunciado pela HBO Max; dia ainda não divulgado)"
+            "novo_ate": "2026-11-27T21:40-03:00"
           }
         ]
       }
@@ -280,6 +245,39 @@
       "titulo": "Ativas atrasadas",
       "emoji": "⏳",
       "itens": [
+        {
+          "nome": "12 12 12",
+          "nome_original": null,
+          "status": "🟢",
+          "progresso": {
+            "texto": "3/4",
+            "vistos": 3,
+            "total": 4
+          },
+          "proximo": {
+            "texto": "1x04 - That's How You Make a Boy Baby / É Assim Que Se Faz um Menino",
+            "codigo": "1x04",
+            "titulo_en": "That's How You Make a Boy Baby",
+            "titulo_pt": "É Assim Que Se Faz um Menino",
+            "rotulo": "próximo",
+            "duracao": "48 min"
+          },
+          "brasil": "Apple TV (1x04 no ar desde terça-feira, 24 de novembro de 2026, às 23h; antecipado da sexta-feira por causa do feriado de Ação de Graças nos EUA; a @AppleTV anunciou no X, na terça-feira, 24 de novembro de 2026, às 11h, que o novo episódio estreava \"em 12 horas\")",
+          "notas": [
+            "Título oficial na Apple TV Brasil. 8 episódios no total; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Título oficial na Apple TV Brasil. 8 episódios no total; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
+        },
         {
           "nome": "9-1-1",
           "nome_original": null,
@@ -345,22 +343,30 @@
           "nome_original": "Carrie",
           "status": "🔴",
           "progresso": {
-            "texto": "0/8",
-            "vistos": 0,
+            "texto": "1/8",
+            "vistos": 1,
             "total": 8
           },
           "proximo": {
-            "texto": "1x01 - First Period / Primeiro Período",
-            "codigo": "1x01",
-            "titulo_en": "First Period",
-            "titulo_pt": "Primeiro Período",
+            "texto": "1x02 - Foreign Language / Língua Estrangeira",
+            "codigo": "1x02",
+            "titulo_en": "Foreign Language",
+            "titulo_pt": "Língua Estrangeira",
             "rotulo": "próximo",
-            "duracao": "55 min"
+            "duracao": "52 min"
           },
-          "brasil": "T1 completa no Prime Video",
+          "brasil": "T1 completa no Prime Video (os 8 episódios no ar desde quarta-feira, 7 de outubro de 2026, às 4h)",
           "notas": [
-            "Minissérie. O nome em português ainda diverge na pontuação (\"Carrie, a Estranha\" ou \"Carrie: A Estranha\")"
-          ]
+            "Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026. Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+          ],
+          "campos_novos": [
+            "progresso",
+            "proximo",
+            "brasil",
+            "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026. Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "nome": "Cyberpunk: Mercenários",
@@ -470,33 +476,6 @@
           ]
         },
         {
-          "nome": "Line of Fire",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "3/9",
-            "vistos": 3,
-            "total": 9
-          },
-          "proximo": {
-            "texto": "1x04 - Paper Trails / Rastros de Papel",
-            "codigo": "1x04",
-            "titulo_en": "Paper Trails",
-            "titulo_pt": "Rastros de Papel",
-            "rotulo": "próximo",
-            "duracao": "60 min"
-          },
-          "brasil": "HBO Max desde quinta-feira, 5 de novembro de 2026 (número de episódios na estreia não divulgado; novos às quintas, segundo o BDS; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, segundo a Oficina da Net, o 1x03 chegou na quinta-feira, 19 de novembro de 2026, segundo o Olhar Digital e a Oficina da Net, e o 1x04 chega amanhã, quinta-feira, 26 de novembro de 2026, segundo a Oficina da Net); o 1x09 (\"Vista Grossa\") saiu nos EUA ontem, terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\") sai na terça-feira, 5 de janeiro de 2027, à 0h",
-          "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026"
-          ],
-          "campos_novos": [
-            "brasil"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
-        },
-        {
           "nome": "Noturno",
           "nome_original": "Nocturne",
           "status": "🟢",
@@ -516,51 +495,7 @@
           "brasil": "Apple TV (1x06 \"Conexões\" no ar desde quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA)",
           "notas": [
             "\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T13:21-03:00"
-        },
-        {
-          "nome": "Percy Jackson e os Olimpianos",
-          "nome_original": "Percy Jackson and the Olympians",
-          "status": "🟢",
-          "progresso": {
-            "texto": "16/18",
-            "vistos": 16,
-            "total": 18
-          },
-          "proximo": {
-            "texto": "3x01 - My Rescue Operation Goes Very Wrong / Minha Operação de Resgate Dá Muito Errado",
-            "codigo": "3x01",
-            "titulo_en": "My Rescue Operation Goes Very Wrong",
-            "titulo_pt": "Minha Operação de Resgate Dá Muito Errado",
-            "rotulo": "próximo",
-            "duracao": "duração não divulgada"
-          },
-          "brasil": "Disney+ (3x01 e 3x02 no ar desde sexta-feira, 20 de novembro de 2026, às 5h)",
-          "notas": [
-            "O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          ]
         },
         {
           "nome": "A Série Pokémon: Horizontes",
@@ -600,13 +535,13 @@
           },
           "brasil": "T1 e T2 no Universal+ (T3 no ar nos EUA desde segunda-feira, 2 de novembro de 2026)",
           "notas": [
-            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+            "Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Hand of Gold\" / \"Mão de Ouro\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
           ],
           "campos_novos": [
-            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Caminhos Não Seguidos\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
+            "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Hand of Gold\" / \"Mão de Ouro\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "nome": "Tudo É Justo",
@@ -627,16 +562,13 @@
           },
           "brasil": "Disney+ (2x06 no ar desde quarta-feira, 25 de novembro de 2026)",
           "notas": [
-            "Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 sai hoje ou na quarta-feira, 2 de dezembro de 2026 (Guia Disney+ Brasil e Exame: 02/12; Oficina da Net: hoje), e o final da temporada (2x08) na quarta-feira, 2 de dezembro de 2026. Não é final de temporada nem de série"
+            "Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai na quarta-feira, 2 de dezembro de 2026, segundo o Guia Disney+ Brasil e a Exame; a Oficina da Net (lista da semana, 23/11) listou o 2x06 e o 2x07 em 25/11, sem confirmação de que o 2x07 tenha entrado. O final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) é na quarta-feira, 2 de dezembro de 2026 (Bingebase: 09/12). Não é final de temporada nem de série"
           ],
           "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 sai hoje ou na quarta-feira, 2 de dezembro de 2026 (Guia Disney+ Brasil e Exame: 02/12; Oficina da Net: hoje), e o final da temporada (2x08) na quarta-feira, 2 de dezembro de 2026. Não é final de temporada nem de série"
+            "notas:Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai na quarta-feira, 2 de dezembro de 2026, segundo o Guia Disney+ Brasil e a Exame; a Oficina da Net (lista da semana, 23/11) listou o 2x06 e o 2x07 em 25/11, sem confirmação de que o 2x07 tenha entrado. O final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) é na quarta-feira, 2 de dezembro de 2026 (Bingebase: 09/12). Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T20:54-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         }
       ]
     },
@@ -663,43 +595,13 @@
           },
           "brasil": "Crunchyroll (1x07 no ar desde domingo, 22 de novembro de 2026, às 13h, legendado)",
           "notas": [
-            "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chega hoje ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
+            "O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ontem ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e chega à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "campos_novos": [
-            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chega hoje ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
+            "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ontem ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e chega à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
-        },
-        {
-          "nome": "Red River",
-          "nome_original": null,
-          "status": "🟢",
-          "progresso": {
-            "texto": "20/21",
-            "vistos": 20,
-            "total": 21
-          },
-          "proximo": {
-            "texto": "1x21 - The Decision to Leave / A decisão de nos separarmos",
-            "codigo": "1x21",
-            "titulo_en": "The Decision to Leave",
-            "titulo_pt": "A decisão de nos separarmos",
-            "rotulo": "próximo",
-            "duracao": "30 min"
-          },
-          "brasil": "Crunchyroll (1x21 no ar desde ontem, terça-feira, 24 de novembro de 2026, legendado)",
-          "notas": [
-            "Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026"
-          ],
-          "campos_novos": [
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "nome": "A Assassina",
@@ -740,17 +642,16 @@
             "rotulo": "próximo",
             "duracao": "74 min"
           },
-          "brasil": "Prime Video (3ª temporada completa: 3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h; 3x07 e 3x08 desde ontem, terça-feira, 24 de novembro de 2026, às 23h)",
+          "brasil": "Prime Video (3ª temporada completa: 3x01 a 3x04 no ar desde quarta-feira, 11 de novembro de 2026, às 5h; 3x05 e 3x06 desde quarta-feira, 18 de novembro de 2026, às 5h; 3x07 e 3x08 desde terça-feira, 24 de novembro de 2026, às 23h)",
           "notas": [
-            "Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"A Forja do Um Anel\" e 3x08 (sem nome divulgado), traduções próprias. Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia"
+            "Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia"
           ],
           "campos_novos": [
-            "progresso",
             "brasil",
-            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"A Forja do Um Anel\" e 3x08 (sem nome divulgado), traduções próprias. Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia"
+            "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "nome": "Diários de Armário: Coven Academy",
@@ -794,8 +695,13 @@
           },
           "brasil": "MGM+ (canal no Prime Video), no ar desde domingo, 22 de novembro de 2026, às 5h, segundo o Séries em Cena",
           "notas": [
-            "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
-          ]
+            "T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "campos_novos": [
+            "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         }
       ]
     },
@@ -804,35 +710,39 @@
       "emoji": "📅",
       "itens": [
         {
-          "nome": "12 12 12",
+          "nome": "Line of Fire",
           "nome_original": null,
           "status": "🟢",
           "progresso": {
-            "texto": "3/4",
+            "texto": "3/9",
             "vistos": 3,
-            "total": 4
+            "total": 9
           },
           "proximo": {
-            "texto": "1x04 - That's How You Make a Boy Baby / É Assim Que Se Faz um Menino",
+            "texto": "1x04 - Paper Trails / Rastros de Papel",
             "codigo": "1x04",
-            "titulo_en": "That's How You Make a Boy Baby",
-            "titulo_pt": "É Assim Que Se Faz um Menino",
+            "titulo_en": "Paper Trails",
+            "titulo_pt": "Rastros de Papel",
             "rotulo": "hoje",
-            "duracao": "48 min"
+            "duracao": "60 min"
           },
-          "transmissao": "Apple TV (no ar desde ontem, terça-feira, 24 de novembro de 2026, às 23h; antecipado da sexta-feira por causa do feriado de Ação de Graças nos EUA)",
-          "brasil": "Apple TV",
+          "transmissao": "HBO Max Brasil, hoje, quinta-feira, 26 de novembro de 2026 (horário não divulgado; Oficina da Net e Olhar Digital)",
+          "brasil": "HBO Max",
           "notas": [
-            "Título oficial na Apple TV Brasil. O Banco de Séries (3/3) e o Bingers (próximo em 27/11) ainda não contam o 1x04. O 1x05 sai na sexta-feira, 4 de dezembro de 2026. Não é final de temporada nem de série"
+            "Título oficial no Brasil: \"Line of Fire\". Nome do 1x04 em português não divulgado (tradução própria). O 1x03 foi visto em 22/11/2026. Não é final de temporada nem de série"
           ],
           "campos_novos": [
+            "nome",
+            "nome_original",
+            "status",
             "progresso",
             "proximo",
             "transmissao",
-            "notas:Título oficial na Apple TV Brasil. O Banco de Séries (3/3) e o Bingers (próximo em 27/11) ainda não contam o 1x04. O 1x05 sai na sexta-feira, 4 de dezembro de 2026. Não é final de temporada nem de série"
+            "brasil",
+            "notas:Título oficial no Brasil: \"Line of Fire\". Nome do 1x04 em português não divulgado (tradução própria). O 1x03 foi visto em 22/11/2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-26T05:38-03:00"
+          "novo_ate": "2026-11-27T21:40-03:00"
         }
       ]
     },
@@ -898,18 +808,7 @@
           "brasil": "Prime Video (minissérie completa, 8 episódios, desde terça-feira, 24 de novembro de 2026, às 23h)",
           "notas": [
             "Título oficial no Brasil: \"Blade Runner 2099\" (TMDB pt-BR e Prime Video Brasil). Minissérie (encerrada; todos os episódios lançados juntos). Nomes dos episódios em português não divulgados (tradução própria)"
-          ],
-          "campos_novos": [
-            "nome",
-            "nome_original",
-            "status",
-            "progresso",
-            "proximo",
-            "brasil",
-            "notas:Título oficial no Brasil: \"Blade Runner 2099\" (TMDB pt-BR e Prime Video Brasil). Minissérie (encerrada; todos os episódios lançados juntos). Nomes dos episódios em português não divulgados (tradução própria)"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-26T21:40-03:00"
+          ]
         },
         {
           "nome": "Coldwater",
@@ -1059,12 +958,16 @@
             "rotulo": "Aluguel e compra",
             "valor": null,
             "notas": [
-              "Digital nos EUA: terça-feira, 8 de dezembro de 2026 (data de fora, só referência; CBR, via O Vício, Melhor do Cinema e Antihype, e @Boxreport no X, todos na segunda-feira, 23 de novembro de 2026). No Brasil a Warner ainda não divulgou data; a Apple TV e o Prime Video têm pré-venda sem data"
+              "Conferido em 26/11/2026 na Apple TV Brasil (API UTS) e no amazon.com.br. Digital nos EUA: terça-feira, 8 de dezembro de 2026 (data de fora, só referência; CBR, via O Vício, Melhor do Cinema e Antihype, e @Boxreport no X, 23/11). No Brasil a Warner ainda não divulgou data; a Claro tv+ também não lista o filme"
             ],
             "linhas": [
               {
-                "loja": null,
-                "texto": "sem data (não anunciada)"
+                "loja": "Apple TV",
+                "texto": "pré-venda, R$ 59,90, data ainda não divulgada"
+              },
+              {
+                "loja": "Prime Video (loja)",
+                "texto": "pré-venda, R$ 59,90, data ainda não divulgada"
               }
             ]
           },
@@ -1101,9 +1004,15 @@
             ],
             "fonte_url": "https://tv.apple.com/br/movie/cara-de-barro/umc.cmc.56mz6mpp2rr4knrdvkv2xinxh",
             "fonte_nome": "Apple TV Brasil e Prime Video Brasil",
-            "obs": "30/10/2026: pré-venda confirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503, iTunes BR Catalog): oferta kind=preorder, R$ 59,90 SD/HD, sem data de lançamento digital. Prime Video BR (amazon.com.br/dp/B0H4CTFMYZ → primevideo.com, território BR): pré-venda UHD R$ 59,90, 'Data de lançamento em breve'. Antes: pré-venda Apple vista pelo Murilo na conta logada em 23/10/2026.",
-            "verificado_em": "2026-11-25"
-          }
+            "obs": "26/11/2026: pré-venda reconfirmada nas duas lojas do Brasil. Apple TV BR (API do tv.apple.com, sf=143503): pré-venda R$ 59,90, sem data. Prime Video BR (amazon.com.br): pré-venda R$ 59,90, data não divulgada. Claro tv+ não lista o filme.",
+            "verificado_em": "2026-11-26"
+          },
+          "campos_novos": [
+            "aluguel_compra",
+            "encomenda"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "titulo": "Godzilla Minus Zero",
@@ -1149,7 +1058,7 @@
             "ofertas": [],
             "fonte_url": "https://www.justwatch.com/br/filme/godzilla-minus-zero",
             "fonte_nome": "JustWatch Brasil",
-            "verificado_em": "2026-11-25"
+            "verificado_em": "2026-11-26"
           }
         },
         {
@@ -1167,7 +1076,8 @@
             "rotulo": "Cinema no Brasil",
             "valor": "quinta-feira, 19 de novembro de 2026 (oficial no Brasil, Paris Filmes)",
             "notas": [
-              "Pré-venda aberta desde quinta-feira, 15 de outubro de 2026 (Ingresso.com); pré-estreia na quarta-feira, 18 de novembro de 2026 (Ingresso.com)"
+              "Pré-venda aberta desde quinta-feira, 15 de outubro de 2026 (Ingresso.com); pré-estreia na quarta-feira, 18 de novembro de 2026 (Ingresso.com)",
+              "A @Boxreport (25/11) registrou a maior estreia da franquia nos cinemas brasileiros: R$ 26 milhões e mais de 1 milhão de espectadores no 1º fim de semana"
             ]
           },
           "aluguel_compra": {
@@ -1210,8 +1120,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-25"
-          }
+            "verificado_em": "2026-11-26"
+          },
+          "campos_novos": [
+            "cinema_brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "titulo": "Enfeitiçadas: Bem-vindos a Hexe",
@@ -1226,7 +1141,7 @@
           "cinema_brasil": {
             "emoji": "🎟️",
             "rotulo": "Cinema no Brasil",
-            "valor": "quinta-feira, 26 de novembro de 2026 (oficial no Brasil, Disney; exclusivamente nos cinemas)",
+            "valor": "hoje, quinta-feira, 26 de novembro de 2026 (oficial no Brasil, Disney; exclusivamente nos cinemas; em cartaz)",
             "notas": [
               "A página de ingressos da Disney Brasil mostra quarta-feira, 25 de novembro de 2026 (data dos EUA)"
             ]
@@ -1259,8 +1174,13 @@
             "ofertas": [],
             "fonte_url": null,
             "fonte_nome": null,
-            "verificado_em": "2026-11-25"
-          }
+            "verificado_em": "2026-11-26"
+          },
+          "campos_novos": [
+            "cinema_brasil"
+          ],
+          "novo": true,
+          "novo_ate": "2026-11-27T21:40-03:00"
         },
         {
           "titulo": "Nárnia: O Sobrinho do Mago",
@@ -1357,7 +1277,7 @@
             "fonte_url": "https://itunes.apple.com/lookup?id=6811235064&country=br",
             "fonte_nome": "Apple TV Brasil",
             "obs": "Pré-venda na Apple TV só nos EUA (lançamento digital lá em terça-feira, 8 de dezembro de 2026); o título não existe na loja brasileira",
-            "verificado_em": "2026-11-25"
+            "verificado_em": "2026-11-26"
           }
         },
         {
