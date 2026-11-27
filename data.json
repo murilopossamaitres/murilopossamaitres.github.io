@@ -1,6 +1,6 @@
 {
   "titulo": "📺 Séries — sexta-feira, 27 de novembro de 2026",
-  "atualizado_em": "2026-11-27T13:42-03:00",
+  "atualizado_em": "2026-11-27T19:41-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
@@ -31,7 +31,7 @@
             "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x02 foi visto em 26/11/2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T13:42-03:00"
+          "novo_ate": "2026-11-28T19:41-03:00"
         },
         {
           "nome": "Percy Jackson e os Olimpianos",
@@ -58,7 +58,7 @@
             "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T13:42-03:00"
+          "novo_ate": "2026-11-28T19:41-03:00"
         },
         {
           "nome": "Delegado",
@@ -365,30 +365,30 @@
           "nome_original": "Carrie",
           "status": "🔴",
           "progresso": {
-            "texto": "2/8",
-            "vistos": 2,
+            "texto": "3/8",
+            "vistos": 3,
             "total": 8
           },
           "proximo": {
-            "texto": "1x03 - Social Studies / Estudos Sociais",
-            "codigo": "1x03",
-            "titulo_en": "Social Studies",
-            "titulo_pt": "Estudos Sociais",
+            "texto": "1x04 - Dramatic Arts / Artes Cênicas",
+            "codigo": "1x04",
+            "titulo_en": "Dramatic Arts",
+            "titulo_pt": "Artes Cênicas",
             "rotulo": "próximo",
-            "duracao": "49 min"
+            "duracao": "52 min"
           },
           "brasil": "T1 completa no Prime Video (os 8 episódios no ar desde quarta-feira, 7 de outubro de 2026, às 4h)",
           "notas": [
-            "Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (Banco 9,0) foi visto em 26/11/2026; o 1x02 \"Língua Estrangeira\" (\"Foreign Language\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 8,5, média 8,49, 2/8; Bingers 4,5; Bingebase 9, média 8,9, 2/8, às 13h18). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+            "Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" e o 1x02 \"Língua Estrangeira\" foram vistos em 26/11 e 27/11/2026; o 1x03 \"Estudos Sociais\" (\"Social Studies\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 9, média 8,54, 3/8; Bingers 4,5; Bingebase 9, média 8,9, 3/8, às 19h39). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
           ],
           "campos_novos": [
             "progresso",
             "proximo",
             "brasil",
-            "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (Banco 9,0) foi visto em 26/11/2026; o 1x02 \"Língua Estrangeira\" (\"Foreign Language\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 8,5, média 8,49, 2/8; Bingers 4,5; Bingebase 9, média 8,9, 2/8, às 13h18). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
+            "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" e o 1x02 \"Língua Estrangeira\" foram vistos em 26/11 e 27/11/2026; o 1x03 \"Estudos Sociais\" (\"Social Studies\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 9, média 8,54, 3/8; Bingers 4,5; Bingebase 9, média 8,9, 3/8, às 19h39). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar"
           ],
           "novo": true,
-          "novo_ate": "2026-11-28T13:20-03:00"
+          "novo_ate": "2026-11-28T19:41-03:00"
         },
         {
           "nome": "Cyberpunk: Mercenários",
