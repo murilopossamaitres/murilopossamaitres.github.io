@@ -266,8 +266,8 @@
    }
   },
   "ativas_atrasadas|Carrie, a Estranha": {
-   "hash": "a505eb8d898ba99c",
-   "desde": "2026-11-26T21:40-03:00",
+   "hash": "b18c13813f2efa13",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "d3140ae839a7accf",
@@ -293,9 +293,9 @@
      "hash": "913f7d37de364ad0",
      "desde": "2026-11-26T21:40-03:00"
     },
-    "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026. Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar": {
+    "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). O 1x01 \"Primeiro Período\" (\"First Period\", título oficial no Prime Video Brasil) foi visto em 26/11/2026 no Bingers; o Banco de Séries ainda mostra 0/8 (1x01 não marcado lá). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar": {
      "hash": "1",
-     "desde": "2026-11-26T21:40-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -398,8 +398,8 @@
    }
   },
   "ativas_atrasadas|A Série Pokémon: Horizontes": {
-   "hash": "b47f8b151e94b547",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "799ef585c1b2331a",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "c1821b1a7d3a7f58",
@@ -414,8 +414,8 @@
      "desde": "2026-10-22T08:00-03:00"
     },
     "progresso": {
-     "hash": "adfd03f0d243729f",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "d731c8365e679178",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
      "hash": "2af9b6dfaebec930",
@@ -638,8 +638,8 @@
    }
   },
   "filmes|Clayface|2026": {
-   "hash": "a777e38733c10b03",
-   "desde": "2026-11-26T21:40-03:00",
+   "hash": "347523080e91e220",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "titulo": {
      "hash": "9421afa00c039721",
@@ -662,8 +662,8 @@
      "desde": "2026-10-24T05:40-03:00"
     },
     "aluguel_compra": {
-     "hash": "76112689d63b7501",
-     "desde": "2026-11-26T21:40-03:00"
+     "hash": "77182423f9de2d02",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "streaming": {
      "hash": "c2849bef4af013a7",
@@ -752,8 +752,8 @@
    }
   },
   "filmes|Hexed|2026": {
-   "hash": "b5f55088555bbd30",
-   "desde": "2026-11-26T21:40-03:00",
+   "hash": "2cbf411a88cb9b3c",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "titulo": {
      "hash": "99c05a332c40071f",
@@ -772,8 +772,8 @@
      "desde": "2026-10-22T08:00-03:00"
     },
     "cinema_brasil": {
-     "hash": "ff9500c6554cf1d7",
-     "desde": "2026-11-26T21:40-03:00"
+     "hash": "30cdefd36796a7a2",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "aluguel_compra": {
      "hash": "8ab75fffd8246a31",
@@ -1362,8 +1362,8 @@
    }
   },
   "lancamentos|Delegado": {
-   "hash": "6ee26da962b69cfa",
-   "desde": "2026-11-21T05:41-03:00",
+   "hash": "a637eb08789f7ced",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "3bca49533e333c72",
@@ -1374,32 +1374,32 @@
      "desde": "2026-10-31T05:49-03:00"
     },
     "episodios": {
-     "hash": "afa3ff4af02364b2",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "7f849f69c560f277",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "progresso": {
-     "hash": "4250e2b38d9a8ef2",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "25998e074d5482c6",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "titulo_pt_nota": {
-     "hash": "51f59e894933cbbf",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "2b128611c29c495f",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "transmissao": {
-     "hash": "78c359ecd239ebdf",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "d46ef29b6299e2af",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "9a437aafd8524605",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "a759e9e4a76a6658",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "duracao": {
-     "hash": "d13829dac20f8209",
-     "desde": "2026-11-07T05:44-03:00"
+     "hash": "8a1f870ffe6dc138",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:Série original do Canal Brasil: 7 episódios, semanal às sextas às 22h no Canal Brasil e aos sábados no Globoplay; o 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay; o final (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 (\"Tempo que Corre, Verdade que Foge\") sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -1438,8 +1438,8 @@
    }
   },
   "episodio_recente|Noturno": {
-   "hash": "b3988f991d883202",
-   "desde": "2026-11-21T05:41-03:00",
+   "hash": "ada8fd13877f456a",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "24e5b099a12a6551",
@@ -1454,20 +1454,20 @@
      "desde": "2026-10-31T05:49-03:00"
     },
     "progresso": {
-     "hash": "36ecdbf6609b67b4",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "cfa4b42b4d7cde69",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "d7c102d376a06f22",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "afe13a42a19f29c9",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "cf9abc6ba319a41f",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "b6faa6145c353f3e",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:\"Solidão\" é o título oficial na Apple TV Brasil. O 1x06 (\"Conexões\", título oficial) sai na quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA (Portal Apple TV no X e TVmaze; a página de imprensa da Apple TV Brasil ainda indica sexta-feira, 27 de novembro de 2026), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+    "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -1524,8 +1524,8 @@
    }
   },
   "ativas_atrasadas|Line of Fire": {
-   "hash": "4ceed205df37fba5",
-   "desde": "2026-11-25T05:38-03:00",
+   "hash": "91fe88b893ade99d",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "a763e14e758f7822",
@@ -1548,12 +1548,12 @@
      "desde": "2026-11-22T23:25-03:00"
     },
     "brasil": {
-     "hash": "2fa0ae53e0ea600f",
-     "desde": "2026-11-25T05:38-03:00"
+     "hash": "060c20b0132f2a26",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nomes do 1x04, do 1x09 e do 1x10 em português não divulgados (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026": {
+    "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-24T05:42-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -1828,8 +1828,8 @@
    }
   },
   "episodio_hoje|Delegado": {
-   "hash": "f190220fc4ce0d3a",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "8e9e15a8f4f79e10",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "3bca49533e333c72",
@@ -1844,96 +1844,62 @@
      "desde": "2026-11-06T05:47-03:00"
     },
     "progresso": {
-     "hash": "b7d477ada76c6bfd",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "fcb795a815579a81",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "190f3a30c4c8e81b",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "transmissao": {
-     "hash": "d56d87fb68beb2f9",
-     "desde": "2026-11-06T05:47-03:00"
+     "hash": "9c6863804a79c0c3",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "88c2ec29bd5037cb",
-     "desde": "2026-11-06T05:47-03:00"
+     "hash": "1d6a34d1933bd106",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026. Não é final de temporada nem de série": {
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
   "episodio_hoje|Awkwafina - A Cozinheira Improvável": {
-   "hash": "bc42089ed6ad5a33",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "1169b5115459e714",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "c91926cfb4199386",
      "desde": "2026-11-06T05:47-03:00"
     },
     "nome_original": {
-     "hash": "2be88ca4242c76e8",
-     "desde": "2026-11-06T05:47-03:00"
+     "hash": "81259bf2a451298b",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "status": {
      "hash": "6045bfc7dbf0dcb4",
      "desde": "2026-11-13T05:43-03:00"
     },
     "progresso": {
-     "hash": "b7d477ada76c6bfd",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "311e40b77678ac99",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "3cadad388512ca44",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "transmissao": {
-     "hash": "abf01df58ef78920",
-     "desde": "2026-11-13T05:43-03:00"
+     "hash": "b39e4375af2dee0f",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
      "hash": "4c12608653688fde",
      "desde": "2026-11-13T05:43-03:00"
     },
-    "notas:Semanal às sextas; o 1x05 sai na sexta-feira, 27 de novembro de 2026. Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série": {
+    "notas:\"Nora Aprende a Servir\" é o título oficial. O 1x04 \"Tiki no Havaí\" foi visto em 23/11/2026. 8 episódios; o 1x06 (\"Nora Cria o Cardápio\", \"Nora Designs Her Menu\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Inauguração\") na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
-    }
-   }
-  },
-  "episodio_recente|A Assassina": {
-   "hash": "6606f1d6d0055284",
-   "desde": "2026-11-07T05:44-03:00",
-   "campos": {
-    "nome": {
-     "hash": "a892c85092dbed5f",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "nome_original": {
-     "hash": "c19e7a81e1e851f3",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "status": {
-     "hash": "6045bfc7dbf0dcb4",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "progresso": {
-     "hash": "2ae42f3b975a921d",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "proximo": {
-     "hash": "39c8a1428d8f45ac",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "brasil": {
-     "hash": "d4273780bb3d6bf8",
-     "desde": "2026-11-07T05:44-03:00"
-    },
-    "notas:🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado": {
-     "hash": "1",
-     "desde": "2026-11-07T05:44-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -2204,8 +2170,8 @@
    }
   },
   "episodio_recente|12 12 12": {
-   "hash": "5c2d4f5704b3c3c8",
-   "desde": "2026-11-21T05:41-03:00",
+   "hash": "ccbf628c58d7cf3b",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "6222d69713141e91",
@@ -2220,20 +2186,20 @@
      "desde": "2026-11-18T21:15-03:00"
     },
     "progresso": {
-     "hash": "e4bcc42ee8c7b120",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "b7d477ada76c6bfd",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "3bf8b23e76b5d03f",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "c665bfc7599f3778",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "cf9abc6ba319a41f",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "c9029cc588a76539",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:Título do episódio oficial na Apple TV Brasil (sem tradução). O 1x04 (\"É Assim Que Se Faz um Menino\", título oficial na Apple TV Brasil) sai na quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA (Portal Apple TV no X e TVmaze; a página de imprensa da Apple TV Brasil ainda indica sexta-feira, 27 de novembro de 2026). Não é final de temporada nem de série": {
+    "notas:Título oficial na Apple TV Brasil. 8 episódios no total; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -2580,8 +2546,8 @@
    }
   },
   "episodio_recente|Tudo É Justo": {
-   "hash": "7a21f301cb27f235",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "e34b8f030101f418",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "0670b39301f63d8f",
@@ -2596,26 +2562,26 @@
      "desde": "2026-11-19T05:35-03:00"
     },
     "progresso": {
-     "hash": "7df1766957f58a2b",
-     "desde": "2026-11-19T05:35-03:00"
+     "hash": "71622038bfbe2c27",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "bb53a78f802de2a5",
-     "desde": "2026-11-19T05:35-03:00"
+     "hash": "bf97327d47af2eb3",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "a154af444d843beb",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "df3e542293131659",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:Nome em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 2x06 sai na quarta-feira, 25 de novembro de 2026, e o final da temporada (2x07 e 2x08) na quarta-feira, 2 de dezembro de 2026": {
+    "notas:Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai na quarta-feira, 2 de dezembro de 2026, segundo o Guia Disney+ Brasil e a Exame; a Oficina da Net (lista da semana, 23/11) listou o 2x06 e o 2x07 em 25/11, sem confirmação de que o 2x07 tenha entrado; em 27/11 o Banco de Séries passou a contar 16 episódios (inclui o 2x07), e o Bingers segue com o próximo 2x06. O final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) é na quarta-feira, 2 de dezembro de 2026 (Bingebase: 09/12). Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-19T05:35-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
   "lancamentos|Percy Jackson e os Olimpianos": {
-   "hash": "b6fcacca16632b4f",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "3ef3f1cece2f3d48",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "89de2f96358bc93d",
@@ -2626,32 +2592,32 @@
      "desde": "2026-11-20T05:45-03:00"
     },
     "episodios": {
-     "hash": "c545f75b01dede42",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "15aae51f55af94ac",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "progresso": {
-     "hash": "417318e1254bfd31",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "0ead36e6aa61c418",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "titulo_pt_nota": {
-     "hash": "e17bbd5fa9e32ac3",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "a91c80395602c47e",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "transmissao": {
-     "hash": "f8da7f3efe226349",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "aeb96a8945f6d195",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "29eaf0626aa4c8c0",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "8b962e35d2d82e15",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "duracao": {
      "hash": "d13829dac20f8209",
      "desde": "2026-11-20T05:45-03:00"
     },
-    "notas:3ª temporada (\"A Maldição do Titã\") com 8 episódios, 2 por semana às sextas: 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026, 3x05 e 3x06 na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Nomes oficiais dos episódios divulgados pelo Disney+ (Omelete, Capricho). Não é final de temporada nem de série": {
+    "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -2758,8 +2724,8 @@
    }
   },
   "episodio_hoje|Percy Jackson e os Olimpianos": {
-   "hash": "8da3c8ccf1152177",
-   "desde": "2026-11-20T05:45-03:00",
+   "hash": "227b202e25d0d333",
+   "desde": "2026-11-27T05:34-03:00",
    "campos": {
     "nome": {
      "hash": "89de2f96358bc93d",
@@ -2774,24 +2740,24 @@
      "desde": "2026-11-20T05:45-03:00"
     },
     "progresso": {
-     "hash": "558ffc27decf18fe",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "523b0a3a643d3543",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "91b5bc8fd448d984",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "4898335490ff922c",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "transmissao": {
-     "hash": "9a3c4ef124da14a6",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "9f07e73622dd0c21",
+     "desde": "2026-11-27T05:34-03:00"
     },
     "brasil": {
-     "hash": "ac9bcf486a7bf96f",
-     "desde": "2026-11-20T05:45-03:00"
+     "hash": "25e2cab9a534a1d8",
+     "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+    "notas:Títulos oficiais no Disney+. O 3x02 foi visto em 26/11/2026. O 3x05 e o 3x06 saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   },
@@ -3238,6 +3204,142 @@
     "notas:Título oficial no Brasil: \"Line of Fire\". Nome do 1x04 em português não divulgado (tradução própria). O 1x03 foi visto em 22/11/2026. Não é final de temporada nem de série": {
      "hash": "1",
      "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Dragon Ball Super: Beerus": {
+   "hash": "84f2a2d2dc444717",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "af6533b8671afb89",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "372e771c6e5bf2e1",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "d79f1206e26545c7",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "311c4e260cda05a2",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ao Disney+ na quarta-feira, 25 de novembro de 2026 (Critical Hits e Guia Disney+ Brasil) e chega à Netflix amanhã, sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 (\"A Vingança de 'F'\", \"Revenge 'F'\", tradução própria) sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|A Assassina": {
+   "hash": "6606f1d6d0055284",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a892c85092dbed5f",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "c19e7a81e1e851f3",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "2ae42f3b975a921d",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "39c8a1428d8f45ac",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "d4273780bb3d6bf8",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|O Instituto": {
+   "hash": "5224b85797ceb1df",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "431bbe6e81675e5a",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "e91ae47023f9f183",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "87343109092b1cb6",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "e5e0c6cbc74c372a",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "edca7b3d0c643ce4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|O Senhor dos Anéis: Os Anéis de Poder": {
+   "hash": "a956270c25a38d4f",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a4d439e07d1ecfaa",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "757aff6f80559c52",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "194bf4ed0d940717",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "0dbe4aa1a5b071d0",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "fc7a8a18e64c6dd9",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
     }
    }
   }
