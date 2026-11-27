@@ -2421,7 +2421,7 @@
   },
   "lancamentos|Percy Jackson e os Olimpianos": {
    "hash": "3ef3f1cece2f3d48",
-   "desde": "2026-11-27T13:20-03:00",
+   "desde": "2026-11-27T13:42-03:00",
    "campos": {
     "nome": {
      "hash": "89de2f96358bc93d",
@@ -2433,23 +2433,23 @@
     },
     "episodios": {
      "hash": "15aae51f55af94ac",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "progresso": {
      "hash": "0ead36e6aa61c418",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "titulo_pt_nota": {
      "hash": "a91c80395602c47e",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "transmissao": {
      "hash": "aeb96a8945f6d195",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "brasil": {
      "hash": "8b962e35d2d82e15",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     },
     "duracao": {
      "hash": "d13829dac20f8209",
@@ -2457,7 +2457,7 @@
     },
     "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-27T13:20-03:00"
+     "desde": "2026-11-27T13:42-03:00"
     }
    }
   },
@@ -3180,6 +3180,40 @@
     "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia": {
      "hash": "1",
      "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Segurança Nacional": {
+   "hash": "593748201b1890e7",
+   "desde": "2026-11-27T13:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "b81472730606c749",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "nome_original": {
+     "hash": "3b0635406f6569f7",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "progresso": {
+     "hash": "5405802115c6b45b",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "proximo": {
+     "hash": "8d6ec51d034e1bb0",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "brasil": {
+     "hash": "449bd0db05eb74a1",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai no domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05).": {
+     "hash": "1",
+     "desde": "2026-11-27T13:42-03:00"
     }
    }
   }
