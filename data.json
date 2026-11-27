@@ -1,39 +1,11 @@
 {
   "titulo": "📺 Séries — quinta-feira, 26 de novembro de 2026",
-  "atualizado_em": "2026-11-26T21:51-03:00",
+  "atualizado_em": "2026-11-27T00:28-03:00",
   "secoes": {
     "lancamentos": {
       "titulo": "Lançamentos de hoje",
       "emoji": "🎬",
-      "itens": [
-        {
-          "nome": "Line of Fire",
-          "nome_original": null,
-          "episodios": "1x04",
-          "progresso": {
-            "texto": "4/9",
-            "vistos": 4,
-            "total": 9
-          },
-          "titulo_pt_nota": "\"Rastros de Papel\" (\"Paper Trails\")",
-          "transmissao": "HBO Max Brasil, hoje, quinta-feira, 26 de novembro de 2026 (horário não divulgado; Oficina da Net e Olhar Digital, listas da semana de 23 a 29/11)",
-          "brasil": "HBO Max (desde quinta-feira, 5 de novembro de 2026; novos às quintas, segundo o Banco de Séries; o 1x02 chegou na quinta-feira, 12 de novembro de 2026, e o 1x03 na quinta-feira, 19 de novembro de 2026, segundo a Oficina da Net e o Olhar Digital)",
-          "notas": [
-            "Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série"
-          ],
-          "duracao": "60 min",
-          "campos_novos": [
-            "episodios",
-            "progresso",
-            "titulo_pt_nota",
-            "transmissao",
-            "brasil",
-            "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série"
-          ],
-          "novo": true,
-          "novo_ate": "2026-11-27T21:40-03:00"
-        }
-      ]
+      "itens": []
     },
     "novidades": {
       "titulo": "Novidades de streaming no Brasil",
