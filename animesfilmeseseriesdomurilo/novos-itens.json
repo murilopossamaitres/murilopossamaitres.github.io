@@ -1,0 +1,3187 @@
+{
+ "_leia": "Estado do selo New (build.py, marcar_novos). Chave = seção|item; hash do conteúdo; desde = quando apareceu/mudou. Novo por 24 h.",
+ "itens": {
+  "novidades|Seu Amigão da Vizinhança: Homem-Aranha|T2": {
+   "hash": "771c9ea5f266e9ad",
+   "desde": "2026-10-22T08:00-03:00",
+   "campos": {
+    "selo": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "data": {
+     "hash": "50f111c05f7baf46",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "dia_semana": {
+     "hash": "e0b9d8ce6d082ecc",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome": {
+     "hash": "2f854562839accfe",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "temporada": {
+     "hash": "7b59824823c3bbda",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "info": {
+     "hash": "63a8be81933b99a2",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "texto": {
+     "hash": "bbfd27ca6286ffb3",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "novidades|Ahsoka|T2": {
+   "hash": "b3d7c617f2c937f7",
+   "desde": "2026-10-22T08:00-03:00",
+   "campos": {
+    "selo": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "data": {
+     "hash": "af69d1ba3929498f",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "dia_semana": {
+     "hash": "e0b9d8ce6d082ecc",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome": {
+     "hash": "f76f12db48036b67",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "temporada": {
+     "hash": "7b59824823c3bbda",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "info": {
+     "hash": "963f57619cc4d787",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "texto": {
+     "hash": "403ebb62e01892c2",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "novidades|Neuromancer|T1": {
+   "hash": "3216833bdd47e85b",
+   "desde": "2026-10-22T08:00-03:00",
+   "campos": {
+    "selo": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "data": {
+     "hash": "e93a264ffb408a87",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "dia_semana": {
+     "hash": "4cdd7b8198d32df0",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome": {
+     "hash": "abf57ed345da1f3d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "temporada": {
+     "hash": "13930cfd09ff282f",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "info": {
+     "hash": "0221ab21da742159",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "texto": {
+     "hash": "8d789764d1a2e98c",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "novidades|A Série Pokémon: Horizontes|T4": {
+   "hash": "ea5879d1f5581b20",
+   "desde": "2026-10-22T08:00-03:00",
+   "campos": {
+    "selo": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "data": {
+     "hash": "af9d9c6369049174",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "dia_semana": {
+     "hash": "0e5fbca396532f2a",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome": {
+     "hash": "c1821b1a7d3a7f58",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "temporada": {
+     "hash": "cf4ab1deca248b29",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "info": {
+     "hash": "6bfbb730d096615c",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "texto": {
+     "hash": "97f7c9c238c711f7",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "novidades|Silo|T4": {
+   "hash": "313068936a0a260b",
+   "desde": "2026-10-22T08:00-03:00",
+   "campos": {
+    "selo": {
+     "hash": "7bb70ffaca9d8f4d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "data": {
+     "hash": "2edeb0b3624f2737",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "dia_semana": {
+     "hash": "4cdd7b8198d32df0",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome": {
+     "hash": "a680e0a1aba381f2",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "temporada": {
+     "hash": "cf4ab1deca248b29",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "info": {
+     "hash": "cd0e6d8ed8bf7ebb",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "texto": {
+     "hash": "221b37ecb9676db0",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|9-1-1": {
+   "hash": "b02d39775d5ce584",
+   "desde": "2026-11-20T05:45-03:00",
+   "campos": {
+    "nome": {
+     "hash": "06a302f793ecff5d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "ac33e3e1efb31047",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "proximo": {
+     "hash": "d2951981cea9edbc",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "7aa3e0f790bd0f51",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|9-1-1: Nashville": {
+   "hash": "648523658779cbe9",
+   "desde": "2026-11-20T05:45-03:00",
+   "campos": {
+    "nome": {
+     "hash": "73904b9f260f40e0",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "c9555043eb552784",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "proximo": {
+     "hash": "8c6545998c60d2f9",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "5409a96f7404af75",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Avatar: Os Sete Refúgios": {
+   "hash": "90c69137781e42c6",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "8e3d6bcdb708e1b8",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "nome_original": {
+     "hash": "f908addd5a6253f0",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "progresso": {
+     "hash": "675de6be36223195",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "proximo": {
+     "hash": "9b5edb0e8d8bc288",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "4af60a34e2ce7f14",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "notas:Títulos pt-BR dos eps 1 a 3: \"No horizonte\", \"Na tempestade\", \"A ordem\" (TMDB / Séries em Cena). Eps 4 a 6 no TMDB pt-BR: \"Os sem-rosto\", \"Aquele deixado para trás\", \"A noite dos afligidos\" (não conferido no Paramount+). Eps 7 a 13 ainda sem nome em português (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-10-30T05:35-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Carrie, a Estranha": {
+   "hash": "e266cc927c663279",
+   "desde": "2026-11-27T20:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "d3140ae839a7accf",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "e306fa9d3cecd1fe",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "0ead36e6aa61c418",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "proximo": {
+     "hash": "9cf1a6842e7825dd",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "brasil": {
+     "hash": "913f7d37de364ad0",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "notas:Minissérie. Título oficial no Brasil: \"Carrie, a Estranha\" (Prime Video Brasil; algumas fontes usam \"Carrie: A Estranha\"). Os 1x01 a 1x03 foram vistos em 26/11 e 27/11/2026; o 1x04 \"Artes Cênicas\" (\"Dramatic Arts\", título oficial no Prime Video Brasil) foi visto em 27/11/2026 (Banco 9, média 8,57, 4/8; Bingers 4,5; Bingebase 9, média 9,0, 4/8, às 20h41). Não é final de temporada nem de série. O final da minissérie é o 1x08 (\"Física Avançada\"), já no ar": {
+     "hash": "1",
+     "desde": "2026-11-27T20:42-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Doc": {
+   "hash": "491e380875ddb290",
+   "desde": "2026-11-17T05:41-03:00",
+   "campos": {
+    "nome": {
+     "hash": "7422fe767aae04dd",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "9fc90d9b304d48d8",
+     "desde": "2026-11-17T05:41-03:00"
+    },
+    "proximo": {
+     "hash": "31b482bea9496b47",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "a98a75eb9bda2361",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Grey's Anatomy": {
+   "hash": "7bad81846ab9560a",
+   "desde": "2026-11-20T05:45-03:00",
+   "campos": {
+    "nome": {
+     "hash": "77dd6894e4aa3c00",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "progresso": {
+     "hash": "46cdc16327e5adee",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "proximo": {
+     "hash": "67fcfadae9ccb893",
+     "desde": "2026-11-12T23:25-03:00"
+    },
+    "brasil": {
+     "hash": "8d08809cfb4b6521",
+     "desde": "2026-10-30T05:35-03:00"
+    },
+    "notas:22x08 \"Heavy on Me\" (\"Pesa muito em mim\") visto em 12/11/2026 no Banco de Séries (serieid 5577; nota 8,5, média 8,25), Bingers (nota 4,5) e Bingebase (nota 9, média 8,7). Não é final de temporada nem de série.": {
+     "hash": "1",
+     "desde": "2026-11-12T23:25-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Kill Jackie": {
+   "hash": "2f3eba4d6d853bb5",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "d78102ffdfed6a22",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "4672e7f04f64636d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "d1ab090c87514b07",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "34c11deb594b6e01",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "notas:A imprensa também usa \"Kill Jackie: Acerto de Contas\"": {
+     "hash": "1",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|A Série Pokémon: Horizontes": {
+   "hash": "799ef585c1b2331a",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "c1821b1a7d3a7f58",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "9152e297e2489bb5",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "d731c8365e679178",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "2af9b6dfaebec930",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "c1d50eb231c97e22",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|9-1-1: Lone Star": {
+   "hash": "937755cbf92338c3",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "319fd17cab257709",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "6140d83ac4aed32c",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "fb9e6bdf2fdd4f13",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "b368b8efa4a31f73",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|A Lenda de Korra": {
+   "hash": "38889a6c203635ba",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "21f486111a7290a3",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "ac5121ea5f9c7c92",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "922fac97633378c8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "3ab38b51bb85f6ee",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "b46c38b5955eee50",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Coldwater": {
+   "hash": "34b7f0e7db2474a9",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "fcc7f4c8cc7736d1",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "2164f863d890e0d1",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "b2afc6beaa011397",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "e94991dc7a882744",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Mila no Multiverso": {
+   "hash": "02696b50e137a8cc",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "d14902109559abf2",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "9de74d5e6a363e46",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "3429450940510254",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "5c2a6a6398c8ca5a",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Pokémon": {
+   "hash": "0ba7cdf0924360b9",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "09ca7d6db7498317",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "799e3c013fe859ad",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "37cf1ae414f91d93",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "cb3f16566bedbcf5",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Pôneis": {
+   "hash": "07369da048778da3",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "00ef38b8b6d12b01",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "4672e7f04f64636d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "d9ac2a351d9b4ebf",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "d28477e7655de942",
+     "desde": "2026-10-22T08:00-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|O Teste de Copenhague": {
+   "hash": "d4eba85693c56675",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "413062b9b2303479",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "progresso": {
+     "hash": "4672e7f04f64636d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "proximo": {
+     "hash": "6c58fa372c4c12a2",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "d28477e7655de942",
+     "desde": "2026-11-07T05:44-03:00"
+    }
+   }
+  },
+  "filmes|Clayface|2026": {
+   "hash": "44a52c99f8ebdfc9",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "9421afa00c039721",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "titulo_original": {
+     "hash": "8a9eeaf3e75b189d",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "ano": {
+     "hash": "08cca676f7f4bb6d",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "6351847d230a83f4",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "c74e08d2200490ce",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "9d5d92da851c14a4",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "streaming": {
+     "hash": "c2849bef4af013a7",
+     "desde": "2026-10-24T05:40-03:00"
+    },
+    "encomenda": {
+     "hash": "72de2b22a9b67f6d",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "filmes|Godzilla Minus Zero|2026": {
+   "hash": "5b524408960111d1",
+   "desde": "2026-11-06T05:47-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "66e1c65a66ab6c7a",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "66e1c65a66ab6c7a",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "08cca676f7f4bb6d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "38b747c93c24f692",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "c4862fc6eff4e8bc",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "2fb7f9f2ddf0567b",
+     "desde": "2026-11-05T06:25-03:00"
+    },
+    "streaming": {
+     "hash": "5a8fe042371d71b8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "e15727c674d751c4",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "filmes|The Hunger Games: Sunrise on the Reaping|2026": {
+   "hash": "e79a359c09a0fac8",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "7e3559599265631e",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "c5daa7a43f8e95db",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "08cca676f7f4bb6d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "5dadb10d2d78503c",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "ba74c189d1c2c9a6",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "80ed77467a1bfd1f",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "streaming": {
+     "hash": "d79ca38cc5f5d31c",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "f7d3081b5c3ef4d1",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "filmes|Hexed|2026": {
+   "hash": "75e289b982e22ad0",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "99c05a332c40071f",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "5e760e98f9970f92",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "08cca676f7f4bb6d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "f13cc3118564e010",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "fce49d096fa81300",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "8ab75fffd8246a31",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "streaming": {
+     "hash": "28152142c01aa037",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "f7d3081b5c3ef4d1",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "filmes|Narnia: The Magician's Nephew|2027": {
+   "hash": "ec0cbfe44002c6c6",
+   "desde": "2026-10-23T16:53-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "afd2316c0ecd2d45",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "4b06ac1fcbdf56b7",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "a91b2ee6e16204bd",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "300fecfef0285674",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "7df0d84d71566798",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "374d9f13790b209f",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "streaming": {
+     "hash": "0a77576f7e0a6f17",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "f7d3081b5c3ef4d1",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "filmes|Batman: Knightfall Part 2: Knightquest|2026": {
+   "hash": "a107a92b5ed1be2b",
+   "desde": "2026-10-23T16:53-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "e7b9ac8aaaf825d8",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "efce3f38a3ebccc7",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "08cca676f7f4bb6d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "f3724e13cae1bcef",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "a7ab0807338823fe",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "4321832984f6cb9a",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "streaming": {
+     "hash": "d84a801a2a3c2133",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "52a612996f5bc31f",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "filmes|Batman: Knightfall Part 3: KnightsEnd|2027": {
+   "hash": "0f8b88743ac2414b",
+   "desde": "2026-10-23T16:53-03:00",
+   "campos": {
+    "titulo": {
+     "hash": "4028a0b8683d5626",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "titulo_original": {
+     "hash": "43918492734894c9",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "ano": {
+     "hash": "a91b2ee6e16204bd",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "tipo_lancamento": {
+     "hash": "3818e9e23ac8959d",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "cinema_brasil": {
+     "hash": "a7ab0807338823fe",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "aluguel_compra": {
+     "hash": "69768a3043220921",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "streaming": {
+     "hash": "c1c03ed58686e69e",
+     "desde": "2026-10-22T08:00-03:00"
+    },
+    "encomenda": {
+     "hash": "f7d3081b5c3ef4d1",
+     "desde": "2026-10-23T16:58-03:00"
+    }
+   }
+  },
+  "lancamentos|Red River": {
+   "hash": "c7774cbce760763b",
+   "desde": "2026-11-24T05:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "5c176d96f17747d7",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "episodios": {
+     "hash": "233b9f3d73b9c374",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "progresso": {
+     "hash": "cc277d173679686c",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "b66818b2f9cadae1",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "transmissao": {
+     "hash": "248b8f9a78b8cef9",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "f172952db28fd031",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "duracao": {
+     "hash": "d1e3ca772a8f8a49",
+     "desde": "2026-11-10T05:38-03:00"
+    },
+    "notas:Semanal às terças; o 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026. Nome em português do Bingebase. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-24T05:42-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Red River": {
+   "hash": "2738db15dcf44609",
+   "desde": "2026-11-24T05:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "5c176d96f17747d7",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "f59420d7f731b739",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "proximo": {
+     "hash": "739b50a62d6bc1f0",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "transmissao": {
+     "hash": "8f7e36555120aaa1",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "b09c89c2c789b2fc",
+     "desde": "2026-10-27T05:38-03:00"
+    },
+    "notas:Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026": {
+     "hash": "1",
+     "desde": "2026-11-24T05:42-03:00"
+    }
+   }
+  },
+  "lancamentos|The Exiled Heavy Knight Knows How to Game the System": {
+   "hash": "9ccb8454a35dc793",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "1fc0a708f3a19c4c",
+     "desde": "2026-10-29T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-29T05:38-03:00"
+    },
+    "episodios": {
+     "hash": "83f06512bbeab16d",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "progresso": {
+     "hash": "0a2bf0801e76adeb",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "e179a98fe175a370",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "transmissao": {
+     "hash": "718dcca6d0e470ef",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "be3d2eb5e434f711",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "duracao": {
+     "hash": "d1e3ca772a8f8a49",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "notas:Nome em português ainda não divulgado (tradução própria). 26 episódios; o 1x23 sai na quinta-feira, 3 de dezembro de 2026, e o final da temporada (1x26) na quinta-feira, 24 de dezembro de 2026. Não é final de temporada nem de série. O 1x21 \"Lâmina Flamejante Enegrecida\" (\"Blackened Flameblade\", tradução própria) foi visto em 25/11/2026": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "episodio_hoje|The Exiled Heavy Knight Knows How to Game the System": {
+   "hash": "2db8bf2099e82881",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "1fc0a708f3a19c4c",
+     "desde": "2026-10-29T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-29T05:38-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-29T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "127a9d5eaab57730",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "proximo": {
+     "hash": "c0c385330c08cb08",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "transmissao": {
+     "hash": "718dcca6d0e470ef",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "65bcd16ffe93916f",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "notas:Nome em português ainda não divulgado (tradução própria). O 1x21 foi visto em 25/11/2026. O 1x23 sai na quinta-feira, 3 de dezembro de 2026, e o final da temporada (1x26) na quinta-feira, 24 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|9-1-1": {
+   "hash": "2ad8af62285895d9",
+   "desde": "2026-11-21T05:41-03:00",
+   "campos": {
+    "nome": {
+     "hash": "06a302f793ecff5d",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "583103547443a1cb",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "texto": {
+     "hash": "3633e3fb3f6be85d",
+     "desde": "2026-11-21T05:41-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|9-1-1: Nashville": {
+   "hash": "625846402bec0d5f",
+   "desde": "2026-11-21T05:41-03:00",
+   "campos": {
+    "nome": {
+     "hash": "73904b9f260f40e0",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "07aec104d0f75465",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "texto": {
+     "hash": "11ad1ce319c08fc2",
+     "desde": "2026-11-21T05:41-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|A Assassina (The Assassin)": {
+   "hash": "ecd1bc27b36d5eb5",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "1190cf826707ae92",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "4a1faf00d31c52c2",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "texto": {
+     "hash": "dc61d5549ca69446",
+     "desde": "2026-11-07T05:44-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|A Especialista (The Savant)": {
+   "hash": "59b0b1e3d5d2f6f3",
+   "desde": "2026-10-28T00:00-03:00",
+   "campos": {
+    "nome": {
+     "hash": "22d50a92a3829024",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "3fc3cebf4c7a9579",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "texto": {
+     "hash": "88eb938c424e3c64",
+     "desde": "2026-10-28T00:00-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|As Bruxas Mayfair": {
+   "hash": "93a97957cba2b0d3",
+   "desde": "2026-10-28T00:00-03:00",
+   "campos": {
+    "nome": {
+     "hash": "2464ae99108e703d",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "fe11b240d4e877cc",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "texto": {
+     "hash": "cab9999e586bec72",
+     "desde": "2026-10-28T00:00-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|Doc": {
+   "hash": "faf3c92b91e6e18c",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "7422fe767aae04dd",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "d779fc93fcd9ef31",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "texto": {
+     "hash": "a3f8df3f20bab78b",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|Fire Country": {
+   "hash": "ee35a92dd56646b8",
+   "desde": "2026-11-15T05:32-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a676f45ccbd87618",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "84918e87f6fefc6b",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "texto": {
+     "hash": "a035cfc2796952ba",
+     "desde": "2026-11-15T05:32-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|Grey's Anatomy": {
+   "hash": "22cf639075a30621",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "77dd6894e4aa3c00",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "488cb3692fceb953",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "texto": {
+     "hash": "d20e0562019e927f",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|St. Denis Medical": {
+   "hash": "1a044c47c5a8e056",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "219ff27227daa1ec",
+     "desde": "2026-10-28T00:00-03:00"
+    },
+    "info": {
+     "hash": "bd8e806365d99917",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "texto": {
+     "hash": "43e24e2a2dad1731",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|Baywatch": {
+   "hash": "333cddc6d4e90a99",
+   "desde": "2026-10-30T07:31-03:00",
+   "campos": {
+    "nome": {
+     "hash": "fedfc8cb9acb4db9",
+     "desde": "2026-10-30T07:31-03:00"
+    },
+    "info": {
+     "hash": "dc2e6ea3e79bbbed",
+     "desde": "2026-10-30T07:31-03:00"
+    },
+    "texto": {
+     "hash": "fec81e7d05841b03",
+     "desde": "2026-10-30T07:31-03:00"
+    }
+   }
+  },
+  "lancamentos|Delegado": {
+   "hash": "a637eb08789f7ced",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "3bca49533e333c72",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "episodios": {
+     "hash": "7f849f69c560f277",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "25998e074d5482c6",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "2b128611c29c495f",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "transmissao": {
+     "hash": "d46ef29b6299e2af",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "a759e9e4a76a6658",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "duracao": {
+     "hash": "8a1f870ffe6dc138",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 (\"Tempo que Corre, Verdade que Foge\") sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "novidades|Disney Twisted-Wonderland: A Série|T2": {
+   "hash": "bf4d785071b901ef",
+   "desde": "2026-11-01T05:43-03:00",
+   "campos": {
+    "selo": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-11-01T05:43-03:00"
+    },
+    "data": {
+     "hash": "ce7702fedf2fedfb",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "dia_semana": {
+     "hash": "e0b9d8ce6d082ecc",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "nome": {
+     "hash": "e1dde41bc0ab5733",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "temporada": {
+     "hash": "7b59824823c3bbda",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "info": {
+     "hash": "48a18b06077e5d6b",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "texto": {
+     "hash": "d1b33ff483448483",
+     "desde": "2026-11-01T05:43-03:00"
+    }
+   }
+  },
+  "episodio_recente|Noturno": {
+   "hash": "ada8fd13877f456a",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "24e5b099a12a6551",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "nome_original": {
+     "hash": "063098a1d714361f",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-10-31T05:49-03:00"
+    },
+    "progresso": {
+     "hash": "cfa4b42b4d7cde69",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "afe13a42a19f29c9",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "b6faa6145c353f3e",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "episodio_recente|Delegado": {
+   "hash": "2114e2a8b854bae2",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "3bca49533e333c72",
+     "desde": "2026-11-01T05:43-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-01T05:43-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "progresso": {
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "proximo": {
+     "hash": "c26f99a0618c79d5",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "brasil": {
+     "hash": "7e034e06be8b07fe",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 (\"Tempo que Corre, Verdade que Foge\") sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  },
+  "novidades_sem_data|Coven Academy": {
+   "hash": "7eb9ccb2a8042434",
+   "desde": "2026-11-03T05:47-03:00",
+   "campos": {
+    "nome": {
+     "hash": "75b2e53d2ea713db",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "info": {
+     "hash": "e282943aee5031e6",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "texto": {
+     "hash": "d261bb9e23eaf178",
+     "desde": "2026-11-03T05:47-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Line of Fire": {
+   "hash": "91fe88b893ade99d",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a763e14e758f7822",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-09T05:43-03:00"
+    },
+    "progresso": {
+     "hash": "00ab968c70951557",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "862b798fe6c670b7",
+     "desde": "2026-11-22T23:25-03:00"
+    },
+    "brasil": {
+     "hash": "060c20b0132f2a26",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|St. Denis Medical": {
+   "hash": "10d15dec24b1e783",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "219ff27227daa1ec",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "progresso": {
+     "hash": "4668b5a3f662ecb1",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "c74ffda3cbdc7f68",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "brasil": {
+     "hash": "35b914547442eeab",
+     "desde": "2026-11-03T05:47-03:00"
+    },
+    "notas:Nome do 3x01 em português não divulgado (tradução própria). O 3x03 (\"E Aí, St. D!\") saiu nos EUA na segunda-feira, 16 de novembro de 2026, às 22h (NBC); o 3x04 (\"O Aroma Inebriante do Amor Verdadeiro\") saiu na segunda-feira, 23 de novembro de 2026, às 22h, e, depois de uma pausa, o 3x05 (\"Hand of Gold\" / \"Mão de Ouro\", tradução própria) sai na segunda-feira, 7 de dezembro de 2026, às 22h. O Banco de Séries já conta 40 episódios": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "lancamentos|Tudo É Justo": {
+   "hash": "0b961081a31bb2c4",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "0670b39301f63d8f",
+     "desde": "2026-11-04T05:40-03:00"
+    },
+    "nome_original": {
+     "hash": "09a4666ab2e06fa9",
+     "desde": "2026-11-04T05:40-03:00"
+    },
+    "episodios": {
+     "hash": "bbd5b696e2a06bc7",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "6c781bb50b8e4b0f",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "8b06a6070112597c",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "446688664715d81d",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "b4bc074ac5f27ae3",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "duracao": {
+     "hash": "d13829dac20f8209",
+     "desde": "2026-11-11T05:34-03:00"
+    },
+    "notas:Nome em português ainda não divulgado (tradução própria). O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai hoje ou na quarta-feira, 2 de dezembro de 2026 (fontes divergem), e o final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) na quarta-feira, 2 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "lancamentos|Line of Fire": {
+   "hash": "6300bf93508e9ec6",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a763e14e758f7822",
+     "desde": "2026-11-05T06:25-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-05T06:25-03:00"
+    },
+    "episodios": {
+     "hash": "afa3ff4af02364b2",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "progresso": {
+     "hash": "f3ac32dcd3e32332",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "1d178ad805611b73",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "transmissao": {
+     "hash": "c70d14e7480d860e",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "f699dc4d755a3d47",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "duracao": {
+     "hash": "465d9e1d17ada73d",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "notas:Título oficial no Brasil: \"Line of Fire\" (a HBO Max não traduziu). Nome do 1x04 em português não divulgado (tradução própria). O 1x03 \"Existem Dois Lobos\" foi visto em 22/11/2026. Nos EUA, o 1x09 (\"Vista Grossa\", tradução própria) saiu na terça-feira, 24 de novembro de 2026, à 0h (NBC), e, depois de uma pausa, o 1x10 (\"Contagem Regressiva\", tradução própria) sai na terça-feira, 5 de janeiro de 2027, à 0h. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "lancamentos|Noturno": {
+   "hash": "cb313fcd07023e83",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "24e5b099a12a6551",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "063098a1d714361f",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "episodios": {
+     "hash": "73c15ba3b0d6cd0d",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "b668e96ce675883a",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "42b3f0a565a0e7a2",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "611e382797109cea",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "093991888b4968fb",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "duracao": {
+     "hash": "83be89c376b9d3a9",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x07 (\"Céus Cinzentos\", \"Grey Skies\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Cyberpunk: Mercenários": {
+   "hash": "4082e41fbf05a576",
+   "desde": "2026-11-07T05:44-03:00",
+   "campos": {
+    "nome": {
+     "hash": "5d3ea5c2169d9bcc",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "9d319632fd9dfe20",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "progresso": {
+     "hash": "57ce16d6cad1950a",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "proximo": {
+     "hash": "aa702fabe00ae2ac",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "3cd2623b8c1561b5",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "notas:Na Netflix a 2ª temporada se chama \"Cyberpunk: Mercenários 2\" (história nova, com outros protagonistas). Título em português da página da Netflix Brasil": {
+     "hash": "1",
+     "desde": "2026-11-06T05:47-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|De Mal a Pior": {
+   "hash": "a000ba927f99ba7e",
+   "desde": "2026-11-09T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "9885c30824cd9d6d",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "3ba4e243bafe3c41",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "progresso": {
+     "hash": "2164f863d890e0d1",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "proximo": {
+     "hash": "8bb81e1830f4e806",
+     "desde": "2026-11-07T05:44-03:00"
+    },
+    "brasil": {
+     "hash": "944bf256a1142ed1",
+     "desde": "2026-11-09T05:43-03:00"
+    },
+    "notas:Título oficial no Brasil: \"De Mal a Pior\"": {
+     "hash": "1",
+     "desde": "2026-11-06T05:47-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Delegado": {
+   "hash": "8e9e15a8f4f79e10",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "3bca49533e333c72",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "progresso": {
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "190f3a30c4c8e81b",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "transmissao": {
+     "hash": "9c6863804a79c0c3",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "1d6a34d1933bd106",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Awkwafina - A Cozinheira Improvável": {
+   "hash": "1169b5115459e714",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "c91926cfb4199386",
+     "desde": "2026-11-06T05:47-03:00"
+    },
+    "nome_original": {
+     "hash": "81259bf2a451298b",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "progresso": {
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "3cadad388512ca44",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "transmissao": {
+     "hash": "b39e4375af2dee0f",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "4c12608653688fde",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "notas:\"Nora Aprende a Servir\" é o título oficial. O 1x04 \"Tiki no Havaí\" foi visto em 23/11/2026. 8 episódios; o 1x06 (\"Nora Cria o Cardápio\", \"Nora Designs Her Menu\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Inauguração\") na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Dance in the Vampire Bund": {
+   "hash": "b21b6e625a200f44",
+   "desde": "2026-11-16T05:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "4c4b2f16639d9047",
+     "desde": "2026-11-07T17:24-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-07T17:24-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-07T17:24-03:00"
+    },
+    "progresso": {
+     "hash": "ed61c6f87e4c3262",
+     "desde": "2026-11-15T21:28-03:00"
+    },
+    "proximo": {
+     "hash": "0c8ca275dd25d8f0",
+     "desde": "2026-11-16T05:40-03:00"
+    },
+    "brasil": {
+     "hash": "7a97f279fb08c6e6",
+     "desde": "2026-11-07T17:24-03:00"
+    },
+    "notas:1x01 \"A Morte Convida Para Dançar\" visto em 07/11/2026 no Banco de Séries (serieid 8606; nota 8), Bingers (4 estrelas) e Bingebase (nota 6). Não é final de temporada nem de série.": {
+     "hash": "1",
+     "desde": "2026-11-07T17:24-03:00"
+    },
+    "notas:Anime de 2010, estúdio Shaft. Série encerrada, 1 temporada com 12 episódios; 10 pendentes.": {
+     "hash": "1",
+     "desde": "2026-11-15T21:28-03:00"
+    },
+    "notas:1x02 \"Howling\" / \"Grito de Horror\" visto em 15/11/2026 às 21h28 (America/Sao_Paulo), Banco de Séries serieid 8606 nota 8 (média 7,73), Bingers 4 estrelas. Bingebase ainda não marcado (Cloudflare). Não é final de temporada nem de série. Nome do 1x03 em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-16T05:40-03:00"
+    }
+   }
+  },
+  "episodio_recente|O Instituto": {
+   "hash": "5224b85797ceb1df",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "431bbe6e81675e5a",
+     "desde": "2026-11-08T15:50-03:00"
+    },
+    "nome_original": {
+     "hash": "e91ae47023f9f183",
+     "desde": "2026-11-08T15:50-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-08T15:50-03:00"
+    },
+    "progresso": {
+     "hash": "87343109092b1cb6",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "e5e0c6cbc74c372a",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "edca7b3d0c643ce4",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "lancamentos|O Senhor dos Anéis: Os Anéis de Poder": {
+   "hash": "d3814c66b2c25e2a",
+   "desde": "2026-11-24T05:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a4d439e07d1ecfaa",
+     "desde": "2026-11-11T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "757aff6f80559c52",
+     "desde": "2026-11-11T05:34-03:00"
+    },
+    "episodios": {
+     "hash": "0fe14546fc5481f6",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "progresso": {
+     "hash": "6a1d9a567f140de7",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "ec56d27a8b27a4b3",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "transmissao": {
+     "hash": "8d02e365b43760cf",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "brasil": {
+     "hash": "e3c52de65f65abcc",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "duracao": {
+     "hash": "315024698a7333b0",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "notas:⚠️ Final da 3ª temporada (os dois últimos episódios juntos). Não é final de série: a 4ª temporada está em desenvolvimento, mas ainda não foi renovada oficialmente. O 3x08 ainda não tem nome divulgado; nomes em português ainda não divulgados (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-24T05:42-03:00"
+    }
+   }
+  },
+  "episodio_recente|O Senhor dos Anéis: Os Anéis de Poder": {
+   "hash": "a956270c25a38d4f",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a4d439e07d1ecfaa",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "nome_original": {
+     "hash": "757aff6f80559c52",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "progresso": {
+     "hash": "194bf4ed0d940717",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "0dbe4aa1a5b071d0",
+     "desde": "2026-11-12T05:35-03:00"
+    },
+    "brasil": {
+     "hash": "fc7a8a18e64c6dd9",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "lancamentos|12 12 12": {
+   "hash": "5471d654efb8498f",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "6222d69713141e91",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "episodios": {
+     "hash": "afa3ff4af02364b2",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "0ead36e6aa61c418",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "dad19ac73a24b5df",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "54a27682d2d825d8",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "be2e8eeb0a43ff0d",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "duracao": {
+     "hash": "234570782742c096",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "notas:Título oficial na Apple TV Brasil. 8 episódios; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "novidades|Avatar: Os Sete Refúgios|T2": {
+   "hash": "3a15221ca07d9934",
+   "desde": "2026-11-13T05:43-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "data": {
+     "hash": "d5313a9fba820ab3",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "dia_semana": {
+     "hash": "4cdd7b8198d32df0",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "nome": {
+     "hash": "8e3d6bcdb708e1b8",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "temporada": {
+     "hash": "7b59824823c3bbda",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "info": {
+     "hash": "aebc60ec117e62fb",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "texto": {
+     "hash": "cb2fd71bab422d8f",
+     "desde": "2026-11-13T05:43-03:00"
+    }
+   }
+  },
+  "episodio_hoje|12 12 12": {
+   "hash": "4570f203b5d068d7",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "6222d69713141e91",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-13T05:43-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "progresso": {
+     "hash": "b7d477ada76c6bfd",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "45ecec6adf7ba075",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "4c83d08636304bff",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "4c12608653688fde",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "notas:Título oficial na Apple TV Brasil. O Banco de Séries (3/3) e o Bingers (próximo em 27/11) ainda não contam o 1x04. O 1x05 sai na sexta-feira, 4 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "episodio_recente|12 12 12": {
+   "hash": "ccbf628c58d7cf3b",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "6222d69713141e91",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-18T21:15-03:00"
+    },
+    "progresso": {
+     "hash": "b7d477ada76c6bfd",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "c665bfc7599f3778",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "c9029cc588a76539",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Título oficial na Apple TV Brasil. 8 episódios no total; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "episodio_recente|Diários de Armário: Coven Academy": {
+   "hash": "8c8f5af1ec21f9f0",
+   "desde": "2026-11-24T05:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "ec84077d8e78035a",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "nome_original": {
+     "hash": "3c21f2edcc0bb299",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "status": {
+     "hash": "dd29ecf524b030a6",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "progresso": {
+     "hash": "46a19f1c2843c298",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "proximo": {
+     "hash": "f48f85edb02b0b39",
+     "desde": "2026-11-14T05:41-03:00"
+    },
+    "brasil": {
+     "hash": "74a5f2bb6d7b5a6b",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:Título oficial no Brasil: \"Diários de Armário: Coven Academy\". Spin-off em curtas verticais (2 a 3 minutos) de Coven Academy (série separada da de 21 episódios). No Disney+ Brasil os episódios se chamam \"O Feitiço\", \"Espelho, Espelho Meu\", \"Dezesseis Desejos\" e \"O Limiar\". 1x01 a 1x04 vistos em 13/11/2026 (Banco de Séries serieid 47454)": {
+     "hash": "1",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "notas:Em 24/11/2026 o Banco de Séries tirou o 1x05 e o 1x06 da contagem (passou de 4/6 para 4/4, como no Bingebase, onde eles aparecem como \"Delete Me\"); o Bingers ainda mostra o 1x05 como próximo. Sem data e sem nome divulgados; a série foi renovada": {
+     "hash": "1",
+     "desde": "2026-11-24T05:42-03:00"
+    }
+   }
+  },
+  "lancamentos|Dragon Ball Super: Beerus": {
+   "hash": "e8fd6bca9b5418e9",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "af6533b8671afb89",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "episodios": {
+     "hash": "0ffce4218a9dfa41",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "0ca8c535e8064f82",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "6d09c8376ee18f42",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "f7b824bcfa54cf4e",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "brasil": {
+     "hash": "37ed4e850bafefb2",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "duracao": {
+     "hash": "d1e3ca772a8f8a49",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:Abre a saga do Freeza Dourado (segundo arco), mas não é final de temporada nem de série (19 episódios, até domingo, 14 de fevereiro de 2027). Depois chega ao Disney+ (quarta-feira, 25 de novembro de 2026) e à Netflix (sábado, 28 de novembro de 2026), segundo o Critical Hits; o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "lancamentos|Overgeared": {
+   "hash": "85efefc5c348cdd1",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "074a984872e1e4d8",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "episodios": {
+     "hash": "79622485f01535c7",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "d98156d1540a9f86",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "5d73c2345b01920d",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "fbf6a8b72eb11616",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "brasil": {
+     "hash": "daac1f7cc8fefb02",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "duracao": {
+     "hash": "b7b5d4ea7ac1a1f4",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:O Banco de Séries e o Bingers marcam as datas às sextas (1x09 na sexta-feira, 27 de novembro de 2026); o 1x10 sai no domingo, 29 de novembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "lancamentos|O Instituto": {
+   "hash": "cbbf7dda8c5fbf4f",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "431bbe6e81675e5a",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "nome_original": {
+     "hash": "e91ae47023f9f183",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "episodios": {
+     "hash": "8c0c5b183630a780",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "50f9b5b0f749313a",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "9acf4c7ef845c8e2",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "295323f7e3d823b0",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "brasil": {
+     "hash": "866ff4d2b9edde89",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "duracao": {
+     "hash": "465d9e1d17ada73d",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026, e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Dragon Ball Super: Beerus": {
+   "hash": "8cccad1dca2fee2e",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "af6533b8671afb89",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "progresso": {
+     "hash": "372e771c6e5bf2e1",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "557aeb1e7caa8dea",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "030a265e5d0ec699",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "brasil": {
+     "hash": "de6709b14e763869",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Nome em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "episodio_hoje|O Instituto": {
+   "hash": "b1240dda63bd5212",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "431bbe6e81675e5a",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "nome_original": {
+     "hash": "e91ae47023f9f183",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "progresso": {
+     "hash": "87343109092b1cb6",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "6524e9d65eb55b82",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "transmissao": {
+     "hash": "195ca4aecbdb5cbd",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "brasil": {
+     "hash": "866ff4d2b9edde89",
+     "desde": "2026-11-15T05:32-03:00"
+    },
+    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Nome em português não divulgado (tradução própria). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-22T05:38-03:00"
+    }
+   }
+  },
+  "novidades|Only Murders in the Building|T6": {
+   "hash": "b391b4abed413bd9",
+   "desde": "2026-11-24T05:42-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "data": {
+     "hash": "338a6d012fd6a5be",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "dia_semana": {
+     "hash": "8d435b16c2537cad",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "nome": {
+     "hash": "155ebfa932e4c098",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "temporada": {
+     "hash": "05d4df32a7c3c1e6",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "info": {
+     "hash": "f80f7d8b9195e62f",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "texto": {
+     "hash": "194f3a9462be7081",
+     "desde": "2026-11-24T05:42-03:00"
+    }
+   }
+  },
+  "novidades|Ted: A Série Animada|T1": {
+   "hash": "45584f83714a54db",
+   "desde": "2026-11-18T05:37-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "data": {
+     "hash": "c8340f0f76381335",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "dia_semana": {
+     "hash": "4cdd7b8198d32df0",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "nome": {
+     "hash": "ec9ea8c12b4ac5a8",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "temporada": {
+     "hash": "13930cfd09ff282f",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "info": {
+     "hash": "95bdb703e94ed76d",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "texto": {
+     "hash": "bcd76f1652cd100d",
+     "desde": "2026-11-18T05:37-03:00"
+    }
+   }
+  },
+  "episodio_recente|Red River": {
+   "hash": "e8b59eb9d80ed34b",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "5c176d96f17747d7",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-18T05:37-03:00"
+    },
+    "progresso": {
+     "hash": "f59420d7f731b739",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "5c1343b7b6a5c624",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "a04972ccf9949c71",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "notas:Nome em português do Bingebase. Não é final de temporada nem de série. O 1x22 sai na terça-feira, 1º de dezembro de 2026, e o final da temporada (1x24) na terça-feira, 15 de dezembro de 2026": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "episodio_recente|Tudo É Justo": {
+   "hash": "34356bdecf77fa7d",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "0670b39301f63d8f",
+     "desde": "2026-11-19T05:35-03:00"
+    },
+    "nome_original": {
+     "hash": "09a4666ab2e06fa9",
+     "desde": "2026-11-19T05:35-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-19T05:35-03:00"
+    },
+    "progresso": {
+     "hash": "71622038bfbe2c27",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "5235ffd7d2c920cf",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "brasil": {
+     "hash": "df3e542293131659",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai na quarta-feira, 2 de dezembro de 2026, segundo o Guia Disney+ Brasil e a Exame; a Oficina da Net (lista da semana, 23/11) listou o 2x06 e o 2x07 em 25/11, sem confirmação de que o 2x07 tenha entrado; em 27/11 o Banco de Séries passou a contar 16 episódios (inclui o 2x07), e o Bingers segue com o próximo 2x06. O final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) é na quarta-feira, 2 de dezembro de 2026 (Bingebase: 09/12). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "lancamentos|Percy Jackson e os Olimpianos": {
+   "hash": "3ef3f1cece2f3d48",
+   "desde": "2026-11-27T20:42-03:00",
+   "campos": {
+    "nome": {
+     "hash": "89de2f96358bc93d",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "nome_original": {
+     "hash": "695f84b65a06db45",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "episodios": {
+     "hash": "15aae51f55af94ac",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "progresso": {
+     "hash": "0ead36e6aa61c418",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "titulo_pt_nota": {
+     "hash": "a91c80395602c47e",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "transmissao": {
+     "hash": "aeb96a8945f6d195",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "brasil": {
+     "hash": "8b962e35d2d82e15",
+     "desde": "2026-11-27T20:42-03:00"
+    },
+    "duracao": {
+     "hash": "d13829dac20f8209",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "notas:Título oficial no Disney+ (TechTudo, Exame e Capricho). O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T20:42-03:00"
+    }
+   }
+  },
+  "novidades|One Piece|dublagem do arco País de Wano": {
+   "hash": "64fd9e236fbc2669",
+   "desde": "2026-11-20T05:45-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "data": {
+     "hash": "99e566c3aec1d4ff",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "dia_semana": {
+     "hash": "8d435b16c2537cad",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "nome": {
+     "hash": "3da21195e76536dd",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "temporada": {
+     "hash": "f5d3974c90f119bc",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "info": {
+     "hash": "1db06593b7891782",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "texto": {
+     "hash": "5dcfa124d208a411",
+     "desde": "2026-11-20T05:45-03:00"
+    }
+   }
+  },
+  "novidades|Invencível|T5": {
+   "hash": "9808ff8771819ad5",
+   "desde": "2026-11-20T05:45-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "data": {
+     "hash": "ea0ce1d0ea6473f7",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "dia_semana": {
+     "hash": "e0b9d8ce6d082ecc",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "nome": {
+     "hash": "b5f0400199264528",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "temporada": {
+     "hash": "a7ae6161254ce361",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "info": {
+     "hash": "5f218675e165e732",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "texto": {
+     "hash": "403757c4c4d14050",
+     "desde": "2026-11-20T05:45-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Percy Jackson e os Olimpianos": {
+   "hash": "227b202e25d0d333",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "89de2f96358bc93d",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "nome_original": {
+     "hash": "695f84b65a06db45",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-20T05:45-03:00"
+    },
+    "progresso": {
+     "hash": "523b0a3a643d3543",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "4898335490ff922c",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "transmissao": {
+     "hash": "9f07e73622dd0c21",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "25e2cab9a534a1d8",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Títulos oficiais no Disney+. O 3x02 foi visto em 26/11/2026. O 3x05 e o 3x06 saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "novidades|Uma Mente Excepcional|T3": {
+   "hash": "9e4a1ab2bf156955",
+   "desde": "2026-11-21T05:41-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "data": {
+     "hash": "eb3189a3320af7fa",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "dia_semana": {
+     "hash": "e0b9d8ce6d082ecc",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "nome": {
+     "hash": "d4b28d71805c89d6",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "temporada": {
+     "hash": "a1aeb542ca847a2a",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "info": {
+     "hash": "1e76a23e2c645f5a",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "texto": {
+     "hash": "c56a64c8a185cc70",
+     "desde": "2026-11-21T05:41-03:00"
+    }
+   }
+  },
+  "episodio_recente|Awkwafina - A Cozinheira Improvável": {
+   "hash": "aba7a70adfd8da58",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "c91926cfb4199386",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "nome_original": {
+     "hash": "81259bf2a451298b",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "progresso": {
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "proximo": {
+     "hash": "f95b8374cc5058e4",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "brasil": {
+     "hash": "6490083d8573437f",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "notas:\"Nora Aprende a Servir\" é o título oficial. O 1x04 \"Tiki no Havaí\" foi visto em 23/11/2026. 8 episódios; o 1x06 (\"Nora Cria o Cardápio\", \"Nora Designs Her Menu\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Inauguração\") na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  },
+  "episodio_recente|Terra da Máfia": {
+   "hash": "62703e45a115498b",
+   "desde": "2026-11-22T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "7762b5efab348535",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "nome_original": {
+     "hash": "c4873e62b3b23b3d",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "progresso": {
+     "hash": "4238a6a88a1d22dd",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "proximo": {
+     "hash": "407db22ca7796dcd",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "brasil": {
+     "hash": "f18e1f1942ec4bc9",
+     "desde": "2026-11-22T05:38-03:00"
+    },
+    "notas:⚠️ Episódio final da 2ª temporada (série renovada para a 3ª, já em produção, ainda sem data). Não é final de série. Nome em português ainda não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-21T05:41-03:00"
+    }
+   }
+  },
+  "episodio_recente|Percy Jackson e os Olimpianos": {
+   "hash": "2638123f31e04970",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "89de2f96358bc93d",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "nome_original": {
+     "hash": "695f84b65a06db45",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-21T05:41-03:00"
+    },
+    "progresso": {
+     "hash": "523b0a3a643d3543",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "proximo": {
+     "hash": "7e094ed6dabb288c",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "brasil": {
+     "hash": "79597c7a0a3d9d75",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "notas:Títulos oficiais no Disney+ (TechTudo, Exame e Capricho): 3x03 \"Eu Aprendo a Criar Zumbis\" e 3x04 \"Visitamos o Ferro-Velho dos Deuses\". O 3x02 foi visto em 26/11/2026. O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Tudo É Justo": {
+   "hash": "f845c3f38cef4cbb",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "0670b39301f63d8f",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "09a4666ab2e06fa9",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "302c66b10850da4c",
+     "desde": "2026-11-25T20:54-03:00"
+    },
+    "proximo": {
+     "hash": "bf97327d47af2eb3",
+     "desde": "2026-11-25T20:54-03:00"
+    },
+    "brasil": {
+     "hash": "df3e542293131659",
+     "desde": "2026-11-25T20:54-03:00"
+    },
+    "notas:Nome em português ainda não divulgado (tradução própria). O 2x05 \"Liberty Sem Amarras\" foi visto em 25/11/2026. O 2x07 (\"Inimigas Íntimas\", \"Frenemies\", tradução própria) sai na quarta-feira, 2 de dezembro de 2026, segundo o Guia Disney+ Brasil e a Exame; a Oficina da Net (lista da semana, 23/11) listou o 2x06 e o 2x07 em 25/11, sem confirmação de que o 2x07 tenha entrado. O final da temporada (2x08, \"Acidente de Carr\", \"Carr Crash\", tradução própria) é na quarta-feira, 2 de dezembro de 2026 (Bingebase: 09/12). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "episodio_recente|Dragon Ball Super: Beerus": {
+   "hash": "13dab172637d3aee",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "af6533b8671afb89",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "372e771c6e5bf2e1",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "d79f1206e26545c7",
+     "desde": "2026-11-23T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "311c4e260cda05a2",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ontem ao Disney+ (quarta-feira, 25 de novembro de 2026; Critical Hits e Guia Disney+ Brasil) e chega à Netflix no sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|The Exiled Heavy Knight Knows How to Game the System": {
+   "hash": "d615de3ed2659aa0",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "1fc0a708f3a19c4c",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "progresso": {
+     "hash": "f59420d7f731b739",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "proximo": {
+     "hash": "6021d829008d4624",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "brasil": {
+     "hash": "0b1609656ae170b3",
+     "desde": "2026-11-24T05:42-03:00"
+    },
+    "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai amanhã, quinta-feira, 26 de novembro de 2026": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Noturno": {
+   "hash": "ada8fd13877f456a",
+   "desde": "2026-11-25T13:21-03:00",
+   "campos": {
+    "nome": {
+     "hash": "24e5b099a12a6551",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "063098a1d714361f",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "cfa4b42b4d7cde69",
+     "desde": "2026-11-25T13:21-03:00"
+    },
+    "proximo": {
+     "hash": "afe13a42a19f29c9",
+     "desde": "2026-11-25T13:21-03:00"
+    },
+    "brasil": {
+     "hash": "b6faa6145c353f3e",
+     "desde": "2026-11-25T13:21-03:00"
+    },
+    "notas:\"Conexões\" é o título oficial na Apple TV Brasil. O 1x05 \"Solidão\" foi visto em 25/11/2026. O 1x07 (\"Céus Cinzentos\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x10) na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T13:21-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Percy Jackson e os Olimpianos": {
+   "hash": "a473c89fdb34a062",
+   "desde": "2026-11-25T05:38-03:00",
+   "campos": {
+    "nome": {
+     "hash": "89de2f96358bc93d",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "nome_original": {
+     "hash": "695f84b65a06db45",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "progresso": {
+     "hash": "558ffc27decf18fe",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "proximo": {
+     "hash": "82efe17ad679ba1e",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "brasil": {
+     "hash": "8661833a07774814",
+     "desde": "2026-11-25T05:38-03:00"
+    },
+    "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-25T05:38-03:00"
+    }
+   }
+  },
+  "finalizadas_atrasadas|Blade Runner 2099": {
+   "hash": "35e4ebbb2571d0a3",
+   "desde": "2026-11-25T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "f1fc506e92f79258",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "progresso": {
+     "hash": "4672e7f04f64636d",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "proximo": {
+     "hash": "478516078098105f",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "7099730536371eab",
+     "desde": "2026-11-25T21:40-03:00"
+    },
+    "notas:Título oficial no Brasil: \"Blade Runner 2099\" (TMDB pt-BR e Prime Video Brasil). Minissérie (encerrada; todos os episódios lançados juntos). Nomes dos episódios em português não divulgados (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-25T21:40-03:00"
+    }
+   }
+  },
+  "novidades|The Pitt|T3": {
+   "hash": "7f772c3bdbc9195f",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "selo": {
+     "hash": "fad3858ef6319302",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "data": {
+     "hash": "a0b13b52812950d8",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "dia_semana": {
+     "hash": "6ef50934699b1274",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "nome": {
+     "hash": "83d124673fa7fe6f",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "temporada": {
+     "hash": "a1aeb542ca847a2a",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "info": {
+     "hash": "b0fc96ab556ab0ba",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "texto": {
+     "hash": "8587355a110c2ec3",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|12 12 12": {
+   "hash": "ccbf628c58d7cf3b",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "6222d69713141e91",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "progresso": {
+     "hash": "b7d477ada76c6bfd",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "proximo": {
+     "hash": "c665bfc7599f3778",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "c9029cc588a76539",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "notas:Título oficial na Apple TV Brasil. 8 episódios no total; o 1x05 (\"Um pelo Dinheiro, Dois pelo Show\", \"One for the Money, Two for the Show\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Os Bancos Têm Que Pagar\") na sexta-feira, 25 de dezembro de 2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "episodio_hoje|Line of Fire": {
+   "hash": "94d462e688311af9",
+   "desde": "2026-11-26T21:40-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a763e14e758f7822",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "progresso": {
+     "hash": "00ab968c70951557",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "proximo": {
+     "hash": "feabaf093bca3015",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "transmissao": {
+     "hash": "82200e3b6eba6020",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "brasil": {
+     "hash": "b0d54cc9ef3edeee",
+     "desde": "2026-11-26T21:40-03:00"
+    },
+    "notas:Título oficial no Brasil: \"Line of Fire\". Nome do 1x04 em português não divulgado (tradução própria). O 1x03 foi visto em 22/11/2026. Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-26T21:40-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Dragon Ball Super: Beerus": {
+   "hash": "1dfb814853a09e11",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "af6533b8671afb89",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "2be88ca4242c76e8",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "372e771c6e5bf2e1",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "d79f1206e26545c7",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "311c4e260cda05a2",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ao Disney+ na quarta-feira, 25 de novembro de 2026 (Critical Hits e Guia Disney+ Brasil) e à HBO Max na sexta-feira, 27 de novembro de 2026, e chega à Netflix hoje, sábado, 28 de novembro de 2026, à 0h (Critical Hits e Observatório do Cinema); o 1x08 (\"A Vingança de 'F'\", \"Revenge 'F'\", tradução própria) sai amanhã, domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|A Assassina": {
+   "hash": "6606f1d6d0055284",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a892c85092dbed5f",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "c19e7a81e1e851f3",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "2ae42f3b975a921d",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "39c8a1428d8f45ac",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "d4273780bb3d6bf8",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:🔜 T2 completa (6 episódios) no Prime Video só no Reino Unido e na Irlanda, desde sexta-feira, 6 de novembro de 2026. Nome em português ainda não divulgado": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|O Instituto": {
+   "hash": "7fff27dabd8c3bf5",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "431bbe6e81675e5a",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "e91ae47023f9f183",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "87343109092b1cb6",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "e5e0c6cbc74c372a",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "edca7b3d0c643ce4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai amanhã, domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|O Senhor dos Anéis: Os Anéis de Poder": {
+   "hash": "a956270c25a38d4f",
+   "desde": "2026-11-27T05:34-03:00",
+   "campos": {
+    "nome": {
+     "hash": "a4d439e07d1ecfaa",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "nome_original": {
+     "hash": "757aff6f80559c52",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "status": {
+     "hash": "6045bfc7dbf0dcb4",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "progresso": {
+     "hash": "194bf4ed0d940717",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "proximo": {
+     "hash": "0dbe4aa1a5b071d0",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "brasil": {
+     "hash": "fc7a8a18e64c6dd9",
+     "desde": "2026-11-27T05:34-03:00"
+    },
+    "notas:Nome em português ainda não divulgado. Não é final de temporada nem de série. 3x05 \"A Senhora de Lórien\", 3x06 \"De Valinor\", 3x07 \"Orodruin\" e 3x08 \"A Perdição dos Homens\" (\"The Doom of Men\"), traduções próprias (títulos em inglês do TVmaze). Renovada para a 4ª temporada (Prime Video, terça-feira, 24 de novembro de 2026; F5/Folha, Rolling Stone Brasil, Exame e BDS no X): em pré-produção, filmagens na primavera de 2027 no hemisfério norte, sem data de estreia": {
+     "hash": "1",
+     "desde": "2026-11-27T05:34-03:00"
+    }
+   }
+  },
+  "ativas_atrasadas|Segurança Nacional": {
+   "hash": "37fb63624f9cff5c",
+   "desde": "2026-11-28T05:43-03:00",
+   "campos": {
+    "nome": {
+     "hash": "b81472730606c749",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "nome_original": {
+     "hash": "3b0635406f6569f7",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "status": {
+     "hash": "052c04d5c6954d95",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "progresso": {
+     "hash": "49a412bebb2fe91a",
+     "desde": "2026-11-28T05:43-03:00"
+    },
+    "proximo": {
+     "hash": "8d6ec51d034e1bb0",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "brasil": {
+     "hash": "449bd0db05eb74a1",
+     "desde": "2026-11-27T13:42-03:00"
+    },
+    "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai amanhã, domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Em 28/11 o Banco de Séries passou a contar os 5 episódios (0/5; todos exibidos no Reino Unido em 27 de abril de 2026, segundo o TVmaze); no MGM+ só o 1x01 está no ar. Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05).": {
+     "hash": "1",
+     "desde": "2026-11-28T05:43-03:00"
+    }
+   }
+  }
+ }
+}
