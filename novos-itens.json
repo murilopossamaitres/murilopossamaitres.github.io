@@ -638,8 +638,8 @@
    }
   },
   "filmes|Clayface|2026": {
-   "hash": "347523080e91e220",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "44a52c99f8ebdfc9",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "titulo": {
      "hash": "9421afa00c039721",
@@ -662,8 +662,8 @@
      "desde": "2026-10-24T05:40-03:00"
     },
     "aluguel_compra": {
-     "hash": "77182423f9de2d02",
-     "desde": "2026-11-27T05:34-03:00"
+     "hash": "9d5d92da851c14a4",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "streaming": {
      "hash": "c2849bef4af013a7",
@@ -714,8 +714,8 @@
    }
   },
   "filmes|The Hunger Games: Sunrise on the Reaping|2026": {
-   "hash": "753548622213b062",
-   "desde": "2026-11-26T21:40-03:00",
+   "hash": "e79a359c09a0fac8",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "titulo": {
      "hash": "7e3559599265631e",
@@ -734,8 +734,8 @@
      "desde": "2026-10-22T08:00-03:00"
     },
     "cinema_brasil": {
-     "hash": "23995af8f3290092",
-     "desde": "2026-11-26T21:40-03:00"
+     "hash": "ba74c189d1c2c9a6",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "aluguel_compra": {
      "hash": "80ed77467a1bfd1f",
@@ -752,8 +752,8 @@
    }
   },
   "filmes|Hexed|2026": {
-   "hash": "2cbf411a88cb9b3c",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "75e289b982e22ad0",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "titulo": {
      "hash": "99c05a332c40071f",
@@ -772,8 +772,8 @@
      "desde": "2026-10-22T08:00-03:00"
     },
     "cinema_brasil": {
-     "hash": "30cdefd36796a7a2",
-     "desde": "2026-11-27T05:34-03:00"
+     "hash": "fce49d096fa81300",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "aluguel_compra": {
      "hash": "8ab75fffd8246a31",
@@ -1354,8 +1354,8 @@
    }
   },
   "episodio_recente|Delegado": {
-   "hash": "7166758b76bae6f7",
-   "desde": "2026-11-23T05:34-03:00",
+   "hash": "2114e2a8b854bae2",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "3bca49533e333c72",
@@ -1370,20 +1370,20 @@
      "desde": "2026-11-07T05:44-03:00"
     },
     "progresso": {
-     "hash": "b7d477ada76c6bfd",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "proximo": {
-     "hash": "88aa7d9f8b43da2b",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "c26f99a0618c79d5",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "brasil": {
-     "hash": "c88d414e1288c97a",
-     "desde": "2026-11-23T05:34-03:00"
+     "hash": "7e034e06be8b07fe",
+     "desde": "2026-11-28T05:43-03:00"
     },
-    "notas:O 1x05 (\"Sangue de Marmota\") sai na sexta-feira, 27 de novembro de 2026, no Canal Brasil, e no sábado, 28 de novembro de 2026, no Globoplay. Não é final de temporada nem de série": {
+    "notas:Título oficial (série brasileira). O 1x04 \"Velhos Amigos\" foi visto em 24/11/2026. O 1x06 (\"Tempo que Corre, Verdade que Foge\") sai na sexta-feira, 4 de dezembro de 2026, e o final da temporada (1x07, \"Cair pra Cima\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   },
@@ -2386,8 +2386,8 @@
    }
   },
   "episodio_recente|Tudo É Justo": {
-   "hash": "e34b8f030101f418",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "34356bdecf77fa7d",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "0670b39301f63d8f",
@@ -2406,8 +2406,8 @@
      "desde": "2026-11-27T05:34-03:00"
     },
     "proximo": {
-     "hash": "bf97327d47af2eb3",
-     "desde": "2026-11-27T05:34-03:00"
+     "hash": "5235ffd7d2c920cf",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "brasil": {
      "hash": "df3e542293131659",
@@ -2529,40 +2529,6 @@
     }
    }
   },
-  "episodio_recente|The Exiled Heavy Knight Knows How to Game the System": {
-   "hash": "bf094ae91184e920",
-   "desde": "2026-11-21T05:41-03:00",
-   "campos": {
-    "nome": {
-     "hash": "1fc0a708f3a19c4c",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "nome_original": {
-     "hash": "2be88ca4242c76e8",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "status": {
-     "hash": "6045bfc7dbf0dcb4",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "progresso": {
-     "hash": "f59420d7f731b739",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "proximo": {
-     "hash": "6021d829008d4624",
-     "desde": "2026-11-20T05:45-03:00"
-    },
-    "brasil": {
-     "hash": "0b1609656ae170b3",
-     "desde": "2026-11-21T05:41-03:00"
-    },
-    "notas:Nome do episódio em português ainda não divulgado (tradução própria). Não é final de temporada nem de série. O 1x22 sai na quinta-feira, 26 de novembro de 2026": {
-     "hash": "1",
-     "desde": "2026-11-20T05:45-03:00"
-    }
-   }
-  },
   "episodio_hoje|Percy Jackson e os Olimpianos": {
    "hash": "227b202e25d0d333",
    "desde": "2026-11-27T05:34-03:00",
@@ -2636,36 +2602,36 @@
    }
   },
   "episodio_recente|Awkwafina - A Cozinheira Improvável": {
-   "hash": "fc0767c8942648d4",
-   "desde": "2026-11-22T05:38-03:00",
+   "hash": "aba7a70adfd8da58",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "c91926cfb4199386",
      "desde": "2026-11-21T05:41-03:00"
     },
     "nome_original": {
-     "hash": "2be88ca4242c76e8",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "81259bf2a451298b",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "status": {
      "hash": "6045bfc7dbf0dcb4",
      "desde": "2026-11-21T05:41-03:00"
     },
     "progresso": {
-     "hash": "b7d477ada76c6bfd",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "36ecdbf6609b67b4",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "proximo": {
-     "hash": "6c0a635a5bacba62",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "f95b8374cc5058e4",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "brasil": {
-     "hash": "3925ac7dcb812e29",
-     "desde": "2026-11-22T05:38-03:00"
+     "hash": "6490083d8573437f",
+     "desde": "2026-11-28T05:43-03:00"
     },
-    "notas:Título do episódio oficial na Apple TV Brasil. O 1x05 (\"Nora Aprende a Servir\", título oficial) deve sair na quarta-feira, 25 de novembro de 2026, antecipado por causa do feriado de Ação de Graças nos EUA (Portal Apple TV no X; a Apple TV Press Brasil e o TVmaze ainda indicam sexta-feira, 27 de novembro de 2026); o final da temporada (1x08, \"Inauguração\") sai na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série": {
+    "notas:\"Nora Aprende a Servir\" é o título oficial. O 1x04 \"Tiki no Havaí\" foi visto em 23/11/2026. 8 episódios; o 1x06 (\"Nora Cria o Cardápio\", \"Nora Designs Her Menu\", tradução própria) sai na sexta-feira, 4 de dezembro de 2026 (TVmaze), e o final da temporada (1x08, \"Inauguração\") na sexta-feira, 18 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   },
@@ -2704,8 +2670,8 @@
    }
   },
   "episodio_recente|Percy Jackson e os Olimpianos": {
-   "hash": "a473c89fdb34a062",
-   "desde": "2026-11-22T05:38-03:00",
+   "hash": "2638123f31e04970",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "89de2f96358bc93d",
@@ -2720,20 +2686,20 @@
      "desde": "2026-11-21T05:41-03:00"
     },
     "progresso": {
-     "hash": "558ffc27decf18fe",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "523b0a3a643d3543",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "proximo": {
-     "hash": "82efe17ad679ba1e",
-     "desde": "2026-11-21T05:41-03:00"
+     "hash": "7e094ed6dabb288c",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "brasil": {
-     "hash": "8661833a07774814",
-     "desde": "2026-11-22T05:38-03:00"
+     "hash": "79597c7a0a3d9d75",
+     "desde": "2026-11-28T05:43-03:00"
     },
-    "notas:O 3x02 é \"Um Velho Amigo Falecido Vem Visitar\" (título oficial). 3x03 e 3x04 na sexta-feira, 27 de novembro de 2026; final da temporada (3x07 e 3x08) na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
+    "notas:Títulos oficiais no Disney+ (TechTudo, Exame e Capricho): 3x03 \"Eu Aprendo a Criar Zumbis\" e 3x04 \"Visitamos o Ferro-Velho dos Deuses\". O 3x02 foi visto em 26/11/2026. O 3x05 (\"Eu Tenho um Problema Sério\") e o 3x06 (\"Eu Luto com o Gêmeo Malvado do Papai Noel\") saem na sexta-feira, 4 de dezembro de 2026, e o final da temporada (3x07 e 3x08, \"Os Deuses Votam em Como Nos Matar\") na sexta-feira, 11 de dezembro de 2026. Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-21T05:41-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   },
@@ -3048,8 +3014,8 @@
    }
   },
   "ativas_atrasadas|Dragon Ball Super: Beerus": {
-   "hash": "84f2a2d2dc444717",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "1dfb814853a09e11",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "af6533b8671afb89",
@@ -3075,9 +3041,9 @@
      "hash": "311c4e260cda05a2",
      "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ao Disney+ na quarta-feira, 25 de novembro de 2026 (Critical Hits e Guia Disney+ Brasil) e chega à Netflix amanhã, sábado, 28 de novembro de 2026 (Critical Hits); o 1x08 (\"A Vingança de 'F'\", \"Revenge 'F'\", tradução própria) sai no domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
+    "notas:O Banco de Séries conta 7 episódios por enquanto; a série tem 19. Abre a saga do Freeza Dourado; não é final de temporada nem de série. Chegou ao Disney+ na quarta-feira, 25 de novembro de 2026 (Critical Hits e Guia Disney+ Brasil) e à HBO Max na sexta-feira, 27 de novembro de 2026, e chega à Netflix hoje, sábado, 28 de novembro de 2026, à 0h (Critical Hits e Observatório do Cinema); o 1x08 (\"A Vingança de 'F'\", \"Revenge 'F'\", tradução própria) sai amanhã, domingo, 29 de novembro de 2026, às 13h, na Crunchyroll. Nome do 1x07 em português não divulgado (tradução própria)": {
      "hash": "1",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   },
@@ -3116,8 +3082,8 @@
    }
   },
   "ativas_atrasadas|O Instituto": {
-   "hash": "5224b85797ceb1df",
-   "desde": "2026-11-27T05:34-03:00",
+   "hash": "7fff27dabd8c3bf5",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "431bbe6e81675e5a",
@@ -3143,9 +3109,9 @@
      "hash": "edca7b3d0c643ce4",
      "desde": "2026-11-27T05:34-03:00"
     },
-    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai no domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
+    "notas:T2: 2/8 visto (2x02 \"The Sanctuary\" visto em 20/11/2026). Semanal aos domingos; o 2x04 (\"Truth and Consequences\" / \"Verdade e Consequências\") sai amanhã, domingo, 29 de novembro de 2026 (confirmado pela @mgmplus no X em 25/11), e o final da temporada (2x08, \"The Other Side\" / \"O Outro Lado\") no domingo, 27 de dezembro de 2026. Nomes em português não divulgados (tradução própria). Não é final de temporada nem de série": {
      "hash": "1",
-     "desde": "2026-11-27T05:34-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   },
@@ -3184,8 +3150,8 @@
    }
   },
   "ativas_atrasadas|Segurança Nacional": {
-   "hash": "593748201b1890e7",
-   "desde": "2026-11-27T13:42-03:00",
+   "hash": "37fb63624f9cff5c",
+   "desde": "2026-11-28T05:43-03:00",
    "campos": {
     "nome": {
      "hash": "b81472730606c749",
@@ -3200,8 +3166,8 @@
      "desde": "2026-11-27T13:42-03:00"
     },
     "progresso": {
-     "hash": "5405802115c6b45b",
-     "desde": "2026-11-27T13:42-03:00"
+     "hash": "49a412bebb2fe91a",
+     "desde": "2026-11-28T05:43-03:00"
     },
     "proximo": {
      "hash": "8d6ec51d034e1bb0",
@@ -3211,9 +3177,9 @@
      "hash": "449bd0db05eb74a1",
      "desde": "2026-11-27T13:42-03:00"
     },
-    "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai no domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05).": {
+    "notas:Minissérie de 5 episódios. Título oficial no Brasil: \"Segurança Nacional\" (TMDB pt-BR; JWave, Séries em Cena, Folha, CinePOP). Estreia britânica na ITV/ITVX em 27 de abril de 2026. Semanal no MGM+; o 1x02 sai amanhã, domingo, 29 de novembro de 2026 (EUA, 22h ET/PT). Em 28/11 o Banco de Séries passou a contar os 5 episódios (0/5; todos exibidos no Reino Unido em 27 de abril de 2026, segundo o TVmaze); no MGM+ só o 1x01 está no ar. Nome do 1x01 em português não divulgado. Não é final de temporada nem de série (o final da minissérie é o 1x05).": {
      "hash": "1",
-     "desde": "2026-11-27T13:42-03:00"
+     "desde": "2026-11-28T05:43-03:00"
     }
    }
   }
