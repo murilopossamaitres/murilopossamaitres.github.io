@@ -1,0 +1,125 @@
+{
+ "_leia": "Séries em que o Murilo está em dia. O parse_resumo.py tira dos cards (lançamentos, atrasadas, recente, hoje) a série com este nome exato enquanto o episódio do card for <= em_dia_ate. Episódio novo (ex.: T2) volta a aparecer sozinho. Novidades não são filtradas.",
+ "itens": [
+  {
+   "nome": "Coven Academy",
+   "em_dia_ate": "1x21",
+   "em_dia_em": "2026-10-18",
+   "obs": "T1 completa (21/21); 2ª temporada não anunciada"
+  },
+  {
+   "nome": "Youth",
+   "em_dia_ate": "1x08",
+   "em_dia_em": "2026-11-04",
+   "obs": "1x08 \"Agent of the Year\" (\"Agente do Ano\", tradução própria), final da T1, visto em 04/11/2026 às 22h35 (Bingers, 4 estrelas, status caught_up; Banco de Séries serieid 45290: nota 8,0, marcado no Banco); T1 completa (8/8), 0 pendentes. Renovada para a 2ª temporada (HBO, 02/11/2026; Banco: \"Renovada\"), ainda sem data; aí volta sozinha"
+  },
+  {
+   "nome": "Red River",
+   "em_dia_ate": "1x21",
+   "em_dia_em": "2026-11-26",
+   "obs": "1x21 \"A decisão de nos separarmos\" (Bingebase pt-BR) visto em 26/11/2026; 21/24; 1x22 sai terça-feira, 1º de dezembro de 2026, na Crunchyroll; final da T1 (1x24) na terça-feira, 15 de dezembro de 2026"
+  },
+  {
+   "nome": "Invasão: Código Apollo",
+   "em_dia_ate": "2x08",
+   "em_dia_em": "2026-10-27",
+   "obs": "2x08 (final da T2) visto em 27/10 (Bingers; Banco não conferido); T2 completa (16/16). 3ª temporada não anunciada"
+  },
+  {
+   "nome": "Vampirina: Uma Vampirinha Adolescente",
+   "em_dia_ate": "2x06",
+   "em_dia_em": "2026-10-21",
+   "obs": "2x05 e 2x06 vistos em 21/10; T2 completa (6/6), 0 pendentes; 3ª temporada não anunciada"
+  },
+  {
+   "nome": "VisionQuest",
+   "em_dia_ate": "1x08",
+   "em_dia_em": "2026-11-11",
+   "obs": "1x08 \"Forever\" (\"Para Sempre\", Bingebase), final da T1, visto em 11/11/2026 no Banco de Séries (serieid 31245; nota 9,5), Bingers (5 estrelas, status completed, catalog_status Ended) e Bingebase (nota 10; página diz \"Final da série\", série \"Encerrada\"). T1 completa (8/8), 0 pendentes. No Banco: Última Temporada (8 episódios), Próximo Episódio Indefinido, sem rótulo de finalizada. 2ª temporada não anunciada no Banco; aí volta sozinha."
+  },
+  {
+   "nome": "Scrubs",
+   "em_dia_ate": "2x08",
+   "em_dia_em": "2026-11-12",
+   "obs": "2x08 / 11x08 \"My Emergency\" (\"Minha Emergência\") visto em 12/11/2026 (Bingers como T2; Banco como T11); 8/10. 2x09 sai na ABC na quarta-feira, 2 de dezembro de 2026, aí volta sozinha. O 2x10 \"My Wonderful Life\" (\"Minha Vida Maravilhosa\") sai 09/12."
+  },
+  {
+   "nome": "The Exiled Heavy Knight Knows How to Game the System",
+   "em_dia_ate": "1x22",
+   "em_dia_em": "2026-11-26",
+   "obs": "1x22 \"Hunter Kelt and Priest Maebel\" / \"O Caçador Kelt e a Sacerdotisa Maebel\" (título oficial pt-BR informado pelo Murilo) visto em 26/11/2026 (Banco de Séries: nota 7,5, média 7,45→7,5, 22/22; Bingers 4,0, caught_up, 22/26; Bingebase nota 9, média 8,7→9, 22/26). Não é final de temporada nem de série. Próximo: 1x23, quinta-feira, 3 de dezembro de 2026, na Crunchyroll (TVmaze: 12h26; o Bingers data em 04/12 e ainda intitula \"三腕の死神\"; nome pt-BR não divulgado). Final da temporada: 1x26, em 24/12/2026."
+  },
+  {
+   "nome": "Terra da Máfia",
+   "em_dia_ate": "2x10",
+   "em_dia_em": "2026-11-24",
+   "obs": "2x10 \"The Queen Is Dead\" / \"A Rainha Está Morta\" (tradução própria; nome em português não divulgado) visto em 24/11/2026 (Banco de Séries serieid 36209: nota 9, média 8,97, 141 votos; Bingers 4,5 estrelas, 9/2 exato; Bingebase nota 10, média do episódio 9,2, 20/20 Concluído). ⚠️ Final da 2ª temporada; não é final de série (renovada para a 3ª, já em produção, ainda sem data). Banco 20/20 lançados. Quando sair a T3 (3x01), volta sozinha."
+  },
+  {
+   "nome": "American Horror Story",
+   "em_dia_ate": "13x13",
+   "em_dia_em": "2026-10-30",
+   "obs": "13x13 \"Devil of a Good Time\" (\"Uma Diversão Infernal\"), final da T13 (exibido em 29/10/2026), visto em 30/10/2026 às 13h24 (Bingers, 2,5 estrelas, status caught_up; Banco de Séries, nota 5); T13 completa (13/13), 145/145, 0 pendentes. 14ª temporada renovada (FX, 20/10/2026), sem data; aí volta sozinha"
+  },
+  {
+   "nome": "Noturno",
+   "em_dia_ate": "1x05",
+   "em_dia_em": "2026-11-25",
+   "obs": "1x05 \"Solitude\" (\"Solidão\", título oficial na Apple TV Brasil) visto em 25/11/2026 (Banco de Séries serieid 46510: nota 9, média 8,6; Bingers 4,5 estrelas, 9/2 exato; Bingebase nota 9, média 8,9, 5/10). Não é final de temporada nem de série. Bingers watch_next, furthest 1x05. Pendente: 1x06 \"Only Connect\" (\"Conexões\", título oficial na Apple TV Brasil), no ar desde qua 25/11/2026 (antecipado pelo feriado de Ação de Graças). O 1x07 \"Grey Skies\" (\"Céus Cinzentos\", tradução própria) sai sex 04/12/2026; o final da T1 é o 1x10, em 25/12/2026."
+  },
+  {
+   "nome": "Crystal Lake",
+   "em_dia_ate": "1x08",
+   "em_dia_em": "2026-11-04",
+   "obs": "1x08 \"The Final Chapter\" (\"O Capítulo Final\", TMDB), final da T1, visto em 04/11/2026 às 20h14 (Bingers, 4,5 estrelas, status caught_up; Banco de Séries serieid 31264: nota 9 pela média 8,93 do episódio, marcado no Banco); T1 completa (8/8), 0 pendentes. 2ª temporada não anunciada (TVmaze: To Be Determined); aí volta sozinha"
+  },
+  {
+   "nome": "Delegado",
+   "em_dia_ate": "1x04",
+   "em_dia_em": "2026-11-24",
+   "obs": "1x04 \"Velhos Amigos\" (título oficial, série brasileira) visto em 24/11/2026 (Banco de Séries serieid 47043: nota 8,5, média 8,15, 17 votos; Bingers 4,5 estrelas, 8,5/2 = 4,25 arredondado para cima; Bingebase nota 9, sem média do episódio nem da temporada, média dos anteriores 8,9, 4/7). Não é final de temporada nem de série. Banco 4/4 lançados (temporada tem 7). Semanal às sextas: o próximo é o 1x05 \"Sangue de Marmota\", sex 27/11/2026 no Canal Brasil (22h) e sáb 28/11 no Globoplay, aí volta sozinha. O final da T1 é o 1x07 \"Cair pra Cima\", em 11/12/2026."
+  },
+  {
+   "nome": "Overgeared",
+   "em_dia_ate": "1x09",
+   "em_dia_em": "2026-11-27",
+   "obs": "1x09 (\"Episódio 9\" na Crunchyroll Brasil e no Bingebase; \"Os Companheiros da Guilda\" / \"Comrades in the Guild\") visto no Bingebase em 22/11/2026 (nota 9, pela média da temporada 8,4; sem média do episódio na hora; depois a média do episódio ficou 9,2; 9/12); no Bingers em 27/11/2026 ~00h22 (5★; a API ainda não mostra a % das estrelas nem deixa votar no personagem; 9/12, caught_up, last_watched_at 2026-11-27T03:22:44.869Z); e no Banco de Séries (serieid 46060) em 27/11/2026 ~00h25 (nota 9,5, média do episódio 9,17; 9/9 lançados). Não é final de temporada nem de série (T1 tem 12). Próximo 1x10 (\"Episódio 10\"): Crunchyroll domingo 29/11/2026 às 11h30; Banco/Bingers sexta 04/12/2026."
+  },
+  {
+   "nome": "Tudo É Justo",
+   "em_dia_ate": "2x05",
+   "em_dia_em": "2026-11-25",
+   "obs": "2x05 \"Liberty, Unleashed\" (\"Liberty Sem Amarras\", título pt-BR do Bingebase) visto em 25/11/2026 (Banco de Séries serieid 37780: nota 8,5, média 8,22, 14/15; Bingers 4,5 estrelas, 8,5/2 = 4,25 arredondado para cima; Bingebase nota 8, média 7,5, T2 5/8, série 14/17). Não é final de temporada nem de série. Pendente: 2x06 \"Queens\" (\"Rainhas\", tradução própria), no ar desde qua 25/11/2026 no Disney+. 2x07 \"Frenemies\" sai hoje ou qua 02/12 (fontes divergem); final da T2 (2x08 \"Carr Crash\") qua 02/12/2026 (Bingebase: 09/12)."
+  },
+  {
+   "nome": "O Instituto",
+   "em_dia_ate": "2x02",
+   "em_dia_em": "2026-11-20",
+   "obs": "2x02 \"The Sanctuary\" (\"O Santuário\") visto em 20/11/2026 (Banco de Séries serieid 39889: nota 8, média 7,83; Bingers 4 estrelas, 8/2 exato; Bingebase já marcado). Não é final de temporada nem de série. Banco 10/10 lançados. T2: 2/8 vistos. Bingers caught_up, furthest 2x02, all_aired_watched true. Semanal aos domingos: o próximo é o 2x03 \"Double Cross\" (\"Traição\", tradução própria), dom 22/11/2026, aí volta sozinha. O final da T2 é o 2x08 \"The Other Side\" (\"O Outro Lado\", tradução própria), em 27/12/2026."
+  },
+  {
+   "nome": "Dragon Ball Super: Beerus",
+   "em_dia_ate": "1x06",
+   "em_dia_em": "2026-11-15",
+   "obs": "1x06 \"神と神\" / \"Battle of Gods\" / \"A Batalha dos Deuses\" visto em 15/11/2026 às 14h52 (America/Sao_Paulo), Banco de Séries serieid 44908 nota 8,5, Bingers 4,5 estrelas, status caught_up, Bingebase nota 10; Banco 6/6 lançados (a série tem 19). Fecha o primeiro arco, não é final de temporada nem de série. Próximo: 1x07, domingo, 22 de novembro de 2026, às 13h, Crunchyroll; aí volta sozinha."
+  },
+  {
+   "nome": "Awkwafina - A Cozinheira Improvável",
+   "em_dia_ate": "1x04",
+   "em_dia_em": "2026-11-23",
+   "obs": "1x04 \"Tiki in Hawaiʻi\" (\"Tiki no Havaí\", título oficial na Apple TV Brasil) visto em 23/11/2026 (Banco de Séries serieid 47424: nota 6, média exata 6, 1 nota; Bingers 3 estrelas, 6/2 exato, caught_up, furthest 1x04, all_aired_watched true; Bingebase nota 9, Binge Score 8,9, 4/8). Não é final de temporada nem de série. Banco 4/4 lançados (temporada tem 8). Próximo: 1x05 \"Nora Learns to Serve\" (\"Nora Aprende a Servir\", título oficial), quarta-feira, 25 de novembro de 2026 (antecipado pelo feriado de Ação de Graças; Apple TV Press Brasil/TVmaze/Bingers indicam sexta 27/11), Apple TV; aí volta sozinha. O final da T1 é o 1x08 \"Inauguração\", em 18/12/2026."
+  },
+  {
+   "nome": "12 12 12",
+   "em_dia_ate": "1x03",
+   "em_dia_em": "2026-11-24",
+   "obs": "1x03 \"Einfach Obergeil\" (título oficial na Apple TV Brasil, sem tradução) visto em 24/11/2026 (Banco de Séries serieid 42505: nota 8, média 7,97, 43 votos; Bingers 4 estrelas, 8/2 exato, caught_up, furthest 1x03, all_aired_watched true; Bingebase nota 9, média do episódio 8,1, 3/8). Não é final de temporada nem de série. Banco 3/3 lançados (temporada tem 8). Semanal: o próximo é o 1x04 \"That's How You Make a Boy Baby\" (\"É Assim Que Se Faz um Menino\", título oficial na Apple TV Brasil), quarta-feira, 25 de novembro de 2026 (antecipado pelo feriado de Ação de Graças; Bingers/Bingebase indicam 27/11), Apple TV; aí volta sozinha. O final da T1 é o 1x08 \"The Banks Must Pay\", em 25/12/2026."
+  },
+  {
+   "nome": "Percy Jackson e os Olimpianos",
+   "em_dia_ate": "3x02",
+   "em_dia_em": "2026-11-26",
+   "obs": "3x02 \"Um Velho Amigo Morto Vem Visitar\" (título oficial TMDB pt-BR) visto em 26/11/2026; 18/18 lançados; 3x03 \"Eu Aprendo a Criar Zumbis\" e 3x04 saem sexta-feira, 27 de novembro de 2026, às 5h, no Disney+; final da T3 em 11/12"
+  }
+ ]
+}
